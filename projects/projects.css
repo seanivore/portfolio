@@ -1,0 +1,112 @@
+.project-detail {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.project-header {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.project-subtitle {
+    font-size: 1.2rem;
+    color: #666;
+    margin-top: 0.5rem;
+}
+
+.project-overview {
+    margin-bottom: 3rem;
+}
+
+.tech-stack ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+}
+
+.tech-stack li {
+    background: #f5f5f5;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}
+
+.timeline {
+    display: grid;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.timeline-item {
+    padding: 1rem;
+    border-left: 3px solid #333;
+    background: #f9f9f9;
+}
+
+.timeline-item h3 {
+    margin: 0;
+    color: #333;
+}
+
+.implementation-details ul {
+    list-style: none;
+    padding-left: 1rem;
+}
+
+.implementation-details ul ul {
+    padding-left: 2rem;
+    margin: 0.5rem 0;
+}
+
+.code-samples {
+    margin: 2rem 0;
+}
+
+.code-samples pre {
+    background: #f5f5f5;
+    padding: 1rem;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.metric {
+    text-align: center;
+    padding: 1.5rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+}
+
+.metric h3 {
+    margin: 0;
+    color: #333;
+}
+
+.metric p {
+    margin: 0.5rem 0 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.next-steps ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.next-steps li {
+    padding: 1rem;
+    background: #f5f5f5;
+    border-radius: 4px;
+    text-align: center;
+}
