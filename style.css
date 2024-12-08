@@ -1,10 +1,16 @@
 /* Classic, timeless styling */
 :root {
-    --primary-color: #1a1a1a;
-    --secondary-color: #404040;
-    --accent-color: #0066cc;
-    --background-color: #ffffff;
-    --text-color: #333333;
+    --primary-color: #242831;  /* Dark Navy */
+    --secondary-color: #1E2E46; /* Deep Blue */
+    --accent-color: #408A8F;   /* Teal */
+    --background-color: #EDEBDC; /* Cream */
+    --text-color: #242831;     /* Dark Navy */
+    
+    /* Tag Colors */
+    --tag-tech: #E85021;      /* Burnt Orange for tech/development */
+    --tag-strategy: #408A8F;  /* Teal for strategy/marketing */
+    --tag-ai: #1E2E46;       /* Deep Blue for AI/ML */
+    
     --spacing: 2rem;
 }
 
@@ -113,17 +119,45 @@ h2 {
 }
 
 .project-card {
+    position: relative;
     background: #ffffff;
     border: 1px solid #eee;
-    transition: transform 0.3s ease;
+    transition: all 0.3s ease;
+    cursor: pointer;
 }
 
-.project-card:hover {
-    transform: translateY(-5px);
+.project-card a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    height: 100%;
 }
 
 .project-content {
     padding: 1.5rem;
+}
+
+.project-card::after {
+    content: '';
+    background-image: url('update-assets/svg-design-assets/arrow-click-next-forward-back/circle-line-arrow-next-right.svg');
+    background-size: 24px;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.project-card:hover::after {
+    opacity: 1;
 }
 
 .project-content h3 {
@@ -133,19 +167,42 @@ h2 {
 }
 
 .tech-stack {
-    margin-top: 1rem;
+    margin-top: 2rem;
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
 }
 
 .tech-stack span {
-    border: 1px solid var(--accent-color);
-    color: var(--accent-color);
     padding: 0.25rem 0.75rem;
     border-radius: 2px;
     font-size: 0.875rem;
     font-family: -apple-system, system-ui, sans-serif;
+    color: #ffffff;
+    background-color: var(--tag-tech);
+}
+
+.tech-stack span[data-type="tech"] {
+    background-color: var(--tag-tech);
+}
+
+.tech-stack span[data-type="strategy"] {
+    background-color: var(--tag-strategy);
+}
+
+.tech-stack span[data-type="ai"] {
+    background-color: var(--tag-ai);
+}
+
+/* Touch device enhancements */
+@media (hover: none) {
+    .project-card::after {
+        opacity: 0.7;
+    }
+    
+    .project-card:active {
+        transform: translateY(-2px);
+    }
 }
 
 /* About section */
