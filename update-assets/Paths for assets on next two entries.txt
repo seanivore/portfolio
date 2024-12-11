@@ -1,0 +1,62 @@
+
+KITTEN SQUADE CASE STUDY
+Copy
+/Users/seanivore/Projects/portfolio/update-assets/Entries/3 - PETA Kitten Squad Game App/kitten-squad-case-study.md
+
+Chart
+/Users/seanivore/Projects/portfolio/update-assets/Entries/3 - PETA Kitten Squad Game App/kitten-squad-metrics.tsx
+
+Play-GIF
+/Users/seanivore/Projects/portfolio/update-assets/Entries/3 - PETA Kitten Squad Game App/05-screen-gif.webp 
+
+Gameplay Screenshot 01
+/Users/seanivore/Projects/portfolio/update-assets/Entries/3 - PETA Kitten Squad Game App/01-screen-shot.webp
+
+Gameplay Screenshot 02
+/Users/seanivore/Projects/portfolio/update-assets/Entries/3 - PETA Kitten Squad Game App/02-screen-shot.webp
+
+Gameplay Screenshot 03 
+/Users/seanivore/Projects/portfolio/update-assets/Entries/3 - PETA Kitten Squad Game App/03-screen-shot.webp
+
+App Store Front Placement 
+/Users/seanivore/Projects/portfolio/update-assets/Entries/3 - PETA Kitten Squad Game App/04-screen-shot.webp 
+
+
+If so, here is the main important file: 
+
+/Users/seanivore/Projects/portfolio/style.css
+
+
+
+---
+
+Three Apps — 
+PETA app and iOS Animal Activist Stickers App and Bunny Free Cruelty Free Database App
+
+All Three Apps Basic Milestone Copy 
+/Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/All Three App Milestone Basics.txt
+
+All Three Apps Messy Notes Copy 
+/Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/AR Sticker App and PETA Take Action App and Bunny Free Cruelty Free Database App Copy.txt
+
+All Three Apps Metric Milestone Dashboard 
+/Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/peta-apps-dashboard-no-kittensquad.tsx 
+
+PETA App Image Screenshots 
+01 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/01-peta-app.webp 
+02 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/02-peta-app.webp 
+03 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/03-peta-app.webp
+04 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/04-peta-app.webp
+
+Animal Rights iOS Messenger Sticker App Screenshots 
+01 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/05-peta-ios-sticker-app.webp
+02 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/06-peta-ios-sticker-app.webp
+
+Bunny Free Cruelty Free Product Lookup Database App Screenshots 
+01 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/07-peta-bunny-free-cruelty-free-database-app.webp
+02 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/08-peta-bunny-free-cruelty-free-database-app.webp
+03 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/09-peta-bunny-free-cruelty-free-database-app.webp
+04 -- /Users/seanivore/Projects/portfolio/update-assets/Entries/4 - PETA app and Stickers app and Bunny Free app/10-peta-bunny-free-cruelty-free-database-app.webp 
+
+
+

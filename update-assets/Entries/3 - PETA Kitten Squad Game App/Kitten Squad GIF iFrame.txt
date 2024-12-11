@@ -1,3 +1,0 @@
-<iframe src="https://giphy.com/embed/l1KdbUMYxkDH9eJIA" frameborder="0" class="embed-content"
-allowfullscreen style="margin:0px auto;display:block;width:480px;height:270px;" sandbox="allow-same-origin
-allow-scripts allow-pointer-lock allow-forms allow-popups"></iframe>
