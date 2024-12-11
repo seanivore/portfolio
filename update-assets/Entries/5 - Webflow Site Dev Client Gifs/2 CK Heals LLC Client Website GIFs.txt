@@ -2,3 +2,8 @@
 
 
 <img src=“https://github.com/seanivore/portfolio/blob/41caaefad58f54eaa3f627c8a9f8eec7d1746597/ckheals-client-webflow-site/webflow-client-website-dev-02.gif” alt=“Webflow Site Dev Client CK Heals LLC 01”> 
+
+
+This one was from before Webflow -- a design I created for the client via Kajabi. 
+
+/Users/seanivore/Projects/portfolio/ckheals-client-webflow-site/3-kajabi-earlier-web-dev-client-copywriting.webp
