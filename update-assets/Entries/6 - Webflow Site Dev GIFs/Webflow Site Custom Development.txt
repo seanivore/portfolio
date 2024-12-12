@@ -11,3 +11,11 @@
 <img src=“https://github.com/seanivore/portfolio/blob/8b452987035aa258efcb5a584b9679980f272fd2/webflow-site/webflow-06-nav-home.gif” alt=“Webflow Site Design Home Page”> 
 
 <img src=“https://github.com/seanivore/portfolio/blob/8b452987035aa258efcb5a584b9679980f272fd2/webflow-site/webflow-07-lookbook-index.gif” alt=“Webflow Site Design Nav Lookbook Index”>
+
+---
+
+
+I guess I don't have anything specific already written up for this. But it is highlighting the main parts of the site which are the Lookbook and the Print Store. Which we'll have entries on later (much later as we'll keep the focus on more tech related stuff after these first few before circling back to make it a comprehensive portfolio). 
+
+But as with all the Webflow designs, it is all custom, optimized for UX, carefully done UI -- the nav bar is a great example of this. And the home page in how interactive it is, encouraging the viewer to continue scrolling and giving them a full overview of the content on the site. 
+
