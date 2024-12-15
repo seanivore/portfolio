@@ -1,0 +1,377 @@
+/* Project nav styles */
+.project-nav {
+    background: #fff;
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.project-nav-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.back-link:hover {
+    color: var(--accent-color);
+}
+
+/* Project detail styles */
+.project-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.project-header {
+    margin-bottom: 4rem;
+}
+
+.project-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.project-subtitle {
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+.project-summary {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 2rem;
+}
+
+.tags-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag {
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: all 0.2s ease;
+}
+
+.category-tag {
+    background: #f0f0f0;
+    color: #333;
+}
+
+.category-tag:hover {
+    background: #e0e0e0;
+    color: #000;
+}
+
+.skill-tag {
+    background: #e6f3ff;
+    color: #0066cc;
+}
+
+.skill-tag:hover {
+    background: #d1e9ff;
+    color: #0052a3;
+}
+
+.platform-tag {
+    background: #f0f7f0;
+    color: #2f7c31;
+}
+
+.platform-tag:hover {
+    background: #e0f0e0;
+    color: #266428;
+}
+
+/* Featured artwork styles */
+.featured-artwork {
+    margin: 3rem 0;
+    text-align: center;
+    background: #000;
+    border-radius: 16px;
+    padding: 3rem;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.project-image.featured {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 0 auto;
+    display: block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Animation showcase styles */
+.animation-showcase {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin: 3rem auto;
+    padding: 1.5rem;
+    background: #f8f8f8;
+    border-radius: 12px;
+    max-width: 600px; /* Reduced from 700px */
+}
+
+.animation-showcase .project-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    max-width: 250px; /* Added max-width */
+    margin: 0 auto;
+}
+
+.animation-showcase .project-image:hover {
+    transform: scale(1.02) translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Metrics grid styles */
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.metric {
+    background: #f8f8f8;
+    padding: 2rem;
+    border-radius: 12px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 1px solid #eee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.metric:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    border-color: #ddd;
+}
+
+.metric h3 {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 0.75rem;
+    font-weight: 500;
+}
+
+.metric p {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #333;
+    margin: 0 0 0.5rem;
+    line-height: 1;
+}
+
+.metric-detail {
+    font-size: 0.875rem;
+    color: #666;
+    display: block;
+    margin-top: 0.5rem;
+}
+
+/* Section styles */
+.section-header {
+    font-size: 2rem;
+    margin: 4rem 0 2rem;
+    color: #333;
+    text-align: center;
+}
+
+/* Feature list styles */
+.feature-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 3rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feature-list li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    color: #444;
+}
+
+.feature-list li::before {
+    content: "»»";
+    position: absolute;
+    left: 0;
+    color: #ff6b6b;
+}
+
+/* Footer styles */
+.project-footer {
+    margin-top: 5rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+}
+
+.footer-nav {
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
+}
+
+.footer-nav h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.related-projects {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.related-project {
+    background: #f8f8f8;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.related-project:hover {
+    background: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+.related-project-link {
+    display: block;
+    padding: 2rem;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.related-project-link h4 {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.related-description {
+    display: block;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.5rem;
+    font-weight: normal;
+    line-height: 1.4;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #eee;
+}
+
+.back-to-portfolio {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer-contact {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.footer-contact a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-links a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links a:hover,
+.footer-contact a:hover,
+.back-to-portfolio:hover {
+    color: #000;
+}
+
+@media (max-width: 640px) {
+    .project-title {
+        font-size: 2rem;
+    }
+    
+    .animation-showcase {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding: 1rem;
+        max-width: 300px;
+    }
+    
+    .metrics-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .metric {
+        padding: 1.5rem;
+    }
+    
+    .metric p {
+        font-size: 2rem;
+    }
+    
+    .featured-artwork {
+        padding: 1.5rem;
+    }
+    
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .footer-contact {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}

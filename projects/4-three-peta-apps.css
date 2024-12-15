@@ -1,0 +1,387 @@
+/* Project nav styles */
+.project-nav {
+    background: #fff;
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.project-nav-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.back-link:hover {
+    color: var(--accent-color);
+}
+
+/* Project detail styles */
+.project-detail {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.project-header {
+    max-width: 800px;
+    margin: 0 auto 4rem;
+}
+
+.project-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.project-subtitle {
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+.project-summary {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 2rem;
+}
+
+.tags-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag {
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: all 0.2s ease;
+}
+
+.category-tag {
+    background: #f0f0f0;
+    color: #333;
+}
+
+.category-tag:hover {
+    background: #e0e0e0;
+    color: #000;
+}
+
+.skill-tag {
+    background: #e6f3ff;
+    color: #0066cc;
+}
+
+.skill-tag:hover {
+    background: #d1e9ff;
+    color: #0052a3;
+}
+
+.platform-tag {
+    background: #f0f7f0;
+    color: #2f7c31;
+}
+
+.platform-tag:hover {
+    background: #e0f0e0;
+    color: #266428;
+}
+
+/* Metrics section styles */
+.metrics-section {
+    margin: 4rem auto;
+    max-width: 900px;
+}
+
+.metrics-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #333;
+}
+
+.metrics-container {
+    padding: 2rem;
+    border-radius: 16px;
+}
+
+.chart-container {
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 12px;
+    height: 400px;
+    max-width: 800px;
+}
+
+/* App showcase styles */
+.app-showcase {
+    margin: 6rem auto;
+    max-width: 900px;
+}
+
+.app-showcase h2 {
+    font-size: 2rem;
+    color: #333;
+    margin: 4rem 0 2rem;
+    text-align: center;
+}
+
+.app-info {
+    margin-bottom: 6rem;
+}
+
+.app-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.stat {
+    text-align: center;
+    padding: 1rem 1.5rem;
+    background: #f8f8f8;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+    min-width: 120px;
+    max-width: fit-content;
+}
+
+.stat:hover {
+    transform: translateY(-4px);
+}
+
+.stat h3 {
+    font-size: 0.875rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+    white-space: nowrap;
+}
+
+.stat p {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    white-space: nowrap;
+}
+
+/* Screenshots grid styles */
+.screenshots-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    margin: 2rem auto;
+    max-width: 800px;
+}
+
+.screenshot {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+}
+
+.screenshot:hover {
+    transform: scale(1.02) translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Achievements styles */
+.achievements {
+    background: #f8f8f8;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+.achievements h3 {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+.achievements ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.achievements li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    color: #444;
+}
+
+.achievements li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #4CAF50;
+}
+
+/* Footer styles */
+.project-footer {
+    margin-top: 5rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+}
+
+.footer-nav {
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
+}
+
+.footer-nav h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.related-projects {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.related-project {
+    background: #f8f8f8;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.related-project:hover {
+    background: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+.related-project-link {
+    display: block;
+    padding: 2rem;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.related-project-link h4 {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.related-description {
+    display: block;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.5rem;
+    font-weight: normal;
+    line-height: 1.4;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #eee;
+}
+
+.back-to-portfolio {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer-contact {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.footer-contact a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-links a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links a:hover,
+.footer-contact a:hover,
+.back-to-portfolio:hover {
+    color: #000;
+}
+
+@media (max-width: 640px) {
+    .project-title {
+        font-size: 2rem;
+    }
+    
+    .screenshots-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    
+    .screenshot {
+        max-width: 200px;
+    }
+    
+    .app-stats {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+    
+    .stat {
+        width: 100%;
+        max-width: 200px;
+    }
+    
+    .chart-container {
+        height: 300px;
+    }
+    
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .footer-contact {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}

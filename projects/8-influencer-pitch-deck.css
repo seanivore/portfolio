@@ -1,0 +1,390 @@
+/* Project nav styles */
+.project-nav {
+    background: #fff;
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.project-nav-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.back-link:hover {
+    color: var(--accent-color);
+}
+
+/* Project detail styles */
+.project-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.project-header {
+    margin-bottom: 3rem;
+}
+
+.project-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.project-subtitle {
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+.project-summary {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 2rem;
+}
+
+.tags-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag {
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: all 0.2s ease;
+}
+
+.category-tag {
+    background: #f0f0f0;
+    color: #333;
+}
+
+.category-tag:hover {
+    background: #e0e0e0;
+    color: #000;
+}
+
+.skill-tag {
+    background: #e6f3ff;
+    color: #0066cc;
+}
+
+.skill-tag:hover {
+    background: #d1e9ff;
+    color: #0052a3;
+}
+
+.platform-tag {
+    background: #f0f7f0;
+    color: #2f7c31;
+}
+
+.platform-tag:hover {
+    background: #e0f0e0;
+    color: #266428;
+}
+
+/* Slide presentation styles */
+.slide-presentation {
+    margin: 2rem 0;
+    background: #f8f8f8;
+    border-radius: 12px;
+    padding: 2rem;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: pan-y pinch-zoom;
+}
+
+.slide-container {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    aspect-ratio: 16 / 9;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.slides {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    touch-action: none;
+}
+
+.slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    object-fit: contain;
+    display: none;
+    background: #fff;
+    pointer-events: none;
+}
+
+.slide.active {
+    opacity: 1;
+    display: block;
+}
+
+/* Navigation buttons */
+.slide-navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.nav-button {
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    outline: none;
+    pointer-events: auto;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+}
+
+.nav-button:hover {
+    background: rgba(0, 0, 0, 0.9);
+    transform: scale(1.1);
+}
+
+.nav-button:active {
+    transform: scale(0.95);
+}
+
+.nav-button.prev {
+    padding-right: 3px;
+}
+
+.nav-button.next {
+    padding-left: 3px;
+}
+
+.slide-counter {
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    pointer-events: none;
+}
+
+/* Section styles */
+.section-header {
+    font-size: 2rem;
+    margin: 3rem 0 1.5rem;
+    color: #333;
+}
+
+.feature-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 2rem;
+}
+
+.feature-list li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.5;
+    color: #444;
+}
+
+.feature-list li::before {
+    content: "»»";
+    position: absolute;
+    left: 0;
+    color: #ff6b6b;
+}
+
+/* Footer styles */
+.project-footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+}
+
+.footer-nav {
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
+}
+
+.footer-nav h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.related-projects {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.related-project {
+    background: #f8f8f8;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.related-project:hover {
+    background: #f0f0f0;
+}
+
+.related-project-link {
+    display: block;
+    padding: 1.5rem;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.related-project-link h4 {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.related-description {
+    display: block;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.25rem;
+    font-weight: normal;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #eee;
+}
+
+.back-to-portfolio {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer-contact {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.footer-contact a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-links a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links a:hover,
+.footer-contact a:hover,
+.back-to-portfolio:hover {
+    color: #000;
+}
+
+@media (max-width: 640px) {
+    .project-title {
+        font-size: 2rem;
+    }
+    
+    .slide-presentation {
+        padding: 1rem;
+    }
+    
+    .nav-button {
+        width: 40px;
+        height: 40px;
+        font-size: 1.25rem;
+    }
+    
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .footer-contact {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+/* Touch-specific styles */
+@media (hover: none) and (pointer: coarse) {
+    .nav-button {
+        width: 56px;
+        height: 56px;
+        font-size: 1.75rem;
+        background: rgba(0, 0, 0, 0.8);
+    }
+    
+    .slide-counter {
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+    }
+}
