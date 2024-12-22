@@ -1,0 +1,35 @@
+
+graph TD
+    Start[Portfolio Project Initiation] --> Planning
+    
+    subgraph Planning["Phase 1: Initial Setup"]
+        A[Create Master Templates] --> B[Setup Modular CSS Structure]
+        B --> C[Prepare Asset Management System]
+        C --> D[Create Documentation Standards]
+    end
+    
+    Planning --> E
+
+    subgraph Implementation["Phase 2: Entry Creation"]
+        E[Duplicate Master Files] --> F[Configure Entry-Specific CSS]
+        F --> G[Prepare Asset Paths]
+        G --> H[Move Files to Clean Repo]
+        H --> I[Add Content & Media]
+        I --> J[Design QA & Fixes]
+    end
+    
+    J --> K
+
+    subgraph Automation["Phase 3: Process Optimization"]
+        K[Document Requirements] --> L[Create Process Guidelines]
+        L --> M[Delegate to AI Assistant]
+        M --> N[Review & Refine]
+    end
+    
+    N --> O[Continuous Improvement]
+    
+    style Start fill:#f96,stroke:#333,stroke-width:2px
+    style Planning fill:#f9f,stroke:#333,stroke-width:2px
+    style Implementation fill:#bbf,stroke:#333,stroke-width:2px
+    style Automation fill:#bfb,stroke:#333,stroke-width:2px
+    style O fill:#f96,stroke:#333,stroke-width:2px
