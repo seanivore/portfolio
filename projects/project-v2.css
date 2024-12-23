@@ -1,0 +1,182 @@
+/* Root variables */
+:root {
+    --primary-color: #242831;
+    --secondary-color: #1E2E46;
+    --accent-color: #408A8F;
+    --background-color: #EDEBDC;
+    --text-color: #242831;
+    --tag-strategy: #7a8b89;
+    --tag-production: #54808f;
+    --tag-innovation: #408a8f;
+    --tag-secondary: #54565b;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+/* Simple sliding hero */
+.hero-container {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.hero-image {
+    position: absolute;
+    top: -75%; /* Start showing bottom 25% of image */
+    left: 0;
+    width: 100%;
+    height: 200%;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-title {
+    position: absolute;
+    bottom: 20%;
+    left: 0;
+    right: 0;
+    font-size: 3.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    color: #fff;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    z-index: 2;
+}
+
+.fish-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 200vh; /* Double the viewport height */
+    z-index: 1;
+}
+
+.fish-image {
+    width: 100%;
+    height: 100%;
+    background-image: url('/Users/seanivore/Projects/portfolio-draft/entries-drafting/Entries/_done/1 - PETA 2013-14 UGGs and Superbowl Virality/hero-content-strategy-framework-image.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Rest of styles same as before */
+.nav-bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 1rem 0;
+    z-index: 100;
+    backdrop-filter: blur(5px);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.nav-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.back-link {
+    color: var(--accent-color);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: color 0.2s ease;
+}
+
+.back-link:hover {
+    color: var(--primary-color);
+}
+
+.content-section {
+    position: relative;
+    z-index: 2;
+    background: var(--background-color);
+}
+
+.tags-container {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.tags-primary, .tags-secondary {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tag {
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    font-family: -apple-system, system-ui, sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+}
+
+.tag-strategy { background-color: var(--tag-strategy); }
+.tag-production { background-color: var(--tag-production); }
+.tag-innovation { background-color: var(--tag-innovation); }
+.tag-secondary { background-color: var(--tag-secondary); }
+
+.content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.footer {
+    background: #fff;
+    padding: 4rem 0;
+    margin-top: 4rem;
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.footer-links {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.footer-links a {
+    color: var(--accent-color);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+    color: var(--primary-color);
+}
+
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2.5rem;
+    }
+}
