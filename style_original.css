@@ -1,0 +1,226 @@
+/* Classic, timeless styling */
+:root {
+    --primary-color: #242831;  /* Dark Navy */
+    --secondary-color: #1E2E46; /* Deep Blue */
+    --accent-color: #408A8F;   /* Teal */
+    --background-color: #EDEBDC; /* Cream */
+    --text-color: #242831;     /* Dark Navy */
+    
+    /* Tag Colors */
+    --tag-tech: #E85021;      /* Burnt Orange for tech/development */
+    --tag-strategy: #408A8F;  /* Teal for strategy/marketing */
+    --tag-ai: #1E2E46;       /* Deep Blue for AI/ML */
+    
+    --spacing: 2rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+/* Project page styles */
+.project-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.project-header {
+    margin-bottom: 2rem;
+}
+
+.project-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.project-subtitle {
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 1rem;
+}
+
+.project-summary {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 1.5rem;
+}
+
+/* Clean up section spacing */
+.project-detail section {
+    margin: 1.5rem 0;
+    padding: 0;
+}
+
+.section-header {
+    margin: 2rem 0 1rem;
+    padding: 0;
+    font-size: 2rem;
+    color: var(--primary-color);
+}
+
+.subsection-header {
+    margin: 1.5rem 0 0.75rem;
+    padding: 0;
+    font-size: 1.5rem;
+    color: #444;
+}
+
+/* Image handling */
+.project-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+.project-image.full-width {
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.image-caption {
+    font-size: 0.9rem;
+    color: #666;
+    text-align: center;
+    margin: 0.5rem 0 1.5rem;
+    font-style: italic;
+}
+
+/* Feature lists */
+.feature-list {
+    list-style: none;
+    margin: 1rem 0;
+    padding: 0;
+}
+
+.feature-list li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.feature-list li::before {
+    content: '»';
+    position: absolute;
+    left: 0;
+    color: var(--tag-tech);
+}
+
+/* Tags */
+.tags-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag {
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    color: white;
+    font-family: -apple-system, system-ui, sans-serif;
+}
+
+/* Navigation */
+.project-nav {
+    background: #fff;
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.project-nav-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* Footer */
+.project-footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+}
+
+.footer-nav {
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
+}
+
+.footer-nav h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.related-projects {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.related-project {
+    background: #f8f8f8;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.related-project:hover {
+    background: #f0f0f0;
+}
+
+.related-project-link {
+    display: block;
+    padding: 1.5rem;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #eee;
+}
+
+/* Keep homepage styles */
+.hero + main section {
+    margin: 4rem 0;
+    padding: 2rem 0;
+}

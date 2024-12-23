@@ -1,0 +1,306 @@
+/* Common styles for the first two project pages */
+
+/* Project nav styles */
+.project-nav {
+    background: #fff;
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.project-nav-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.back-link:hover {
+    color: var(--accent-color);
+}
+
+/* Project detail styles */
+.project-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.project-header {
+    margin-bottom: 2rem;
+}
+
+.header-image {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
+
+.project-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.project-subtitle {
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 1rem;
+}
+
+.project-summary {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 1.5rem;
+}
+
+/* Tag styles */
+.tags-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag {
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.tag:hover {
+    opacity: 0.9;
+}
+
+.tag.blue {
+    background: #e6f3ff;
+    color: #0066cc;
+}
+
+.tag.red {
+    background: #ffe6e6;
+    color: #cc0000;
+}
+
+.tag.orange {
+    background: #fff3e6;
+    color: #cc6600;
+}
+
+.tag.purple {
+    background: #f3e6ff;
+    color: #6600cc;
+}
+
+.tag.green {
+    background: #e6ffe6;
+    color: #006600;
+}
+
+.tag.teal {
+    background: #e6ffff;
+    color: #006666;
+}
+
+/* Section styles */
+.section-header {
+    font-size: 2rem;
+    margin: 2rem 0 1rem;
+    color: #333;
+}
+
+.subsection-header {
+    font-size: 1.5rem;
+    margin: 1.5rem 0 0.75rem;
+    color: #444;
+}
+
+/* Image styles */
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.project-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    max-width: 100%;
+    margin: 0; /* Reset margin for grid images */
+}
+
+/* Single images (not in grid) */
+.project-image:not(.image-grid *) {
+    margin: 1rem 0;
+}
+
+.project-image.full-width {
+    width: 100%;
+    max-width: 800px;
+    margin: 1rem auto;
+    display: block;
+}
+
+.image-caption {
+    font-size: 0.9rem;
+    color: #666;
+    text-align: center;
+    margin: 0.5rem 0 1.5rem;
+    font-style: italic;
+}
+
+/* Detail tags section */
+.detail-tags {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #eee;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.detail-tags .tag {
+    background: #f0f0f0;
+    color: #333;
+}
+
+.detail-tags .tag:hover {
+    background: #e0e0e0;
+}
+
+/* Footer styles */
+.project-footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+}
+
+.footer-nav {
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
+}
+
+.footer-nav h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.related-projects {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.related-project {
+    background: #f8f8f8;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.related-project:hover {
+    background: #f0f0f0;
+}
+
+.related-project-link {
+    display: block;
+    padding: 1.5rem;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.related-project-link h4 {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.related-description {
+    display: block;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.25rem;
+    font-weight: normal;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #eee;
+}
+
+.back-to-portfolio {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer-contact {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.footer-contact a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-links a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links a:hover,
+.footer-contact a:hover,
+.back-to-portfolio:hover {
+    color: #000;
+}
+
+/* Responsive styles */
+@media (max-width: 640px) {
+    .project-title {
+        font-size: 2rem;
+    }
+    
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .footer-contact {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
