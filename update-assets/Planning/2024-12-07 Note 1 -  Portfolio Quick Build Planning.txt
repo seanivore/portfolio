@@ -1,0 +1,109 @@
+
+Primary Focus: 
+
+1. Portfolio. 
+ - Need to clean up and have a portfolio running by like now, next focus, one-sitting long hours project.
+ -  
+
+2. MVP building. 
+ - NO scaffolding, only more data and compute. "Don't input your human knowledge" bit by bit. Noam Brown advice on how to avoid frontier models passing you in 4 months. 
+
+
+PORTFOLIO 
+I'm not progressing through Framer as quickly as I need. I'm glad to have learned it and will still want to make sure there is something presentable on it, as my Webflow site is expired in a month, but in thinking this through I have a couple thoughts and questions. 
+
+Option — Adobe Behance > Portfolios
+I went to cancel Adobe the other day and they offered 50% for the year. Fine with me — gives me more time to not rush into the replacement apps I researched. But it also means I can push my Behance portfolio to their included portfolio sites. However, they're obviously not very customizable. This has been fine for throwing art on there every now and then, but it doesn't quite feel right for a full portfolio unless it is my only ASAP type option. My other thought is that it would be nice to have something that we coded be functional on the site, which is completely impossible with those sites. This is a fast option though, as it would mostly just require adding a few new things to Behance — I could even just share Behance as the portfolio for the time being. 
+
+Option — 'Free Web Hosting' Search Results 
+After realizing the above, I decided to see if there are options these days and there are quite a few that honestly seemed to have even less restrictions than Framer/Webflow in terms of page views and bandwidth — some even had website builders. However I'm thinking if we're to go this route, it would make more sense to code the whole site. Presumably this would be even cheaper, have less restrictions, be a more advantageous learning curve, more impressive portfolio claim, and still leave open the possibility of having some kind of functional and interactive coded aspect or mini-app or MVPs even — or better yet, something that has crossed my mind a few times recently is thinking about what kind of tool we could build that I could also sell either whatever it produces, access to it, or copies of the product as digital products. (I have so much art in the current portfolio, and web design with tools, sadly didn't save much of the early days of production of massive amounts of content using automation and AI with Make, but still want to beef up the code side of using AI to truly highlight my ability to work with today's AI tools. This raised a few other thoughts and questions. Oh! And I was surprised that these free options often gave ability to use custom domain for free. Since this would be a portfolio first, not a business website, I'm way more open to using things I've never heard of. 
+
+Option — Finishing Up Framer with More Coding Instead of Me Building Manually 
+The only caveat here is that I'd likely stick with the non-custom domain, which isn't a big deal. I think my next thoughts and questions will determine if this or the above other web hosting sites will be better an option. Only other advantage (beyond my being able to add business stuff to it as well) is that it would be cool to also show that I can build using framer using code — however, while I'd be down to take web design jobs, I'm not like dying to do that kind of work (mostly from an ASD can't-always-choose-what-type-of-task to work on stance, as that is much more prevalent a difficulty when working on web design -- I've literally had days where I, sadly start crying, but because I literally will not know how to do a task that I've done for over a year; that extreme isn't frequent but it is more frequent than other more autonomous by nature jobs). 
+
+Considerations — 
+1. So we hadn't gotten to a point where we made any code project we built live on an actual domain. It seems advantageous to make sure this decision also solves this. It will open more doors for the portfolio being more impressive and possibly even potential quick revenue. 
+
+2. This all made me think that it would probably be helpful to actually build a web app first before really digging into the current Activity-Tracking-Checkin-App that would be iOS first. My questions that arose from this is mainly regarding databases and whatever else we'll need for both projects. Again, advantageous to make this portfolio decision a choice that solves acquiring these items as well. Let's fully clear the runway of these needs now. 
+
+ - I have a few ideas for web app, for one I would really like to recreate the chat app that I lost from having to wipe my computer. I'm incredibly jealous right now that, though it is $200/mo, the OpenAI Pro subscription for o1 primarily, also comes with unlimited use of the other models and voice. Funny and interestingly though I have come across a lot of people developers testing o1 against Claude 3.5 on reddit and, 
+  -- A. Every question type, outside of coding like math and logic, Sonnet still did 95% when considering o1 as 100% — 
+  -- B. The one thing they all have said that o1 is not great for is coding! Well, they didn't say "not great" but they said that Sonnet still makes cleaner code and that o1 Pro super overcomplicates things. They did note that there are sometimes mistakes, but my first thought was — well in VSC I almost always just ask the Coder AI to review large code or replacements of code before I place it because it almost always finds usually a way to improve something or occasionally something it missed. (These days I find it pretty easy to tell when Claude is rushing so, unsurprisingly, that's when it is usually things it missed). 
+  -- C. This is sort of a tangent but, because Anthropic didn't create unnecessary excess hype online (respect them for that and think it speaks loud) most people have no idea that OpenAI only coined "Time Test Compute" (which I've yet to understand at all wtf the choice of those words was for) is the same as Thought Chaining, which even that they don't realize that Sonnet has had it for a while. The worst of them have no idea that Perplexity Pro has literally always had this feature, which I hate to say it but god damn good job at OpenAI for making something around for a year in the public, on a frontier model build and favorite tool that arguably killed Googling before anything else, seem like it was their idea. Though now that I write that I'm sort of thinking that might be because there is one of those super gray area clauses in OpenAI terms that says you can't become a competitor via using their product as a tool (which, to wrap up this super tangent, is sort of ridiculous that people freak out about because 100% I could rather go to court for something vague as that - it hardly works when you learn a skill and then later start a company — something we literally used to simply call "AN APPRENTICE" — but like sorry I can' think of a hundred potential law arguments to take that clause down, and in the end if it didn't work out, you'd either end up giving them some revenue, settling only for them to buy you out, or just getting bought out by them period -- all of which sound like a win-win-win??). Anyway. OH actually, beyond the "thinking" you do at the start of most convos, there was a MCP for more "thinking" which I'm pretty sure I gave you! We'll have to try it later maybe with code. Anyway! What was my point? OH yeah that Claude is still better at coding than the LLM the programmed to be able to think as long as it want LOLOL, k. 
+
+3. This is probably more for the Activity-Tracking-Checkin-App MVP but I keep coming across an ad for Google's Start-up Application. The stipulation is that you use their Cloud and suite of tools for development but A. I'm assuming this would solve all needs for scaling an MVP. B. The normal start-up is 200,000 in credits for using their tools. C. The AI one is 325,000 I think. Presumably this is a HUGE way that Google makes bank, as well as a sort of I'm-surprised-the-FTC-isn't-shutting-this-down shady program because I'm willing to bet that they both buy out any competition and also buy out any other business of interest they let in the program. Half wondering if there is a clause on that. Anyway, I'm thinking you should check it out and see if/when we want to apply. I did apply last year but they were calling my content site a blog and I just didn't care to argue over something I didn't see getting traction on social media anyway (this was all the Astrology stuff). https://cloud.google.com/startup — I guess I'm wondering like, well first what we'd need and then how this would compare to other all-in-one things like AWS etc. OH OH OH also lol I'm totally sort of loving the idea that Google *would* see our project way ahead of time. Like almost hesitant to even want to share it with them and risk someone talking to other's in the Valley and someone else finally realizing that we've yet to see an AI version of FourSquare. 
+
+—
+
+
+Hello! I have been very out of it from messing with my Wellbutrin only to end up getting it back to normal dose -- and today finally have an almost normal amount of motivation back! Meanwhile, tis the holidays, so my mom has been on me about jobs (🙄) so I need to focus on getting a portfolio I can share by like tomorrow.   
+So I've been thinking, considering different options and what roadblocks I have now. I added those to the attacked .txt file. 
+Also at the path in the Project System Message, you can find our entire previous brainstorming conversation about the MVP at the file and rest of path here below. You probably don't need it yet but in case you want to know where we left off. 
+So I have some options laid out to expedite things. Apply to jobs is easy so as soon as Portfolio is done I'll be able to get back to MVP, but for now I can only focus on Portfolio. Beyond the need to move fast for my mom, I also am trying to be thinking about how difficult it is for me to do one project at a time. So multi-day is just not the best option. I need long-one-sitting marathon towards something presentable that can be used until I am in a state where I can add more to it again later. 
+Prior MVP chat I mentioned is in this file ... adding the rest of the path to the system message path. 
+check-in-budget-activity-mvp/Planning/20214 12 02 Full Conversation - Activity Tracking MVP Touch-points and Corse Requirements.txt
+
+—
+
+
+
+I understand - you need a quick but effective portfolio solution, and you're also thinking ahead about infrastructure needs for future projects. Let's break this down and focus on the immediate portfolio need first, while keeping in mind the longer-term considerations.
+
+From your notes, here are the key points I see:
+
+1. Immediate Need: Portfolio that can be completed in one sitting/marathon session
+2. Future Considerations: Need hosting that can support functional/interactive code projects
+3. Bonus: If the solution can also support future MVP hosting/development needs
+
+Looking at your options:
+
+1. **Behance/Adobe Portfolio**
+Pros:
+- Fastest solution
+- Already have access (50% off deal)
+- Content ready to go
+Cons:
+- Limited customization
+- Can't showcase functional code
+- Less impressive technically
+
+2. **Free Web Hosting + Custom Code**
+Pros:
+- Full control
+- Can host functional projects
+- Shows coding skills
+- Custom domain options
+- More impressive technically
+Cons:
+- Might take longer than one sitting
+- Need to evaluate hosting reliability
+
+3. **Framer (Code-Enhanced)**
+Pros:
+- Already started
+- Balance of speed and customization
+Cons:
+- Domain limitations
+- Still somewhat restricted platform
+
+Given your constraints (one-sitting build, need to show technical skills), here's my recommendation:
+
+**Short-term Solution (Today/Tomorrow):**
+Start with Behance as your immediate portfolio while simultaneously building a simple but impressive GitHub Pages site. GitHub Pages would give you:
+- Free hosting
+- Ability to show live code projects
+- Direct connection to your code
+- Professional developer-friendly platform
+- Can be built quickly with a template
+- Easy to add projects incrementally
+
+Then you can:
+1. Share Behance immediately for your mom/initial applications
+2. Have the GitHub Pages site ready shortly after as your main technical portfolio
+3. Keep the option open to migrate to more robust hosting when needed for MVPs
+
+Would you like me to help you set up this two-pronged approach? We could:
+1. Organize your Behance for immediate use
+2. Create a clean GitHub Pages portfolio that can showcase both your design work and code projects
+
+This way you'll have something to share immediately while building something more technically impressive that can grow with your needs.

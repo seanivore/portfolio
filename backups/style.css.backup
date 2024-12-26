@@ -1,0 +1,17 @@
+/* Classic, timeless styling */
+:root {
+    --primary-color: #242831;  /* Dark Navy */
+    --secondary-color: #1E2E46; /* Deep Blue */
+    --accent-color: #408A8F;   /* Teal */
+    --background-color: #EDEBDC; /* Cream */
+    --text-color: #242831;     /* Dark Navy */
+    
+    /* Tag Colors */
+    --tag-tech: #E85021;      /* Burnt Orange for tech/development */
+    --tag-strategy: #408A8F;  /* Teal for strategy/marketing */
+    --tag-ai: #1E2E46;       /* Deep Blue for AI/ML */
+    
+    --spacing: 2rem;
+}
+
+/* Rest of original CSS content */
