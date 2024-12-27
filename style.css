@@ -3,16 +3,14 @@
     --primary-color: #1E2E46;  /* Deep Blue */
     --secondary-color: #54b0af; /* Cyan, Medium turquoise */
     --accent-color: #f83821;   /* Strawberry Spinach Red */ 
-    --accent-color: #db7823;   /* Ochre, a muted dark orange */ 
-    --accent-color: #f1ca00;   /* Golden Yellow, very bright */ 
     --background-color: #EDEBDC; /* Cream */
     --text-color: #242831;     /* Dark Navy */
     
     /* Tag Colors */
-    --tag-tech: #E85021;      /* Burnt Orange for tech/development */
+    --tag-tech: #db7823;   /* Ochre, a muted dark orange for tech development */ 
     --tag-strategy: #408A8F;  /* Teal for strategy/marketing */
     --tag-ai: #7a8b69;       /* Muted green for AI/ML */
-    --tag-secondary: #f83821;   /* Gamboge, a muted, dark yellow */ 
+    --tag-secondary: #f1ca00;   /* Golden Yellow, very bright */ 
     
     --spacing: 2rem;
 }
