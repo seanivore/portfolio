@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web3 Privacy Protocol DAO - Sean Horvath</title>
+    <meta name="description" content="Case study of creative direction and brand art for a Web3 privacy protocol DAO">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="11-web3-privacy-dao.css">
+</head>
+<body>
+    <nav class="project-nav">
+        <div class="project-nav-content">
+            <a href="../index.html" class="back-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <article class="project-detail">
+        <header class="project-header">
+            <h1 class="project-title">Web3 Privacy Protocol DAO</h1>
+            <p class="project-subtitle">Creative Direction & Brand Art Development</p>
+            
+            <p class="project-summary">
+                Led creative direction for a pioneering Web3 privacy protocol DAO, developing comprehensive brand identity through innovative art direction, including anime-style team visualizations and educational comic books that simplified complex technological concepts.
+            </p>
+
+            <div class="tags-section">
+                <span class="tag category-tag">Creative Direction</span>
+                <span class="tag skill-tag">Brand Art</span>
+                <span class="tag skill-tag">Web3</span>
+                <span class="tag platform-tag">DeFi</span>
+            </div>
+        </header>
+
+        <div class="featured-artwork">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-product-marketing-comic-book/branding-comic-book-anime-team-gif.gif?raw=true" alt="Vector Hand Drawn Anime Comic Book" class="project-image featured">
+        </div>
+
+        <h2 class="section-header">Project Impact</h2>
+        <div class="metrics-grid">
+            <div class="metric">
+                <h3>Comic Books</h3>
+                <p>3,000+</p>
+                <span class="metric-detail">Printed & Distributed</span>
+            </div>
+            <div class="metric">
+                <h3>Brand Art</h3>
+                <p>1,000s</p>
+                <span class="metric-detail">Unique Pieces</span>
+            </div>
+            <div class="metric">
+                <h3>Pepe Variations</h3>
+                <p>200+</p>
+                <span class="metric-detail">Custom Designs</span>
+            </div>
+        </div>
+
+        <div class="animation-showcase">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-product-marketing-comic-book/comic-book-meme-product-marketing.gif?raw=true" alt="Vector Hand Drawn Pepe Frog Memes" class="project-image">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-product-marketing-comic-book/pepe-obsession-gif.gif?raw=true" alt="Vector Hand Drawn Pepe Frog Memes Obsession" class="project-image">
+        </div>
+
+        <h2 class="section-header">Creative Direction</h2>
+        <ul class="feature-list">
+            <li>Developed comprehensive brand identity for Web3 privacy startup</li>
+            <li>Created anime-style visualizations of remote team members</li>
+            <li>Produced educational comic books explaining complex protocols</li>
+            <li>Managed digital UX/UI web consulting</li>
+            <li>Led autonomous creative operations from ideation to execution</li>
+            <li>Translated technical concepts into shareable content</li>
+        </ul>
+
+        <div class="animation-showcase">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-product-marketing-comic-book/xdao-product-marketing-comic-book-artist-10.GIF?raw=true" alt="Vector Hand Drawn Pepe Frog" class="project-image">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-product-marketing-comic-book/xeverything-fine-dog.GIF?raw=true" alt="Vector Drawn Meme GIF Face Lift Everything Fine Fire House Dog Meme" class="project-image">
+        </div>
+
+        <h2 class="section-header">Project Highlights</h2>
+        <ul class="feature-list">
+            <li>Successfully visualized complex privacy protocols through creative storytelling</li>
+            <li>Bridged communication gap between technical team and general audience</li>
+            <li>Created memorable brand identity through custom character designs</li>
+            <li>Produced high-impact educational materials for product launch</li>
+            <li>Maintained brand consistency across diverse content formats</li>
+        </ul>
+    </article>
+
+    <footer class="project-footer">
+        <div class="footer-nav">
+            <h3>Related Case Studies</h3>
+            <div class="related-projects">
+                <div class="related-project">
+                    <a href="12-0defi-designs.html" class="related-project-link">
+                        <h4>Next in Series:</h4>
+                        0DeFi Design Collection
+                        <span class="related-description">T-shirt designs and promotional videos</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-content">
+            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
+            <div class="footer-contact">
+                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
