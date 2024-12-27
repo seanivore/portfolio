@@ -5,11 +5,15 @@ Agentic Template Components Development Strategy
 
 Summary for tile: 
 Take on complex web development projects full of diverse content using our versatile modular master template components so you can focus on unique UI details. 
+PAGE CONTENT
+
+
+
 
 Front Page Tags (3):
 UI Technical Writing (Teal #408A8F)
 Web Development (Burnt Orange #E85021)
-Agentic Process (Deep Blue #1E2E46)
+Agentic Process (Muted Green #7a8b69)
 
 Title: Complete Web Redesign with Automated Build
 
@@ -18,7 +22,7 @@ Meta Title: UX Writing & Agentic Development | Pragmatic Site Design
 Meta Summary: 
 Adding new UI navigation, algorithmic content presentation, and perspective motion to a new, emotionally intelligent website redesign, with a process strategically crafted to offload the bulk of the work to a fully Agentic version of Cline. 
 
-Inner Page Tags (6):
+Inner Page Tags (6) all muted dark orange #f83821: 
 MCP Servers
 AI Coding Automation
 UI Writing 
@@ -40,7 +44,7 @@ Led the comprehensive redesign of a professional portfolio website, focusing on 
 - Established consistent cross-platform user experience
 - Integrated agentic development practices for content generation
 
-[GIF: Template component animation showcase]
+[Bauhaus image of urban buildings done in a more contemporary way than traditional bright bauhaus work. — 1200px x 960px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-1-master-template.webp]
 
 ## Template Development Strategy
 
@@ -58,7 +62,7 @@ Led the comprehensive redesign of a professional portfolio website, focusing on 
 - Maintained technical specifications
 - Coordinated template versioning
 
-[Screenshot 1: Component structure diagram]
+[Bar graph showing how long it takes to Develop, Coordinate Content, Write UI, and Plan a Strategy Process comparing traditional website development methods versus using these methods and templates. — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-chart-1-master-template.tsx]
 
 ### Design System Implementation
 
@@ -76,7 +80,7 @@ Led the comprehensive redesign of a professional portfolio website, focusing on 
 - Gallery presentations
 - Process documentation
 
-[Screenshot 2: Template variation examples]
+[A sort of regal, almost acoustic feeling abstract Glitch Art image of lines and very light, almost transparent peach, blue, and gray gradients. — 1200 px square https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-4-master-template.webp]
 
 ### Agentic Development Integration
 
@@ -94,7 +98,7 @@ Led the comprehensive redesign of a professional portfolio website, focusing on 
 - Related content algorithms
 - Format optimization
 
-[Screenshot 3: Automation workflow diagram]
+[Contemporary, abstract view of pleated hills colored in a pale rainbow gradient. A constructivist piece — 1200px x 675px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-5-master-template.webp]
 
 ## Technical Implementation
 
@@ -112,7 +116,7 @@ Led the comprehensive redesign of a professional portfolio website, focusing on 
 - Version control integration
 - Deployment automation
 
-[Icon: Template system diagram]
+[This piece of art is far more whimsical and fluid, like the earth's mountains are leaking liquid gold into a rainbow and midnight indigo swirling galaxy above. An abstract Baroque work of art. — 1200px x 960px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-3-master-template.webp]
 
 ## Results & Future Development
 
@@ -123,11 +127,6 @@ Led the comprehensive redesign of a professional portfolio website, focusing on 
 - Scalable template system
 - Automated quality control
 
-[Chart: Template efficiency metrics]
+[A vibrant geometric abstraction that feels like shops lining your favorite beach town. A much more traditional Bauhaus work of art. — 1200px x 960px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-2-master-template.webp]
 
-This case study demonstrates the successful implementation of a modular template system with agentic development integration, highlighting:
-- Strategic component architecture
-- Automated build processes
-- Intelligent content management
-- Cross-platform compatibility
-- Future-proof design system
+This case study showcases the successful implementation of a modular template system that integrates agentic development. It emphasizes the strategic component architecture, which ensures a well-organized and efficient system. The automated build processes streamline the development workflow, reducing manual effort and time. Intelligent content management allows for easy and effective handling of content, enhancing user experience. Additionally, the system’s cross-platform compatibility ensures it can be used on various devices without compromising functionality. Lastly, the future-proof design system guarantees that the system will remain relevant and adaptable to future technological advancements.
