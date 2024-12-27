@@ -133,13 +133,14 @@ h2 {
     color: var(--primary-color);
 }
 
+/* Conclusion callout */
 .conclusion {
     font-size: 1.2rem;
     line-height: 1.8;
     color: var(--text-color);
     margin: 2rem auto;
     padding: 1.5rem 2rem;
-    background: var(--background-color);
+    background: #f8f8f8;
     border-left: 6px solid var(--accent-color); /* Left accent line */
     border-radius: 10px; /* Slightly rounded corners */
     max-width: 800px; /* Consistent width */
