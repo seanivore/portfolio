@@ -5,10 +5,8 @@ Agentic Template Components Development Strategy
 
 Summary for tile: 
 Take on complex web development projects full of diverse content using our versatile modular master template components so you can focus on unique UI details. 
+
 PAGE CONTENT
-
-
-
 
 Front Page Tags (3):
 UI Technical Writing (Teal #408A8F)
