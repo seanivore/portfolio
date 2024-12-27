@@ -1,0 +1,112 @@
+PAGE DESIGN 
+
+File — master-template.html
+Path — /Users/seanivore/Dropbox/Development/portfolio-2025/pages
+
+CSS — master-template.css — holding together current design on the master-template.html was left so that you can have a starting point. Some items might need to be removed but most layout items will remain. The full details are below. Obviously you want to try to remove the need of a page specific CSS file. It is located at the same path as the .html file. 
+
+File — index.html — the Front Page design, occasionally some Product Entry page elements might currently pull from here as well, I am not completely sure. 
+
+File — style.css — the to-be master CSS file currently is primarily just the Front page and maybe some shared page elements, I am not completely sure. 
+
+Both of these files are at the project root and I *think* I recall that they must stay there. Here is the structure. Or that might have been the favicon because I feel like I would have moved that into assets by now.  
+
+
+~Dev/portfolio-2025/assets/entries/master-template 	<--TXT guides,img assets
+		   /assets/js				<--parallax javascript 
+		   /assets/svg arrows			<--nav back, tile next 
+		   /favicon				<--needs apple touch updated
+		   /pages/master-template.html
+		   /pages/master-template.css
+		   -index.html 
+		   -style.css 
+		   -README.md 
+
+
+
+
+----HEADER-GROUP-TEMPLATE-----
+Top nav / Hero / Title / Tags = goal is to make one single template group
+
+----
+Project Page Header Nav
+This is very simple and should already be accurate, though perhaps we make it max 900px wide instead. 
+
+----
+Hero with Perspective Motion aka pseudo-parallax 
+
+We have a .js file for the pseudo-parallax effect (but no page with it implemented anymore) 
+Dev/portfolio-2025/assets/js
+
+I’ll be collecting and including a 1,200px square image for the Hero. We want to only show about half of it to create a pseudo-parallax effect that works like this:
+
+There are only two moving elements that are layered absolute. The top layer being the page has a 400px to 600px tall div box at the top of the page that is full VW just like the Nav bar. It has no background so you can see the image we’ll be placing behind it. The title of the page should be moved up into this div, but can be aligned to the bottom of it and left of the page – essentially placed like it is in the image above only there would be more space above it and before the nav that is empty. Because the title is part of a div that is an element of the top layer page, it scrolls up and down naturally with the page just like it would in the image above.
+
+The image is placed on the back layer which is set to full VW as well. It is positioned so that the middle bottom — around the middle of the bottom 1/3rd of the image — should be exposed through the transparent div on page load when the page is scrolled up to the top. Then, at approximately the same speed as the page scrolls down (thus pushing the window of the transparent div up), the image should slide its position down so that right before the bottom of the frame that is the transparent background div is about to reach the top of the page and then off, the image should be showing the middle of the top 1/3rd of the image.
+
+### Don’t over think the element movement; instead think about the perspective of what is seen moving.
+
+The effect that this creates should have the similar effect as someone looking out the window and moving up and down — when they move down they can see the sky — when they move up to their tiptoes they can see the grass. Don’t overthink which element is which and thus which moves up versus down — the important part is to recreate that perspective (but, I mean, the frame that is the transparent div moving up when the user scrolls down is the equivalent of a person kneeling down, thus making the window move up, allowing them to see the top of what is outside the window).
+
+----
+Primary Tags and Secondary Tags**
+
+Should go below the title and subtitle. Centered, put the primary-tags on one line. On the next line put the secondary-tags. Color should be indicated but most up to date color coding is in the style.css file for reference. We've yet to place these or make this mini section. My vibe is classic, clean. If any separate below them, it would probably be almost transparent. But I'm open to your best judgement, as long as it vibes with the design of the site. 
+
+
+----BODY-COMMON-ELEMENTS-----
+We will build more of these over time. Below is technically just one but I have some questions about using it in a more modular way. 
+
+
+In this section I discuss the potential of the cards used on this page and am curious about a modular and flexible approach that would narrow down the number of overall components we'd need for the entire project, keeping things consistent looking, but still offering a lot of versatile flexibility. If you want to jump down to the bottom first — the footer for Project Pages will all be the same much like the header. It would also involve designing a new element that would use tags to display two related entries. However, it might be worth reading this bit on modular card grids because if I'm not crazy and it is a viable approach, then the actual "related content" blocks would likely also be the same kind of cards described in this next section. 
+----
+
+
+In the class project-details there's a detail-grid and detail-card. 
+I really like the "detail card" style — it has this hover effect and the flex is really versatile like it looks great with just two, or three in a row. When it gets down to @media size it would make more sense I think for them to get wider and make a stack of 3 rather than a row of 2 and then a row of 1. 
+
+In fact, it is only in the awkward row of 2 and then row of 2 below when the width of the viewport is between 769px to 995px — this seems like we could wipe it out just by maintaining the stack it has below 769px and, for that @media view, just make a max width that is a bit wider. Then as the viewport continues to widen, I'm imagining the margins on the right and left would just get larger until it hits 995px and become 3 in a single row. In fact it could probably manage switching to 3 in one row even sooner. 
+
+Okay so the reason I'm really curious in perhaps perfecting these classes is because look above at the metrics-section. They use different classes, but I'm curious if there's a more modular approach to take here. Like, why are those not just still the same detail-cards. And even the detail grid -- is it possible to craft the styles so that, the AI might be able to just put in the HTML that it needs 1 cell at the top and 2 or 3 at the bottom. 
+
+If so, then seems like there is no need to even make this chart specific. 
+
+I think the only main shift would be a secondary class added to the overall grid (idk if the class name "project-grid" necessarily makes sense like it could be broader and more aligned with identifying how versatile these grids and cards are), whatever the class maybe, that would add that backdrop to make certain sections stand out or be differentiated the way it is on this page. When that secondary class is added, then the cards themself could just shift their color slightly as well. 
+
+--
+
+Okay if that is all possible and as clean and efficient an approach as it feels like it might be (ideally really minimizing the number of different types of other component layouts needed). 
+
+Am I venturing too far to say that even the class currently called 'screenshot grid' might be accomplished with these modular all purpose cards and their grids. 
+
+It seems like here, maybe the secondary class that is added (which could honestly even make the background perhaps a darker warm gray or something instead) then the cards would change from being flex to being more rigid so that it stacks the way this section currently does -- where it maintains the aspect ratio of the images and just stacks them when it this the @media size with is 768px. 
+
+--
+
+Just FYI the max width for everything is 1200 px and the @media size hits at 768 px. 
+
+--
+
+If all that might really be possible, then I would think it made sense to keep pushing to do the same to "gameplay-showcase" — we have most all of our images either square or 16:9 with a 1000 px width. (Maybe I should make that 1200?). 
+
+But there's also a slide show that would fit nicely on a card like that. 
+
+And here adding a secondary class would just put it on a black background area, and since it would always be imagery in there, it would shift to maintain the aspect ratio instead of being so flexible like the original cards. 
+
+
+
+----FOOTER-GROUP-TEMPLATE-----
+Text Link Nav / Related Pages Tiles = another batched template group 
+---
+
+The footer itself is simple and will remain that way but the template for Project Page's should read a bit differently. With the max width of 900px to match the header nav, the text that is aligned to the left is © 2025 August House LLC (no punctuation). On the opposite side aligned to the right, middle, are the same navigation text links that are on the Front Page top nav on the right. The three text links, with a teal hover state, should be spaced nicely: Work 	About 	Contact — all three should direct the user back to the front page and to the part of the page appropriate for each — this is the same behavior as the Front Page text link nav buttons as well. 
+
+Sort of like the header, we can create the "related entries" section that sits comfortably above the footer (current displayed with a single tile that say something like "Related Projects" or "Related Case Study" above it but links randomly to another page in the stack) as a single component template ensuring that any page creation of a new project entry that grabs the footer will be sure to get an accurate related entries as well. 
+
+
+After creating this page's HEADER-GROUP-TEMPLATE or clone, whatever we want to call it, and the FOOTER-GROUP-TEMPLATE here, and hopefully at least one page component, we'll need to work on the front page to make the master-template's content tile more visual, update the text and tag buttons that will later be made functional, as well as a navigation UI via an organized grouping of all the tags on the masthead under the subtitle, and the tags at the top of each page in the bottom of the HEADER-GROUP-TEMPLATE, this 'related entries' section will also be made functional. 
+
+To make the "Related Entries" section dynamic we need to create a simple JavaScript function that assigns weights to the Primary and Secondary tags, then pulls the two most relevant entries based on overlapping tags. We can use placeholders in the Master Template for the related entry links, which get dynamically populated by this script
+
+Regarding the design of the 'related entries' tiles, there should be two simple tiles side by side. On each tile will be the SEO Summary of the page it links to as well as the UI button tags that it has in common with the Project Page entry it is on. We should put something like "You'll also enjoy reading" or "UP next" — these should differ for each page and try to tie it into the page's topic if possible. 
+

@@ -1,15 +1,18 @@
 /* Classic, timeless styling */
 :root {
-    --primary-color: #242831;  /* Dark Navy */
-    --secondary-color: #1E2E46; /* Deep Blue */
-    --accent-color: #408A8F;   /* Teal */
+    --primary-color: #1E2E46;  /* Deep Blue */
+    --secondary-color: #54b0af; /* Cyan, Medium turquoise */
+    --accent-color: #f83821;   /* Strawberry Spinach Red */ 
+    --accent-color: #db7823;   /* Ochre, a muted dark orange */ 
+    --accent-color: #f1ca00;   /* Golden Yellow, very bright */ 
     --background-color: #EDEBDC; /* Cream */
     --text-color: #242831;     /* Dark Navy */
     
     /* Tag Colors */
     --tag-tech: #E85021;      /* Burnt Orange for tech/development */
     --tag-strategy: #408A8F;  /* Teal for strategy/marketing */
-    --tag-ai: #1E2E46;       /* Deep Blue for AI/ML */
+    --tag-ai: #7a8b69;       /* Muted green for AI/ML */
+    --tag-secondary: #f83821;   /* Gamboge, a muted, dark yellow */ 
     
     --spacing: 2rem;
 }
