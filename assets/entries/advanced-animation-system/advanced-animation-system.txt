@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Animated UI: Webflow Site Development | Sean Horvath</title>
+    <meta name="description" content="An exploration in combining hand-drawn artwork, Lottie animations, and modern web design principles to create an immersive astrological content platform.">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="18 - Custom Art Animated UI Webflow Site Dev.css">
+</head>
+<body>
+    <nav class="project-nav">
+        <div class="project-nav-content">
+            <a href="../index.html" class="back-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <article class="project-detail">
+        <header class="project-header">
+            <h1 class="project-title">Custom Animated UI: Webflow Site Development</h1>
+            
+            <p class="project-summary">
+                An exploration in combining hand-drawn artwork, Lottie animations, and modern web design principles to create an immersive astrological content platform. This project showcases the intersection of traditional illustration and cutting-edge web animation techniques.
+            </p>
+
+            <div class="tags-section">
+                <span class="tag category-tag">Web Development</span>
+                <span class="tag skill-tag">Animation</span>
+                <span class="tag skill-tag">UI Design</span>
+                <span class="tag platform-tag">Webflow</span>
+            </div>
+        </header>
+
+        <div class="full-width-image">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-masthead.gif?raw=true" alt="Homepage masthead featuring custom animations and artwork">
+            <p class="caption">Homepage masthead featuring custom animations and artwork</p>
+        </div>
+
+        <h2 class="section-header">Design Elements</h2>
+        <ul class="feature-list">
+            <li>Custom hand-drawn background artwork</li>
+            <li>Interactive Lottie animations for UI elements</li>
+            <li>Responsive design implementation</li>
+            <li>Custom content presentation systems</li>
+            <li>Animated transitions and micro-interactions</li>
+        </ul>
+
+        <h2 class="section-header">Technical Implementation</h2>
+        <div class="implementation-details">
+            <ul class="feature-list">
+                <li>Webflow development</li>
+                <li>Lottie animation integration</li>
+                <li>Custom CSS animations</li>
+                <li>Responsive image optimization</li>
+                <li>Performance optimization for animation-heavy pages</li>
+            </ul>
+        </div>
+
+        <div class="animation-grid">
+            <div class="animation-item">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-art-deco-leaf-logo.gif?raw=true" alt="Animated UI Art Deco Logo Lottie">
+            </div>
+            <div class="animation-item">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-decorative-leaf.gif?raw=true" alt="Animated UI Decorative Mesmerizing Leaf Lottie">
+            </div>
+            <div class="animation-item wide">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-crown-header-lottie.gif?raw=true" alt="Wide Lottie Animated UI Decorative Page Header Encourages Scrolling">
+            </div>
+            <div class="animation-item wide">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-brand-text.gif?raw=true" alt="Wide Brand Text Logo Writing Animated UI">
+            </div>
+        </div>
+        <p class="caption">Custom Lottie animations enhancing user interface elements and encouraging scrolling</p>
+
+        <h2 class="section-header">Interactive Elements</h2>
+        <p>The site features multiple layers of interactivity:</p>
+        <ul class="feature-list">
+            <li>Animated navigation elements</li>
+            <li>Responsive hover states</li>
+            <li>Smooth scroll animations</li>
+            <li>Dynamic content loading</li>
+            <li>Custom transition effects</li>
+        </ul>
+
+        <div class="full-width-image">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-pages-1.gif?raw=true" alt="Stylized UI animations enhancing user experience">
+            <p class="caption">Stylized UI animations enhancing user experience</p>
+        </div>
+
+        <h2 class="section-header">Content Presentation</h2>
+        <p>Developed custom layouts for:</p>
+        <ul class="feature-list">
+            <li>Article presentations</li>
+            <li>Interactive horoscope readings</li>
+            <li>Dynamic content feeds</li>
+            <li>User engagement features</li>
+        </ul>
+
+        <div class="full-width-image">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-page-2.gif?raw=true" alt="Custom article layout with animated elements">
+            <p class="caption">Custom article layout with animated elements</p>
+        </div>
+
+        <div class="design-philosophy">
+            <h2 class="section-header">Design Philosophy</h2>
+            <p>The project aimed to create an immersive digital experience by:</p>
+            <ul class="feature-list">
+                <li>Blending traditional art with modern web techniques</li>
+                <li>Creating fluid, intuitive user interactions</li>
+                <li>Maintaining performance despite animation complexity</li>
+                <li>Ensuring accessibility alongside rich visual design</li>
+            </ul>
+        </div>
+
+        <div class="technical-highlights">
+            <h2 class="section-header">Technical Highlights</h2>
+            <ul class="feature-list">
+                <li>Custom Lottie animation development</li>
+                <li>Optimized animation performance</li>
+                <li>Responsive design implementation</li>
+                <li>Cross-browser compatibility</li>
+                <li>Mobile-first approach</li>
+            </ul>
+        </div>
+
+        <div class="impact-section">
+            <h2 class="section-header">Impact</h2>
+            <ul class="feature-list">
+                <li>Enhanced user engagement through interactive elements</li>
+                <li>Reduced bounce rates through engaging animations</li>
+                <li>Improved content consumption metrics</li>
+                <li>Positive user feedback on design elements</li>
+                <li>Successful blend of aesthetics and functionality</li>
+            </ul>
+        </div>
+
+        <p class="conclusion">This project demonstrates the potential of combining traditional artistic elements with modern web technologies to create engaging, performant digital experiences.</p>
+    </article>
+
+    <footer class="project-footer">
+        <div class="footer-nav">
+            <h3>Related Case Studies</h3>
+            <div class="related-projects">
+                <div class="related-project">
+                    <a href="19 - Style Spectrum ArtMovementMuseum.html" class="related-project-link">
+                        <h4>Next in Series:</h4>
+                        Style Spectrum ArtMovementMuseum
+                        <span class="related-description">Exploring art movements through digital innovation</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-content">
+            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
+            <div class="footer-contact">
+                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

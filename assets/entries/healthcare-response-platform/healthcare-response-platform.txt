@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hawaii COVID-19 Healthcare Response - Sean Horvath</title>
+    <meta name="description" content="Case study of rapid response digital consultancy for Hawaii's COVID-19 Healthcare Providers Taskforce">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="9-hawaii-covid-response.css">
+</head>
+<body>
+    <nav class="project-nav">
+        <div class="project-nav-content">
+            <a href="../index.html" class="back-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <article class="project-detail">
+        <header class="project-header">
+            <h1 class="project-title">Hawaii's COVID-19 Healthcare Response</h1>
+            <p class="project-subtitle">Rapid Response Digital Consultancy & Implementation</p>
+            
+            <p class="project-summary">
+                Led critical digital infrastructure development and communication strategy for Hawaii's COVID-19 Healthcare Providers Taskforce (HIC19HCTF), delivering urgent updates and achieving significant engagement metrics through strategic implementation.
+            </p>
+
+            <div class="tags-section">
+                <span class="tag category-tag">Healthcare</span>
+                <span class="tag skill-tag">Web Development</span>
+                <span class="tag skill-tag">Email Marketing</span>
+                <span class="tag platform-tag">Digital Strategy</span>
+            </div>
+        </header>
+
+        <div class="image-grid">
+            <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/hawaii-covid-rapid-response/01-hawaii-covid-response-rush-website-email-digital-consultant.png" alt="Hawaii COVID-19 Response Website" class="project-image">
+            <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/hawaii-covid-rapid-response/02-hawaii-covid-response-rush-website-email-digital-consultant.png" alt="Healthcare Provider Resource Portal" class="project-image">
+        </div>
+
+        <h2 class="section-header">Project Impact</h2>
+        <div class="metrics-grid">
+            <div class="metric">
+                <h3>Email Opens</h3>
+                <p>+60%</p>
+            </div>
+            <div class="metric">
+                <h3>Click Rate</h3>
+                <p>+33%</p>
+            </div>
+            <div class="metric">
+                <h3>Conversion Increase</h3>
+                <p>58.55%</p>
+                <span class="metric-timeframe">in 24 hours</span>
+            </div>
+        </div>
+
+        <h2 class="section-header">Technical Implementation</h2>
+        <ul class="feature-list">
+            <li>Rapid website design updates for critical healthcare information delivery</li>
+            <li>Advanced DNS configuration for optimal performance</li>
+            <li>Custom email collection stack architecture for task force communications</li>
+            <li>Real-time urgent update system implementation</li>
+            <li>Strategic email campaign design and execution</li>
+            <li>Ongoing technical consultancy and support</li>
+        </ul>
+
+        <div class="image-grid">
+            <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/hawaii-covid-rapid-response/03-hawaii-covid-response-rush-website-email-digital-consultant.png" alt="Email Campaign Design" class="project-image">
+            <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/hawaii-covid-rapid-response/04-hawaii-covid-response-rush-website-email-digital-consultant.png" alt="Healthcare Provider Dashboard" class="project-image">
+        </div>
+
+        <h2 class="section-header">Project Highlights</h2>
+        <ul class="feature-list">
+            <li>Rapid deployment of critical healthcare communication infrastructure</li>
+            <li>Highly effective email campaign strategy with exceptional engagement rates</li>
+            <li>Significant conversion improvement achieved in under 24 hours</li>
+            <li>Robust technical architecture supporting urgent healthcare updates</li>
+            <li>Seamless integration of multiple communication channels</li>
+        </ul>
+    </article>
+
+    <footer class="project-footer">
+        <div class="footer-nav">
+            <h3>Related Case Studies</h3>
+            <div class="related-projects">
+                <div class="related-project">
+                    <a href="10-vector-nft-art.html" class="related-project-link">
+                        <h4>Next in Series:</h4>
+                        Vector NFT Art Collection
+                        <span class="related-description">Hand-drawn vector art minted as NFTs</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-content">
+            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
+            <div class="footer-contact">
+                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,133 @@
+Placement: 0 
+
+Title for tile:
+Agentic Template Components Development Strategy
+
+Summary for tile: 
+Take on complex web development projects full of diverse content using our versatile modular master template components so you can focus on unique UI details. 
+
+Front Page Tags (3):
+UI Technical Writing (Teal #408A8F)
+Web Development (Burnt Orange #E85021)
+Agentic Process (Deep Blue #1E2E46)
+
+Title: Complete Web Redesign with Automated Build
+
+Meta Title: UX Writing & Agentic Development | Pragmatic Site Design
+
+Meta Summary: 
+Adding new UI navigation, algorithmic content presentation, and perspective motion to a new, emotionally intelligent website redesign, with a process strategically crafted to offload the bulk of the work to a fully Agentic version of Cline. 
+
+Inner Page Tags (6):
+MCP Servers
+AI Coding Automation
+UI Writing 
+UX Design
+Algorithmic Content 
+Project Management
+
+---
+
+# Portfolio Redesign: Template Components & Agentic Development
+
+## Project Overview
+Led the comprehensive redesign of a professional portfolio website, focusing on creating modular template components that enable efficient content management while maintaining design consistency. This project emphasizes agentic development practices to streamline future content creation and updates.
+
+### Key Achievements
+- Developed modular template system supporting diverse content types
+- Created automated build process for new portfolio entries
+- Implemented intelligent tag-based navigation system
+- Established consistent cross-platform user experience
+- Integrated agentic development practices for content generation
+
+[GIF: Template component animation showcase]
+
+## Template Development Strategy
+
+### Component Architecture
+- Created reusable master template structure
+- Developed modular content blocks
+- Implemented responsive design patterns
+- Established consistent styling system
+- Built flexible layout components
+
+### Documentation Framework
+- Created component implementation guides
+- Developed style documentation
+- Established naming conventions
+- Maintained technical specifications
+- Coordinated template versioning
+
+[Screenshot 1: Component structure diagram]
+
+### Design System Implementation
+
+#### Core Components
+- Header and navigation templates
+- Content block variations
+- Tag system architecture
+- Footer and related content
+- Interactive elements
+
+#### Template Variations
+- Project showcase layouts
+- Technical documentation format
+- Case study structure
+- Gallery presentations
+- Process documentation
+
+[Screenshot 2: Template variation examples]
+
+### Agentic Development Integration
+
+#### Process Automation
+- Content structure validation
+- Asset optimization workflow
+- Template population system
+- Build process automation
+- Quality assurance checks
+
+#### AI Assistance Integration
+- Content structure analysis
+- Template selection logic
+- Tag system management
+- Related content algorithms
+- Format optimization
+
+[Screenshot 3: Automation workflow diagram]
+
+## Technical Implementation
+
+### Template System
+- Modular component architecture
+- Responsive design framework
+- Interactive element library
+- Content block variations
+- Cross-platform compatibility
+
+### Build Process
+- Automated template population
+- Content validation system
+- Asset management workflow
+- Version control integration
+- Deployment automation
+
+[Icon: Template system diagram]
+
+## Results & Future Development
+
+### System Benefits
+- Rapid content deployment capability
+- Consistent design language
+- Efficient content management
+- Scalable template system
+- Automated quality control
+
+[Chart: Template efficiency metrics]
+
+This case study demonstrates the successful implementation of a modular template system with agentic development integration, highlighting:
+- Strategic component architecture
+- Automated build processes
+- Intelligent content management
+- Cross-platform compatibility
+- Future-proof design system

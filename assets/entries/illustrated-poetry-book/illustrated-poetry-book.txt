@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<!--
+⚠️ MASTER TEMPLATE - IMPORTANT INSTRUCTIONS ⚠️
+✅ DO: Edit content within <article class="project-detail"> section
+❌ DON'T: Modify the nav header or footer sections
+➡️ REMEMBER: Create your page-specific CSS file by copying projects-master.css
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PANTONE 3537 UP - Published Poetry Book & Digital Illustrations | Sean Horvath</title>
+    <meta name="description" content="A self-published LGBTQ+ poetry book featuring original digital illustrations inspired by classical Greek sculpture, written and illustrated by Sean August Horvath.">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="13 - Pantone-3537-Book-Published-Illustrated.css">
+</head>
+<body>
+    <nav class="project-nav">
+        <div class="project-nav-content">
+            <a href="../index.html" class="back-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <article class="project-detail">
+        <!-- START EDITING HERE -->
+        <header class="project-header">
+            <h1 class="project-title">Digital Illustration & Published Poetry Book: PANTONE 3537 UP</h1>
+            
+            <p class="project-summary">
+                A self-published book of LGBTQ+ poetry featuring original digital illustrations, combining classical Greek sculptural influences with contemporary personal narrative. Written, illustrated, and published under my authorship as Sean August Horvath, the book has maintained consistent sales since its 2018 publication, including recent purchases in 2024.
+            </p>
+
+            <div class="tags-section">
+                <span class="tag category-tag">Book Publishing</span>
+                <span class="tag skill-tag">Digital Illustration</span>
+                <span class="tag skill-tag">Poetry</span>
+                <span class="tag platform-tag">Barnes & Noble</span>
+            </div>
+        </header>
+
+        <div class="image-grid-2x1">
+            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-00.webp" alt="Poetry book page illustration 1">
+            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-01.webp" alt="Poetry book page illustration 2">
+        </div>
+
+        <h2 class="section-header">Project Scope</h2>
+        <ul class="feature-list">
+            <li>Complete book conceptualization and execution</li>
+            <li>Original poetry writing and editing</li>
+            <li>Digital illustration creation for every poem</li>
+            <li>Book design and layout</li>
+            <li>Self-publishing process management</li>
+            <li>Post-publication marketing and distribution</li>
+        </ul>
+
+        <img class="full-width-image" src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-02.webp" alt="Poetry book spread showing illustration and text">
+
+        <p>The illustrations draw inspiration from classical Greek sculpture while incorporating contemporary elements from personal photography and memories. This fusion creates a unique visual narrative that complements the poetry's themes of love, growth, and self-discovery.</p>
+
+        <img class="full-width-image" src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-03.webp" alt="Poetry book spread showing illustration and text">
+
+        <h2 class="section-header">Publication Impact</h2>
+        <ul class="feature-list">
+            <li>Featured review on BookLife (Publishers Weekly platform)</li>
+            <li>Consistent sales through Barnes & Noble and local consignment</li>
+            <li>Particularly resonant with young LGBTQ+ readers</li>
+            <li>Successfully pitched to multiple literary blogs and media outlets</li>
+        </ul>
+
+        <div class="button-container">
+            <a href="https://www.barnesandnoble.com/w/pantone-3537-up-sean-august-horvath/1129908743" class="cta-button" target="_blank" rel="noopener noreferrer">View on Barnes & Noble</a>
+        </div>
+
+        <p>Read the full <a href="https://booklife.com/project/pantone-3537-up-36219" target="_blank" rel="noopener noreferrer">BookLife Review</a></p>
+
+        <h2 class="section-header">Personal Note</h2>
+        <p>Writing this book fulfilled dual purposes: personal catharsis and creating the kind of resource I wished existed during my own coming-of-age journey. While the poems capture the raw emotions of early-20s love, the project's true value lies in its contribution to LGBTQ+ youth literature and its demonstration of how personal experience can be transformed into professional creative work.</p>
+
+        <h2 class="section-header">Illustration Color Studies</h2>
+        <div class="color-variation-grid">
+            <!-- Row 1 -->
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/2-pantone-1.webp" alt="Illustration 2 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/2-pantone-2.webp" alt="Illustration 2 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/2-pantone-3.webp" alt="Illustration 2 - White variant">
+            
+            <!-- Row 2 -->
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/4-pantone-1.webp" alt="Illustration 4 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/4-pantone-2.webp" alt="Illustration 4 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/4-pantone-3.webp" alt="Illustration 4 - White variant">
+            
+            <!-- Continue for all 29 rows -->
+            <!-- Adding remaining rows following the same pattern -->
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/6-pantone-1.webp" alt="Illustration 6 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/6-pantone-2.webp" alt="Illustration 6 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/6-pantone-3.webp" alt="Illustration 6 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/7-pantone-1.webp" alt="Illustration 7 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/7-pantone-2.webp" alt="Illustration 7 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/7-pantone-3.webp" alt="Illustration 7 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/8-pantone-1.webp" alt="Illustration 8 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/8-pantone-2.webp" alt="Illustration 8 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/8-pantone-3.webp" alt="Illustration 8 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/10-pantone-1.webp" alt="Illustration 10 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/10-pantone-2.webp" alt="Illustration 10 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/10-pantone-3.webp" alt="Illustration 10 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/12-pantone-1.webp" alt="Illustration 12 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/12-pantone-2.webp" alt="Illustration 12 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/12-pantone-3.webp" alt="Illustration 12 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/14-pantone-1.webp" alt="Illustration 14 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/14-pantone-2.webp" alt="Illustration 14 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/14-pantone-3.webp" alt="Illustration 14 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/16-pantone-1.webp" alt="Illustration 16 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/16-pantone-2.webp" alt="Illustration 16 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/16-pantone-3.webp" alt="Illustration 16 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/17-pantone-1.webp" alt="Illustration 17 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/17-pantone-2.webp" alt="Illustration 17 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/17-pantone-3.webp" alt="Illustration 17 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/18-pantone-1.webp" alt="Illustration 18 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/18-pantone-2.webp" alt="Illustration 18 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/18-pantone-3.webp" alt="Illustration 18 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/19-pantone-1.webp" alt="Illustration 19 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/19-pantone-2.webp" alt="Illustration 19 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/19-pantone-3.webp" alt="Illustration 19 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/21-pantone-1.webp" alt="Illustration 21 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/21-pantone-2.webp" alt="Illustration 21 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/21-pantone-3.webp" alt="Illustration 21 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/22-pantone-1.webp" alt="Illustration 22 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/22-pantone-2.webp" alt="Illustration 22 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/22-pantone-3.webp" alt="Illustration 22 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/23-pantone-1.webp" alt="Illustration 23 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/23-pantone-2.webp" alt="Illustration 23 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/23-pantone-3.webp" alt="Illustration 23 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/24-pantone-1.webp" alt="Illustration 24 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/24-pantone-2.webp" alt="Illustration 24 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/24-pantone-3.webp" alt="Illustration 24 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/25-pantone-1.webp" alt="Illustration 25 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/25-pantone-2.webp" alt="Illustration 25 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/25-pantone-3.webp" alt="Illustration 25 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/26-pantone-1.webp" alt="Illustration 26 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/26-pantone-2.webp" alt="Illustration 26 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/26-pantone-3.webp" alt="Illustration 26 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/27-pantone-1.webp" alt="Illustration 27 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/27-pantone-2.webp" alt="Illustration 27 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/27-pantone-3.webp" alt="Illustration 27 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/29-pantone-1.webp" alt="Illustration 29 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/29-pantone-2.webp" alt="Illustration 29 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/29-pantone-3.webp" alt="Illustration 29 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/30-pantone-1.webp" alt="Illustration 30 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/30-pantone-2.webp" alt="Illustration 30 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/30-pantone-3.webp" alt="Illustration 30 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/31-pantone-1.webp" alt="Illustration 31 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/31-pantone-2.webp" alt="Illustration 31 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/31-pantone-3.webp" alt="Illustration 31 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/38-pantone-1.webp" alt="Illustration 38 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/38-pantone-2.webp" alt="Illustration 38 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/38-pantone-3.webp" alt="Illustration 38 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/39-pantone-1.webp" alt="Illustration 39 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/39-pantone-2.webp" alt="Illustration 39 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/39-pantone-3.webp" alt="Illustration 39 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/40-pantone-1.webp" alt="Illustration 40 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/40-pantone-2.webp" alt="Illustration 40 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/40-pantone-3.webp" alt="Illustration 40 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/42-pantone-1.webp" alt="Illustration 42 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/42-pantone-2.webp" alt="Illustration 42 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/42-pantone-3.webp" alt="Illustration 42 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/44-pantone-1.webp" alt="Illustration 44 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/44-pantone-2.webp" alt="Illustration 44 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/44-pantone-3.webp" alt="Illustration 44 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/45-pantone-1.webp" alt="Illustration 45 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/45-pantone-2.webp" alt="Illustration 45 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/45-pantone-3.webp" alt="Illustration 45 - White variant">
+            
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/46-pantone-1.webp" alt="Illustration 46 - Green variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/46-pantone-2.webp" alt="Illustration 46 - Charcoal variant">
+            <img src="../assets/entries/pantone-3537-book-published-illustrated/46-pantone-3.webp" alt="Illustration 46 - White variant">
+        </div>
+        <!-- END EDITING HERE -->
+    </article>
+
+    <footer class="project-footer">
+        <div class="footer-nav">
+            <h3>Related Case Studies</h3>
+            <div class="related-projects">
+                <div class="related-project">
+                    <a href="14 - Web3 Privacy Protocol Brand Social Video Production.html" class="related-project-link">
+                        <h4>Next in Series:</h4>
+                        Web3 Privacy Protocol Brand Social Video Production
+                        <span class="related-description">Social media video production for a Web3 privacy protocol brand</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-content">
+            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
+            <div class="footer-contact">
+                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
