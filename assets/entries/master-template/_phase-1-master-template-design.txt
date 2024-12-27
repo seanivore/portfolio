@@ -1,7 +1,9 @@
 PAGE DESIGN 
 
+
+---Already Open in VS Code---
+
 File — master-template.html
-Path — /Users/seanivore/Dropbox/Development/portfolio-2025/pages
 
 CSS — master-template.css — holding together current design on the master-template.html was left so that you can have a starting point. Some items might need to be removed but most layout items will remain. The full details are below. Obviously you want to try to remove the need of a page specific CSS file. It is located at the same path as the .html file. 
 
