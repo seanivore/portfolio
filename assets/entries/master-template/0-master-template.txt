@@ -1,24 +1,3 @@
-Hello! So I started this with GPT but he isn't as good at creating a new page that fits the same mold of layouts and styles when given a TXT of content as you are. So the entire header, with the parallax effect hero, are already done with the right image and everything. So if that makes it easier to keep this page and just update things, that works, otherwise, or either way really, try to make sure to maintain the elements listed below. 
-
-1. In the 'pages' directory, uses content below to either 
-	- edit the "master-template.html" file 
-	- or create a new page named 'master-update.html'
- 
-2. Use these pages for referencing style. Copy the HTML and Styles exact
-	- master-template.html
-	- master-template.css
-	- index.html 
-	- style.css 
-
-Lines 1-32 from -master-template.html can all be copied. 
-3. Copy HTML class="project-nav" and /* Project nav styles */ from master-template.css 
-4. Copy HTML class="hero-container" and /* Hero Section Styles */ from styles.css 
-
-Lines 122-124 from master-template.html can be copied and always used to end a page.
-5. Copy HTML class="conclusion" and /* Conclusion callout */ from styles.css 
-
-6. I'm also really interested in trying to keep the exact same project-grid's 'project-card' with the hover effect. 
-
 
 ---
 
