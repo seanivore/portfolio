@@ -6,13 +6,13 @@ Custom Animated UI Site Development
 TILE SUMMARY 
 Covered in hand-drawn artwork and fresh Lottie animation this maximalist website enables complex UI without sacrificing load times. 
 
-TILE IMAGE
+TILE IMAGE (16:9 aspect @ 600px wide)
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/advanced-animation-system/img-tile-advanced-animation-system.webp
 
 FRONT PAGE TAGS
 Design
 Development
 Production
-
 
 META TITLE
 Custom Animation Framework | Dynamic Webflow Development
@@ -20,11 +20,14 @@ Custom Animation Framework | Dynamic Webflow Development
 META SUMMARY
 Creation of a sophisticated animation framework for content management systems, enabling complex UI interactions without sacrificing load times or usability. The system allows non-technical users to implement advanced animations while maintaining site performance and responsive design principles.
 
-META THUMBNAIL SHARE IMAGE
-
+META THUMBNAIL SHARE IMAGE (1200px x 630px)
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/advanced-animation-system/img-thumbnail-advanced-animation-system.webp
 
 PAGE TITLE
 Advanced Animation System for CMS Platform
+
+HERO IMAGE (1200 px square)
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/advanced-animation-system/img-hero-advanced-animation-system.webp
 
 PROJECT PAGE TAGS
 Web Development
@@ -47,9 +50,18 @@ Design Elements:
 - Custom content presentation systems
 - Animated transitions and micro-interactions
 
-[LAYOUT: Full-width showcase GIF]
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-masthead.gif?raw=true” alt=“Homepage masthead featuring custom animations and artwork”>
-Caption: Homepage masthead featuring custom animations and artwork
+[GIF @ 800 px wide x 238 px tall GIF]
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/advanced-animation-system/img-gif-1-advanced-animation-system.gif?raw=true” alt=“Brand text logo animated script Lottie file for August.Style website”>
+
+[Caption:] Lottie animation carefully crafted to represent the brand
+
+
+[GIF @ 800 px wide x 238 px tall GIF]
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/advanced-animation-system/img-gif-2-advanced-animation-system.gif?raw=true” alt=“Royal scrolling calligraphy crown website masthead animation”>
+
+[Caption:] Animated calligraphy, a royal crown page masthead
 
 Technical Implementation:
 - Webflow development
@@ -58,15 +70,11 @@ Technical Implementation:
 - Responsive image optimization
 - Performance optimization for animation-heavy pages
 
-[LAYOUT: Grid of 4 GIFs, 2 col x 1 row, 1 col x 2 row]
+[Two card grid row for side by side GIFs, both are 400 px wide x 700 px tall] 
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-art-deco-leaf-logo.gif?raw=true” alt=“Animated UI Art Deco Logo Lottie”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-decorative-leaf.gif?raw=true” alt=“Animated UI Decorative Mesmerizing Leaf Lottie”>
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/advanced-animation-system/img-gif-3-advanced-animation-system.gif?raw=true” alt=“Art Deco Leaf Logo Animation”> | <img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/advanced-animation-system/img-gif-4-advanced-animation-system.gif?raw=true” alt=“Art Nouveau Intricate Leaf Custom Lottie”>
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-crown-header-lottie.gif?raw=true” alt=“Wide Lottie Animated UI Decorative Page Header Encourages Scrolling”>
-
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-brand-text.gif?raw=true” alt=“Wide Brand Text Logo Writing Animated UI”>
-
-Caption: Custom Lottie animations enhancing user interface elements and encouraging scrolling
+[Captions:] Art Deco Leaf Logo Animation | Art Nouveau Intricate Leaf Custom Lottie
 
 Interactive Elements:
 The site features multiple layers of interactivity:
@@ -76,9 +84,11 @@ The site features multiple layers of interactivity:
 - Dynamic content loading
 - Custom transition effects
 
-[LAYOUT: Full-width showcase GIF]
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-pages-1.gif?raw=true” alt=“Stylized UI animations enhancing user experience”>
-Caption: Stylized UI animations enhancing user experience
+[Max-width 600 px wide x 300 px tall GIF]
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/advanced-animation-system/img-gif-5-advanced-animation-system.gif?raw=true” alt=“Homepage, all custom hand drawn art and animations”>
+
+[Caption:] Homepage with all custom hand drawn art and animations
 
 Content Presentation:
 Developed custom layouts for:
@@ -87,9 +97,11 @@ Developed custom layouts for:
 - Dynamic content feeds
 - User engagement features
 
-[LAYOUT: Full-width showcase GIF]
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-page-2.gif?raw=true” alt=“Custom article layout with animated elements”>
-Caption: Custom article layout with animated elements
+[Max-width 600 px wide x 300 px tall GIF]
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/advanced-animation-system/img-gif-6-advanced-animation-system.gif?raw=true” alt=“Scrolling through Webflow design with all custom artwork”>
+
+[Caption:] Scrolling through Webflow design with all custom, human-made, artwork — from before the days of AI. 
 
 Design Philosophy:
 The project aimed to create an immersive digital experience by:
@@ -105,11 +117,4 @@ Technical Highlights:
 - Cross-browser compatibility
 - Mobile-first approach
 
-Impact:
-- Enhanced user engagement through interactive elements
-- Reduced bounce rates through engaging animations
-- Improved content consumption metrics
-- Positive user feedback on design elements
-- Successful blend of aesthetics and functionality
-
-This project demonstrates the potential of combining traditional artistic elements with modern web technologies to create engaging, performant digital experiences.
+This project shows how effectively traditional art can be combined with modern web tech to create a unique digital experience. The use of hand-drawn artwork and Lottie animations boosted user engagement and reduced bounce rates by offering a visually captivating and interactive site. The focus on performance meant that the site remained fast and responsive, even with complex animations. User feedback was positive, confirming that the site managed to blend aesthetics with usability. This case study highlights how modern web design can push boundaries while maintaining functionality and performance.
