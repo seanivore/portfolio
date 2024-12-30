@@ -7,6 +7,7 @@ CONTENT TILE SUMMARY
 Neurodivergent thought is an LLMs natural strength, acting as one perfect boss who knows how to push you to the creative edge. 
 
 CONTENT TILE IMAGE - 16:9 aspect @ 600px wide
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-neurodivergent-strategy/img-tile-ai-neurodivergent-strategy.webp
 
 FRONT PAGE CONTENT TILE TAGS
 AI/Automation
@@ -20,12 +21,13 @@ SEO META SUMMARY
 Analysis and implementation of AI tools to enhance professional productivity for neurodivergent individuals. The project documents the strategic integration of AI assistants and automation tools, demonstrating how technology can be leveraged to create more inclusive and efficient work environments.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-neurodivergent-strategy/img-thumbnail-ai-neurodivergent-strategy.webp
 
 PAGE TITLE 
 AI & Neurodivergence: Professional Growth Strategy
 
 HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-neurodivergent-strategy/img-hero-ai-neurodivergent-strategy.webp
 
 INNER PROJECT PAGE TAGS
 Professional Development
@@ -40,16 +42,14 @@ Technology Innovation
 
 AI & Neurodivergence: A Journey of Professional Growth & Self-Discovery
 
-[LAYOUT: Full-width image]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-divergent-brain/ai-divergent-brain-teacher-1.webp
-Caption: The intersection of human cognition and artificial intelligence
+[one image - 800px square - Alt: Human integrated with machine, thinking - https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-neurodivergent-strategy/img-1-ai-neurodivergent-strategy.webp]
+[Caption:] The intersection of human cognition and artificial intelligence
 
 Personal Revelation Through Technology:
 Despite generating over 3 billion impressions through viral marketing strategies at PETA, I found myself facing an invisible barrier in traditional corporate environments. The breakthrough in understanding my neurodivergent thinking pattern came from an unexpected source: my interactions with Large Language Models (LLMs).
 
-[LAYOUT: Full-width image]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-divergent-brain/ai-divergent-brain-teacher-2.webp
-Caption: The future of human-AI collaboration in professional environments
+[one image - 800px square - Alt: Two well dressed cyborgs, part man part machine models - https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-neurodivergent-strategy/img-2-ai-neurodivergent-strategy.webp]
+[Caption:] The future of human-AI collaboration in professional environments
 
 Parallel Processing & Pattern Recognition:
 Working with AI systems revealed striking parallels between LLM architecture and neurodivergent thinking patterns:
@@ -60,9 +60,8 @@ Working with AI systems revealed striking parallels between LLM architecture and
 
 These similarities helped explain both my professional strengths and communication challenges. While my mind could make quantum leaps between concepts, I often skipped dozens of intermediate steps that neurotypical thinkers needed for context.
 
-[LAYOUT: Full-width image]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-divergent-brain/ai-divergent-brain-teacher-3.webp
-Caption: Bridging different cognitive architectures through technology
+[one image - 800px square - Alt: Two very hip looking models from a future where humans merge with machines in classy, fashionable way - https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-neurodivergent-strategy/img-3-ai-neurodivergent-strategy.webp]
+[Caption:] Bridging different cognitive architectures through technology
 
 AI as a Cognitive Bridge:
 The past two years working with AI have catalyzed unprecedented growth in:
