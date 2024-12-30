@@ -1,0 +1,115 @@
+Position 18
+
+TILE TITLE
+Custom Animated UI Site Development 
+
+TILE SUMMARY 
+Covered in hand-drawn artwork and fresh Lottie animation this maximalist website enables complex UI without sacrificing load times. 
+
+TILE IMAGE
+
+FRONT PAGE TAGS
+Design
+Development
+Production
+
+
+META TITLE
+Custom Animation Framework | Dynamic Webflow Development
+
+META SUMMARY
+Creation of a sophisticated animation framework for content management systems, enabling complex UI interactions without sacrificing load times or usability. The system allows non-technical users to implement advanced animations while maintaining site performance and responsive design principles.
+
+META THUMBNAIL SHARE IMAGE
+
+
+PAGE TITLE
+Advanced Animation System for CMS Platform
+
+PROJECT PAGE TAGS
+Web Development
+Animation Systems
+UI Architecture
+Performance Optimization
+CMS Integration
+Technical Documentation
+
+---
+
+Custom Animated UI: Webflow Site Development
+
+An exploration in combining hand-drawn artwork, Lottie animations, and modern web design principles to create an immersive astrological content platform. This project showcases the intersection of traditional illustration and cutting-edge web animation techniques.
+
+Design Elements:
+- Custom hand-drawn background artwork
+- Interactive Lottie animations for UI elements
+- Responsive design implementation
+- Custom content presentation systems
+- Animated transitions and micro-interactions
+
+[LAYOUT: Full-width showcase GIF]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-masthead.gif?raw=true” alt=“Homepage masthead featuring custom animations and artwork”>
+Caption: Homepage masthead featuring custom animations and artwork
+
+Technical Implementation:
+- Webflow development
+- Lottie animation integration
+- Custom CSS animations
+- Responsive image optimization
+- Performance optimization for animation-heavy pages
+
+[LAYOUT: Grid of 4 GIFs, 2 col x 1 row, 1 col x 2 row]
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-art-deco-leaf-logo.gif?raw=true” alt=“Animated UI Art Deco Logo Lottie”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-decorative-leaf.gif?raw=true” alt=“Animated UI Decorative Mesmerizing Leaf Lottie”>
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-crown-header-lottie.gif?raw=true” alt=“Wide Lottie Animated UI Decorative Page Header Encourages Scrolling”>
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-brand-text.gif?raw=true” alt=“Wide Brand Text Logo Writing Animated UI”>
+
+Caption: Custom Lottie animations enhancing user interface elements and encouraging scrolling
+
+Interactive Elements:
+The site features multiple layers of interactivity:
+- Animated navigation elements
+- Responsive hover states
+- Smooth scroll animations
+- Dynamic content loading
+- Custom transition effects
+
+[LAYOUT: Full-width showcase GIF]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-pages-1.gif?raw=true” alt=“Stylized UI animations enhancing user experience”>
+Caption: Stylized UI animations enhancing user experience
+
+Content Presentation:
+Developed custom layouts for:
+- Article presentations
+- Interactive horoscope readings
+- Dynamic content feeds
+- User engagement features
+
+[LAYOUT: Full-width showcase GIF]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/animated-ui-site/anim-ui-website-page-2.gif?raw=true” alt=“Custom article layout with animated elements”>
+Caption: Custom article layout with animated elements
+
+Design Philosophy:
+The project aimed to create an immersive digital experience by:
+- Blending traditional art with modern web techniques
+- Creating fluid, intuitive user interactions
+- Maintaining performance despite animation complexity
+- Ensuring accessibility alongside rich visual design
+
+Technical Highlights:
+- Custom Lottie animation development
+- Optimized animation performance
+- Responsive design implementation
+- Cross-browser compatibility
+- Mobile-first approach
+
+Impact:
+- Enhanced user engagement through interactive elements
+- Reduced bounce rates through engaging animations
+- Improved content consumption metrics
+- Positive user feedback on design elements
+- Successful blend of aesthetics and functionality
+
+This project demonstrates the potential of combining traditional artistic elements with modern web technologies to create engaging, performant digital experiences.
