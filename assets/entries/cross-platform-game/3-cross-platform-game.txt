@@ -1,23 +1,32 @@
-Placement: 3 
+PLACEMENT - 3 
 
-Title for tile:
+CONTENT TILE TITLE
 Cross-Platform Game UX Writing & Documentation
 
-Summary for tile: 
+CONTENT TILE SUMMARY 
 Led UX writing and technical documentation for a cross-platform game at a digital agency, implementing user-centered design solutions that improved game completion rates by 40% while maintaining educational impact.
 
-Front Page Tags (3):
-UX Writing (Teal #008B8B)
-Technical Writing (Purple #663399)
-Product Strategy (Red #B22222)
+CONTENT TILE IMAGE - 16:9 aspect and 600px wide
 
-Title: Cross-Platform Game UX Writing & Technical Documentation Project
+CONTENT TILE FRONT PRIMARY TAGS
+UX Writing
+Technical Writing
+Product Strategy
 
-Meta Title: UX Writing & Technical Documentation | Cross-Platform Game Project
+SEO META TITLE
+UX Writing & Technical Documentation | Cross-Platform Game Project
 
-Meta Summary: Agency experience leading UX writing and technical documentation for a cross-platform educational game, achieving 40% improvement in completion rates through user-centered design solutions.
+SEO META SUMMARY 
+Agency experience leading UX writing and technical documentation for a cross-platform educational game, achieving 40% improvement in completion rates through user-centered design solutions.
 
-Inner Page Tags (6):
+SEO THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+PAGE TITLE
+Cross-Platform Game UX Writing & Technical Documentation Project
+
+HERO IMAGE - 1200px square 
+
+ON PROJECT PAGE SECONDARY TAGS
 Agency Experience
 Cross-Platform
 UI Documentation

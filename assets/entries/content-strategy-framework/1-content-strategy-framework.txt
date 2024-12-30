@@ -7,6 +7,7 @@ CONTENT TILE SUMMARY
 Development of a comprehensive content strategy framework spanning multiple platforms and media types. 
 
 CONTENT TILE IMAGE - 16:9 aspect ratio @ 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-tile-content-strategy-framework.webp
 
 FRONT HOME PAGE CONTENT TILE TAGS
 Strategy
@@ -20,12 +21,13 @@ SEO META SUMMARY
 Development of a comprehensive content strategy framework spanning multiple platforms and media types. 
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-thumbnail-content-strategy-framework.webp
 
 ENTRY PAGE TITLE
 Multi-Platform Content Strategy Framework
 
 HERO PROJECT PAGE IMAGE 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-hero-content-strategy-framework.webp
 
 INNER ON PROJECT PAGE TAGS
 Content Strategy 
@@ -52,9 +54,13 @@ Pioneered a landmark example of strategic hashtag response and real-time content
 - Leveraged existing email lists for amplified reach and engagement
 - Created shareable, emotion-driven content optimized for social platforms
 
-[Refinery 29 Coverage of PETA Campaign that made "SeaWorlds #AskSeaWorld Twitter Campaign Backfire Massively, with image of a Orca biting the glass and text "if you were in a bathtub for 30 years you'd be a little psychotic too" that I created; 16:9 aspect, 1,000 px wide] img-press-3-content-strategy-framework.webp
+[image max-width 800px wide 16:9 aspect 450px high; Alt: SeaWorlds #AskSeaWorld Twitter Campaign Backfire Massively Magazine Press Coverage Clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-3-content-strategy-framework.webp
+[Caption:] Refinery 29 Coverage of PETA Campaign that made "SeaWorlds #AskSeaWorld Twitter Campaign Backfire Massively, with image of a Orca biting the glass and text "if you were in a bathtub for 30 years you'd be a little psychotic too" that I created. 
 
-[AgencySpy Headline About Campaign Effectiveness "PETA Pokes Fun at Ongoing SeaWorld PR Campaign"; 16:9 aspect, 1,000 px wide] img-press-4-content-strategy-framework.webp
+[image max-width 800px wide 16:9 aspect 450px high; Alt: PETA Pokes Fun at Ongoing SeaWorld PR Campaign Press Coverage Headline Clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-4-content-strategy-framework.webp
+[Caption:] AgencySpy headline clipping about campaign effectiveness, "PETA Pokes Fun at Ongoing SeaWorld PR Campaign"
 
 Video Content Innovation: Britches Animal Testing Story (2016)
 Led the evolution into video content strategy, achieving industry recognition and record-breaking engagement rates:
@@ -64,14 +70,17 @@ Led the evolution into video content strategy, achieving industry recognition an
 - Implemented multi-platform video optimization techniques
 - Created scalable video production system for consistent quality
 
-[PR News posts the emotional rescue investigation video of Britches the tortured baby primate; 16:9 aspect, 1,000 px wide] img-press-2-content-strategy-framework.webp
+[image max-width 800px wide 16:9 aspect 450px high; Alt: PR News posts the emotional rescue investigation press clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-2-content-strategy-framework.webp
+[Caption:] PR News posts the emotional rescue investigation video of Britches the tortured baby primate video that I produced.
 
-[PR New Pro Comparison of Engagement Rates, has all the metrics in, longer article with photo of Helena my mentor; 16:9 aspect and 1,000 px wide] img-press-1-content-strategy-framework.webp
+[image max-width 800px wide 16:9 aspect 450px high; Alt: PR New Pro Comparison of Engagement Rates press clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-1-content-strategy-framework.webp
+[Caption:] PR New Pro Comparison of Engagement Rates, has all the metrics included in a longer article with photo of my mentor; 
 
-The Britches story powerfully demonstrated the impact of video content in driving engagement:
-
-[Britches Before Rescue 1,000px square] img-2-content-strategy-framework.webp
-[Britches After Rescue 1,000px square] img-1-content-strategy-framework.webp
+[two image card grid row; both images 800px square; Alt: Britches before rescue, Alt: Britches after rescue]  
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-2-content-strategy-framework.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-1-content-strategy-framework.webp
+[Caption:] The Britches story powerfully demonstrated the impact of video content in driving engagement. 
 
 Campaign Results & Recognition
 - 4.5 million consumer actions
