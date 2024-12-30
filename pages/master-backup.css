@@ -1,0 +1,548 @@
+/* Project nav styles */
+.project-nav {
+    background: #fff;
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.project-nav-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.back-link:hover {
+    color: var(--accent-color);
+}
+
+/* Hero Section Styles */
+.hero-container {
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 600px;
+    background-color: transparent;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 4rem 0;
+}
+
+.hero-title {
+    font-size: 3.25rem;
+    width: 800px;
+    text-align: left;
+    margin: 0 auto;
+    color: #fff;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    line-height: 1.2;
+}
+
+.hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1200px;
+    background-size: cover;
+    background-position: center bottom;
+    z-index: 1;
+    transform: translateY(0);
+}
+
+/* Project detail styles */
+.project-detail {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.project-header {
+    max-width: 800px;
+    margin: 0 auto 4rem;
+}
+
+.project-summary {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 2rem;
+}
+
+/* Tags Section Styles 
+ * Structure:
+ * - tags-section: Main container
+ *   - primary-tags: Top row with 3 main tags
+ *   - secondary-tags: Bottom row with 6 secondary tags
+ * Usage:
+ * <div class="tags-section">
+ *   <div class="primary-tags">
+ *     <span class="primary-tag">Tag 1</span>
+ *     <span class="primary-tag">Tag 2</span>
+ *     <span class="primary-tag">Tag 3</span>
+ *   </div>
+ *   <div class="secondary-tags">
+ *     <span class="secondary-tag">Secondary 1</span>
+ *     ...
+ *   </div>
+ * </div>
+ */
+.tags-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 4rem 0;
+    width: 100%;
+}
+
+.primary-tags {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 2rem;
+}
+
+.secondary-tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.25rem;
+    width: 100%;
+    max-width: 1000px;
+    padding: 0 2rem;
+    row-gap: 1rem;
+}
+
+.primary-tag, .secondary-tag {
+    padding: 0.75rem 1.75rem;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
+    color: white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    text-align: center;
+    min-width: 140px;
+    letter-spacing: 0.02em;
+}
+
+/* Primary tags - one per row, fixed colors */
+.primary-tag:nth-child(1) { background-color: #408A8F; }
+.primary-tag:nth-child(2) { background-color: #E85021; }
+.primary-tag:nth-child(3) { background-color: #7a8b69; }
+
+/* Secondary tags - wrap as needed */
+.secondary-tag {
+    background-color: #5f5655;
+    min-width: 120px;
+}
+
+.primary-tag:hover, .secondary-tag:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* Media card grid styles 
+ * Structure:
+ * - media-grid: Container for cards
+ *   - media-card: Individual content cards
+ *     - img: Full-width image
+ *     - caption: Text description
+ * Modifiers:
+ * - fix-card-width: Sets card to 800px width
+ * - adjust-to-content: Allows card to expand based on content
+ * - side-by-side: Places two cards next to each other
+ * - three-across: Places three cards in a row
+ * Usage:
+ * <!-- Standard media card -->
+ * <div class="media-card">
+ *   <img src="..." alt="...">
+ *   <p class="caption">...</p>
+ * </div>
+ * <!-- Side by side cards -->
+ * <div class="media-grid side-by-side">
+ *   <div class="media-card adjust-to-content">...</div>
+ *   <div class="media-card adjust-to-content">...</div>
+ * </div>
+ * <!-- Three across cards -->
+ * <div class="media-grid three-across">
+ *   <div class="media-card adjust-to-content">...</div>
+ *   <div class="media-card adjust-to-content">...</div>
+ *   <div class="media-card adjust-to-content">...</div>
+ * </div>
+ */
+.media-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 3rem;
+    margin: 5rem auto;
+    max-width: 1200px;
+    padding: 0 2rem;
+}
+
+/* Grid layout modifiers */
+.media-grid.side-by-side {
+    grid-template-columns: 1fr 1fr;
+}
+
+.media-grid.three-across {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.media-card {
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+}
+
+.media-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    border-radius: 16px 16px 0 0;
+}
+
+/* Fixed width modifier for single column cards */
+.media-card.fix-card-width {
+    max-width: 800px;
+    margin: 4rem auto;
+    padding: 2rem;
+    background: white;
+}
+
+/* Content-adjusted modifier for art/media content */
+.media-card.adjust-to-content {
+    grid-column: auto / span 2;
+}
+
+.media-grid.side-by-side .media-card.adjust-to-content,
+.media-grid.three-across .media-card.adjust-to-content {
+    grid-column: auto;
+}
+
+.media-card.adjust-to-content:only-child {
+    grid-column: 1 / -1;
+}
+
+.media-card.adjust-to-content img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.caption {
+    padding: 1.75rem;
+    font-size: 0.95rem;
+    color: #666;
+    line-height: 1.6;
+    background: white;
+    flex-grow: 1;
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.media-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Chart container styles */
+.media-card.fix-card-width canvas {
+    margin-bottom: 1.5rem;
+}
+
+/* Chart styles */
+#developmentChart {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 1rem;
+}
+
+/* Metrics section styles */
+.metrics-section {
+    margin: 6rem auto;
+    max-width: 1200px;
+    padding: 0 2rem;
+}
+
+.metrics-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2.5rem;
+    color: #333;
+}
+
+.metrics-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.metrics-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 16px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.metrics-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.metrics-card h3 {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+.metrics-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.metrics-card li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    color: #444;
+}
+
+.metrics-card.achievements li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #4CAF50;
+    font-size: 1.2em;
+}
+
+.metrics-card.management li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #2196F3;
+    font-size: 1.2em;
+}
+
+/* Project cards styles */
+.project-cards {
+    margin: 6rem auto;
+    max-width: 1200px;
+    padding: 0 2rem;
+}
+
+.project-cards h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    color: #333;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 3.5rem;
+}
+
+.detail-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 16px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.detail-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.detail-card h3 {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+.detail-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.detail-card li {
+    position: relative;
+    padding-left: 2.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    color: #444;
+}
+
+.detail-card li::before {
+    content: "»»";
+    position: absolute;
+    left: 0.5rem;
+    color: #ff6b6b;
+    font-family: monospace;
+    user-select: none;
+    font-size: 1.1em;
+}
+
+/* Conclusion styles */
+.conclusion {
+    position: relative;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #333;
+    margin: 6rem auto;
+    padding: 2.5rem 3rem;
+    background: linear-gradient(to right, #fff, #f8f8f8);
+    border-left: 6px solid var(--accent-color);
+    border-radius: 16px;
+    max-width: 800px;
+    text-align: left;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.conclusion::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -6px;
+    width: 6px;
+    height: 100%;
+    background: var(--accent-color);
+    border-radius: 3px;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.conclusion:hover::before {
+    opacity: 1;
+}
+
+/* Footer styles */
+.project-footer {
+    margin-top: 5rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.back-to-portfolio {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer-contact {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.footer-contact a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-links a {
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links a:hover,
+.footer-contact a:hover,
+.back-to-portfolio:hover {
+    color: #000;
+}
+
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2.5rem;
+        width: 90%;
+    }
+    
+    .media-grid.side-by-side,
+    .media-grid.three-across {
+        grid-template-columns: 1fr;
+    }
+    
+    .media-card.adjust-to-content {
+        grid-column: auto;
+    }
+    
+    .metrics-cards,
+    .card-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .conclusion {
+        padding: 2rem;
+        margin: 4rem auto;
+        font-size: 1.1rem;
+    }
+    
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .footer-contact {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
