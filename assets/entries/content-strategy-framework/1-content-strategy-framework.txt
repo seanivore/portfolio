@@ -1,17 +1,33 @@
-Placement: 1
+PLACEMENT - 1
 
-Tile title — Multi-Platform Content Strategy Framework 
+CONTENT TILE TITLE 
+Multi-Platform Content Strategy Framework
 
-Tile summary — Development of a comprehensive content strategy framework spanning multiple platforms and media types. 
+CONTENT TILE SUMMARY 
+Development of a comprehensive content strategy framework spanning multiple platforms and media types. 
 
-Front Page Tile Tags — 
-Strategy (Orange) 
-Production (Red) 
-Innovation (Purple)
+CONTENT TILE IMAGE - 16:9 aspect ratio @ 600px wide 
 
-Entry page title — Multi-Platform Content Strategy Framework
+FRONT HOME PAGE CONTENT TILE TAGS
+Strategy
+Production
+Innovation
 
-Inner Project Page Tags — 
+SEO META TITLE
+Content Strategy Framework | Multi-Platform Media
+
+SEO META SUMMARY 
+Development of a comprehensive content strategy framework spanning multiple platforms and media types. 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE 
+
+
+ENTRY PAGE TITLE
+Multi-Platform Content Strategy Framework
+
+HERO PROJECT PAGE IMAGE 
+
+INNER ON PROJECT PAGE TAGS
 Content Strategy 
 Multi-Platform 
 Media Relations 
@@ -19,9 +35,6 @@ Analytics
 Campaign Development 
 Distribution Systems
 
-Meta Title — Content Strategy Framework | Multi-Platform Media
-
-Meta Summary — Development of a comprehensive content strategy framework spanning multiple platforms and media types.
 
 ---
 
