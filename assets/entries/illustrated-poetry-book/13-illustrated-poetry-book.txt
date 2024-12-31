@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Authored and illustrated poetry book of original digital illustration and wordplay, bridging digital and traditional workflows. 
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-tile-illustrated-poetry-book.webp
 
 CONTENT TILE PRIMARY TAGS 
 Design
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Creation and publication of a poetry book featuring original digital illustrations, successfully bridging digital and traditional publishing. The project demonstrates expertise in digital illustration, print production, and book publishing workflows.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-thumbnail-illustrated-poetry-book.webp
 
 PAGE TITLE 
 Illustrated Poetry Book: Digital Art to Print
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-hero-illustrated-poetry-book.webp
 
 PAGE SECONDARY TAGS 
 Digital Illustration 
@@ -40,17 +40,11 @@ Editorial Design
 
 ---
 
-
-
-Digital Illustration & Published Poetry Book: PANTONE 3537 UP
-
 A self-published book of LGBTQ+ poetry featuring original digital illustrations, combining classical Greek sculptural influences with contemporary personal narrative. Written, illustrated, and published under my authorship as Sean August Horvath, the book has maintained consistent sales since its 2018 publication, including recent purchases in 2024.
 
 [LAYOUT: Two 480px x 600px portrait images side by side]
 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-00.webp
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-01.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-88-illustrated-poetry-book.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-89-illustrated-poetry-book.webp
 
 Project Scope:
 - Complete book conceptualization and execution
@@ -60,7 +54,7 @@ Project Scope:
 - Self-publishing process management
 - Post-publication marketing and distribution
 
-[LAYOUT: One full width 600px x 480px landscape image]
+[one image tile]
 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-02.webp
 
