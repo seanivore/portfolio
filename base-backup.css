@@ -1,0 +1,159 @@
+/* Base Variables */
+:root {
+    --primary-color: #1E2E46;    /* Deep Blue */
+    --secondary-color: #54b0af;  /* Cyan, Medium turquoise */
+    --accent-color: #f83821;     /* Strawberry Spinach Red */
+    --page-background: #EDEBDC;  /* Cream */
+    --text-color: #242831;       /* Dark Navy */
+    --element-background: #ffffff; /* White */
+    
+    /* Tag Colors */
+    --tag-tech: #408A8F;         /* Teal for tech/development */
+    --tag-strategy: #E85021;     /* Orange for strategy/marketing */
+    --tag-ai: #7a8b69;           /* Muted green for AI/ML */
+    --tag-secondary: #5f5655;    /* Brown for secondary tags */
+
+    /* Layout Variables */
+    --nav-height: 60px;
+    --section-spacing: 6rem;
+    --element-spacing: 3rem;
+    --content-width: 800px;
+    --section-width: 1200px;
+}
+
+/* Base Layout */
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--page-background);
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    color: var(--text-color);
+}
+
+/* Navigation System */
+.nav {
+    background: var(--element-background);
+    padding: 1rem 0;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.nav__content {
+    max-width: var(--content-width);
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.nav__back {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.nav__back:hover {
+    color: var(--accent-color);
+}
+
+/* Hero Section */
+.hero-container {
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 600px;
+    background-color: transparent;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 4rem 0;
+}
+
+.hero-title {
+    font-size: 3.25rem;
+    text-align: left;
+    color: #fff;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    line-height: 1.2;
+}
+
+.hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1200px;
+    background-size: cover;
+    background-position: center bottom;
+    z-index: 1;
+    transform: translateY(0);
+}
+
+/* Tag System */
+.tags-section {
+    margin: var(--element-spacing) 0;
+    width: 100%;
+}
+
+.tag-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+    margin: 0 auto 2rem;
+}
+
+.tag {
+    padding: 0.75rem 1.75rem;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
+    color: var(--element-background);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    text-align: center;
+    min-width: 140px;
+    letter-spacing: 0.02em;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.tag:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.tag--tech { background-color: var(--tag-tech); }
+.tag--strategy { background-color: var(--tag-strategy); }
+.tag--ai { background-color: var(--tag-ai); }
+.tag--secondary {
+    background-color: var(--tag-secondary);
+    min-width: 120px;
+}
