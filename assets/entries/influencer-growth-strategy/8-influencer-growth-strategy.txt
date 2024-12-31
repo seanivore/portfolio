@@ -1,0 +1,95 @@
+Original
+/Users/seanivore/Projects/portfolio-clean/projects/8-influencer-pitch-deck.css
+/Users/seanivore/Projects/portfolio-clean/projects/8-influencer-pitch-deck.html
+
+Title and summary for tile:
+Data-Driven Influencer Growth Strategy
+Development of a comprehensive influencer marketing strategy leveraging data analytics for optimized growth and engagement.
+
+Title: Data-Driven Influencer Growth Strategy
+Meta Title: Influencer Marketing Strategy | Growth Analytics System
+Summary: Development of a comprehensive influencer marketing strategy leveraging data analytics for optimized growth and engagement.
+
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/influencer-growth-strategy-thumb.webp
+
+
+Front Page Tags (3):
+
+Strategy (Orange) 
+Production (Red) 
+AI/Automation (Blue)
+
+Inner Page Tags (6):
+
+Growth Strategy 
+Analytics 
+Social Media 
+Influencer Marketing 
+Content Strategy 
+Performance Optimization
+
+https://seanivore.github.io/portfolio/projects/8-influencer-pitch-deck.html
+
+projects/influencer-growth-strategy
+
+
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/influencer-growth-strategy-tile.webp
+
+--
+
+
+
+/Users/seanivore/Projects/portfolio-draft/projects/8 - Influencer Client Pitch Deck Growth Hacking.html
+/Users/seanivore/Projects/portfolio-draft/projects/8 - Influencer Client Pitch Deck Growth Hacking.css
+
+
+Influencer Growth Hacking Freelance Service Sales Deck Slides 
+
+1
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-1.png
+2
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-2.png
+3
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-3.png
+4
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-4.png
+5
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-5.png
+6
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-6.png
+7
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-7.png
+8
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-8.png
+9
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-9.png
+10
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-10.png
+11
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-11.png
+12
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-12.png
+13
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-13.png
+14
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-14.png
+15
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-15.png
+16
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-16.png
+17
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-17.png
+18
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-18.png
+19
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-19.png
+20
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-20.png
+21
+/Users/seanivore/Projects/portfolio-clean/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-21.png
+
+
+
+

@@ -1,0 +1,69 @@
+PLACEMENT - 9
+
+CONTENT TILE TITLE 
+Developed Healthcare Emergency Response Platform
+
+CONTENT TILE SUMMARY 
+Development of a rapid-response digital communication system for healthcare providers during COVID-19. 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+
+CONTENT TILE PRIMARY TAGS 
+Development
+Strategy
+Production
+
+SEO META TITLE
+Healthcare Digital Response | Emergency Communication System
+
+SEO META SUMMARY 
+Development of a rapid-response digital communication system for healthcare providers during COVID-19, enabling efficient information distribution and resource coordination.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+
+PAGE TITLE 
+Healthcare Emergency Response Platform
+
+HERO IMAGE - 1200px square 
+
+
+PAGE SECONDARY TAGS 
+Healthcare Systems
+Emergency Response
+Digital Strategy
+Communication Systems
+Web Development
+User Experience
+
+---
+
+
+
+/Users/seanivore/Projects/portfolio-draft/projects/9 - Hawaii Covid Rapid Response Digital Consultant Web Dev Email Campaign.html
+/Users/seanivore/Projects/portfolio-draft/projects/9 - Hawaii Covid Rapid Response Digital Consultant Web Dev Email Campaign.css
+
+
+
+HAWAII'S COVID-19 HEALTHCARE PROVIDERS TASKFORCE
+Coronavirus Rapid Response Healthcare Provider Resource 
+HIC19HCTF — Non-profit Health Care Union
+
+March 2020 — https://www.hicovid.org/
+
+Website design updates. 
+Advanced DNS adjustments. 
+Stack architecture for email collection used to contact various task-forces and for future email communications. 
+By-the-minute urgent updates for a serious situation requiring attention to details in a rush situation. 
+Email content design and campaign execution with +60% opens and +33% clicks. 
+Increased conversions 58.55% in under 24 hours. 
+Ongoing consultancy. 
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/01-hawaii-covid-response-rush-website-email-digital-consultant.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/02-hawaii-covid-response-rush-website-email-digital-consultant.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/03-hawaii-covid-response-rush-website-email-digital-consultant.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/04-hawaii-covid-response-rush-website-email-digital-consultant.png 

@@ -1,0 +1,127 @@
+Original: 
+/Users/seanivore/Projects/portfolio-clean/projects/21 - Meta Ad Campaign 2023-2024.css
+/Users/seanivore/Projects/portfolio-clean/projects/21 - Meta Ad Campaign 2023-2024.html
+
+Title and summary for tile:
+Meta Ads $0.003 Per Engagement & $0.31 Per Follower
+Strategic social media campaign across multiple platforms achieve exceptional cost efficiency through targeted content strategies and platform optimization.
+
+Title: Meta Ad Campaign: Cross-Platform Growth Strategy 2023-2024
+Meta Title: Meta Advertising Strategy | Cross-Platform Marketing Campaign
+Summary: Strategic development and execution of a comprehensive Meta advertising campaign spanning Facebook, Instagram, and WhatsApp. Leveraging data analytics and AI-driven optimization, the campaign achieved significant ROI through targeted audience engagement, creative testing, and performance tracking across multiple platforms.
+
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/meta-campaign-strategy-thumb.webp
+
+
+Front Page Tags (3):
+
+Strategy (Orange)
+Production (Red)
+AI/Automation (Blue)
+
+Inner Page Tags (6):
+
+Social Media Marketing
+Data Analytics
+Campaign Strategy
+Creative Direction
+Performance Optimization
+Cross-Platform Integration
+
+https://seanivore.github.io/portfolio/projects/21%20-%20Meta%20Ad%20Campaign%202023-2024.html
+
+projects/meta-campaign-strategy
+
+
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/meta-campaign-strategy-tile.webp
+
+
+----
+
+Meta Ad Campaign: Strategic Growth & Optimization 2023-2024
+
+A multi-faceted social media campaign achieving exceptional cost efficiency through targeted content strategies and platform optimization.
+
+Campaign Overview:
+Key Metrics:
+- $0.003 cost per engagement
+- $0.31 cost per new follower
+- 1,187 video plays (25% completion rate)
+- Total investment: $119.97
+
+[LAYOUT: Full-width ad screenshot]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/01-facebook-likes-ad.webp
+Caption: Facebook Page Growth Campaign
+
+Campaign Components:
+
+1. Shopping Integration:
+[LAYOUT: Two charts side by side]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/02-facebook-print-shopping-reels-ad.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/03-facebook-print-shopping-reels-ad.webp
+Caption: Instagram Shopping Performance Analytics
+
+Product Showcase:
+[LAYOUT: Full-width image grid]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/04-facebook-print-shopping-reels-ad.webp
+Caption: Print Shop Product Catalog
+
+2. Fashion Lookbook Campaign:
+Demographic Analysis:
+[LAYOUT: Full-width chart]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/05-facebook-lookbook-reels-ads.webp
+Caption: Audience Reach and Engagement Demographics
+
+Performance Metrics:
+[LAYOUT: Two visuals side by side]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/06-facebook-lookbook-reels-ads.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/07-facebook-lookbook-reels-ads.webp
+Caption: Reels Performance and Content Examples
+
+3. Art Movement Shopping Series:
+Bauhaus Collection:
+[LAYOUT: Full-width showcase]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/08-facebook-print-shopping-ad.webp
+Caption: Bauhaus-Inspired Print Collection Performance
+
+Art Deco Series:
+[LAYOUT: Full-width showcase]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/09-facebook-print-shopping-ad.webp
+Caption: Art Deco Collection Campaign Results
+
+Value-Focused Marketing:
+[LAYOUT: Full-width showcase]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/10-facebook-print-shopping-ad.webp
+Caption: Under $30 Collection Campaign
+
+Campaign Results Analysis:
+[LAYOUT: Interactive chart component]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/meta-ad-campaigns/final_fb-campaign-metrics.tsx
+Caption: Comprehensive Campaign Performance Metrics
+
+Strategic Achievements:
+1. Cost Optimization:
+- Industry-leading engagement costs
+- Efficient follower acquisition
+- Strong video completion rates
+- Optimal budget utilization
+
+2. Content Performance:
+- High engagement on shopping content
+- Strong video view metrics
+- Effective demographic targeting
+- Successful art movement integration
+
+3. Platform Integration:
+- Seamless shopping experience
+- Effective Reels utilization
+- Cross-platform consistency
+- Strategic content placement
+
+Key Learnings:
+- Value of art movement-based targeting
+- Effectiveness of price point messaging
+- Impact of integrated shopping features
+- Power of demographic optimization
+
+This campaign demonstrates the potential for achieving significant social media growth and engagement through strategic content deployment and careful cost management.

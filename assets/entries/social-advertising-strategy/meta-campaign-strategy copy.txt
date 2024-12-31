@@ -1,0 +1,38 @@
+Original: 
+/Users/seanivore/Projects/portfolio-clean/projects/21 - Meta Ad Campaign 2023-2024.css
+/Users/seanivore/Projects/portfolio-clean/projects/21 - Meta Ad Campaign 2023-2024.html
+
+Title and summary for tile:
+Meta Ads $0.003 Per Engagement & $0.31 Per Follower
+Strategic social media campaign across multiple platforms achieve exceptional cost efficiency through targeted content strategies and platform optimization.
+
+Title: Meta Ad Campaign: Cross-Platform Growth Strategy 2023-2024
+Meta Title: Meta Advertising Strategy | Cross-Platform Marketing Campaign
+Summary: Strategic development and execution of a comprehensive Meta advertising campaign spanning Facebook, Instagram, and WhatsApp. Leveraging data analytics and AI-driven optimization, the campaign achieved significant ROI through targeted audience engagement, creative testing, and performance tracking across multiple platforms.
+
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/meta-campaign-strategy-thumb.webp
+
+
+Front Page Tags (3):
+
+Strategy (Orange)
+Production (Red)
+AI/Automation (Blue)
+
+Inner Page Tags (6):
+
+Social Media Marketing
+Data Analytics
+Campaign Strategy
+Creative Direction
+Performance Optimization
+Cross-Platform Integration
+
+https://seanivore.github.io/portfolio/projects/21%20-%20Meta%20Ad%20Campaign%202023-2024.html
+
+projects/meta-campaign-strategy
+
+
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/meta-campaign-strategy-tile.webp

@@ -72,11 +72,12 @@ body {
 }
 
 /* Hero Section */
-.hero-container {
+.hero {
     position: relative;
     height: 600px;
     overflow: hidden;
     width: 100%;
+    text-align: center;
 }
 
 .hero-overlay {
@@ -85,20 +86,12 @@ body {
     left: 0;
     width: 100%;
     height: 600px;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.4);
     z-index: 2;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     padding: 4rem 0;
-}
-
-.hero-title {
-    font-size: 3.25rem;
-    text-align: left;
-    color: #fff;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
-    line-height: 1.2;
 }
 
 .hero-background {
@@ -108,9 +101,32 @@ body {
     width: 100%;
     height: 1200px;
     background-size: cover;
-    background-position: center bottom;
-    z-index: 1;
+    background-position: center;
+    z-index: -2;
     transform: translateY(0);
+}
+
+/* Hero Content Styling */
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--spacing);
+}
+
+.hero h1 {
+    color: white;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    color: rgba(255, 255, 255, 0.9);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
 }
 
 /* Tag System */
@@ -156,4 +172,11 @@ body {
 .tag--secondary {
     background-color: var(--tag-secondary);
     min-width: 120px;
+}
+
+/* Main content needs to be above background */
+main {
+    position: relative;
+    z-index: 1;
+    background: var(--page-background);
 }

@@ -1,203 +1,37 @@
-<!DOCTYPE html>
-<!--
-⚠️ MASTER TEMPLATE - IMPORTANT INSTRUCTIONS ⚠️
-✅ DO: Edit content within <article class="project-detail"> section
-❌ DON'T: Modify the nav header or footer sections
-➡️ REMEMBER: Create your page-specific CSS file by copying projects-master.css
--->
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scalable Podcast Network - Sean Horvath</title>
-    <meta name="description" content="AI-driven podcast network management system combining automated workflows and data-driven optimization to create a scalable, multi-platform content ecosystem">
-    <link rel="stylesheet" href="../style.css">
-    <link rel="stylesheet" href="22 - scaleable podcast network distribution system.css">
-</head>
-<body>
-    <nav class="project-nav">
-        <div class="project-nav-content">
-            <a href="../index.html" class="back-link">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
-                </svg>
-                Back to Portfolio
-            </a>
-        </div>
-    </nav>
+Original: 
+/Users/seanivore/Projects/portfolio-clean/projects/22 - scaleable podcast network distribution system.css
+/Users/seanivore/Projects/portfolio-clean/projects/22 - scaleable podcast network distribution system.html
 
-    <article class="project-detail">
-        <!-- START EDITING HERE -->
-        <header class="project-header">
-            <h1 class="project-title">Scalable Podcast Network</h1>
-            <p class="project-subtitle">AI-Driven Content Production System</p>
-            
-            <p class="project-summary">
-                An innovative approach to podcast network management combining AI content generation, automated workflows, and data-driven optimization to create a scalable, multi-platform content ecosystem.
-            </p>
+Title and summary for tile:
+AI-Automated Scalable Podcast Network
+AI-driven content production system using scalable automated workflows and data-driven optimization reduced production time by 70%
 
-            <div class="tags-section">
-                <span class="tag category-tag">Content Production</span>
-                <span class="tag skill-tag">AI Integration</span>
-                <span class="tag platform-tag">Multi-Platform</span>
-                <span class="tag skill-tag">Automation</span>
-            </div>
-        </header>
+Meta Title: AI-Powered Podcast Network | Content Automation System Development
+Summary: Development of an automated content distribution system for a podcast network, integrating AI for content optimization, multi-platform publishing, and analytics tracking. The system streamlined production workflow, increasing output capacity by 300% while maintaining content quality and brand consistency.
 
-        <div class="metrics-grid">
-            <div class="metric">
-                <h3>Production Time</h3>
-                <p>70%</p>
-                <span class="metric-note">reduction</span>
-            </div>
-            <div class="metric">
-                <h3>Content Categories</h3>
-                <p>16</p>
-                <span class="metric-note">niche-specific</span>
-            </div>
-            <div class="metric">
-                <h3>Episodes</h3>
-                <p>68</p>
-                <span class="metric-note">produced & uploaded</span>
-            </div>
-            <div class="metric">
-                <h3>Video Views</h3>
-                <p>15,062</p>
-                <span class="metric-note">159.4 hours watch time</span>
-            </div>
-        </div>
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/scalable-podcast-network-thumb.webp
 
-        <h2 class="section-header">System Architecture</h2>
 
-        <h3 class="subsection-header">1. Content Research & Generation</h3>
-        <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-emailed-perplexity-research-request.webp" 
-             alt="Automated Research Pipeline Integration" 
-             class="project-image">
-        <p class="image-caption">Automated Research Pipeline Integration</p>
+Front Page Tags (3):
 
-        <h3 class="subsection-header">2. Topic Management System</h3>
-        <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-topic-research-writing-podcast-TTS-and-transcripts.webp" 
-             alt="Content Creation and Distribution Workflow" 
-             class="project-image">
-        <p class="image-caption">Content Creation and Distribution Workflow</p>
+AI/Automation (Blue)
+Production (Red)
+Strategy (Orange)
 
-        <h2 class="section-header">Key Components</h2>
+Inner Page Tags (6):
 
-        <h3 class="subsection-header">Advanced News Integration</h3>
-        <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-daily-news-updates-advanced-system.webp" 
-             alt="Automated News Processing System" 
-             class="project-image">
-        <p class="image-caption">Automated News Processing System</p>
+Content Production
+AI Integration
+Multi-Platform Distribution
+Workflow Automation
+Analytics & Tracking
+Growth Strategy
 
-        <h3 class="subsection-header">Quality Control</h3>
-        <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-approval-webhook-notes-integrated-debate-podcast.webp" 
-             alt="Content Approval and Integration Workflow" 
-             class="project-image">
-        <p class="image-caption">Content Approval and Integration Workflow</p>
+https://seanivore.github.io/portfolio/projects/22%20-%20scaleable%20podcast%20network%20distribution%20system.html
 
-        <h3 class="subsection-header">Feedback Loop</h3>
-        <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-feedback-request-integrate-updates.webp" 
-             alt="Audience Feedback Integration System" 
-             class="project-image">
-        <p class="image-caption">Audience Feedback Integration System</p>
+projects/scalable-podcast-network
 
-        <h2 class="section-header">Technical Implementation</h2>
-        <div class="implementation-grid">
-            <div class="implementation-block">
-                <h3>Content Generation</h3>
-                <ul class="feature-list">
-                    <li>NotebookLM integration</li>
-                    <li>Custom AI prompt engineering</li>
-                    <li>Automated article collection</li>
-                    <li>Content adaptation frameworks</li>
-                </ul>
-            </div>
-            <div class="implementation-block">
-                <h3>Production Automation</h3>
-                <ul class="feature-list">
-                    <li>Text-to-Speech processing</li>
-                    <li>Transcript generation</li>
-                    <li>Multi-platform formatting</li>
-                    <li>Asset creation pipeline</li>
-                </ul>
-            </div>
-            <div class="implementation-block">
-                <h3>Distribution System</h3>
-                <ul class="feature-list">
-                    <li>Cross-platform syndication</li>
-                    <li>Automated scheduling</li>
-                    <li>Analytics integration</li>
-                    <li>Engagement tracking</li>
-                </ul>
-            </div>
-        </div>
 
-        <h2 class="section-header">Results & Impact</h2>
-        <div class="results-grid">
-            <div class="result-block">
-                <h3>Production Efficiency</h3>
-                <ul class="feature-list">
-                    <li>70% reduction in production time</li>
-                    <li>Streamlined workflow processes</li>
-                    <li>Automated quality control</li>
-                    <li>Scalable content generation</li>
-                </ul>
-            </div>
-            <div class="result-block">
-                <h3>Content Quality</h3>
-                <ul class="feature-list">
-                    <li>Consistent brand voice</li>
-                    <li>Data-driven improvements</li>
-                    <li>Enhanced audience engagement</li>
-                    <li>Flexible topic adaptation</li>
-                </ul>
-            </div>
-            <div class="result-block">
-                <h3>Network Scalability</h3>
-                <ul class="feature-list">
-                    <li>Modular topic management</li>
-                    <li>Easy vertical expansion</li>
-                    <li>Minimal overhead costs</li>
-                    <li>Rapid deployment capability</li>
-                </ul>
-            </div>
-        </div>
-
-        <h2 class="section-header">Future Development</h2>
-        <ul class="feature-list highlight">
-            <li>Enhanced AI integration</li>
-            <li>Expanded topic coverage</li>
-            <li>Advanced analytics</li>
-            <li>Automated personalization</li>
-            <li>Cross-network synergy</li>
-        </ul>
-        <!-- END EDITING HERE -->
-    </article>
-
-    <footer class="project-footer">
-        <div class="footer-nav">
-            <h3>Related Case Studies</h3>
-            <div class="related-projects">
-                <div class="related-project">
-                    <a href="../index.html" class="related-project-link">
-                        <h4>Back to Portfolio:</h4>
-                        View All Projects
-                        <span class="related-description">Explore more case studies and projects</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="footer-content">
-            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
-            <div class="footer-contact">
-                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
-                <div class="social-links">
-                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
-                </div>
-            </div>
-        </div>
-    </footer>
-</body>
-</html>
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/scalable-podcast-network-tile.webp

@@ -78,7 +78,6 @@ nav {
     justify-content: center;
     text-align: center;
     padding: var(--spacing);
-    background-color: #f8f9fa;
 }
 
 .hero h1 {
