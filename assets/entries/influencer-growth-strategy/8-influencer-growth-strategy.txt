@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Development of a comprehensive influencer marketing strategy leveraging data analytics for optimized growth and engagement.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/influencer-growth-strategy/img-tile-influencer-growth-strategy.webp
 
 CONTENT TILE PRIMARY TAGS 
 Strategy
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Development of a comprehensive influencer marketing strategy leveraging data analytics for optimized growth and engagement.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/influencer-growth-strategy/img-thumbnail-influencer-growth-strategy.webp
 
 PAGE TITLE 
 Data-Driven Influencer Growth Strategy
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/influencer-growth-strategy/img-hero-influencer-growth-strategy.webp
 
 PAGE SECONDARY TAGS 
 Growth Strategy 
@@ -46,8 +46,27 @@ A comprehensive pitch deck showcasing influencer growth hacking strategies and s
 Growth Hacking & Strategic Pitch Deck Development
 
 [slideshow of 21 image all 800px x 500px] 
-IMAGES
-IMAGES
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-1-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-2-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-3-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-4-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-5-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-6-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-7-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-8-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-9-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-10-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-11-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-12-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-13-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-14-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-15-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-16-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-17-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-18-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-19-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-20-influencer-growth-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/influencer-growth-strategy/img-21-influencer-growth-strategy.webp
 
 Presentation Overview
 
@@ -56,9 +75,6 @@ Presentation Overview
 - Strategic content planning and optimization techniques
 - Monetization and brand partnership strategies
 - Analytics and performance tracking methodologies
-- Customized growth roadmap development
-
-
-
+- Customized growth roadmap development 
 
 
