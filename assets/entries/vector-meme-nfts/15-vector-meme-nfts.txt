@@ -36,3 +36,46 @@ projects/vector-meme-nfts
 
 TILE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/vector-meme-nfts-tile.webp
+
+
+---
+
+Vector Art Evolution: Classic Meme Reimagining & NFT Creation
+
+A creative exploration combining vector illustration, motion design, and web3 technology to reimagine iconic memes and cartoon characters. This project showcased the intersection of traditional animation techniques with blockchain technology, leading to opportunities in web3 creative direction.
+
+Technical Approach:
+- Hand-drawn vector illustrations
+- Frame-by-frame animation
+- Anamorphic design principles
+- NFT minting and deployment
+- Cross-platform optimization
+
+Classic Meme Reimagining:
+[two image cards with total max width of 800px] 
+img-gif-1-vector-meme-nfts.gifimg-gif-2-vector-meme-nfts.gif
+Caption: Modern Vector Interpretations of "This is Fine" Meme Series
+
+These reinterpretations maintain the original memes' emotional impact while introducing contemporary design elements and web3-specific messaging. The clean vector style and hypnotic animation loops created a distinct aesthetic that resonated with both traditional meme culture and the emerging NFT community.
+
+Pop Culture Character Series:
+[LAYOUT: 2x2 Grid]
+Row 1: <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Bojack%20gets%20jacked.gif?raw=true” alt=“Bojack Horseman Gets Jacked Motion Graphic GIF Drawing NFT”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Jake%20the%20Dog%20of%20the%20Gym.gif?raw=true” alt=“Jake The Dog Hits The Gym Motion Graphic GIF Drawing NFT”>
+Row 2: https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Skeeter%20Glow-up.png?raw=true | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Zoidberg%20MD.gif?raw=true” alt=“Futurama's Dr. Zoidberg Hits The Gym Motion Graphic GIF NFT”>
+Caption: Reimagined Animation Icons Series
+
+The character series explores transformation themes through beloved animated characters, featuring custom vector illustrations of:
+- BoJack Horseman (Netflix)
+- Jake the Dog (Adventure Time)
+- Skeeter Valentine (Doug)
+- Dr. Zoidberg (Futurama)
+
+Project Impact:
+- Successfully minted and sold across major NFT platforms
+- Demonstrated versatility in adapting traditional media for web3
+- Established presence in the NFT art community
+- Led to opportunities in web3 creative direction
+- Created engaging content that bridged traditional and crypto audiences
+
+Design Philosophy:
+This project balanced nostalgia with innovation, using familiar characters and memes as a foundation for exploring new artistic techniques and blockchain technology. The success of these pieces demonstrated the potential for traditional animation skills in the emerging web3 space.
