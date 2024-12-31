@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Creation and execution of viral video campaigns achieving massive organic reach and media coverage through strategic content development. 
 
 CONTENT TILE IMAGE - 16:9 aspect and 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/img-tile-viral-campaign-strategy.webp
 
 CONTENT TILE PRIMARY TAGS 
 Production
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Creation and execution of viral video campaigns achieving massive organic reach and media coverage through strategic content development.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/img-thumbnail-viral-campaign-strategy.webp
 
 PAGE TITLE 
 Viral Video Campaign Strategy & Production
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/img-hero-viral-campaign-strategy.webp
 
 PAGE SECONDARY TAGS 
 Video Production 
@@ -39,7 +39,6 @@ Analytics
 
 ---
 
-
 # Award-Winning PETA Viral Campaigns
 
 A series of highly successful viral campaigns for PETA, including an award-winning comedy video with 100M+ views, a Shorty Awards finalist campaign, and an innovative social media strategy that created widespread engagement and press coverage.
@@ -49,7 +48,7 @@ The "Tofucken: The Vegan Turducken" [https://www.youtube.com/watch?v=j5QAjcbvbDg
 
 [![PETA Funny For Good Award Winning Viral Video Tofucken](https://img.youtube.com/vi/j5QAjcbvbDg/0.jpg)](https://www.youtube.com/watch?v=j5QAjcbvbDg)
 
-<img src=“https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/peta-viral-high-production/01-award-funny-for-good-shorty-tofucken-gif.webp” alt=“PETA Funny For Good Award Winning Viral Video Tofucken"> 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/viral-campaign-strategy/img-gif-1-viral-campaign-strategy.gif?raw=true” alt=“PETA Funny For Good Award Winning Viral Video Tofucken"> 
 
 Video Views
 100M+
@@ -60,13 +59,14 @@ DoGooder
 Category
 Funny for Good
 
-[article clipping] 
+[one image tile max width 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/image-1-viral-campaign-strategy.webp
 
 
 ## Shorty Awards Finalist Campaign
 The "Behind the Leather" campaign created a powerful in-store experience that translated into viral online content [https://shortyawards.com/1st-socialgood/shoppers-horrified-when-they-realize-their-luxury-leather-purse-was-alive]:
 
-<img src=“https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/peta-viral-high-production/04-viral-award-winning-video-production.webp” alt=“PETA Award Winning Viral Video Shocks Luxury Shoppers"> 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/viral-campaign-strategy/img-gif-2-viral-campaign-strategy.gif?raw=true” alt=“PETA Award Winning Viral Video Shocks Luxury Shoppers"> 
 
 Organic Views
 40M+
@@ -74,12 +74,14 @@ Organic Views
 Recognition
 Shorty Finalist
 
-[screen grab of leather bag] 
+[one image tile max width 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/image-2-viral-campaign-strategy.webp 
 
 
 ## Viral Digital Strategy Creates Angry Hunters, Press [https://www.outdoorlife.com/heres-what-you-need-to-know-about-peta-facebook-photo-frame/#page-3] 
 
-[hunters image] 
+[one image tile max width 800px square] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/image-3-viral-campaign-strategy.webp
 
 ### Innovative Social Strategy
 Created a viral Facebook Frame campaign that generated significant engagement and press coverage:

@@ -39,31 +39,37 @@ User Experience
 
 ---
 
+Led critical digital infrastructure development and communication strategy for Hawaii's COVID-19 Healthcare Providers Taskforce (HIC19HCTF), delivering urgent updates and achieving significant engagement metrics through strategic implementation.
 
+img-1-public-health-response-platform.webpimg-2-public-health-response-platform.webp
 
-/Users/seanivore/Projects/portfolio-draft/projects/9 - Hawaii Covid Rapid Response Digital Consultant Web Dev Email Campaign.html
-/Users/seanivore/Projects/portfolio-draft/projects/9 - Hawaii Covid Rapid Response Digital Consultant Web Dev Email Campaign.css
+Project Impact
 
+Email Opens
++60%
 
+Click Rate
++33%
 
-HAWAII'S COVID-19 HEALTHCARE PROVIDERS TASKFORCE
-Coronavirus Rapid Response Healthcare Provider Resource 
-HIC19HCTF — Non-profit Health Care Union
+Conversion Increase
+58.55%
+in 24 hours
 
-March 2020 — https://www.hicovid.org/
+Technical Implementation
 
-Website design updates. 
-Advanced DNS adjustments. 
-Stack architecture for email collection used to contact various task-forces and for future email communications. 
-By-the-minute urgent updates for a serious situation requiring attention to details in a rush situation. 
-Email content design and campaign execution with +60% opens and +33% clicks. 
-Increased conversions 58.55% in under 24 hours. 
-Ongoing consultancy. 
+- Rapid website design updates for critical healthcare information delivery
+- Advanced DNS configuration for optimal performance
+- Custom email collection stack architecture for task force communications
+- Real-time urgent update system implementation
+- Strategic email campaign design and execution
+- Ongoing technical consultancy and support
 
-/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/01-hawaii-covid-response-rush-website-email-digital-consultant.png
+img-3-public-health-response-platform.webpimg-4-public-health-response-platform.webp
 
-/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/02-hawaii-covid-response-rush-website-email-digital-consultant.png
+Project Highlights
 
-/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/03-hawaii-covid-response-rush-website-email-digital-consultant.png
-
-/Users/seanivore/Projects/portfolio-clean/assets/entries/hawaii-covid-rapid-response/04-hawaii-covid-response-rush-website-email-digital-consultant.png 
+- Rapid deployment of critical healthcare communication infrastructure
+- Highly effective email campaign strategy with exceptional engagement rates
+- Significant conversion improvement achieved in under 24 hours
+- Robust technical architecture supporting urgent healthcare updates
+- Seamless integration of multiple communication channels
