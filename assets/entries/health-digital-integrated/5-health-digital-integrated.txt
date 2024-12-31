@@ -1,0 +1,87 @@
+PLACEMENT - 5 
+
+CONTENT TILE TITLE 
+Healthcare Provider Platform Development
+
+CONTENT TILE SUMMARY 
+Creation of a comprehensive digital platform for client, integrating digital media marketing and advertising campaigns.
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+
+CONTENT TILE FRONT PRIMARY TAGS 
+Development
+Design
+Strategy
+
+SEO META TITLE
+Healthcare Digital Platform | Provider Website Development
+
+SEO META SUMMARY 
+Creation of a comprehensive digital platform for healthcare providers, integrating patient management and communication systems.
+
+SEO META THUMBNAIL SOCIAL SHARE IAMGE - 1200px x 630px 
+
+
+PAGE TITLE 
+Healthcare Provider Platform Development
+
+PAGE HERO IMAGE - 1200px square 
+
+
+PROJECT PAGE INNER SECONDARY TAGS
+Healthcare Systems 
+Web Development 
+UX Design 
+Patient Experience 
+Digital Strategy 
+System Integration
+
+----
+
+
+
+
+/Users/seanivore/Projects/portfolio-draft/projects/5 - Webflow Site Dev Client Gifs.html
+/Users/seanivore/Projects/portfolio-draft/projects/5 - Webflow Site Dev Client Gifs.css
+
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/client-ckheals/webflow-client-website-dev-01.gif?raw=true” alt=“Webflow Site Dev Client CK Heals LLC 01”> 
+
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/client-ckheals/webflow-client-website-dev-02.gif?raw=true” alt=“Webflow Site Dev Client CK Heals LLC 01”> 
+
+
+This one was from before Webflow -- a design I created for the client via Kajabi. 
+
+<img src=“https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/client-ckheals/3-kajabi-earlier-web-dev-client-copywriting.webp” alt=“Kajabi Early Site Dev Client CK Heals LLC”> 
+
+
+COPY FROM OLD RESUME ENTRIES: 
+
+Digital Business Consultant / August House LLC
+JUN 2017 - PRESENT
+Provided digital consultancy for emotion-centric, design-first development to clients including Socialtyze LLC, DDO Artists, EndoSim LLC, and HI Covid Task Force. Specialized in marketing and socialadvertising strategies.
+•Managed brand development and web redesign for CK Heals LLC
+
+
+Digital Consultant @ CK Heals LLC [Client] — branding, site redesign yearly, prod. web courses, owned,
+Jun 2017 –
+today
+paid media publishing, analytics reporting. Current focus copy writing, email marketing. Result: triple quarterly lead
+generation.
+
+Contractor, Marketing Executive
+CK Heals LLC
+WHAT: Tripled lead generation. Increased client bookings +50%, repeat bookings +11.5%.
+HOW: Constructed digital business architecture: web pages, domains, Google Workplace, analytics, payments. De-
+signed logo, redesigned site yearly, updated quarterly. Produced online courses, traditional ads, social content. Man-
+aged email sequences, digital ads on FB, IG, Google Adsense.
+
+Web Architect
+
+Role: Web Architect
+Client: CK Heals LLC 
+
+Consulted for CK Heals LLC to create a website and social media presence that was optimized for converting visitors to clients by focusing heavily on copywriting that expresses the true essence of the client's personality. 
+

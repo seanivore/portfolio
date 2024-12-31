@@ -1,0 +1,208 @@
+PLACEMENT - 13
+
+CONTENT TILE TITLE
+Published LGBTQ Illustrations & Poetry
+
+CONTENT TILE SUMMARY 
+Authored and illustrated poetry book of original digital illustration and wordplay, bridging digital and traditional workflows. 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+
+CONTENT TILE PRIMARY TAGS 
+Design
+Production
+Strategy
+
+SEO META TITLE 
+Title: Digital Art Book Publication | Illustrated Poetry Collection
+
+SEO META SUMMARY 
+Creation and publication of a poetry book featuring original digital illustrations, successfully bridging digital and traditional publishing. The project demonstrates expertise in digital illustration, print production, and book publishing workflows.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+
+PAGE TITLE 
+Illustrated Poetry Book: Digital Art to Print
+
+PAGE HERO IMAGE - 1200px square 
+
+
+PAGE SECONDARY TAGS 
+Digital Illustration 
+Book Publishing 
+Print Production 
+Creative Direction 
+Distribution Strategy 
+Editorial Design
+
+
+---
+
+
+
+Digital Illustration & Published Poetry Book: PANTONE 3537 UP
+
+A self-published book of LGBTQ+ poetry featuring original digital illustrations, combining classical Greek sculptural influences with contemporary personal narrative. Written, illustrated, and published under my authorship as Sean August Horvath, the book has maintained consistent sales since its 2018 publication, including recent purchases in 2024.
+
+[LAYOUT: Two 480px x 600px portrait images side by side]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-00.webp
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-01.webp
+
+Project Scope:
+- Complete book conceptualization and execution
+- Original poetry writing and editing
+- Digital illustration creation for every poem
+- Book design and layout
+- Self-publishing process management
+- Post-publication marketing and distribution
+
+[LAYOUT: One full width 600px x 480px landscape image]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-02.webp
+
+The illustrations draw inspiration from classical Greek sculpture while incorporating contemporary elements from personal photography and memories. This fusion creates a unique visual narrative that complements the poetry's themes of love, growth, and self-discovery.
+
+[LAYOUT: One full width 600px x 480px landscape image]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/pantone-3537-book-published-illustrated/page-from-poetry-published-book-03.webp
+
+Publication Impact:
+- Featured review on BookLife (Publishers Weekly platform)
+- Consistent sales through Barnes & Noble and local consignment
+- Particularly resonant with young LGBTQ+ readers
+- Successfully pitched to multiple literary blogs and media outlets
+
+[LAYOUT: Button/Link]
+Barnes & Noble Purchase Link: https://www.barnesandnoble.com/w/pantone-3537-up-sean-august-horvath/1129908743
+
+[LAYOUT: Link within text]
+BookLife Review: https://booklife.com/project/pantone-3537-up-36219
+
+Personal Note:
+Writing this book fulfilled dual purposes: personal catharsis and creating the kind of resource I wished existed during my own coming-of-age journey. While the poems capture the raw emotions of early-20s love, the project's true value lies in its contribution to LGBTQ+ youth literature and its demonstration of how personal experience can be transformed into professional creative work.
+
+[LAYOUT: Large Image Grid - 3 columns x 29 rows]
+Each row should display the same illustration in three color variations:
+- Column 1: Green
+- Column 2: Charcoal
+- Column 3: White
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/2-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/2-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/2-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/4-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/4-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/4-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/6-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/6-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/6-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/7-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/7-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/7-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/8-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/8-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/8-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/10-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/10-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/10-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/12-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/12-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/12-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/14-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/14-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/14-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/16-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/16-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/16-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/17-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/17-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/17-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/18-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/18-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/18-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/19-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/19-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/19-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/21-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/21-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/21-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/22-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/22-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/22-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/23-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/23-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/23-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/24-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/24-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/24-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/25-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/25-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/25-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/26-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/26-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/26-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/27-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/27-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/27-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/29-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/29-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/29-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/30-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/30-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/30-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/31-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/31-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/31-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/38-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/38-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/38-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/39-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/39-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/39-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/40-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/40-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/40-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/42-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/42-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/42-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/44-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/44-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/44-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/45-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/45-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/45-pantone-3.webp
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/46-pantone-1.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/46-pantone-2.webp
+/Users/seanivore/Projects/portfolio-clean/assets/entries/pantone-3537-book-published-illustrated/46-pantone-3.webp 

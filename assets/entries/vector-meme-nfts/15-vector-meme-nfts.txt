@@ -1,0 +1,38 @@
+Original: 
+/Users/seanivore/Projects/portfolio-clean/projects/15 - GIFs Anamorphic NFTs and Classic Memes.css
+/Users/seanivore/Projects/portfolio-clean/projects/15 - GIFs Anamorphic NFTs and Classic Memes.html
+
+Title and summary for tile:
+Classic Memes & Cartoon GIF NFTs
+The most epic, loved memes recreated with high production value and minted along side vector hand illustrated version of your favorite cartoons. 
+
+Title: Vector Art Collection: Classic Meme NFT Series
+Meta Title: Vector Art NFTs | Classic Meme Reimagining Collection
+Summary: Creation of a unique NFT collection reimagining classic internet memes through sophisticated vector art techniques. The project demonstrates the intersection of traditional vector illustration with blockchain technology, while preserving and evolving internet cultural artifacts through contemporary art practices.
+
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/vector-meme-nfts-thumb.webp
+
+
+Front Page Tags (3):
+
+Design (Purple)
+Web3 (Teal)
+Production (Red)
+
+Inner Page Tags (6):
+
+Vector Art
+NFT Development
+Digital Illustration
+Cultural Preservation
+Blockchain Integration
+Collection Strategy
+
+https://seanivore.github.io/portfolio/projects/15%20-%20GIFs%20Anamorphic%20NFTs%20and%20Classic%20Memes.html
+
+projects/vector-meme-nfts
+
+
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/vector-meme-nfts-tile.webp

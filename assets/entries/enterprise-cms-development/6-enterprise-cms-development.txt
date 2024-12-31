@@ -1,0 +1,68 @@
+PLACEMENT - 6 
+
+CONTENT TILE TITLE 
+Custom UI/UX CMS Site Development
+
+CONTENT TILE SUMMARY 
+Development of sophisticated content management systems for enterprise clients, focusing on scalability and user experience. 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+
+CONTENT TILE FRONT PRIMARY TAGS
+Development
+Design
+Production
+
+SEO META TITLE 
+Enterprise Web Development | CMS Platform Architecture
+
+SEO META SUMMARY 
+Development of sophisticated content management systems for enterprise clients, focusing on scalability and user experience.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+
+PAGE TITLE 
+Enterprise CMS Platform Development
+
+PAGE HERO IMAGE - 1200 px square 
+
+
+PROJECT PAGE SECONDARY TILES 
+Web Development 
+CMS Architecture 
+UI/UX Design 
+System Integration 
+Performance Optimization 
+Technical Strategy
+
+---
+
+
+
+/Users/seanivore/Projects/portfolio-draft/projects/6 - Webflow Site Dev GIFs.html
+/Users/seanivore/Projects/portfolio-draft/projects/6 - Webflow Site Dev GIFs.css
+
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-02-lookbook-lightbox.gif?raw=true” alt=“Webflow Site Design Lookbook Fashion Image Lightbox”> 
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-03-lookbook-article.gif?raw=true” alt=“Webflow Site Design Lookbook Fashion Article”> 
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-04-lookbook.gif?raw=true” alt=“Webflow Site Design Lookbook Fashion”> 
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-05-prints.gif?raw=true” alt=“Webflow Site Design Print Shop”> 
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-06-nav-home.gif?raw=true” alt=“Webflow Site Design Home Page”> 
+
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-07-lookbook-index.gif?raw=true” alt=“Webflow Site Design Nav Lookbook Index”>
+
+---
+
+
+I guess I don't have anything specific already written up for this. But it is highlighting the main parts of the site which are the Lookbook and the Print Store. Which we'll have entries on later (much later as we'll keep the focus on more tech related stuff after these first few before circling back to make it a comprehensive portfolio). 
+
+But as with all the Webflow designs, it is all custom, optimized for UX, carefully done UI -- the nav bar is a great example of this. And the home page in how interactive it is, encouraging the viewer to continue scrolling and giving them a full overview of the content on the site. 
+

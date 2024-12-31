@@ -1,0 +1,95 @@
+
+
+Some of the below were notes for the Style Spectrum section from before it evolved into Style_Droid
+
+Here I think we want to break down the automations used. 
+
+/Users/seanivore/Projects/portfolio-draft/entries-drafting/Entries/22 - scaleable podcast network distribution system/automation-approval-webhook-notes-integrated-debate-podcast.webp
+/Users/seanivore/Projects/portfolio-draft/entries-drafting/Entries/22 - scaleable podcast network distribution system/automation-daily-news-updates-advanced-system.webp
+/Users/seanivore/Projects/portfolio-draft/entries-drafting/Entries/22 - scaleable podcast network distribution system/automation-emailed-perplexity-research-request.webp
+/Users/seanivore/Projects/portfolio-draft/entries-drafting/Entries/22 - scaleable podcast network distribution system/automation-feedback-request-integrate-updates.webp
+/Users/seanivore/Projects/portfolio-draft/entries-drafting/Entries/22 - scaleable podcast network distribution system/automation-topic-research-writing-podcast-TTS-and-transcripts.webp
+
+---
+Drafted Case Study
+
+# Case Study 💎 Scalable Podcast Network Production System
+
+Developed a cutting-edge, highly scalable podcast production system that revolutionizes content creation and management. This innovative approach combines AI-driven content generation with modular, data-driven decision-making processes.
+
+Key Features:
+
+- Automated article collection and content generation using NotebookLM and custom AI prompts
+- Modular topic management allowing for easy addition, removal, or expansion of podcast themes
+- Flexible content structure adaptable to various topics while maintaining brand consistency
+- Integrated multi-platform content strategy, including podcast audio, YouTube videos, blog posts, and newsletters
+- Data-driven optimization process for continual improvement and audience engagement
+- Scalable from individual podcasts to entire topic-based networks with minimal overhead
+
+Results:
+
+- Dramatically reduced production time and resources required per episode
+- Increased ability to respond rapidly to emerging trends and audience interests
+- Enhanced potential for network growth and niche audience targeting
+- Improved content quality through iterative, data-informed improvements
+
+This system demonstrates forward-thinking in content creation, combining efficiency with flexibility to stay ahead in the fast-paced digital media landscape. It showcases the ability to leverage AI and data analysis in creating engaging, informative content across multiple platforms while maintaining a cohesive brand identity.
+
+
+----
+From previous entries for organization
+-----
+-----
+Style Spectrum > Style_Droid
+
+Style Spectrum's Start
+- 30 Art Movements 
+- 10 Articles Per Art Movement 
+- AI Created Visual Examples 
+
+Birth of ArtMovementMuseum
+- Novelty of Art Movement Visuals 
+- Paradox that Art History is historically not a very visual course, comparatively 
+- Birth of Massive Creation of Representative Art History Images 
+- Online Store
+- Etsy Store and Sales 
+- Pinterest and other Social Media Metrics 
+
+Final Evolution into Style_Droid
+- Broadening brand to create new verticals 
+- Engagement To-Post Comment Creator Automation in Make 
+- LINK OFF TO THE META SHOPPING ADS CASE STUDY PAGE 
+- 26 Original Topics -- work with Perplexity creating categories and system 
+- Building Make Automation for Finding Weekly New Articles in Each Category 
+- Early Adoption of NotebookLM YouTube Success -- pull metrics and timeframe 
+- Automated Process in Make via Notion — Describe 
+- Eventual condensing of (1) categories, (2) editing down NBLM podcast output in Adobe Audition, (3) Perfection of Asset Creation SOP making production first-try-perfect AI Writing: How we created it and Implemented it 
+- Visual Creation via After Effects and Adobe Premiere Pro, creating. .SRT subtitles and then Whisper for creating assets, and then .txt version for using GPT to identify Chapter timeframes 
+
+Content Record-Keeping Process using GPT Assistant Embeddings 
+- Describe Plan 
+- Describe wild behavior of Assistant 
+- Express massive potential 
+
+Creation of first coding project
+- DIY Projects RAG
+- Chat UI 
+- Knowledge Embeddings 
+
+-----
+Then come MCPs — lesson learned about how to choose projects that will not be superseded by frontier models in mere months 
+
+Explain Shift in Focus to Framer
+Letting go of Webflow 
+Discovering Github
+ContinueDev
+ClineDev Magic with all MCPs
+
+Breakdown of "Executive Planning" model versus "Tool builder model" 
+
+MVPs -- provide brainstorm list
+Only lightly allude to check-in app 
+
+RAG planning strategy building content production, copying it, adding new ability for new type of content, copying it, adding user interface and new ability --- etc. etc. 
+
+

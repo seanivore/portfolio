@@ -1,0 +1,38 @@
+Original
+/Users/seanivore/Projects/portfolio-clean/projects/4-three-peta-apps.css
+/Users/seanivore/Projects/portfolio-clean/projects/4-three-peta-apps.html
+
+Title and summary for tile:
+Mobile App Development & Strategy Management
+Management and development of a collection of mobile applications, focusing on user growth and engagement metrics.
+
+Title: Mobile App Collection: Development & Strategy
+Meta Title: Mobile App Portfolio | Development & Growth Strategy
+Summary: Management and development of a collection of mobile applications, focusing on user growth and engagement metrics.
+
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/mobile-app-collection-thumb.webp
+
+
+Front Page Tags (3):
+
+Development (Green) 
+Strategy (Orange) 
+Production (Red)
+
+Inner Page Tags (6):
+
+Mobile Development 
+Project Management 
+User Growth 
+App Strategy 
+Analytics 
+Performance Optimization
+
+https://seanivore.github.io/portfolio/projects/4-three-peta-apps.html
+
+projects/mobile-app-collection
+
+
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/mobile-app-collection-tile.webp

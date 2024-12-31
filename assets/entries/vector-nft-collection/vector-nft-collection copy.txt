@@ -1,0 +1,38 @@
+Original: 
+/Users/seanivore/Projects/portfolio-clean/projects/10-vector-nft-art.css
+/Users/seanivore/Projects/portfolio-clean/projects/10-vector-nft-art.html
+
+Title and summary for tile:
+Minted Hand Drawn Vector NFT Artwork
+Unique NFT collection featuring GIFs and fine art at intersection of traditional illustration techniques with blockchain technology.
+
+Title: Hand-Drawn Vector NFT Series
+Meta Title: Vector Art NFT Collection | Digital Art Series
+Summary: Creation of a unique NFT collection featuring hand-drawn vector art, demonstrating the intersection of traditional illustration techniques with blockchain technology.
+
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/vector-nft-collection-thumb.webp
+
+
+Front Page Tags (3):
+
+Design (Purple)
+Web3 (Teal)
+Production (Red)
+
+Inner Page Tags (6):
+
+Vector Art
+NFT Development
+Digital Illustration
+Collection Strategy
+Web3 Integration
+Creative Direction
+
+https://seanivore.github.io/portfolio/projects/10-vector-nft-art.html
+
+projects/vector-nft-collection
+
+
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/vector-nft-collection-tile.webp

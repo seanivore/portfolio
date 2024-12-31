@@ -1,0 +1,38 @@
+Original: 
+/Users/seanivore/Projects/portfolio-clean/projects/11-web3-privacy-dao.css
+/Users/seanivore/Projects/portfolio-clean/projects/11-web3-privacy-dao.html
+
+Title and summary for tile:
+Web3 Brand Creative Direction & Strategy 
+Strategic development and design implementation for a privacy-focused DAO including governance structures and visual systems.
+
+Title: Web3 DAO: Strategic Design & Operations
+Meta Title: DAO Design & Strategy | Web3 Organization Development
+Summary: Strategic development and design implementation for a privacy-focused DAO, including governance structures and visual systems.
+
+THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/privacy-dao-strategy-thumb.webp
+
+
+Front Page Tags (3):
+
+Web3 (Teal) 
+Strategy (Orange) 
+Design (Purple)
+
+Inner Page Tags (6):
+
+DAO Strategy 
+Web3 Governance 
+Brand Architecture 
+Community Design 
+Protocol Development 
+Creative Direction
+
+https://seanivore.github.io/portfolio/projects/11-web3-privacy-dao.html
+
+projects/privacy-dao-strategy
+
+
+TILE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/privacy-dao-strategy-tile.webp
