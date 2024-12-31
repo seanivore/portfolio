@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Management and development of a collection of mobile applications, focusing on user growth and engagement metrics.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-tile-ux-ui-ios-marketing.webp
 
 CONTENT TILE PRIMARY TAGS
 Development
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Management and development of a collection of mobile applications, focusing on user growth and engagement metrics.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-thumbnail-ux-ui-ios-marketing.webp
 
 PAGE TITLE 
 Mobile App Collection: Development & Strategy
 
 PAGE HERO IMAGE - 1200 px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-hero-ux-ui-ios-marketing.webp
 
 PAGE SECONDARY TAGS
 Mobile Development 
@@ -44,8 +44,10 @@ Multi-App Development & Management – Led development and optimization of three
 
 Apps Performance Overview
 
-[BAR GRAPH]
-chart-1-ux-ui-ios-marketing.tsxchart-2-ux-ui-ios-marketing.tsx
+[bar graph on single card max width 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/chart-1-ux-ui-ios-marketing.tsx
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/chart-2-ux-ui-ios-marketing.tsx
+
 
 PETA: Saving Animals Made Easy
 
@@ -58,8 +60,9 @@ Rating
 Reviews
 1.5K+
 
-[PETA IPHONE APP - TWO IMAGES]
-img-2-ux-ui-ios-marketing.webpimg-1-ux-ui-ios-marketing.webp
+[TWO IMAGE CARD GRID ROW, TOTAL MAX WIDTH 800PX] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-1-ux-ui-ios-marketing.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-2-ux-ui-ios-marketing.webp
 
 Key Achievements
 - Achieved over 1 million downloads with multi-million actions taken
@@ -76,8 +79,10 @@ Category Rank
 Rating
 4.5 ★
 
-[PETA2 IOS STICKER APP - TWO IMAGES] 
-img-3-ux-ui-ios-marketing.webpimg-4-ux-ui-ios-marketing.webp
+[TWO IMAGE CARD GRID ROW, TOTAL MAX WIDTH 800PX] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-3-ux-ui-ios-marketing.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-4-ux-ui-ios-marketing.webp
+
 
 Project Impact
 - Ranked #198 in Animals & Nature category
@@ -94,8 +99,10 @@ Return Users
 Page Views
 +12%
 
-[TWO BUNNY FREE IPHONE IMAGES] 
-img-5-ux-ui-ios-marketing.webpimg-6-ux-ui-ios-marketing.webp
+[TWO IMAGE CARD GRID ROW, TOTAL MAX WIDTH 800PX] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-5-ux-ui-ios-marketing.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-6-ux-ui-ios-marketing.webp
+
 
 Development Impact
 - Increased return users by 33.7% month-over-month
