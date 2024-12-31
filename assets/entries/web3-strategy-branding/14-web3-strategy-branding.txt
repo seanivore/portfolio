@@ -1,0 +1,84 @@
+POSITION - 14 
+
+CONTENT TILE TITLE 
+Web3 Privacy Protocol Branding Productions
+
+CONTENT TILE SUMMARY 
+Creative direction of motion design strategies and hand illustrations used to breakdown sophisticated concepts for everyone. 
+
+CONTENT TILE IMAGE - 16:9 aspect and 600px wide 
+
+CONTENT TILE FRONT PAGE MAIN TAGS
+Design
+Web3
+Production
+
+SEO META TITLE 
+Web3 Brand Design | Motion Design for Privacy Protocol
+
+SEO META SUMMARY 
+Creative direction and execution of comprehensive branding and motion design for a Web3 privacy protocol. The project showcases the visualization of complex blockchain concepts through sophisticated motion design and branding elements, making technical concepts accessible while maintaining visual sophistication.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+PROJECT PAGE TITLE
+Web3 Privacy Protocol: Motion Design & Branding
+
+PROJECT PAGE HERO IMAGE
+
+PROJECT PAGE ADDITIONAL TAGS
+Motion Design
+Brand Strategy
+3D Animation
+Creative Direction
+Technical Visualization
+Web3 Integration
+
+--
+
+As Creative Director for a privacy-focused web3 DAO, I spearheaded the complete visual identity and motion design strategy, producing thousands of creative assets while collaborating with a global development team. This role demanded mastery of multiple animation techniques and design approaches to establish a distinctive brand presence in the competitive web3 space.
+
+Technical Proficiencies:
+- After Effects expression programming
+- 3D modeling and animation
+- Vector illustration and motion graphics
+- Social media-optimized content creation
+- Cross-platform visual asset management
+
+[LAYOUT: Full width GIF]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/3D-coins-defi-web3-video-animation-clip-1.gif?raw=true” alt=“Video Production with 3D Elements representing coins for their competitors”> 
+Caption: Competitor Analysis Motion Graphics
+
+[LAYOUT: Full width GIF]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/3D-coins-defi-web3-video-animation-clip-2.gif?raw=true” alt=“3D Coins for Cryptocurrency Branding Social Media Pages”> 
+Caption: Cryptocurrency Brand Animation
+
+Brand Identity Evolution:
+The project required balancing stakeholder vision with innovative design approaches. I leveraged creative autonomy to explore emerging design trends, particularly in 3D animation and motion graphics, while maintaining brand consistency.
+
+[LAYOUT: Full width GIF]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/glass%203d%20logo%20animation.gif?raw=true” alt=“Silent Protocol 3D Glass Reflective Logo Animated Clip”> 
+Caption: Protocol Brand Identity Animation
+
+Technical Animation Development:
+Advanced my expertise in After Effects expressions and 3D animation, creating custom effects for video productions and social media content.
+
+[LAYOUT: Two GIFs side by side]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/after-effects-fx-infinite-never-ending-grid-tunnel.gif?raw=true” alt=“Infinite Neon Grid Tunnel”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/after-effects-spinning-glowing-cube.gif?raw=true” alt=“Spinning Radiant 3D Cube”>
+Caption: Custom After Effects Expression Animations
+
+Vector Illustration & Motion Design:
+Developed hand-crafted vector animations using Adobe Fresco, combining traditional artistic techniques with digital motion design to create unique, engaging content.
+
+[LAYOUT: 3x2 Grid of GIFs, three rows and two columns]
+Row 1: <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/hand-drawn-vector-animated-dragon.gif?raw=true” alt=“Hand Drawn Vector Motion Graphic Dragon”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/hand-drawn-vector-flag-waving-1.gif?raw=true” alt=“Hand Drawn Vector Motion Graphic Waving Flag”> 
+Row 2: <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/pepe-meme-new-influencer-follower-commentary.gif?raw=true” alt=“Pepe New Influencer Following Commentary Post”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/pepe-social-brand-new-followers-commentary.gif?raw=true” alt=“Pepe Motion Graphic Commentary On Following Growth Before Launch”>
+Row 3: <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/running-horse-pepe-with-flag-waving.gif?raw=true” alt=“Hero Pepe Stop Motion Video”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/web3-brand-character-moon-animation.gif?raw=true” alt=“Monkey and Pepe Beat Competition To Moon Social Media Post Motion Graphic”> 
+Caption: Vector-based Motion Graphics Series
+
+Project Impact:
+- Established cohesive brand identity across multiple platforms
+- Created scalable design system for ongoing content creation
+- Integrated emerging animation techniques with traditional design principles
+- Developed efficient workflow for rapid content production
+- Successfully balanced stakeholder requirements with creative innovation

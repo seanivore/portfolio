@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Transformed complex blockchain privacy concepts into engaging content through strategic brand design and storytelling, reaching mainstream audiences through visual systems, educational content, and creative marketing.
 
 CONTENT TILE IMAGE - 16:9 at 600px wide
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-tile-technical-defi-content-simplification.webp
 
 CONTENT TILE PRIMARY TAGS
 Brand Strategy
@@ -21,12 +21,13 @@ SEO META SUMMARY
 Case study in translating complex blockchain technology into accessible brand narratives through strategic design, educational content, and creative storytelling.
 
 SEO THUMBNAIL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-thumbnail-technical-defi-content-simplification.webp
 
 PAGE TITLE 
 Technical Translation Through Strategic Design
 
 PAGE HERO IMAGE - 1200px square
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-hero-technical-defi-content-simplification.webp
 
 ON PROJECT PAGE SECONDARY TAGS
 Strategic Design
@@ -48,6 +49,12 @@ Transformed complex blockchain privacy technology into accessible brand narrativ
 - 9+ Educational Design Systems
 - 3+ Video Narratives Created
 
+[GIF @ 800 px wide x 533 px tall]
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/technical-defi-content-simplification/img-gif-1-technical-defi-content-simplification.gif?raw=true” alt=“Luxury setting as Monkey sits in front of flickering fire in the chair from The Matrix with his custom bottle of SilentDao liquor”>
+
+[Caption:] Privacy is for those with class. 
+
 ### Content Strategy Implementation
 
 #### Technical Translation
@@ -56,13 +63,31 @@ Transformed complex blockchain privacy technology into accessible brand narrativ
 - Created educational content frameworks for multiple audience types
 - Built scalable design systems for ongoing content creation
 
+[three image card grid with two rows - all six images are square - only one caption for entire grid - Alt: Classic band tees remade for Silent Protocol, a privacy layer that can be easily integrated into any web3 DeFi applications.] 
+
+[https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-1-technical-defi-content-simplification.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-2-technical-defi-content-simplification.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-3-technical-defi-content-simplification.webp] 
+
+[https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-4-technical-defi-content-simplification.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-5-technical-defi-content-simplification.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-6-technical-defi-content-simplification.webp] 
+
+[Caption:] Classic band tees remade for Silent Protocol, a privacy layer that can be easily integrated into any web3 DeFi applications
+
 #### Creative Execution
 - Designed classic rock-inspired merchandise connecting Web3 to familiar cultural touchpoints
 - Created animated educational content explaining privacy concepts
 - Produced high-impact social media content for community engagement
 - Developed comprehensive brand visuals at print-ready quality
 
+[GIF @ max-width 800 px square]
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/technical-defi-content-simplification/img-gif-2-technical-defi-content-simplification.gif?raw=true” alt=“Morphing logo into padlock series complication”>
+
+[Caption:] The logo is the symbol for a metered break in sheet music. 
+
 ### Project Impact
 By focusing on strategic translation of technical concepts into accessible content, we successfully bridged the gap between blockchain technology and mainstream understanding. The project demonstrated the power of combining technical knowledge with creative storytelling to build engaging brand narratives that educate while entertaining.
 
-[Include relevant image galleries and video content from previous version]
+[GIF @ max-width 800 px square]
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/technical-defi-content-simplification/img-gif-4-technical-defi-content-simplification.gif?raw=true” alt=“Pepe meme animation combined with everything is fine dog on fire meme with fiat currency burning in the background”>
+
+[Caption:] Everything is fine, Pepe doesn't need fiat currency. 
