@@ -62,7 +62,7 @@ nav {
 .nav-links a {
     margin-left: 2rem;
     text-decoration: none;
-    color: var(--secondary-color);
+    color: var(--text-color);
     transition: color 0.3s ease;
 }
 
@@ -70,47 +70,28 @@ nav {
     color: var(--accent-color);
 }
 
-/* Hero Section Styles */
-.hero-container {
-    position: relative;
-    height: 600px;
-    overflow: hidden; /* Ensures image doesn’t spill */
-}
-
-.hero-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 600px;
-    background-color: transparent;
-    z-index: 2;
+/* Hero section */
+.hero {
+    height: 100vh;
     display: flex;
-    justify-content: center; /* Centers child div horizontally */
-    align-items: flex-end; /* Aligns child div to the bottom */
-    padding: 4rem 0; /* Extra padding for spacing */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: var(--spacing);
+    background-color: #f8f9fa;
 }
 
-.hero-title {
+.hero h1 {
     font-size: 2.5rem;
-    margin: 1rem;
-    width: 800px;
-    text-align: left;
-    margin: 0 auto; /* Center the 800px-wide title */
-    color: #fff;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    margin-bottom: 1rem;
+    line-height: 1.2;
+    color: var(--primary-color);
+    font-weight: normal;
 }
 
-.hero-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 1200px; /* Matches image height */
-    background-size: cover;
-    background-position: center bottom; /* Start at middle bottom */
-    z-index: 1; /* Behind the overlay */
-    transform: translateY(0); /* Initial parallax position */
+.hero p {
+    font-size: 1.25rem;
+    color: var(--secondary-color);
 }
 
 /* Main content */
@@ -131,20 +112,6 @@ h2 {
     text-align: center;
     font-weight: normal;
     color: var(--primary-color);
-}
-
-/* Conclusion callout */
-.conclusion {
-    font-size: 1.2rem;
-    line-height: 1.8;
-    color: var(--text-color);
-    margin: 2rem auto;
-    padding: 1.5rem 2rem;
-    background: #f8f8f8;
-    border-left: 6px solid var(--accent-color); /* Left accent line */
-    border-radius: 10px; /* Slightly rounded corners */
-    max-width: 800px; /* Consistent width */
-    text-align: left;
 }
 
 /* Projects grid */
@@ -210,7 +177,7 @@ h2 {
 
 .project-content p {
     margin-bottom: 1.5rem;
-    color: var(--secondary-color);
+    color: var(---text-color);
     font-weight: 300;
 }
 
@@ -313,7 +280,7 @@ h2 {
 .social-link {
     padding: 0.75rem 1.5rem;
     text-decoration: none;
-    color: var(--secondary-color);
+    color: var(--text-color);
     border: 1px solid #eee;
     border-radius: 2px;
     transition: all 0.3s ease;
@@ -328,7 +295,7 @@ h2 {
 footer {
     text-align: center;
     padding: 2rem;
-    color: var(--secondary-color);
+    color: var(--text-color);
     border-top: 1px solid #eee;
     margin-top: 4rem;
 }
