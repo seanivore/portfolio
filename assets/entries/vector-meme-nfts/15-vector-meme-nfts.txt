@@ -1,27 +1,35 @@
-Original: 
-/Users/seanivore/Projects/portfolio-clean/projects/15 - GIFs Anamorphic NFTs and Classic Memes.css
-/Users/seanivore/Projects/portfolio-clean/projects/15 - GIFs Anamorphic NFTs and Classic Memes.html
+POSITION - 15 
 
-Title and summary for tile:
+CONTENT TILE TITLE 
 Classic Memes & Cartoon GIF NFTs
+
+CONTENT TILE SUMMARY 
 The most epic, loved memes recreated with high production value and minted along side vector hand illustrated version of your favorite cartoons. 
 
-Title: Vector Art Collection: Classic Meme NFT Series
-Meta Title: Vector Art NFTs | Classic Meme Reimagining Collection
-Summary: Creation of a unique NFT collection reimagining classic internet memes through sophisticated vector art techniques. The project demonstrates the intersection of traditional vector illustration with blockchain technology, while preserving and evolving internet cultural artifacts through contemporary art practices.
+CONTENT TILE IMAGE - 16:9 aspect and 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-meme-nfts/img-tile-vector-meme-nfts.webp
 
-THUMBNAIL
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/vector-meme-nfts-thumb.webp
+CONTENT TILE PRIMARY TAGS 
+Design
+Web3
+Production
 
+SEO META TITLE 
+Vector Art NFTs | Classic Meme Reimagining Collection
 
-Front Page Tags (3):
+SEO META SUMMARY 
+Creation of a unique NFT collection reimagining classic internet memes through sophisticated vector art techniques. The project demonstrates the intersection of traditional vector illustration with blockchain technology, while preserving and evolving internet cultural artifacts through contemporary art practices.
 
-Design (Purple)
-Web3 (Teal)
-Production (Red)
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-meme-nfts/img-thumbnail-vector-meme-nfts.webp
 
-Inner Page Tags (6):
+PAGE TITLE 
+Vector Art Collection: Classic Meme NFT Series
 
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-meme-nfts/img-hero-vector-meme-nfts.webp
+
+PAGE SECONDARY TAGS 
 Vector Art
 NFT Development
 Digital Illustration
@@ -29,18 +37,8 @@ Cultural Preservation
 Blockchain Integration
 Collection Strategy
 
-https://seanivore.github.io/portfolio/projects/15%20-%20GIFs%20Anamorphic%20NFTs%20and%20Classic%20Memes.html
-
-projects/vector-meme-nfts
-
-
-TILE
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/tile%20image%20and%20thumbnails/vector-meme-nfts-tile.webp
-
 
 ---
-
-Vector Art Evolution: Classic Meme Reimagining & NFT Creation
 
 A creative exploration combining vector illustration, motion design, and web3 technology to reimagine iconic memes and cartoon characters. This project showcased the intersection of traditional animation techniques with blockchain technology, leading to opportunities in web3 creative direction.
 
@@ -52,16 +50,17 @@ Technical Approach:
 - Cross-platform optimization
 
 Classic Meme Reimagining:
-[two image cards with total max width of 800px] 
-img-gif-1-vector-meme-nfts.gifimg-gif-2-vector-meme-nfts.gif
+[two image cards with total max width of 800px]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/vector-meme-nfts/img-gif-1-vector-meme-nfts.gif?raw=true” alt=“Everything is Fine Dog Flickering Classy Meme facelift redesign”> | <img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/vector-meme-nfts/img-gif-2-vector-meme-nfts.gif?raw=true” alt=“Pepe as the everything is fine dog, but burning fiat”> 
 Caption: Modern Vector Interpretations of "This is Fine" Meme Series
 
 These reinterpretations maintain the original memes' emotional impact while introducing contemporary design elements and web3-specific messaging. The clean vector style and hypnotic animation loops created a distinct aesthetic that resonated with both traditional meme culture and the emerging NFT community.
 
 Pop Culture Character Series:
-[LAYOUT: 2x2 Grid]
-Row 1: <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Bojack%20gets%20jacked.gif?raw=true” alt=“Bojack Horseman Gets Jacked Motion Graphic GIF Drawing NFT”> | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Jake%20the%20Dog%20of%20the%20Gym.gif?raw=true” alt=“Jake The Dog Hits The Gym Motion Graphic GIF Drawing NFT”>
-Row 2: https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Skeeter%20Glow-up.png?raw=true | <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/cartoon-gif-meme-nfts/Zoidberg%20MD.gif?raw=true” alt=“Futurama's Dr. Zoidberg Hits The Gym Motion Graphic GIF NFT”>
+[two image cards in a row and two rows] 
+
+Row 1: <img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/vector-meme-nfts/img-gif-3-vector-meme-nfts.gif?raw=true” alt=“Bojack Horseman Gets Jacked Motion Graphic GIF Drawing NFT”> | <img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/vector-meme-nfts/img-gif-4-vector-meme-nfts.gif?raw=true” alt=“Jake The Dog Hits The Gym Motion Graphic GIF Drawing NFT”>
+Row 2: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-meme-nfts/img-1-vector-meme-nfts.webp | <img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/vector-meme-nfts/img-gif-5-vector-meme-nfts.gif?raw=true” alt=“Futurama's Dr. Zoidberg Hits The Gym Motion Graphic GIF NFT”>
 Caption: Reimagined Animation Icons Series
 
 The character series explores transformation themes through beloved animated characters, featuring custom vector illustrations of:
