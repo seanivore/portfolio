@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Strategy of event live coverage inserting messaging of real-time occurrences to leverage viral earned media responses.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/realtime-social-system/img-tile-realtime-social-system.webp
 
 CONTENT TILE PRIMARY TAGS 
 Production
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Development of a real-time social media content production system achieving significant earned media coverage.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/realtime-social-system/img-thumbnail-realtime-social-system.webp
 
 PAGE TITLE 
 Real-Time Social Media Production System
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/realtime-social-system/img-hero-realtime-social-system.webp
 
 PAGE SECONDARY TAGS 
 Social Media 
@@ -54,7 +54,8 @@ As one of two team members managing PETA's social media presence, I pioneered ra
 - Achieved viral success leading to earned media coverage in Yahoo News
 - Established new benchmarks when most brands relied on text-only updates
 
-[Yahoo News Coverage of Viral UGGs Image With Entire Article About Why UGGs Are Ugly; 16:9 aspect, 1,000 px wide] img-press-2-realtime-social-system.webp
+[Alt: Yahoo News Coverage of Viral UGGs Image With Entire Article About Why UGGs Are Ugly; 16:9 aspect, 1,000 px wide] https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/realtime-social-system/press-img-2-realtime-social-system.webp
+[Caption:] Yahoo News Coverage of Viral UGGs Image With Entire Article About Why UGGs Are Ugly
 
 Super Bowl Live Coverage Innovation (2014)
 Building on our rapid-response capabilities, we executed a breakthrough real-time campaign during one of the year's biggest media events:
@@ -64,7 +65,8 @@ Building on our rapid-response capabilities, we executed a breakthrough real-tim
 - Achieved significant viral reach during high-competition timeframe
 - Generated substantial earned media coverage
 
-[Super Bowl Live-Tweeting Coverage by Brand Dot Com of Viral Tweet that paired an emotional image of a fox used for fur, in a fur farm cage with the words 'not yours to wear' and the image went viral during the game; 16:9 aspect, 1,000 px wide] img-press-1-realtime-social-system.webp
+[Alt: Super Bowl Live-Tweeting Coverage by Brand Dot Com of Viral Tweet that paired an emotional image of a fox used for fur, in a fur farm cage with the words 'not yours to wear' and the image went viral during the game; 16:9 aspect, 1,000 px wide] https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/realtime-social-system/press-img-1-realtime-social-system.webp 
+[Caption:] Super Bowl Live-Tweeting Coverage by Brand Dot Com of Viral Tweet that paired an emotional image of a fox used for fur, in a fur farm cage with the words 'not yours to wear' and the image went viral during the game
 
 Campaign Metrics
 - 862 Retweets from a single strategic post
