@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 AI-driven content production system using scalable automated workflows and data-driven optimization reduced production time by 70%
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-tile-scalable-podcast-network.webp
 
 CONTENT TILE PRIMARY TAGS 
 AI/Automation
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Development of an automated content distribution system for a podcast network, integrating AI for content optimization, multi-platform publishing, and analytics tracking. The system streamlined production workflow, increasing output capacity by 300% while maintaining content quality and brand consistency.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-thumbnail-scalable-podcast-network.webp
 
 PAGE TITLE 
 Scalable Podcast Network: AI-Driven Content Production System
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-hero-scalable-podcast-network.webp
 
 PAGE SECONDARY TAGS 
 Content Production
@@ -53,31 +53,31 @@ Performance Metrics (Q4 2023):
 System Architecture:
 
 1. Content Research & Generation:
-[LAYOUT: Full-width automation diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-emailed-perplexity-research-request.webp
-Caption: Automated Research Pipeline Integration
+[single image card, max width 800px, Alt: Automation for emailing Perplexity research requests] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-1-scalable-podcast-network.webp
+[Caption:] Automated Research Pipeline Integration
 
 2. Topic Management System:
-[LAYOUT: Full-width automation diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-topic-research-writing-podcast-TTS-and-transcripts.webp
-Caption: Content Creation and Distribution Workflow
+[single image card, max width 800px, Alt: Automation for systematic categorical weekly research, agentic article writing, agentic podcast script writing, talk to text conversion and production of transcripts] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-2-scalable-podcast-network.webp
+[Caption:] Content Creation and Distribution Workflow: Automation for systematic categorical weekly research, agentic article writing, agentic podcast script writing, talk to text conversion and production of transcripts. 
 
 Key Components:
 
 Advanced News Integration:
-[LAYOUT: Full-width automation diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-daily-news-updates-advanced-system.webp
-Caption: Automated News Processing System
+[single image card, max width 800px, Alt: Daily new updates automatically emailed with proper styling, summary, bullet points, and thoughts on potential for content production on topic] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-3-scalable-podcast-network.webp
+[Caption:] Automated News Processing System: Daily new updates automatically emailed with proper styling, summary, bullet points, and thoughts on potential for content production on topic. 
 
 Quality Control:
-[LAYOUT: Full-width automation diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-approval-webhook-notes-integrated-debate-podcast.webp
-Caption: Content Approval and Integration Workflow
+[single image card, max width 800px, Alt: Automation trigged after human sends approval of debate podcast topics leading to agentic production of scripts with LLMs self-reviewing] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-4-scalable-podcast-network.webp
+Caption: Content Approval and Integration Workflow: Automation trigged after human sends approval of debate podcast topics leading to agentic production of scripts with LLMs self-reviewing
 
 Feedback Loop:
-[LAYOUT: Full-width automation diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/scalable-podcast-network/automation-feedback-request-integrate-updates.webp
-Caption: Audience Feedback Integration System
+[single image card, max width 800px, Alt: Automation for triggering deeper topic research upon human sending email including multiple drafting steps and editing] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/scalable-podcast-network/img-5-scalable-podcast-network.webp
+[Caption:] Audience Feedback Integration System
 
 Technical Implementation:
 1. Content Generation:
