@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Unique NFT collection featuring GIFs and fine art at intersection of traditional illustration techniques with blockchain technology.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-tile-vector-nft-art.webp
 
 CONTENT TILE PRIMARY TAGS 
 Design
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Creation of a unique NFT collection featuring hand-drawn vector art, demonstrating the intersection of traditional illustration techniques with blockchain technology.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-thumbnail-vector-nft-art.webp
 
 PAGE TITLE 
 Hand-Drawn Vector NFT Series
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-hero-vector-nft-art.webp
 
 PAGE SECONDARY TAGS 
 Vector Art
@@ -58,25 +58,18 @@ https://mintable.app/u/seanivore
 https://crypto.com/nft/profile/seanivore
 
 [one max width 800px image tile gif] 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-9.gif?raw=true” alt=“Hand Drawn Vector NFT Minted Motion Design Art”>
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/vector-nft-art/img-gif-1-vector-nft-art.gif?raw=true” alt=“Hand Drawn Vector NFT Minted Motion Design Art”>
 
+[8 images, 4 rows with 2 image tiles per row in grid, max width 800px, square images, one caption per row] 
 
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-1.png
+ROW: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-1-vector-nft-art.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-2-vector-nft-art.webp
+[CAPTION:] Intricate, antique silver and gold sword hilts, drawn with vector by hand in Adobe Fresco 
 
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-2.png
+ROW: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-3-vector-nft-art.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-4-vector-nft-art.webp
+[CAPTION:] Heavenly bodies, our earth and our moon, both drawn with Apple Pencil on an Apple iPad Pro 
 
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-3.png
+ROW: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-5-vector-nft-art.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-6-vector-nft-art.webp 
+[CAPTION:] Mars, very carefully drawn from detailed reference, and a wizard's staff
 
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-4.png
-
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-5.png
-
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-6.png
-
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-7.png
-
-/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-8.png
-
-
-
-
+ROW: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-7-vector-nft-art.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/vector-nft-art/img-8-vector-nft-art.webp
+[CAPTION:] Still image of an NFT GIF with the world inside a brain; both this image and the statue of a man holding a towel were created by using many layers of solid vector shapes, set to an opacity, and then carefully assembled to show highlights and shadows through stacking of the layering 
