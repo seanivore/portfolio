@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 ArtMovementMuseum uses cutting edge technology to raise up time-tested traditional art aesthetics through modern design. 
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-tile-full-stack-automated-ecommerce.webp
 
 CONTENT TILE PRIMARY TAGS 
 Design
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Development of an innovative digital platform that seamlessly merges art education with e-commerce functionality. The project leverages AI to create personalized learning experiences about art history while automating the production and sale of high-quality art prints, creating a sustainable educational business model.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-thumbnail-full-stack-automated-ecommerce.webp
 
 PAGE TITLE
 AI-Enhanced Art History Platform & Print Shop
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-hero-full-stack-automated-ecommerce.webp
 
 PAGE SECONDARY TAGS
 Art Education
@@ -50,8 +50,8 @@ Project Scope:
 - Automated e-commerce integration
 - AI-driven content creation system
 
-[LAYOUT: Full-width automation diagram]
-img-8-full-stack-automated-ecommerce.webp
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-8-full-stack-automated-ecommerce.webp
 Caption: Automated social media shop creation and management
 
 Content Creation Systems:
@@ -62,8 +62,8 @@ Content Creation Systems:
 - Educational content automation
 - Social media distribution
 
-[LAYOUT: Full-width automation flow]
-img-7-full-stack-automated-ecommerce.webp
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-7-full-stack-automated-ecommerce.webp
 Caption: Content management and SEO automation system
 
 2. E-commerce Integration:
@@ -72,8 +72,8 @@ Caption: Content management and SEO automation system
 - Sales tracking and management
 - Inventory automation
 
-[LAYOUT: Two automation diagrams side by side]
-img-3-full-stack-automated-ecommerce.webp|img-1-full-stack-automated-ecommerce.webp 
+[LAYOUT - two chart images on cards in one row, total max width 800px]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-3-full-stack-automated-ecommerce.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-1-full-stack-automated-ecommerce.webp 
 Caption: E-commerce automation system architecture
 
 3. Visual Content Production:
@@ -82,8 +82,8 @@ Caption: E-commerce automation system architecture
 - Social media content preparation
 - SEO optimization
 
-[LAYOUT: Full-width process diagram]
-img-5-full-stack-automated-ecommerce.webp
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-5-full-stack-automated-ecommerce.webp
 Caption: Visual content production workflow
 
 4. Social Media Integration:
@@ -92,8 +92,8 @@ Caption: Visual content production workflow
 - Multi-platform content distribution
 - Analytics tracking
 
-[LAYOUT: Two automation diagrams side by side]
-img-6-full-stack-automated-ecommerce.webp|img-2-full-stack-automated-ecommerce.webp
+[LAYOUT - two chart images on cards in one row, total max width 800px]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-6-full-stack-automated-ecommerce.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-2-full-stack-automated-ecommerce.webp
 Caption: Social media automation systems
 
 Technical Innovation:
@@ -103,8 +103,8 @@ Technical Innovation:
 - SEO optimization automation
 - Sales process automation
 
-[LAYOUT: Full-width automation diagram]
-img-4-full-stack-automated-ecommerce.webp 
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-4-full-stack-automated-ecommerce.webp
 Caption: Multi-agent content creation system
 
 Project Impact:
