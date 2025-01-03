@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Analysis of the synergistic convergence between AI and Web3 technologies, examining implications for future digital infrastructure.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/decentralize-ai-build-web3/img-tile-decentralize-ai-build-web3.webp
 
 CONTENT TILE PRIMARY TAGS 
 Technology
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Examination of the intersection between artificial intelligence and Web3 technologies, analyzing their combined potential to reshape digital infrastructure and societal organization.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/decentralize-ai-build-web3/img-thumbnail-decentralize-ai-build-web3.webp
 
 PAGE TITLE
 AI and Web3 Convergence: Architecting Our Digital Future
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/decentralize-ai-build-web3/img-hero-decentralize-ai-build-web3.webp
 
 PAGE SECONDARY TAGS
 Artificial Intelligence
@@ -41,8 +41,9 @@ Future Strategy
 
 My journey from creating art in the Web3 space to developing AI-driven media has given me a unique vantage point on two of the most transformative technologies of our time. Standing at this intersection, I've witnessed not just the individual evolution of these technologies, but their increasing convergence in ways that could fundamentally reshape our digital landscape.
 
-[IMAGE: Cybernetic human portrait - 600px wide]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-architects-web3/600px-wide-cybernetic-human-robot-couple.webp
+[single image card in row max width 800px wide] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/decentralize-ai-build-web3/img-1-decentralize-ai-build-web3.webp
+CAPTION: Embodied AI of the very near future; if biotech was used to build a robotic body, is it alive? 
 
 This convergence isn't merely coincidental – it's a synergistic evolution that amplifies both technologies. AI's need for efficient, organized data aligns naturally with Web3's vision of a decentralized, well-structured internet. Meanwhile, Web3's complex systems and scalability challenges find potential solutions in AI's processing power and optimization capabilities.
 
@@ -50,8 +51,9 @@ What's particularly fascinating is AI's emerging role as the architect of Web3 i
 
 The timing of this technological convergence is particularly significant given our current global economic challenges. AI-driven optimization in Web3 systems could revolutionize everything from supply chain management to financial services. Smart contracts, enhanced by AI's predictive capabilities, could create more sophisticated and responsive economic systems. Imagine automated market makers that not only provide liquidity but learn and adapt to market conditions in real-time.
 
-[IMAGE: Cybernetic human square - 600px wide]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-architects-web3/600px-wide-robot-human-couple.webp
+[single image card in row max width 800px wide] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/decentralize-ai-build-web3/img-2-decentralize-ai-build-web3.webp
+CAPTION: We need web3. We need an entire new internet. Who is going to build it, an army of humans for years, or millions of agentic AI programmers? 
 
 The societal implications extend far beyond technology and economics. Decentralized Autonomous Organizations (DAOs), powered by AI governance systems, could transform how we make collective decisions. These systems might analyze vast amounts of data to propose optimal resource allocation while ensuring democratic participation. AI could help bridge the gap between Web3's promise of decentralization and the practical challenges of coordinating large groups of people.
 
