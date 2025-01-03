@@ -39,30 +39,41 @@ Technical Strategy
 
 ---
 
+A comprehensive Webflow development project showcasing custom UI/UX design, interactive elements, and seamless e-commerce integration. The site features a sophisticated print store and an engaging lookbook section, demonstrating advanced implementation of Webflow's capabilities.
 
+Print Store Experience
 
-/Users/seanivore/Projects/portfolio-draft/projects/6 - Webflow Site Dev GIFs.html
-/Users/seanivore/Projects/portfolio-draft/projects/6 - Webflow Site Dev GIFs.css
+The e-commerce section features a carefully crafted print store with AI-enhanced historic prints:
 
-
+[two gifs, one per row, both rows max width 800px wide]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
 <img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-02-lookbook-lightbox.gif?raw=true” alt=“Webflow Site Design Lookbook Fashion Image Lightbox”> 
+Interactive Lookbook
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-03-lookbook-article.gif?raw=true” alt=“Webflow Site Design Lookbook Fashion Article”> 
+The fashion lookbook section demonstrates advanced interactive features and elegant design:
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-04-lookbook.gif?raw=true” alt=“Webflow Site Design Lookbook Fashion”> 
+[three gifs, one per row, grid max width 800px wide]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-05-prints.gif?raw=true” alt=“Webflow Site Design Print Shop”> 
+Navigation & Home Experience
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-06-nav-home.gif?raw=true” alt=“Webflow Site Design Home Page”> 
+The custom navigation and home page design encourages exploration and provides an intuitive overview of the site's content:
 
-<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-07-lookbook-index.gif?raw=true” alt=“Webflow Site Design Nav Lookbook Index”>
+[two gifs, one per row, both rows max width 800px wide]
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/webflow-ecommerce/webflow-01-prints-gif.gif?raw=true” alt=“Webflow Site Design AI Historic Print Store”> 
 
----
+Technical Highlights
+
+- Custom UI/UX design optimized for user engagement and conversion
+- Interactive elements enhancing content discovery and navigation
+- Seamless e-commerce integration for the print store
+- Advanced lightbox implementation for the lookbook gallery
+- Responsive design ensuring optimal viewing across all devices
+- Performance-optimized image loading and transitions
 
 
-I guess I don't have anything specific already written up for this. But it is highlighting the main parts of the site which are the Lookbook and the Print Store. Which we'll have entries on later (much later as we'll keep the focus on more tech related stuff after these first few before circling back to make it a comprehensive portfolio). 
-
-But as with all the Webflow designs, it is all custom, optimized for UX, carefully done UI -- the nav bar is a great example of this. And the home page in how interactive it is, encouraging the viewer to continue scrolling and giving them a full overview of the content on the site. 
 
