@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Analysis of AI integration in policy-making, examining real-world applications and potential risks while considering ethical implications and societal impact.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-policy-decision-making/img-tile-ai-policy-decision-making.webp
 
 CONTENT TILE PRIMARY TAGS 
 Policy
@@ -21,11 +21,13 @@ SEO META SUMMARY
 Comprehensive analysis of artificial intelligence's role in policy decisions, examining data-driven governance, ethical considerations, and practical implementation challenges. Explores the balance between technological capability and human judgment in shaping public policy.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-policy-decision-making/img-thumbnail-ai-policy-decision-making.webp
 
 PAGE TITLE
 AI Integration in Policy Decision-Making: A Critical Analysis
 
 PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-policy-decision-making/img-hero-ai-policy-decision-making.webp
 
 PAGE SECONDARY TAGS
 AI Governance
@@ -37,20 +39,21 @@ Risk Assessment
 
 ----
 
-
-[IMAGE: Bauhaus abstraction - 900px wide]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-in-policy/900px-wide-bauhaus-decorative-image.webp
-
 Climate change. Global economic systems. Human cognitive enhancement. These are what philosopher Timothy Morton calls "hyperobjects" — phenomena so vast and complex that they exceed our ability to fully comprehend them. As we face increasing pressure to make policy decisions about these hyperobjects, artificial intelligence emerges as both a powerful tool and a source of new complexity in the policy-making landscape.
 
 Consider climate change: a phenomenon that operates across centuries, affects every corner of our planet, and interacts with countless variables in ways that challenge human cognition. Traditional policy-making approaches, constrained by human cognitive limitations and political timeframes, have struggled to address its scale and complexity. This is where AI enters the conversation, not as a silver bullet, but as a tool that might help us grasp the previously ungraspable.
 
 The Aurora model, for instance, represents a breakthrough in climate prediction by leveraging neural networks to process and analyze climate data at unprecedented scales. Unlike traditional climate models, Aurora can integrate diverse data sources — from satellite imagery to ocean temperature readings — and identify subtle patterns that might escape human notice. This capability exemplifies both the promise and complexity of AI in policy decisions: while it offers insights beyond human capacity, it also raises questions about how we verify and trust its conclusions.
 
-[IMAGE: Robots in rows - 700px square]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-in-policy/700px-wide-robots-droids-rows-military.webp
+[single image card in row; max width 800px wide]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-policy-decision-making/img-2-ai-policy-decision-making.webp
+CAPTION: Without AI how might we actually make breakthrough climate predictions? 
 
 The integration of AI into policy-making extends beyond data analysis. In areas like human enhancement technologies, AI systems could help model the societal implications of various policy choices. They could simulate the effects of different regulatory frameworks, predict unintended consequences, and identify potential equity issues before they emerge. The speed and comprehensiveness of these analyses could dramatically improve the policy-making process.
+
+[single image card in row; max width 800px wide]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-policy-decision-making/img-1-ai-policy-decision-making.webp
+CAPTION: AI in policy = unintended consequences? Or dramatic improvement in process? 
 
 However, this potential comes with significant caveats. The same complexity that makes AI valuable in policy-making also makes it challenging to oversee. When an AI system recommends a particular climate policy, how do we audit its reasoning? How do we ensure its recommendations haven't inherited biases from its training data? These questions become even more pressing when considering policies about AI itself — a recursive challenge that highlights the need for careful human oversight.
 
