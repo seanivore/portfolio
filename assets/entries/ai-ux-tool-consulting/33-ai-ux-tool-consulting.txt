@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Systematic approach to evaluating AI tools through technical capability assessment and user experience analysis, developed through major tech company consulting.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-ux-tool-consulting/img-tile-ai-ux-tool-consulting.webp
 
 CONTENT TILE PRIMARY TAGS 
 Consulting
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Comprehensive framework for evaluating AI-powered tools, balancing technical capabilities with user experience considerations. Based on confidential consulting work for a major technology company, the methodology provides structured approaches for assessment and improvement while maintaining focus on practical implementation.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-ux-tool-consulting/img-thumbnail-ai-ux-tool-consulting.webp
 
 PAGE TITLE
 AI Tool Evaluation and UX Consulting: A Methodological Case Study
 
 PAGE HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-ux-tool-consulting/img-hero-ai-ux-tool-consulting.webp
 
 PAGE SECONDARY TAGS
 AI Tool Evaluation
@@ -44,8 +44,9 @@ Consulting Methods
 
 This case study presents a systematic approach to evaluating AI tools and providing UX consulting services, based on a confidential project with a major technology company. While specific details are protected by NDA, the methodology and insights presented here demonstrate a comprehensive framework for assessing and improving AI-powered tools.
 
-[Process Diagram: Shows the evaluation workflow - mermaid]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-ux-tool-consulting/evaluation-process.mermaid
+[Process Diagram - max width 800px - Shows the evaluation workflow - mermaid]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-ux-tool-consulting/img-chart-1-ai-ux-tool-consulting.mermaid
+CAPTION: Evaluation Workflow 
 
 ## Evaluation Framework
 
@@ -72,8 +73,9 @@ The evaluation process was structured around three key dimensions:
 - Training requirements
 - Resource utilization
 
-[Evaluation Matrix Image - 800px wide]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-ux-tool-consulting/matrix.webp
+[Evaluation Matrix Image - max width 800px - would be cool to remake this in react]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-ux-tool-consulting/img-1-ai-ux-tool-consulting.webp
+CAPTION: Skills Matrix 
 
 ## Methodology
 
