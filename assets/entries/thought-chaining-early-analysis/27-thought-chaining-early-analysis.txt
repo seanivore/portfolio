@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Case study examination of early AI thought-chaining capabilities, demonstrating practical applications and methodological insights.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/thought-chaining-early-analysis/img-tile-thought-chaining-early-analysis.webp
 
 CONTENT TILE PRIMARY TAGS 
 Analysis
@@ -21,11 +21,13 @@ SEO META SUMMARY
 Analysis of early AI thought-chaining implementations, examining real-world applications in decision-making, business optimization, and research synthesis. Includes detailed case studies and methodological insights.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/thought-chaining-early-analysis/img-thumbnail-thought-chaining-early-analysis.webp
 
 PAGE TITLE
 AI Thought-Chaining: A Practical Analysis of Early Implementations
 
 PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/thought-chaining-early-analysis/img-hero-thought-chaining-early-analysis.webp
 
 PAGE SECONDARY TAGS
 AI Systems
@@ -41,12 +43,16 @@ Technical Analysis
 
 While recent advances in AI thought-chaining have garnered significant attention, some tools were pioneering these capabilities long before they became widely discussed. This analysis examines early implementations of AI thought-chaining through a series of practical applications, revealing both the potential and methodology of this approach.
 
+[single image card; max width 800px wide] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/thought-chaining-early-analysis/img-1-thought-chaining-early-analysis.webp
+
 ## The Anatomy of AI Thought-Chaining
 
 Thought-chaining in AI refers to the process of breaking down complex problems into interconnected analytical steps, with each step informing and refining the next. This creates a depth of analysis that more closely mimics human expert thinking than simple query-response patterns. The following diagram illustrates this process:
 
 [Mermaid Diagram: Shows the branching analysis structure]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/thought-chaining-early-analysis/thought-chain-article.mermaid
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/thought-chaining-early-analysis/img-chart-1-thought-chaining-early-analysis.mermaid 
+CAPTION: Perplexity Pro has been thought chaining, the same technology that OpenAI's o1 model is completely built around, for a very long time. 
 
 ## Case Study 1: Complex Decision Analysis
 ### Las Vegas vs. San Jose Relocation Analysis
@@ -70,6 +76,9 @@ The first case study involved using AI to analyze the complex decision of reloca
 
 The key innovation was the AI's ability to not only identify these factors but to help develop weighted scoring systems that could transform qualitative considerations into quantitative metrics for comparison.
 
+[single image card; max width 800px wide] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/thought-chaining-early-analysis/img-2-thought-chaining-early-analysis.webp
+
 ## Case Study 2: Automated Business Analysis
 ### SERP Methodology Automation
 
@@ -92,6 +101,9 @@ Perhaps the most sophisticated application involved using thought-chaining to an
 - Weigh the relative reliability of different sources
 
 This application showed particular promise for accelerating research synthesis and improving evidence-based decision making.
+
+[single image card; max width 800px wide] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/thought-chaining-early-analysis/img-3-thought-chaining-early-analysis.webp
 
 ## Methodological Insights
 
@@ -137,4 +149,3 @@ Early implementations of AI thought-chaining demonstrated capabilities that are 
 
 The key lesson is not just the technical capability of AI to chain thoughts, but its ability to help humans structure and quantify complex decisions in ways that maintain rigor while acknowledging subjective factors. This balance between systematic analysis and human-centric considerations points the way toward more effective human-AI collaboration in complex decision-making.
 
----
