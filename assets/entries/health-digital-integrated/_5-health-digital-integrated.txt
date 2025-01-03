@@ -1,0 +1,80 @@
+PLACEMENT - 5 
+
+CONTENT TILE TITLE 
+Healthcare Provider Platform Development
+
+CONTENT TILE SUMMARY 
+Creation of a comprehensive digital platform for client, integrating digital media marketing and advertising campaigns.
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+
+CONTENT TILE FRONT PRIMARY TAGS 
+Development
+Design
+Strategy
+
+SEO META TITLE
+Healthcare Digital Platform | Provider Website Development
+
+SEO META SUMMARY 
+Creation of a comprehensive digital platform for healthcare providers, integrating patient management and communication systems.
+
+SEO META THUMBNAIL SOCIAL SHARE IAMGE - 1200px x 630px 
+
+
+PAGE TITLE 
+Healthcare Provider Platform Development
+
+PAGE HERO IMAGE - 1200px square 
+
+
+PROJECT PAGE INNER SECONDARY TAGS
+Healthcare Systems 
+Web Development 
+UX Design 
+Patient Experience 
+Digital Strategy 
+System Integration
+
+----
+
+CK Heals LLC Website Development and digital consulting, copywriting, email campaigns, and social advertising for events. As Digital Business Consultant for CK Heals LLC, I led comprehensive web development and digital strategy initiatives that resulted in tripled lead generation, 50% increase in client bookings, and 11.5% growth in repeat bookings through strategic design and marketing implementations.
+
+Project Evolution
+
+Latest Webflow Implementation
+
+The most recent iteration of the CK Heals LLC website showcases a modern, user-friendly design implemented through Webflow, optimizing both aesthetics and functionality:
+
+[two gifs, one per row, both max width 800px] 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/product-marketing-branding/img-gif-2-product-marketing-branding.GIF?raw=true” alt=“Redesigned for the modern age, a GIF of 'Everything is Fine' dog sitting in burning house with beautiful flicking lighting ”>
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/product-marketing-branding/img-gif-2-product-marketing-branding.GIF?raw=true” alt=“Redesigned for the modern age, a GIF of 'Everything is Fine' dog sitting in burning house with beautiful flicking lighting ”>
+
+Earlier Design Implementation
+
+Prior to the Webflow implementation, I created this design using Kajabi, establishing the foundation for the client's digital presence:
+
+[one gif image card max width 800px] 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/product-marketing-branding/img-gif-2-product-marketing-branding.GIF?raw=true” alt=“Redesigned for the modern age, a GIF of 'Everything is Fine' dog sitting in burning house with beautiful flicking lighting ”>
+
+Comprehensive Digital Solutions
+
+- Constructed complete digital business architecture including web pages, domains, Google Workplace integration, analytics, and payment systems
+- Designed brand identity including logo creation and annual website redesigns with quarterly updates
+- Produced online courses and managed traditional advertising alongside social media content
+- Implemented email marketing sequences and managed digital advertising campaigns across Facebook, Instagram, and Google Adsense
+- Focused on emotion-centric, design-first development approach
+- Specialized in copywriting that authentically expresses the client's personality
+
+Lead Generation
+3x Growth
+
+Client Bookings
++50%
+
+Repeat Bookings
++11.5%
+
+
+
