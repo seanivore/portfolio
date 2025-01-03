@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="base.css">
     <link rel="stylesheet" href="components.css">
+    <script src="script.js" defer></script>
 </head>
 <body>
     <nav>
@@ -38,13 +39,13 @@
             
             <div class="tags-section">
                 <div class="tag-group">
-                    <span class="tag-ui">AI/ML Integration</span>
-                    <span class="tag-ui">Design Systems</span>
-                    <span class="tag-ui">Technical Development</span>
-                    <span class="tag-ui">Creative Strategy</span>
-                    <span class="tag-ui">Content Production</span>
-                    <span class="tag-ui">Brand Development</span>
-                    <span class="tag-ui">Project Management</span>
+                    <span class="tag-ui" data-tag="ai-ml">AI/ML Integration</span>
+                    <span class="tag-ui" data-tag="design-systems">Design Systems</span>
+                    <span class="tag-ui" data-tag="technical">Technical Development</span>
+                    <span class="tag-ui" data-tag="strategy">Creative Strategy</span>
+                    <span class="tag-ui" data-tag="content">Content Production</span>
+                    <span class="tag-ui" data-tag="brand">Brand Development</span>
+                    <span class="tag-ui" data-tag="management">Project Management</span>
                 </div>
             </div>
         </div>
@@ -55,83 +56,198 @@
             <h2>Featured Work</h2>
             
             <div class="project-grid">
-                <!-- Position 0: Master Template -->
+                <!-- Position 35: Portfolio System Design -->
                 <article class="project-card" 
-                       data-position="0" 
-                       data-primary-tags="ui-technical-writing web-development ai-process"
-                       data-secondary-tags="mcp-servers ai-coding-automation ui-writing ux-design algorithmic-content project-management">
-                    <a href="projects/template.html" class="project-card-link">
+                       data-position="35" 
+                       data-primary-tags="design-systems strategy systems"
+                       data-secondary-tags="process-design ai-integration system-architecture development-strategy performance-optimization">
+                    <a href="projects/portfolio-system-design" class="project-card-link">
                         <div class="project-image">
-                            <img 
-                                src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-tile-master-template.webp" 
-                                alt="Modular System Documentation"
-                            />
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/portfolio-system-design/16-9-aspect-600-px-wide-tile-image-portfolio-system-design.webp" 
+                                alt="Portfolio Development Strategy"/>
                             <div class="image-overlay">
-                                <h3 class="project-title">Agentic Template Components Development Strategy</h3>
+                                <h3 class="project-title">Portfolio Development Strategy</h3>
                             </div>
                         </div>
                         <div class="project-content">
-                            <p>Take on complex web development projects full of diverse content using our versatile modular master template components so you can focus on unique UI details.</p>
+                            <p>Case study in systematic optimization of portfolio development, reducing timeline from weeks to hours through strategic design and AI integration.</p>
                             <div class="tech-stack">
-                                <span>UI Technical Writing</span>
-                                <span>Web Development</span>
-                                <span>AI Process</span>
+                                <span>Design Systems</span>
+                                <span>Strategy</span>
+                                <span>Systems</span>
                             </div>
                         </div>
                     </a>
                 </article>
 
-                <!-- Position 1: Content Strategy Framework -->
+                <!-- Position 29: Understanding Hyperobjects -->
                 <article class="project-card" 
-                       data-position="1"
-                       data-primary-tags="strategy production innovation"
-                       data-secondary-tags="content-strategy multi-platform media-relations analytics campaign-development distribution-systems">
-                    <a href="projects/content-strategy-framework" class="project-card-link">
+                       data-position="29" 
+                       data-primary-tags="ai-ml strategy theory"
+                       data-secondary-tags="complex-systems climate-change systems-thinking philosophy environmental-policy">
+                    <a href="projects/ethics-logic-thought-experiment" class="project-card-link">
                         <div class="project-image">
-                            <img 
-                                src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-tile-content-strategy-framework.webp" 
-                                alt="Multi-Platform Content Strategy Framework"
-                            />
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ethics-logic-thought-experiment/img-tile-ethics-logic-thought-experiment.webp" 
+                                alt="Understanding Hyperobjects: Beyond Human Scale"/>
                             <div class="image-overlay">
-                                <h3 class="project-title">Multi-Platform Content Strategy Framework</h3>
+                                <h3 class="project-title">Understanding Hyperobjects: Beyond Human Scale</h3>
                             </div>
                         </div>
                         <div class="project-content">
-                            <p>Development of a comprehensive content strategy framework spanning multiple platforms and media types.</p>
+                            <p>Exploration of hyperobjects like climate change and national debt, analyzing how these massive phenomena challenge traditional problem-solving approaches.</p>
                             <div class="tech-stack">
+                                <span>AI/ML</span>
                                 <span>Strategy</span>
-                                <span>Production</span>
+                                <span>Theory</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+
+                <!-- Position 25: AI & Web3 -->
+                <article class="project-card" 
+                       data-position="25"
+                       data-primary-tags="technical ai-ml innovation"
+                       data-secondary-tags="artificial-intelligence web3 digital-infrastructure decentralization technology-evolution">
+                    <a href="projects/decentralize-ai-build-web3" class="project-card-link">
+                        <div class="project-image">
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/decentralize-ai-build-web3/img-tile-decentralize-ai-build-web3.webp" 
+                                alt="AI & Web3: The Next Digital Revolution"/>
+                            <div class="image-overlay">
+                                <h3 class="project-title">AI & Web3: The Next Digital Revolution</h3>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <p>Analysis of the synergistic convergence between AI and Web3 technologies, examining implications for future digital infrastructure.</p>
+                            <div class="tech-stack">
+                                <span>Technical</span>
+                                <span>AI/ML</span>
                                 <span>Innovation</span>
                             </div>
                         </div>
                     </a>
                 </article>
 
-                <!-- Position 2: Real-Time Social System -->
+                <!-- Position 14: Web3 Protocol Branding -->
                 <article class="project-card" 
-                       data-position="2"
-                       data-primary-tags="production strategy innovation"
-                       data-secondary-tags="social-media content-production real-time-strategy media-relations analytics innovation-systems">
-                    <a href="projects/realtime-social-system" class="project-card-link">
+                       data-position="14"
+                       data-primary-tags="brand content design"
+                       data-secondary-tags="motion-design brand-strategy creative-direction technical-visualization web3-integration">
+                    <a href="projects/web3-strategy-branding" class="project-card-link">
                         <div class="project-image">
-                            <img 
-                                src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/realtime-social-system/img-tile-realtime-social-system.webp" 
-                                alt="Real-Time Social Media Innovation"
-                            />
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/web3-strategy-branding/img-tile-web3-strategy-branding.webp" 
+                                alt="Web3 Privacy Protocol Branding"/>
                             <div class="image-overlay">
-                                <h3 class="project-title">Real-Time Social Media Innovation</h3>
+                                <h3 class="project-title">Web3 Privacy Protocol Branding Productions</h3>
                             </div>
                         </div>
                         <div class="project-content">
-                            <p>Strategy of event live coverage inserting messaging of real-time occurrences to leverage viral earned media responses.</p>
+                            <p>Creative direction of motion design strategies and hand illustrations used to breakdown sophisticated concepts for everyone.</p>
                             <div class="tech-stack">
-                                <span>Production</span>
-                                <span>Strategy</span>
-                                <span>Innovation</span>
+                                <span>Brand</span>
+                                <span>Content</span>
+                                <span>Design</span>
                             </div>
                         </div>
                     </a>
                 </article>
+
+                <!-- Position 12: Technical DeFi Content -->
+                <article class="project-card" 
+                       data-position="12"
+                       data-primary-tags="brand content technical-translation"
+                       data-secondary-tags="strategic-design content-strategy visual-systems educational-design brand-development">
+                    <a href="projects/technical-defi-content-simplification" class="project-card-link">
+                        <div class="project-image">
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/technical-defi-content-simplification/img-tile-technical-defi-content-simplification.webp" 
+                                alt="Technical to Accessible: Web3 Brand Strategy"/>
+                            <div class="image-overlay">
+                                <h3 class="project-title">Technical to Accessible: Web3 Brand Strategy</h3>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <p>Transformed complex blockchain privacy concepts into engaging content through strategic brand design and storytelling, reaching mainstream audiences through visual systems, educational content, and creative marketing.</p>
+                            <div class="tech-stack">
+                                <span>Brand</span>
+                                <span>Content</span>
+                                <span>Technical</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+
+                <!-- Position 6: Enterprise CMS -->
+                <article class="project-card" 
+                       data-position="6"
+                       data-primary-tags="management technical development"
+                       data-secondary-tags="web-development cms-architecture ui-ux-design system-integration">
+                    <a href="projects/enterprise-cms-development" class="project-card-link">
+                        <div class="project-image">
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/enterprise-cms-development/img-tile-enterprise-cms-developement.webp" 
+                                alt="Custom UI/UX CMS Site Development"/>
+                            <div class="image-overlay">
+                                <h3 class="project-title">Custom UI/UX CMS Site Development</h3>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <p>Development of sophisticated content management systems for enterprise clients, focusing on scalability and user experience.</p>
+                            <div class="tech-stack">
+                                <span>Management</span>
+                                <span>Technical</span>
+                                <span>Development</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+
+                <!-- Position 4: Mobile App Development -->
+                <article class="project-card" 
+                       data-position="4"
+                       data-primary-tags="management strategy development"
+                       data-secondary-tags="mobile-development user-growth app-strategy analytics performance-optimization">
+                    <a href="projects/ux-ui-ios-marketing" class="project-card-link">
+                        <div class="project-image">
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-tile-ux-ui-ios-marketing.webp" 
+                                alt="Mobile App Development & Strategy"/>
+                            <div class="image-overlay">
+                                <h3 class="project-title">Mobile App Development & Strategy Management</h3>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <p>Management and development of a collection of mobile applications, focusing on user growth and engagement metrics.</p>
+                            <div class="tech-stack">
+                                <span>Management</span>
+                                <span>Strategy</span>
+                                <span>Development</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+
+                <!-- Position 3: UX Improvements -->
+                <article class="project-card" 
+                       data-position="3"
+                       data-primary-tags="design-systems technical documentation"
+                       data-secondary-tags="user-research content-strategy information-architecture technical-documentation">
+                    <a href="projects/ux-ui-improvements" class="project-card-link">
+                        <div class="project-image">
+                            <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-tile-ux-ui-improvements.webp" 
+                                alt="Conversational UX & Strategic UI Documentation"/>
+                            <div class="image-overlay">
+                                <h3 class="project-title">Conversational UX & Strategic UI Documentation</h3>
+                            </div>
+                        </div>
+                        <div class="project-content">
+                            <p>Led user experience transformation through conversational UX writing and strategic documentation at a digital agency, resulting in 40% higher user engagement and successful implementation across multiple platforms.</p>
+                            <div class="tech-stack">
+                                <span>Design Systems</span>
+                                <span>Technical</span>
+                                <span>Documentation</span>
+                            </div>
+                        </div>
+                    </a>
+                </article>
+
             </div>
         </section>
 
@@ -176,7 +292,7 @@
                 </div>
             </div>
         </section>
-
+        
         <section id="contact" class="contact">
             <h2>Let's Connect</h2>
             <div class="contact-content">

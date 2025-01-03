@@ -8,7 +8,7 @@ CONTENT TILE SUMMARY
 Exploration of hyperobjects like climate change and national debt, analyzing how these massive phenomena challenge traditional problem-solving approaches.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ethics-logic-thought-experiment/img-tile-ethics-logic-thought-experiment.webp
 
 CONTENT TILE PRIMARY TAGS 
 Theory
@@ -22,12 +22,13 @@ SEO META SUMMARY
 Deep dive into the concept of hyperobjects, examining how these massive, distributed phenomena challenge human comprehension and traditional problem-solving methods. Includes analysis of practical applications in climate change and economic systems. 
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ethics-logic-thought-experiment/img-thumbnail-ethics-logic-thought-experiment.webp
 
 PAGE TITLE
 Hyperobjects: Understanding What We Cannot See
 
 PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ethics-logic-thought-experiment/img-hero-ethics-logic-thought-experiment.webp
 
 PAGE SECONDARY TAGS
 Complex Systems
@@ -39,15 +40,17 @@ Environmental Policy
 
 ---
 
-[IMAGE: Wind farm at sea viewed from yacht - 700px wide]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/complex-hyperobjects/700px-wide-super-yacht-wind-farm.webp 
+[IMAGE - one image card max 800 px wide; alt: Wind farm at sea viewed from yacht]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ethics-logic-thought-experiment/img-1-ethics-logic-thought-experiment.webp
+CAPTION: They hyper-object we all understand, Climate Change. 
 
 Stand at the bow of a vessel approaching an offshore wind farm, and you'll witness something remarkable: dozens of massive turbines emerging from the ocean, their blades cutting through air and mist. It's an awe-inspiring sight, yet what you're seeing is merely the visible tip of something far larger — not just the physical infrastructure beneath the waves, but the vast, interconnected systems of climate change, energy policy, and economic transformation that these structures represent.
 
 This is our first glimpse into understanding hyperobjects — phenomena so massive, so distributed across time and space, that they defy conventional human comprehension. Coined by philosopher Timothy Morton, the concept of hyperobjects helps us grasp why certain challenges, from climate change to national debt, have proved so resistant to traditional problem-solving approaches.
 
-[IMAGE: Silhouetted figure against geometric building - 700px wide]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/complex-hyperobjects/700px-man-stand-huge-odd-building.webp 
+[IMAGE - one image card max width 800px wide; alt: silhouetted figure against geometric building]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ethics-logic-thought-experiment/img-2-ethics-logic-thought-experiment.webp
+CAPTION: Man stands in front of artist interpretation of a hyper-object. 
 
 Consider climate change: it surrounds us, affects everything from weather patterns to economic systems, yet remains stubbornly difficult to fully comprehend or address. We can measure rising temperatures and document melting glaciers, but the totality of climate change — its causes, effects, and potential solutions — exceeds our cognitive grasp. This is the nature of a hyperobject: it is simultaneously everywhere and nowhere, intimately affecting our lives while remaining frustratingly abstract.
 
