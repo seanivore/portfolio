@@ -39,6 +39,40 @@ body {
     color: var(--text-color);
 }
 
+/* Project Image */
+.project-image {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    height: 338px;
+    overflow: hidden;
+    aspect-ratio: 16/9;
+}
+
+.project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover .project-image img {
+    transform: scale(1.05);
+}
+
+/* Project Content Spacing */
+.project-content {
+    padding: 1.5rem;
+}
+
+.project-content p {
+    margin-bottom: 1.25rem;
+}
+
+.tech-stack {
+    margin-top: auto;
+}
+
 /* Navigation System */
 .nav {
     background: var(--element-background);
@@ -71,8 +105,8 @@ body {
     color: var(--accent-color);
 }
 
-/* Hero Section */
-.hero-container {
+/* Hero Section - For Project Pages */
+.hero {
     position: relative;
     height: 600px;
     overflow: hidden;
@@ -93,14 +127,6 @@ body {
     padding: 4rem 0;
 }
 
-.hero-title {
-    font-size: 3.25rem;
-    text-align: left;
-    color: #fff;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
-    line-height: 1.2;
-}
-
 .hero-background {
     position: absolute;
     top: 0;
@@ -109,8 +135,65 @@ body {
     height: 1200px;
     background-size: cover;
     background-position: center bottom;
-    z-index: 1;
+    z-index: -2;
     transform: translateY(0);
+}
+
+/* Masthead Section - For Homepage */
+.masthead {
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    padding: var(--spacing);
+}
+
+.masthead .content-wrap {
+    max-width: 100%;
+}
+
+.masthead-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-size: 100% auto;
+    background-position: center bottom;
+    z-index: -2;
+    height: 600px;
+}
+
+.masthead-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: -1;
+}
+
+.masthead h1 {
+    color: white;
+    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+    font-size: 3rem;
+    margin-bottom: 0.75rem;
+}
+
+.masthead p {
+    color: rgba(255, 255, 255, 0.95);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.masthead .tag-group {
+    max-width: 1100px;
+    margin: 0 auto 1rem;
 }
 
 /* Tag System */
@@ -156,4 +239,39 @@ body {
 .tag--secondary {
     background-color: var(--tag-secondary);
     min-width: 120px;
+}
+
+/* New Tag UI System */
+.tag-ui {
+    padding: 0.5rem 1.25rem;
+    border-radius: 2px;
+    font-size: 0.9rem;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-weight: 500;
+    color: var(--element-background);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+.tag-ui:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Main content */
+main {
+    position: relative;
+    z-index: 1;
+    background: var(--page-background);
+    padding: var(--spacing);
+}
+
+/* Project grid */
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
 }
