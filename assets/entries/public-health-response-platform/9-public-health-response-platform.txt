@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Development of a rapid-response digital communication system for healthcare providers during COVID-19. 
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-tile-public-health-response-platform.webp
 
 CONTENT TILE PRIMARY TAGS 
 Development
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Development of a rapid-response digital communication system for healthcare providers during COVID-19, enabling efficient information distribution and resource coordination.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-thumbnail-public-health-response-platform.webp
 
 PAGE TITLE 
 Healthcare Emergency Response Platform
 
 HERO IMAGE - 1200px square 
-
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-hero-public-health-response-platform.webp
 
 PAGE SECONDARY TAGS 
 Healthcare Systems
@@ -41,7 +41,8 @@ User Experience
 
 Led critical digital infrastructure development and communication strategy for Hawaii's COVID-19 Healthcare Providers Taskforce (HIC19HCTF), delivering urgent updates and achieving significant engagement metrics through strategic implementation.
 
-img-1-public-health-response-platform.webpimg-2-public-health-response-platform.webp
+[two image grid row with complete max width of 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-1-public-health-response-platform.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-2-public-health-response-platform.webp
 
 Project Impact
 
@@ -64,7 +65,8 @@ Technical Implementation
 - Strategic email campaign design and execution
 - Ongoing technical consultancy and support
 
-img-3-public-health-response-platform.webpimg-4-public-health-response-platform.webp
+[two image grid row with complete max width of 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-3-public-health-response-platform.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-4-public-health-response-platform.webp
 
 Project Highlights
 

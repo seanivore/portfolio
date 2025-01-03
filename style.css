@@ -21,13 +21,6 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Georgia', serif;
-    line-height: 1.6;
-    color: var(--text-color);
-    background-color: var(--background-color);
-}
-
 /* Navigation */
 nav {
     position: fixed;
@@ -95,7 +88,6 @@ nav {
 
 /* Main content */
 main {
-    max-width: 1000px;
     margin: 0 auto;
     padding: var(--spacing);
 }
