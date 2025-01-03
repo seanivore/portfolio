@@ -1,44 +1,35 @@
 POSITION - 28 
 
 CONTENT TILE TITLE
+Scientific Rigor in AI Research: A Critical Analysis
 
 CONTENT TILE SUMMARY 
-
-CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
-CONTENT TILE PRIMARY TAGS 
-
-SEO META TITLE 
-
-SEO META SUMMARY 
-
-SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
-PAGE TITLE
-
-PAGE HERO IMAGE - 1200px square 
-
-PAGE SECONDARY TAGS
-
-
-Title and summary for tile:
-Scientific Rigor in AI Research: A Critical Analysis
 Examination of scientific methodology challenges in AI research, using a viral paper case study to highlight systemic issues.
 
-Title: The Scientific Method in Crisis: AI Research Communication Study
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-research-bad-science/img-tile-ai-research-bad-science.webp
 
-Meta Title: Scientific Method | AI Research Communication
-Summary: Critical analysis of scientific rigor in AI research communication, examining how rapid development and media dynamics affect research quality and verification. Uses a case study to highlight systemic challenges and propose solutions.
+CONTENT TILE PRIMARY TAGS 
+Research
+Analysis
+Methodology
 
-Thumbnail Share Image - 1200 x 630px
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-research-communication/1200-630-px-thumbnail-social-share-image-ai-research-communication.webp
+SEO META TITLE 
+Scientific Method | AI Research Communication
 
-Front Page Tags (3):
-Research (Blue)
-Analysis (Orange)
-Methodology (Green)
+SEO META SUMMARY 
+Critical analysis of scientific rigor in AI research communication, examining how rapid development and media dynamics affect research quality and verification. Uses a case study to highlight systemic challenges and propose solutions.
 
-Inner Page Tags (6):
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-research-bad-science/img-thumbnail-ai-research-bad-science.webp
+
+PAGE TITLE
+The Scientific Method in Crisis: AI Research Communication Study
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-research-bad-science/img-hero-ai-research-bad-science.webp
+
+PAGE SECONDARY TAGS
 Scientific Method
 AI Research
 Communication
@@ -46,30 +37,17 @@ Peer Review
 Research Ethics
 Critical Analysis
 
-Homepage Content Tile Image (for redesign of tiles) - 16:9 and 600px wide 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-research-communication/16-9-aspect-600-px-wide-tile-image-ai-research-communication.webp
-
-
-
-ai-research-bad-science
 ---
-Templates in portfolio-clean that have not been committed or pushed to GitHub: 
-
-/Users/seanivore/Projects/portfolio-clean/projects/ai-research-communication.css
-/Users/seanivore/Projects/portfolio-clean/projects/ai-research-communication.html
-
-
-# The Scientific Method in Crisis: A Case Study in AI Research Communication
 
 In the rapidly evolving field of artificial intelligence, a curious incident recently highlighted a growing crisis in scientific communication. It began with a simple conversation about a viral research paper, but it revealed something far more concerning about how we build and verify knowledge in the AI era.
 
-[IMAGE: Chat conversation screenshot - super tall 400px wide by 1000px] 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-research-communication/400-1000-px-chat-image-ai-research-communication.webp
+[IMAGE: Chat conversation screenshot - super tall MAX WIDTH 400px wide by over 1000px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-research-bad-science/img-1-ai-research-bad-science.webp
 
 The exchange above shows something remarkable: an AI system confidently repeating claims about its own architecture while simultaneously acknowledging fundamental uncertainty about those same claims. This contradiction emerged during analysis of "The Geometry of Concepts: Sparse Autoencoder Feature Structure" by Li et al., a paper that had captured the AI community's imagination with its compelling visualizations of AI's internal structure.
 
-[IMAGE: Study illustration 600px wide] 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-research-communication/600-px-wide-study-title-image-ai-research-communication.webp
+[IMAGE - single image tile max width 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-research-bad-science/img-2-ai-research-bad-science.webp
 
 The paper offered a fascinating glimpse into the "mind" of AI systems, revealing mapped structures that appeared to mirror both biological brain organization and crystalline formations. These findings were irresistible - they suggested deep parallels between artificial and biological intelligence. But as the conversation above reveals, something crucial was missing: proper scientific rigor.
 
