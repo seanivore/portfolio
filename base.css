@@ -162,15 +162,6 @@ body {
     margin: 0 auto 1rem;
 }
 
-.masthead .tag-group span {
-    background-color: rgba(0, 0, 0, 0.5);
-    transition: background-color 0.3s ease;
-}
-
-.masthead .tag-group span:hover {
-    background-color: rgba(0, 0, 0, 0.8);
-}
-
 /* Tag System */
 .tags-section {
     margin: var(--element-spacing) 0;
@@ -214,6 +205,26 @@ body {
 .tag--secondary {
     background-color: var(--tag-secondary);
     min-width: 120px;
+}
+
+/* New Tag UI System */
+.tag-ui {
+    padding: 0.5rem 1.25rem;
+    border-radius: 2px;
+    font-size: 0.9rem;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-weight: 500;
+    color: var(--element-background);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+.tag-ui:hover {
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Main content */

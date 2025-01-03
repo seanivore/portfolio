@@ -1,0 +1,82 @@
+POSITION - 10 
+
+CONTENT TILE TITLE 
+Minted Hand Drawn Vector NFT Artwork
+
+CONTENT TILE SUMMARY 
+Unique NFT collection featuring GIFs and fine art at intersection of traditional illustration techniques with blockchain technology.
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+
+CONTENT TILE PRIMARY TAGS 
+Design
+Web3
+Production
+
+SEO META TITLE 
+Vector Art NFT Collection | Digital Art Series
+
+SEO META SUMMARY 
+Creation of a unique NFT collection featuring hand-drawn vector art, demonstrating the intersection of traditional illustration techniques with blockchain technology.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+
+PAGE TITLE 
+Hand-Drawn Vector NFT Series
+
+PAGE HERO IMAGE - 1200px square 
+
+
+PAGE SECONDARY TAGS 
+Vector Art
+NFT Development
+Digital Illustration
+Collection Strategy
+Web3 Integration
+Creative Direction
+
+
+---
+
+Created by hand, various subject matter, posted on all the top NFT sites at the time. A few pieces sold, a few are still making small royalties today. About $500 total in sales. Sold on ETH chain and Solana chain shops. This consisted of the main part of a portfolio that allowed me to sidestep into working as an artist branding a privacy protocol DAO in the DeFi Web3 scene, working with people around the world, living in Greece on a secluded vacant village where Homer of Homer and the Odessey briefly lived, which was on the wester side of a Mediterranean island called Chios. After that solo work retreat I traveled to Turkey to meet some of the team. 
+
+[button with text] 3D Gallery Show | The Male Form
+https://www.cyber.xyz/love-forms_and_ghost'ed
+
+[button with text] "Designer Pattern" NFTs | SolSea
+https://solsea.io/creator/61d39a1f6957e013fe1e261f/nfts
+
+[button with text] "Love Forms" Nude Art NFTs | OpenSea
+https://opensea.io/collection/nude-male-illustration-drawing-vector-nft-art
+
+[button with text] Pop-Art NFTs | Mintable
+https://mintable.app/u/seanivore
+
+[button with text] "ORNATExBASICS" Art NFTs | Crypto.com
+https://crypto.com/nft/profile/seanivore
+
+[one max width 800px image tile gif] 
+<img src=“https://github.com/seanivore/portfolio/blob/master/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-9.gif?raw=true” alt=“Hand Drawn Vector NFT Minted Motion Design Art”>
+
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-1.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-2.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-3.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-4.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-5.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-6.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-7.png
+
+/Users/seanivore/Projects/portfolio-clean/assets/entries/nft-art-vector-hand-drawn/vector-hand-drawn-minted-nft-art-8.png
+
+
+
+
