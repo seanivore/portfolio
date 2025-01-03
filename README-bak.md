@@ -1,13 +1,13 @@
 # Portfolio Modular System Documentation
 
 ## File Organization
-- `modular-template-base.css` - Core styles and foundational elements
+- `base.css` - Core styles and foundational elements
   - Variables and root settings
   - Base layout styles
   - Navigation system
   - Hero section
   - Tag system
-- `modular-template-components.css` - Component-specific styles
+- `components.css` - Component-specific styles
   - Layout components (sections, grids)
   - Cards and content blocks
   - Stats and metrics displays

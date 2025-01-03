@@ -22,17 +22,18 @@
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
 }
 
-/* Base Card */
-.card {
-    background: var(--element-background);
-    border-radius: 16px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
+/* Project Image */
+.project-image {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
 }
 
-.card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+.project-image img {
+    width: 100%;
+    height: auto;
+    object-fit: fill;
 }
 
 /* Card Content */
