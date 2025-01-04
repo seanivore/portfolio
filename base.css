@@ -278,3 +278,50 @@ main {
     grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
     gap: 2rem;
 }
+
+/* Contact section */
+.contact-content {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact-info {
+    margin-bottom: 2rem;
+}
+
+.contact-info a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.social-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.social-link {
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    color: var(--text-color);
+    border: 1px solid #eee;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.social-link:hover {
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-color);
+    border-top: 1px solid #eee;
+    margin-top: 4rem;
+    font-size: .77rem;
+}
