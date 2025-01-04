@@ -2,6 +2,7 @@
 :root {
     --primary-color: #1E2E46;  /* Deep Blue */
     --secondary-color: #54b0af; /* Cyan, Medium turquoise */
+    --alt-secondary-color: #e9aa0e; /* Golden Yellow, very bright */
     --accent-color: #f83821;   /* Strawberry Spinach Red */ 
     --background-color: #EDEBDC; /* Cream */
     --text-color: #242831;     /* Dark Navy */
@@ -196,7 +197,7 @@ nav {
 }
 
 .project-card:hover .project-title {
-    color: var(--secondary-color);
+    color: var(--alt-secondary-color);
 }
 
 .project-content {
