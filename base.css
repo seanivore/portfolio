@@ -142,6 +142,13 @@ body {
     transform: translateY(0);
 }
 
+.hero-title {
+    color: white;
+    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+    font-size: 3rem;
+    margin-bottom: 0.75rem;
+}
+
 /* Masthead Section - For Homepage */
 .masthead {
     position: relative;
