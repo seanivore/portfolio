@@ -2,6 +2,7 @@
 :root {
     --primary-color: #1E2E46;    /* Deep Blue */
     --secondary-color: #54b0af;  /* Cyan, Medium turquoise */
+    --alt-secondary-color: #e9aa0e; /* Golden Yellow, very bright */
     --accent-color: #f83821;     /* Strawberry Spinach Red */
     --page-background: #EDEBDC;  /* Cream */
     --text-color: #242831;       /* Dark Navy */
@@ -62,7 +63,7 @@ body {
 
 /* Project Content Spacing */
 .project-content {
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .project-content p {
@@ -205,7 +206,7 @@ body {
 .tag-group {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.75rem;
+    gap: 1rem;
     margin-bottom: 1rem;
     justify-content: center;
     margin: 0 auto 2rem;
@@ -243,9 +244,9 @@ body {
 
 /* New Tag UI System */
 .tag-ui {
-    padding: 0.5rem 1.25rem;
+    padding: 0.4rem 0.8rem;
     border-radius: 2px;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     font-weight: 500;
     color: var(--element-background);
@@ -258,7 +259,9 @@ body {
 }
 
 .tag-ui:hover {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #e9ab0e73;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
 }
 
 /* Main content */
@@ -272,6 +275,6 @@ main {
 /* Project grid */
 .project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
     gap: 2rem;
 }

@@ -223,8 +223,8 @@ nav {
 }
 
 .tech-stack span {
-    font-size: 0.75rem;
-    padding: 0.35rem;
+    font-size: 0.7rem;
+    padding: 0.3rem;
     border-radius: 2px;
     color: #ffffff;
     background-color: var(--primary-color);
