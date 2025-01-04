@@ -63,7 +63,7 @@ body {
 
 /* Project Content Spacing */
 .project-content {
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .project-content p {
@@ -244,7 +244,7 @@ body {
 
 /* New Tag UI System */
 .tag-ui {
-    padding: 0.5rem 1rem;
+    padding: 0.4rem 0.8rem;
     border-radius: 2px;
     font-size: 0.8rem;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
@@ -259,7 +259,9 @@ body {
 }
 
 .tag-ui:hover {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #e9ab0e73;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
 }
 
 /* Main content */
