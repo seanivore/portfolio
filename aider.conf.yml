@@ -1,0 +1,12 @@
+# Default model to use for this project
+model: gpt-4
+
+# Editor settings
+edit_format: search-replace
+
+# Git settings
+auto_commit: true
+commit_message_prefix: "AI: "
+
+# UI settings
+dark_mode: true
