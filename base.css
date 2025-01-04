@@ -112,6 +112,7 @@ body {
     height: 600px;
     overflow: hidden;
     width: 100%;
+    background-color: var(--page-background);
 }
 
 .hero-overlay {
