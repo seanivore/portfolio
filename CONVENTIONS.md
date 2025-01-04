@@ -13,13 +13,137 @@
   - Stats and metrics displays
   - Media sections
   - Conclusion blocks
+- `related-projects.js` - Related projects functionality
+  - Tag relationship matrix
+  - Project scoring system
+  - Dynamic related content population
 
-## Core Principles
-- CSS split by concern (base vs components)
-- Every element uses content-wrap for width control
-- BEM-style class naming for clarity
-- Three-item grids expand beyond content-wrap
-- Consistent variable usage for spacing and widths
+## Tag System Architecture
+
+### UI Navigation Categories (Marketing-Focused)
+These categories serve as high-level filters on the homepage:
+1. Philosophy & Ethics 
+2. Systems Architecture 
+3. Industry Innovation 
+4. User-Behavior Design 
+5. Generative Production 
+6. Agentic Automation 
+7. AI Development 
+8. Product Design
+
+### Project Tagging System (Technical Implementation)
+
+#### Primary Tags
+- Higher weight in related projects calculation
+- Project-specific descriptors
+- Used in tech stack display
+- Example format: `data-primary-tags="innovation strategy earned-media"`
+
+#### Secondary Tags
+- Lower weight in related projects calculation
+- More detailed descriptors
+- Used for fine-grained relationship matching
+- Example format: `data-secondary-tags="content-strategy multi-platform media-relations analytics campaign-development distribution-system"`
+
+### Tag Semantic Groups
+Used for calculating relationship scores in the related projects system:
+
+#### Systems & Architecture
+- system-architecture 
+- web-development 
+- system-integration
+- technical-architecture 
+- automation 
+- infrastructure
+- methodology 
+- implementation 
+- development
+
+#### Strategy & Innovation
+- business-strategy 
+- process-strategy 
+- innovation
+- risk-assessment 
+- strategic-communication
+- viral 
+- engagement 
+- earned-media
+
+#### Design & Experience
+- ux-ui 
+- visual-design 
+- product-design
+- user-behavior 
+- interaction-design
+- creative-direction 
+- motion-design
+
+#### AI & Automation
+- ai-development 
+- ai-integration 
+- ai-research
+- agentic 
+- generative 
+- automation
+- machine-learning 
+- ai-systems
+
+#### Theory & Analysis
+- philosophy 
+- ethics 
+- critical-analysis
+- research-methods 
+- systems-thinking
+- accessibility 
+- futurism
+
+## Related Projects Implementation
+
+### Tag Relationship Matrix
+- Stores relationship scores (1-50) between all tags
+- Higher scores indicate stronger relationships
+- Automatically expands with new project additions
+- Located in `related-projects.js`
+
+### Scoring System
+1. Primary tags compared with double weight
+2. Secondary tags compared with standard weight
+3. UI filter categories add bonus points
+4. Final score determines top 2 related projects
+
+### Example Project Markup
+```html
+<article class="project-card" 
+         data-position="1"
+         data-categories="4,3"
+         data-primary-tags="innovation strategy earned-media"
+         data-secondary-tags="content-strategy multi-platform media-relations analytics campaign-development distribution-system">
+    <!-- Project content -->
+</article>
+```
+
+## Styling Guidelines
+
+### Tag Display
+- Primary tags: `.tech-stack span`
+  - Font size: 0.7rem
+  - Padding: 0.3rem
+  - Color based on category
+
+- Project content padding: 1rem
+
+### Masthead UI Buttons
+- Hover state: 80% transparent gold
+- Enhanced shadow for button effect
+- Compact padding for clean layout
+
+## Project Page Creation Process
+1. Assign UI filter categories (1-8)
+2. Define primary tags (project-specific)
+3. Define secondary tags (detailed descriptors)
+4. Add data attributes for tag system
+5. Implement relationship scores in matrix
+6. Test related projects calculation
 
 ## Variables
 ```css
@@ -117,7 +241,7 @@
   - Border radius and shadow
   - Hover animation with translateY
 - `.content` - Inner card content wrapper
-  - Standard padding (1.75rem)
+  - Standard padding (1rem)
   - Text styling
 
 ### Stats Display
@@ -135,7 +259,7 @@
 ## Spacing Guidelines
 - Section spacing: 6rem (var(--section-spacing))
 - Element spacing: 3rem (var(--element-spacing))
-- Card padding: 1.75rem
+- Card padding: 1rem
 - Grid gaps: 3rem
 - Tag group gaps: 0.75rem
 
