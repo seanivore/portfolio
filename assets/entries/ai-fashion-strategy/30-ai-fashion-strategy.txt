@@ -1,0 +1,216 @@
+POSITION 30
+
+TILE TITLE
+AI-Driven Narrative-Centric Fashion Design
+
+TILE SUMMARY
+Fashion design created for a purpose; combining character narratives, art history, & trend-spotting transformative collections.
+
+CONTENT TILE IMAGE - 16:9 aspect @ 600 px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-tile-ai-fashion-strategy.webp
+
+FRONT PAGE TAGS 
+AI/Automation 
+Design
+Strategy
+
+META TITLE
+AI Fashion Innovation | Digital Fashion Strategy & Design
+
+META SUMMARY 
+AI revolutionizes fashion design and digital storytelling, blending traditional expertise with cutting-edge capabilities for innovative solutions and engaging narratives.
+
+META SOCIAL SHARE THUMBNAIL IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-thumbnail-ai-fashion-strategy.webp
+
+PAGE TITLE
+AI-Driven Fashion Strategy: Digital Narrative & Design
+
+HERO IMAGE - 1200 px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-hero-ai-fashion-strategy.webp
+
+PROJECT PAGE TAGS
+Fashion Design
+AI Technology
+Digital Strategy
+Creative Direction
+Content Innovation
+Brand Development
+
+
+---
+
+AI-Driven Fashion Design: Narrative Strategy & Character Evolution
+
+An innovative approach to fashion design combining character-driven narratives, art history, and AI technology to create purposeful, transformative style collections.
+
+[GIF with max-width of 600px and 390px tall]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/ai-fashion-strategy/img-gif-1-ai-fashion-strategy.gif?raw=true” alt=“Modern lookbook of winder 2024 fashionable looks, 2025 in-style models”>
+Caption: Winter 2024 Lookbook: Avant-Garde Art Movement Inspired Outfits for Real-life Personalities
+
+Design Framework:
+Our three-layer methodology creates meaningful fashion narratives:
+
+1. Life Story Layer:
+- Personal journey mapping
+- Milestone identification
+- Transformation points
+- Real-world context integration
+
+[Three item grid row for three 400px wide and 600px tall images] 
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-1-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-2-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-3-ai-fashion-strategy.webp
+
+Caption: Character Evolution Through Style: From First Client Pitch to Industry Leadership
+
+2. Character Development Layer:
+- Archetype definition
+- Personality profiling
+- Behavioral patterns
+- Growth trajectories
+
+[Three item grid row for three 400px wide and 600px tall images] 
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-4-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-5-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-6-ai-fashion-strategy.webp
+
+Caption: Character Expression Through Art Movements
+
+3. Visual Style Integration:
+- Art movement alignment
+- Style evolution mapping
+- Aesthetic principles
+- Design language development
+
+[Three item grid row for three 400px wide and 600px tall images] 
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-7-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-8-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-9-ai-fashion-strategy.webp
+
+Caption: Visual Style Translation Across Art Movements
+
+Technical Implementation:
+[one 800px max-width by 899px tall image; Alt: Agentic content production flow charts]
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-10-ai-fashion-strategy.webp
+
+Caption: AI-Powered Content Generation System
+
+Design Process Innovation:
+1. Concept Generation:
+- AI-powered design exploration (~60 variations per concept)
+- Firefly integration for initial ideation
+- Rapid prototype development
+
+[Flow chart in SVG format, Alt: Process of AI automated fashion model lookbook image productions] 
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/chart-1-ai-fashion-strategy.svg
+
+Caption: AI-Assisted Fashion Design Workflow
+
+Future-Ready Features:
+
+[GIF with max-width of 467px by 600px tall]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/ai-fashion-strategy/img-gif-2-ai-fashion-strategy.gif?raw=true” alt=“Modern Google Lens Product Search Online Fashion Magazine”>
+
+Caption: Seamless Style Discovery with Google Lens Integration
+
+Technology Integration:
+- Visual search optimization
+- AR/VR ready architecture
+- AI assistant compatibility
+- Dynamic pricing system
+
+[GIF with max-width of 293px by 600px tall]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/ai-fashion-strategy/img-gif-3-ai-fashion-strategy.gif?raw=true” alt=“Using modern technology to find where to buy what models are wearing”>
+
+Caption: Personalized Shopping Experience: Find Your Style, Your Price, Your Way
+
+User Experience Design:
+
+[GIF with max-width of 294px by 600px tall]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/ai-fashion-strategy/img-gif-4-ai-fashion-strategy.gif?raw=true” alt=“You can easily find what they're wearing for any price from any location”>
+
+Caption: Sustainable Fashion Through Smart Curation: Reducing Overproduction While Maximizing Style
+
+Platform Evolution:
+
+[GIF with max-width of 466px by 600px tall]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/ai-fashion-strategy/img-gif-5-ai-fashion-strategy.gif?raw=true” alt=“Predictive Style Recommendations and Automated Shopping”>
+
+Caption: AI-Powered Future: Predictive Style Recommendations and Automated Shopping
+
+Seasonal Collections:
+[LAYOUT: Slideshow 1 - 30 images, max-width 700px x 394px]
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-11-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-12-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-13-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-14-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-15-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-16-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-17-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-18-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-19-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-20-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-21-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-22-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-23-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-24-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-25-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-26-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-27-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-28-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-29-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-30-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-31-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-32-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-33-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-34-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-35-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-36-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-37-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-38-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-39-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-40-ai-fashion-strategy.webp
+
+Caption: Winter Collection: 9 Character Archetypes × 3 Milestones, Each Inspired by Distinct Art Movements
+
+[LAYOUT: Slideshow 2 - 34 images, max-width 700px x 394px]
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-41-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-42-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-43-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-44-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-45-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-46-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-47-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-48-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-49-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-50-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-51-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-52-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-53-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-54-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-55-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-56-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-57-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-58-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-59-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-60-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-61-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-62-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-63-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-64-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-65-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-66-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-67-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-68-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-69-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-70-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-71-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-72-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-73-ai-fashion-strategy.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-74-ai-fashion-strategy.webp
+
+Caption: Summer Collection: 12 Zodiac-Inspired Personalities with Dual Art Movement Influences
+
+Overview: 
+Explore an innovative approach to fashion design that combines AI technology, character-driven narratives, and art history. Utilizing a three-layer framework—Life Story, Character Development, and Visual Style Integration—this project produces distinctive, transformative fashion collections. AI enhances design exploration and user experience, offering personalized style guidance and sustainable consumption models. This blend of narrative design and technology represents a new frontier in fashion, where storytelling meets style evolution for impactful, art-inspired collections.
