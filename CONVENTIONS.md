@@ -275,3 +275,105 @@ Used for calculating relationship scores in the related projects system:
   - Adjusted font sizes
   - Preserved content-wrap structure
   - Maintained tag system layout
+
+
+# Related Projects Implementation Guide
+
+## Data Attributes Structure
+Every project card must include these data attributes:
+
+```html
+<article class="project-card"
+         data-position="[1-N]"
+         data-categories="[comma-separated UI filter numbers]"
+         data-primary-tags="[space-separated primary tags]"
+         data-secondary-tags="[space-separated secondary tags]">
+```
+
+### Position Attribute
+- `data-position="1"` indicates current project
+- Related projects have incrementing positions (2,3,etc)
+
+### Categories Attribute
+References UI filter numbers (1-8):
+1. Philosophy & Ethics 
+2. Systems Architecture 
+3. Industry Innovation 
+4. User-Behavior Design 
+5. Generative Production 
+6. Agentic Automation 
+7. AI Development 
+8. Product Design
+
+Example: `data-categories="3,4"`
+
+### Primary Tags
+- Higher weight in relationship scoring (2x)
+- Core project descriptors
+- Reference tag semantic groups
+- Example: `data-primary-tags="strategy innovation earned-media"`
+
+### Secondary Tags
+- Standard weight in relationship scoring (1x)
+- Detailed descriptors
+- Used for fine-grained matching
+- Example: `data-secondary-tags="content-strategy multi-platform media-relations"`
+
+## Relationship Scoring System
+
+### Score Calculation
+1. Compare primary tags (double weight)
+2. Compare secondary tags (standard weight)
+3. Apply UI category bonuses
+4. Sort by total score
+5. Select top 2 related projects
+
+### Category Weight Multipliers
+- Philosophy & Ethics: 1.3x
+- Systems Architecture: 1.2x
+- Industry Innovation: 1.4x
+- User-Behavior Design: 1.3x
+- Generative Production: 1.2x
+- Agentic Automation: 1.3x
+- AI Development: 1.4x
+- Product Design: 1.2x
+
+### Implementation Requirements
+
+#### Required Files
+1. related-projects.js
+2. Tag semantic group definitions in CONVENTIONS.md
+3. Data attributes on all project cards
+
+#### HTML Structure
+```html
+<section class="section related-projects">
+    <div class="content-wrap">
+        <h2>Related Projects</h2>
+        <div class="related-grid">
+            <!-- Populated by related-projects.js -->
+        </div>
+    </div>
+</section>
+```
+
+#### Testing New Pages
+1. Verify all data attributes are present
+2. Check tag semantic group alignment
+3. Test relationship scoring with existing projects
+4. Verify UI category assignments
+5. Confirm related projects display correctly
+
+## Maintenance Notes
+
+### Adding New Tags
+1. Add to semantic groups in CONVENTIONS.md
+2. Update relationship matrix in related-projects.js
+3. Document new tag relationships
+4. Test with existing projects
+
+### Modifying Relationships
+1. Update scores in relationship matrix
+2. Document changes in CONVENTIONS.md
+3. Test impact on related projects
+4. Update if needed based on results
