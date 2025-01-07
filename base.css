@@ -38,6 +38,17 @@ body {
     font-family: 'Georgia', serif;
     line-height: 1.6;
     color: var(--text-color);
+    font-size: 0.93rem;
+}
+
+h2 {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+}
+
+h3 {
+    font-size: 1.7rem;
+    margin-bottom: 1.25rem;
 }
 
 /* Project Image */
@@ -106,7 +117,7 @@ body {
     color: var(--accent-color);
 }
 
-/* Hero Section - For Project Pages */
+/* Hero Section */
 .hero {
     position: relative;
     height: 600px;
@@ -327,7 +338,7 @@ main {
 }
 
 /* Footer */
-footer {
+.footer {
     text-align: center;
     padding: 2rem;
     color: var(--text-color);
