@@ -1,119 +1,0 @@
-POSITION - 21 
-
-CONTENT TILE TITLE
-
-CONTENT TILE SUMMARY 
-
-CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
-CONTENT TILE PRIMARY TAGS 
-
-SEO META TITLE 
-
-SEO META SUMMARY 
-
-SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
-PAGE TITLE
-
-PAGE HERO IMAGE - 1200px square 
-
-PAGE SECONDARY TAGS
-
-
---
-
-agentic-marketing-department
-
---
-
-Let's start out by adding something that sort of rationalizes that heavy use of Make. Rather than placing it on myself – since today I'd use other methods — I'd like to talk about how user friendly it is, cheap, and powerful, making it perfect for teams looking to take their first steps into using automations with agentic decision making and generative content production scenarios. It means everyone on the team can understand exactly what is going on and are encouraged to take the initiative to get into the automatons and make changes as they need them. Without this element of learning, jumping right into much more heavy, programming automations — where teams typically would bring in an engineer — this "Code Free" first step is essential if you're going to know what you even want to ask of the programmer, both from the start and when iterating and making adjustments. The latter of which is probably of the highest importance. Just like a human employee, the AI automations will require feedback. Also just like a human employee, you can use normal language to provide this feedback. Provide it and then ask the AI to create new sets of SOPs, guides, system message, prompts and directions. Not writing your own prompts is probably a huge step to learning this process. Eventually when you have more experience you will likely dig into writing them partially yourself again, but I don't think it will ever make sense, now or in the future, not to get the AI who is using the prompt's thoughts on how to improve things. 
-
-My biggest lesson was related in that, LLMs have an incredibly nuanced understanding of the human language. I might want a slightly different tone, but not know how to achieve it — it might be such a small difference in tone that I dont' think it to be possible. But if you take the time to explain to an AI, often using examples, what it is you want, what it is you liked best from the prior work, they will be able to make changes to the prompt that, often you might not have any idea what is different, but somehow, through subtitles that come from having a vocabulary larger than any human could ever hope to have, the LLM is able to get you want you want. 
-
-This must be learned hands on and the only way that can really be efficiently done is using no-code tools like make. I don't recommend Zapier or any others — make is cheap and effective and leaves enough open for you to see exactly what goes where and how things work. 
-
-Then after a few months of perfecting a system, you'll be ready to have someone code for you a programmed solution — if you even need it yet! 
-
-
-[Image of flowchart from Make - img-1-agentic-marketing-department.webp] 
-
-Preparing identified variables that fill into a spreadsheet or database, requests are distributed to various AI with specific instructions and system prompts. Based on those instructions and the added variables, they produce a variety of blog content each week. 
-
-Initial training of AI is simple, requiring review of assets for the first few weeks. The review feedback is presented directly to the various AI so that they can create a clear, instructive, multipurpose SOP for writing the blog content. This SOP can be improved upon and adjusted for variety, or perfected and ran almost entirely human free, as later automations have an AI review the content, approve it, then trigger an automation that uses API to publish the blogs to the Webflow CMS. 
-
-
-[Image of flowchart from Make — img-2-agentic-marketing-department.webp]
-
-AI is prompted to create content based on predetermined parameters in the database. After producing the written content another AI reviews it to create prompts for another AI to use in generation of images relevant to the content. A final AI compiles a draft for review and places it back in the database before a notification is sent to a Discord channel that will either alert human for review, QA, next steps, or trigger an entire next automated flow automatically. 
-
-[Image of flowcharts from Make - 
-img-3-agentic-marketing-department.webpimg-4-agentic-marketing-department.webpimg-5-agentic-marketing-department.webp]
-
-Thanks to keeping all content in properly organized databases, creating additional assets using generative AI is easy and just as simple to perfect as the SOP for writing the blogs. 
-
-Here, the automation is pulling images that were produced based on the content earlier. Another Vision AI has already reviewed the images, providing the next AI with details as to what the image is like. The next AI has the context of what the content the image is meant to promote is. By combining the extremely detailed information from the vision AI an the context as to what the content is being promoted, as well as SOP details integrating stylistic choices perfected over time, the output produces captions – or more text content for video production - that requires very little, if any, human alterations. 
-
-While the first automation depicts a flow for posting images to promote the content across social media, the second shows an automation that pulls the images and other new text copy so be using in the production of video shorts using an API production service. The template for these videos is created once in the services web app and then a number of videos can be produced for free monthly. Shown in the final flow is the 12 we would create weekly using this service. 
-
-[Image of flowcharts from Make - 
-img-6-agentic-marketing-department.webpimg-7-agentic-marketing-department.webpimg-8-agentic-marketing-department.webpimg-9-agentic-marketing-department.webpimg-10-agentic-marketing-department.webp]
-
-Notion really couldn't make running very complex automations any easier thanks to the user friendly interface of their databases, and the versatility with which you can build a database for basically any need possible. 
-
-Looking a bit beyond just simple weekly blogs to towards evergreen content meant for SEO or for creating domain authority, a little bit of extra database preparation is all that's needed, otherwise the systems are very much the same. 
-
-In our first images you can see we were producing different parts of a web article with each AI call — that way in each subsequent AI's task you can include the previous content, ask it to review and alter the content as needed to make it flow with the content it is asked to produce for the page. This sequence ensures multiple reviews without any extra time or API calls spent. In the end we'd have an AI create an outline of the content after giving it a final review. That outline would be placed on a feature page or at the beginning of the article. We used this system to create ten distinct articles for each of 30 different iconic art history movements in just a day. Other automations, like those described earlier, were used in to integrate production of imagery that really couldn't illustrate the concepts of art history any better. 
-
-In the other images you can see our prompts carefully prepared for each article. Stored this way allows for creating edits and perfecting the prompts over time. 
-
-One of the really great aspects of being able to delegate so much work off your plate is the amount of time you can spend on strategy that might have gotten rushed or overlooked in previous years, pre-generative AI. Here in the next image you can see we carefully prepared out URL and slug structure. 
-
-The next image was a database that was used to inform the production of the articles — each art aesthetic was described in various ways, using keywords in some cases, or in others, quite literally using descriptive sentences in paragraph form — they key where was to experiment with what worked best. Those who have worked in social media are used to experimenting, market as well of course, but the really profound difference here is that, when you see something that works you literally just ASK THE AI how it happened. You get direct feedback from the producer of the content that is more detailed, nuanced, and specific than I would hope for from most coworkers on a content team — not to mention the response is instant and can be instantly tested and further perfected. Suffice it to say managing the output of generative AI content and working to get it not only to your liking, but into your voice, away from trope-y SEO that reads like SEO (our pet peeve) and of course, ensuring that everything reads the way it should — with a human touch. The idea is never to remove the human. The idea is never to do less work. The idea isn't necessarily to do more work, even though that is often an easy result. The idea is to be able to position yourself in a more strategic, forward thinking, quality assurance, and process optimization position. It's really quite profound after doing it for a while. Personally, found that I was thinking about writing — literally — in ways that I never even thought that people were able to consider when it comes to the process of writing. It is really hard to express how much of a personal growth, rapid at that, learning experience this kind of production is. In retrospect, if you're to look at the work produced and the AI as a team and consider all the directives and small adjustments so SOP guides, it makes sense — but it makes sense in that it would be very much like what you'd learn over many months managing many humans. If the goal is simply to learn to manage larger editorial output, I fully would find little interesting using humans over AI, aside from the benefits of interpersonal relationships — however one could argue that these human-only benefits can (should) be found elsewhere. It really is a completely new way to tackle content production and presentation. 
-
-In the final image you can see the output of the automations. This database was organized to make it simple to go through, review the content, and then add all the necessary images for each art history article. 
-
-[Image of flowcharts from Make - 
-img-11-agentic-marketing-department.webpimg-12-agentic-marketing-department.webp
-
-This next batch of flow charts is where content creation gets really fun. The first two charts are technically two of the much later used scenarios after using the automated AI email Webhook requests in the next handful of flow charts. Due to podcast and email newsletter length and variety of topics or different voices, or need for details and research, those are the content types where these next automations were most frequently used. Hopefully it is clear however they they could be used for any of the prior content production flows with some simple adjustments. 
-
-[Image of flowcharts from Make - img-13-agentic-marketing-department.webpimg-14-agentic-marketing-department.webpimg-15-agentic-marketing-department.webpimg-16-agentic-marketing-department.webpimg-17-agentic-marketing-department.webp]
-
-The automation here use emails created from the AI to human for reviews, selection of content topics, requests for more research — all of the above. Responding directly to those emails triggers a new automation, placing your email response content directly into the AI as the prompt request. 
-
-These are great for rewrite requests. Or if you want to tag in a specific LLM who is better at writing with a certain tone — or to request actual research from an AI like Perplexity. All of these carefully designed scenarios are the key to really high quality generative and agentic AI produced content. 
-
-The final key to this puzzle. 
-
-img-18-agentic-marketing-department.webp
-
-Everything created — from drafts, research, outlines, notes on what worked and what didn't, as well as links of actual promoted content and the analysis of the content's performance — it all can and should be managed by an AI with embeddings. 
-
-Over time this will create an AI who is knowledgeable about everything that relates to your marketing, branding, promotional, business development efforts. Whatever it is. Finances to subscribers. The more in there, the more fascinating insights you will be able to discover by have the AI conduct data analysis in the future. 
-
-That's not quite the entire marketing department yet, is it? Well, we might not hit every branch of digital marketing because, well, there are about a million. But how about this next bit — your favorite AI (Anthropic Claude Sonnet 3.5) can code for you a newsletter (or, this very page you're reading). I've been designing websites using visual and no-code editors — from Wordpress, SquareSpace, Kajabi, to Webflow and Framer. I'm very visual, have built my career around design, and am very particular. And yet, somehow, describing to AI — UI writing / UX writing — is literally still just, easier. It is sort of like we were discussing above about being able to delegate so much writing that you start thinking about writing from an entirely different perspective? That! But for design. You head doesn't get clouded. You give simple feedback and get results. I cannot believe how easy it has been to learn. And I've NEVER doing any coding before. I didn't understand how an HTML file and a CSS file worked together. I had ZERO idea how to even set up a workspace for me to be able to let AI code or how to view things. 
-
-Not to worry, it walks you through every single step. And, it is AI — so if it is going to fast and telling you to many steps at once you just say "Hey, I have a human brain, can you break this down to baby steps and literally don't provide anything else until I respond?" I even went so far as to say "whenever you provide me code, please tell me exactly what to do with it and where and what I should expect in response." You get it. 
-
-So, custom newsletters. Here I'll just drop a visual progression of going through a draft, giving feedback, and then a presentable draft ready to send out. It even was able to populate the entire thing with the content from our blogs along with all the necessary links. Images too. After the second draft I understood how to better provide feedback and the result was pretty much ready to send. Check it out. 
-
-img-35-newsletter-draft-feedback.webpimg-36-newsletter-draft-2.webpimg-37-newsletter-draft-3-final.webp
-
-That jump from the second draft to the final is pretty crazy, right? This is what I'm saying though. Your brain has more space to provide the proper feedback when you aren't thinking about things like how many REM the padding is and if all the margins are even and the color palette — that we decided on first. 
-
-The last really rad thing we have for the Agentic Marketing Department entry here is for running your online store using AI, generative copy, images, and automation for updating all the different stores. There is another entry specifically on automated e-commerce so we won't get too deep in this section. 
-
-img-38-agentic-marketing-department.webpimg-39-agentic-marketing-department.webp
-
-The big player here is a system that conducts an SEO and SERP analysis of your store. This analysis could literally be run weekly for the pennies it would cost for the API calls. 
-
-img-40-agentic-marketing-department.webpimg-41-agentic-marketing-department.webpimg-42-agentic-marketing-department.webp
-
-It structure — conceptually — it is a bit complex. Well, mostly it sounds super complex when you nag Perplexity to break down how to do it without paying for services, but in the end you basically just prompt AI a billion different things and feed it all into AI for embedding so that it can create a matrix far more complex than I can even visualize to come up with results. 
-
-https://www.perplexity.ai/search/how-can-i-use-ai-and-make-inte-NQUit8m3TiCY2MSeiQhpCw
-
-Then, since you did this yourself and used AI, you can take those matrix results and have AI generatively create new copy for your product titles, keywords, and summaries, sending it all over through Make (the flow charts in every other example on this entry) to update your Etsy store or website using API automatically. It is magical. 
-
-Until we gather more to add, that's your overview of creating an agentic, generative, automated AI-driven marketing department. 
