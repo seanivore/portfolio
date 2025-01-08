@@ -1,0 +1,142 @@
+POSITION - 20 
+
+CONTENT TILE TITLE
+AI-Maintained E-Commerce Historic Art Print Shops
+
+CONTENT TILE SUMMARY 
+ArtMovementMuseum uses cutting edge technology to raise up time-tested traditional art aesthetics through modern design. 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-tile-full-stack-automated-ecommerce.webp
+
+CONTENT TILE PRIMARY TAGS 
+Design
+AI/Automation
+Development
+
+SEO META TITLE 
+Interactive Art Education & E-commerce | AI-Powered Learning Platform
+
+SEO META SUMMARY 
+Development of an innovative digital platform that seamlessly merges art education with e-commerce functionality. The project leverages AI to create personalized learning experiences about art history while automating the production and sale of high-quality art prints, creating a sustainable educational business model.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-thumbnail-full-stack-automated-ecommerce.webp
+
+PAGE TITLE
+AI-Enhanced Art History Platform & Print Shop
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-hero-full-stack-automated-ecommerce.webp
+
+PAGE SECONDARY TAGS
+Art Education
+E-commerce Integration
+UI/UX Design
+AI Learning Systems
+Print Production
+Educational Content
+
+
+
+---
+
+A comprehensive project combining art history education, e-commerce automation, and innovative content creation, demonstrating the intersection of traditional art with modern technology and fashion.
+
+Project Scope:
+- 30 Art Movements explored in depth
+- 5,000+ high-quality art prints produced
+- Multi-platform content distribution
+- Automated e-commerce integration
+- AI-driven content creation system
+
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-8-full-stack-automated-ecommerce.webp
+Caption: Automated social media shop creation and management
+
+Content Creation Systems:
+
+1. Art Movement Education Pipeline:
+- 10 articles per art movement
+- AI-generated visual examples
+- Educational content automation
+- Social media distribution
+
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-7-full-stack-automated-ecommerce.webp
+Caption: Content management and SEO automation system
+
+2. E-commerce Integration:
+- Automated product listing creation
+- Multi-platform synchronization
+- Sales tracking and management
+- Inventory automation
+
+[LAYOUT - two chart images on cards in one row, total max width 800px]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-3-full-stack-automated-ecommerce.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-1-full-stack-automated-ecommerce.webp 
+Caption: E-commerce automation system architecture
+
+3. Visual Content Production:
+- AI-powered image generation
+- Automated mockup creation
+- Social media content preparation
+- SEO optimization
+
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-5-full-stack-automated-ecommerce.webp
+Caption: Visual content production workflow
+
+4. Social Media Integration:
+- Automated posting system
+- Comment engagement automation
+- Multi-platform content distribution
+- Analytics tracking
+
+[LAYOUT - two chart images on cards in one row, total max width 800px]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-6-full-stack-automated-ecommerce.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-2-full-stack-automated-ecommerce.webp
+Caption: Social media automation systems
+
+Technical Innovation:
+- Multi-agent task automation
+- Long-form content generation
+- Vision AI integration
+- SEO optimization automation
+- Sales process automation
+
+[LAYOUT - diagram single media card row 800px max width]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/full-stack-automated-ecommerce/img-4-full-stack-automated-ecommerce.webp
+Caption: Multi-agent content creation system
+
+Project Impact:
+Educational Reach:
+- Comprehensive art history resource
+- Visual-first educational approach
+- Interactive learning experiences
+- Accessible art education
+
+Commercial Success:
+- Successful Etsy store performance
+- Strong Pinterest engagement
+- Multiple revenue streams
+- Automated sales processes
+
+Technical Achievement:
+- Scalable automation systems
+- Multi-platform integration
+- AI-driven content creation
+- Efficient resource management
+
+Evolution and Growth:
+The project evolved through several phases:
+1. Style Spectrum initial launch
+2. ArtMovementMuseum development
+3. Integration with Style_Droid
+4. Expansion into new verticals
+
+Future Development:
+- RAG implementation for content management
+- Enhanced AI integration
+- Expanded automation capabilities
+- New vertical market exploration
+
+This project demonstrates the successful integration of art education, e-commerce, and automated content creation, showcasing the potential for AI-driven systems in creative industries.

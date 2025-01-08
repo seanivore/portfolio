@@ -1,0 +1,77 @@
+PLACEMENT - 9
+
+CONTENT TILE TITLE 
+Developed Healthcare Emergency Response Platform
+
+CONTENT TILE SUMMARY 
+Development of a rapid-response digital communication system for healthcare providers during COVID-19. 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-tile-public-health-response-platform.webp
+
+CONTENT TILE PRIMARY TAGS 
+Development
+Strategy
+Production
+
+SEO META TITLE
+Healthcare Digital Response | Emergency Communication System
+
+SEO META SUMMARY 
+Development of a rapid-response digital communication system for healthcare providers during COVID-19, enabling efficient information distribution and resource coordination.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-thumbnail-public-health-response-platform.webp
+
+PAGE TITLE 
+Healthcare Emergency Response Platform
+
+HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-hero-public-health-response-platform.webp
+
+PAGE SECONDARY TAGS 
+Healthcare Systems
+Emergency Response
+Digital Strategy
+Communication Systems
+Web Development
+User Experience
+
+---
+
+Led critical digital infrastructure development and communication strategy for Hawaii's COVID-19 Healthcare Providers Taskforce (HIC19HCTF), delivering urgent updates and achieving significant engagement metrics through strategic implementation.
+
+[two image grid row with complete max width of 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-1-public-health-response-platform.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-2-public-health-response-platform.webp
+
+Project Impact
+
+Email Opens
++60%
+
+Click Rate
++33%
+
+Conversion Increase
+58.55%
+in 24 hours
+
+Technical Implementation
+
+- Rapid website design updates for critical healthcare information delivery
+- Advanced DNS configuration for optimal performance
+- Custom email collection stack architecture for task force communications
+- Real-time urgent update system implementation
+- Strategic email campaign design and execution
+- Ongoing technical consultancy and support
+
+[two image grid row with complete max width of 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-3-public-health-response-platform.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/public-health-response-platform/img-4-public-health-response-platform.webp
+
+Project Highlights
+
+- Rapid deployment of critical healthcare communication infrastructure
+- Highly effective email campaign strategy with exceptional engagement rates
+- Significant conversion improvement achieved in under 24 hours
+- Robust technical architecture supporting urgent healthcare updates
+- Seamless integration of multiple communication channels

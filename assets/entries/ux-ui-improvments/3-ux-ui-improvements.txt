@@ -1,0 +1,129 @@
+PLACEMENT - 3 
+
+CONTENT TILE TITLE
+Conversational UX & Strategic UI Documentation
+
+CONTENT TILE SUMMARY 
+Led user experience transformation through conversational UX writing and strategic documentation at a digital agency, resulting in 40% higher user engagement and successful implementation across multiple platforms.
+
+CONTENT TILE IMAGE - 16:9 aspect and 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-tile-ux-ui-improvements.webp
+
+CONTENT TILE PRIMARY TAGS
+UX Writing
+Conversational Design
+Documentation Strategy
+
+SEO META TITLE
+Conversational UX Writing & Strategic Documentation Case Study
+
+SEO META SUMMARY 
+Agency experience leading UX transformation through user-centered writing and strategic documentation, achieving 40% improvement in engagement through data-driven design solutions.
+
+SEO META THUMBNAIL SHARE IMAGE - 1200 px x 630 px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-thumbnail-ux-ui-improvements.webp
+
+PAGE TITLE
+Conversational UX Writing & Strategic Documentation: Multi-Platform Project
+
+PAGE HERO IMAGE - 1200 px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-hero-ux-ui-improvements.webp
+
+ON PROJECT PAGE SECONDARY TAGS
+Agency Experience
+User Research
+Content Strategy
+Information Architecture
+Technical Documentation
+Implementation Planning
+
+---
+
+# Conversational UX Writing & Strategic Documentation
+
+## Project Overview
+Transformed a challenging multi-platform application through strategic UX initiatives: reimagining conversational flows to make complex information accessible, implementing user-centered design solutions in response to critical feedback, and developing comprehensive documentation for consistent implementation. These improvements drove a 40% increase in user engagement while maintaining core educational objectives across multiple platforms.
+
+[React Chart of UX Metrics Improvements over Time] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-chart-1-ux-ui-improvements.tsx 
+
+Visualization of key UX metrics over the project lifecycle, showing the cumulative impact of conversational design improvements, user-centered adjustments, and strategic documentation. The steady increase in both completion rates and user satisfaction demonstrates the effectiveness of our systematic approach to user experience enhancement.
+
+[one 800px square image; Alt: Kitten Squad icon logo, iconic, cat with a gun] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-4-ux-ui-improvements.webp
+[Caption:] Savior of animals in danger: Kittens with weapons
+
+### Key Achievements
+[CALLOUT METRICS]
+- 40% → 85% User Completion Rate
+- 88% User Satisfaction Score
+- 3x Reduction in Support Tickets
+
+[Additional achievements]
+- Developed comprehensive documentation system that enabled consistent implementation across platforms
+- Led successful coordination between design, development, and stakeholder teams
+
+[GIF with max-width of 800px]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/ux-ui-improvments/img-gif-1-ux-ui-improvements.gif?raw=true” alt=“Kittens in iOS and Playstation Game Us Weapons to Save Animals from Abusers”>
+[Caption:] Kittens in iOS and Playstation game use weapons to save animals from abusers
+
+## Conversational UX Strategy
+
+### User Research & Analysis
+- Conducted extensive analysis of user feedback and drop-off points
+- Identified critical usability barriers through user testing
+- Mapped user journeys to locate friction points
+- Developed data-driven improvement recommendations
+- Created user engagement scoring system
+
+### Content Architecture
+- Designed adaptive content delivery system
+- Implemented progressive information disclosure
+- Created contextual help framework
+- Developed content hierarchies for complex information
+- Established tone and voice guidelines
+
+### Implementation Strategy
+- Built comprehensive style guides for consistent messaging
+- Created modular content systems for cross-platform use
+- Developed accessibility-focused content guidelines
+- Established content governance procedures
+- Implemented content testing frameworks
+
+[three image card grid, Alt: Gameplay of Kitten Square Playstation and iOS game] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-1-ux-ui-improvements.webp [Caption: Start of gameplay, Kitten stops by the shop to gather weapons to save animals] | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-2-ux-ui-improvements.webp [Caption: Baby orca watches as mother orca is captured by evil SeaWorld] | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-3-ux-ui-improvements.webp [Caption: Kitten fights again evil sheep sheering machines and cow milking machines] 
+
+## Strategic Documentation
+
+### Technical Implementation
+- Created platform-specific implementation guides
+- Developed component documentation library
+- Established naming conventions and standards
+- Maintained technical requirements documentation
+- Coordinated documentation across teams
+
+### Information Architecture
+- Designed scalable documentation structure
+- Created contextual help systems
+- Developed user assistance frameworks
+- Implemented feedback collection systems
+- Established documentation maintenance procedures
+
+## Results & Metrics
+
+### Performance Improvements
+- 40% increase in user completion rates
+- 88% user satisfaction score achieved
+- Significant reduction in support tickets
+- Improved first-time user experience
+- Enhanced information retention metrics
+
+### System Impact
+- Streamlined implementation processes
+- Reduced development cycles
+- Improved cross-team collaboration
+- Enhanced maintenance efficiency
+- Established scalable documentation framework
+
+## Project Impact
+This transformation initiative demonstrates the power of user-centered design thinking and strategic documentation in solving complex user experience challenges. By focusing on conversational design principles and data-driven improvements, we successfully converted technical complexity into engaging user flows while establishing robust documentation frameworks. The project exemplifies how thoughtful UX writing and comprehensive documentation strategy can drive significant improvements in user engagement and satisfaction while enabling efficient cross-platform implementation. Perhaps most importantly, it shows how listening to user feedback and responding with systematic, well-documented solutions can transform challenging user experiences into accessible, engaging interactions.

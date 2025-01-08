@@ -1,0 +1,173 @@
+POSITION - 37 
+
+CONTENT TILE TITLE
+
+CONTENT TILE SUMMARY 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+CONTENT TILE PRIMARY TAGS 
+
+SEO META TITLE 
+
+SEO META SUMMARY 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+PAGE TITLE
+
+PAGE HERO IMAGE - 1200px square 
+
+PAGE SECONDARY TAGS
+
+
+
+ai-augmented-learning
+
+--
+
+	- We were tired of the rate limits using Anthropics web app
+	- Created messenger UI
+	- Refined it, then added file upload to conversation for images, PDF, etc. 
+	- Then added RAG aspects with chunking, embedding, etc. 
+	- Look to actual Development folder for more info. 
+	- Then rewrite accordingly 
+	- Is the slug appropriate 
+
+
+
+
+---
+Templates in portfolio-clean that have not been committed or pushed to GitHub: 
+
+/Users/seanivore/Projects/portfolio-clean/projects/ai-augmented-learning.css
+/Users/seanivore/Projects/portfolio-clean/projects/ai-augmented-learning.html
+
+
+# Building a Personal Knowledge RAG: A Case Study in AI-Augmented Learning
+
+## Project Overview
+
+This case study documents the development of a personal knowledge management system using Retrieval-Augmented Generation (RAG), exploring the intersection of AI capabilities and human learning patterns.
+
+## Core Methodology
+
+### Initial Approach
+- Development of a "gut check" principle for content evaluation
+- Implementation of reactive content filtering
+- Establishment of rebuild-oriented development strategy
+- Integration with existing AI systems for knowledge augmentation
+
+### Key Technical Components
+1. Content Evaluation System
+   - Reaction-based content filtering
+   - Quality metrics based on engagement levels
+   - Automated content assessment protocols
+
+2. Knowledge Integration Framework
+   - Parallel processing of human and AI learning patterns
+   - Environmental adaptation mechanisms
+   - Cross-referencing capabilities
+
+3. System Architecture
+   - Custom UI development for optimal interaction
+   - Integration with multiple AI interfaces
+   - Adaptive response mechanisms
+
+## Development Process
+
+### Phase 1: Foundation Building
+- Initial system architecture design
+- Implementation of basic RAG functionality
+- Development of content evaluation metrics
+
+### Phase 2: Pattern Recognition Implementation
+- Integration of learning pattern analysis
+- Development of adaptive response systems
+- Implementation of environmental awareness
+
+### Phase 3: System Optimization
+- Refinement of content filtering mechanisms
+- Enhancement of knowledge integration processes
+- Performance optimization and scaling
+
+## Key Insights and Observations
+
+### Learning Patterns
+- Parallel development of human and AI learning processes
+- Impact of environmental conditions on system behavior
+- Significance of engagement-based content evaluation
+
+### Technical Discoveries
+- Effectiveness of rebuild-oriented development
+- Importance of environmental adaptation in system design
+- Value of reaction-based content filtering
+
+### Critical Framework Development
+- Evolution of assessment methodologies
+- Integration of multiple perspective frameworks
+- Development of adaptive learning mechanisms
+
+## Results and Impact
+
+### System Performance
+- Quantitative improvements in content relevance
+- Enhanced knowledge retention metrics
+- Increased system adaptability
+
+### User Experience
+- Improved content discovery
+- More effective knowledge integration
+- Enhanced learning outcomes
+
+## Lessons Learned
+
+1. Development Strategy
+   - Importance of iterative development
+   - Value of flexible architecture
+   - Need for adaptive systems
+
+2. Technical Implementation
+   - Benefits of modular design
+   - Importance of environmental awareness
+   - Value of engagement metrics
+
+3. Future Considerations
+   - Potential for expanded implementation
+   - Areas for further optimization
+   - Opportunities for system evolution
+
+## Conclusion
+
+This project demonstrates the effective implementation of RAG technology in personal knowledge management, highlighting the importance of considering both human and AI learning patterns in system design.
+
+
+
+----
+
+
+
+Title: Building a Personal Knowledge RAG: A Case Study in AI-Augmented Learning
+Meta Title: RAG Development Case Study | AI Knowledge Systems
+Summary: A deep dive into developing a Retrieval-Augmented Generation system for personal knowledge management, integrating insights from AI behavior patterns and human learning processes to create an adaptive, engagement-driven knowledge system.
+
+Thumbnail Share Image - 1200 x 630px
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-augmented-learning/1200-630-px-thumbnail-social-share-ai-augmented-learning.webp
+
+Front Page Tags (3):
+
+Technical (Blue)
+Research (Purple)
+AI Systems (Green)
+
+Inner Page Tags (6):
+
+RAG Development
+Knowledge Systems
+System Architecture
+AI Integration
+Learning Systems
+Case Study
+
+Homepage Content Tile Image (for redesign of tiles) - 16:9 and 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-augmented-learning/16-9-aspect-600-px-wide-tile-image-ai-augmented-learning.webp

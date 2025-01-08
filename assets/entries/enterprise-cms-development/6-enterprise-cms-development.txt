@@ -1,0 +1,79 @@
+PLACEMENT - 6 
+
+CONTENT TILE TITLE 
+Custom UI/UX CMS Site Development
+
+CONTENT TILE SUMMARY 
+Development of sophisticated content management systems for enterprise clients, focusing on scalability and user experience. 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/enterprise-cms-development/img-tile-enterprise-cms-developement.webp
+
+CONTENT TILE FRONT PRIMARY TAGS
+Development
+Design
+Production
+
+SEO META TITLE 
+Enterprise Web Development | CMS Platform Architecture
+
+SEO META SUMMARY 
+Development of sophisticated content management systems for enterprise clients, focusing on scalability and user experience.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/enterprise-cms-development/img-thumbnail-enterprise-cms-development.webp
+
+PAGE TITLE 
+Enterprise CMS Platform Development
+
+PAGE HERO IMAGE - 1200 px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/enterprise-cms-development/img-hero-enterprise-cms-development.webp
+
+PROJECT PAGE SECONDARY TILES 
+Web Development 
+CMS Architecture 
+UI/UX Design 
+System Integration 
+Performance Optimization 
+Technical Strategy
+
+---
+
+A comprehensive Webflow development project showcasing custom UI/UX design, interactive elements, and seamless e-commerce integration. The site features a sophisticated print store and an engaging lookbook section, demonstrating advanced implementation of Webflow's capabilities.
+
+Print Store Experience
+
+The e-commerce section features a carefully crafted print store with AI-enhanced historic prints:
+
+[two gifs, one per row, both rows max width 800px wide]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/enterprise-cms-development/img-gif-1-enterprise-cms-development.gif?raw=true” alt=“Webflow Site Design Print Store”> 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/enterprise-cms-development/img-gif-5-enterprise-cms-development.gif?raw=true” alt=“Webflow Site Design Print Store”> 
+
+Interactive Lookbook
+
+The fashion lookbook section demonstrates advanced interactive features and elegant design:
+
+[three gifs, one per row, grid max width 800px wide]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/enterprise-cms-development/img-gif-2-enterprise-cms-development.gif?raw=true” alt=“Webflow Site Design Fashion Lookbook”> 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/enterprise-cms-development/img-gif-3-enterprise-cms-development.gif?raw=true” alt=“Webflow Site Design Fashion Lookbook”> 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/enterprise-cms-development/img-gif-4-enterprise-cms-development.gif?raw=true” alt=“Webflow Site Design Fashion Lookbook”> 
+
+Navigation & Home Experience
+
+The custom navigation and home page design encourages exploration and provides an intuitive overview of the site's content:
+
+[two gifs, one per row, both rows max width 800px wide]
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/enterprise-cms-development/img-gif-6-enterprise-cms-development.gif?raw=true” alt=“Webflow Site Design Navigation”> 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/enterprise-cms-development/img-gif-7-enterprise-cms-development.gif?raw=true” alt=“Webflow Site Design Navigation”> 
+
+Technical Highlights
+
+- Custom UI/UX design optimized for user engagement and conversion
+- Interactive elements enhancing content discovery and navigation
+- Seamless e-commerce integration for the print store
+- Advanced lightbox implementation for the lookbook gallery
+- Responsive design ensuring optimal viewing across all devices
+- Performance-optimized image loading and transitions
+
+
+

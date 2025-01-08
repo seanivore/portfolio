@@ -1,0 +1,139 @@
+PLACEMENT - 0 
+
+CONTENT TILE TITLE
+Agentic Template Components Development Strategy
+
+CONTENT TILE SUMMARY
+Take on complex web development projects full of diverse content using our versatile modular master template components so you can focus on unique UI details. 
+
+CONTENT TILE IMAGE - 16:9 aspect and 600px width 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-tile-master-template.webp
+
+CONTENT TILE PRIMARY TAGS 
+UI Technical Writing
+Web Development
+Agentic Process
+
+SEO META TITLE 
+UX Writing & Agentic Development | Pragmatic Site Design
+
+SEO META SUMMARY 
+Adding new UI navigation, algorithmic content presentation, and perspective motion to a new, emotionally intelligent website redesign, with a process strategically crafted to offload the bulk of the work to a fully Agentic version of Cline. 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-thumbnail-master-template.webp
+
+PAGE TITLE
+Complete Web Redesign with Automated Build
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-hero-master-template.webp
+
+PAGE SECONDARY TAGS 
+MCP Servers
+AI Coding Automation
+UI Writing 
+UX Design
+Algorithmic Content 
+Project Management
+
+
+---
+
+
+## Project Overview
+Led the comprehensive redesign of a professional portfolio website, focusing on creating modular template components that enable efficient content management while maintaining design consistency. This project emphasizes agentic development practices to streamline future content creation and updates.
+
+### Key Achievements
+- Developed modular template system supporting diverse content types
+- Created automated build process for new portfolio entries
+- Implemented intelligent tag-based navigation system
+- Established consistent cross-platform user experience
+- Integrated agentic development practices for content generation
+
+[Bauhaus image of urban buildings done in a more contemporary way than traditional bright bauhaus work. — 1200px x 960px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-1-master-template.webp]
+
+## Template Development Strategy
+
+### Component Architecture
+- Created reusable master template structure
+- Developed modular content blocks
+- Implemented responsive design patterns
+- Established consistent styling system
+- Built flexible layout components
+
+### Documentation Framework
+- Created component implementation guides
+- Developed style documentation
+- Established naming conventions
+- Maintained technical specifications
+- Coordinated template versioning
+
+[Bar graph showing how long it takes to Develop, Coordinate Content, Write UI, and Plan a Strategy Process comparing traditional website development methods versus using these methods and templates. — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-chart-1-master-template.tsx]
+
+### Design System Implementation
+
+#### Core Components
+- Header and navigation templates
+- Content block variations
+- Tag system architecture
+- Footer and related content
+- Interactive elements
+
+#### Template Variations
+- Project showcase layouts
+- Technical documentation format
+- Case study structure
+- Gallery presentations
+- Process documentation
+
+[A sort of regal, almost acoustic feeling abstract Glitch Art image of lines and very light, almost transparent peach, blue, and gray gradients. — 1200 px square https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-4-master-template.webp]
+
+### Agentic Development Integration
+
+#### Process Automation
+- Content structure validation
+- Asset optimization workflow
+- Template population system
+- Build process automation
+- Quality assurance checks
+
+#### AI Assistance Integration
+- Content structure analysis
+- Template selection logic
+- Tag system management
+- Related content algorithms
+- Format optimization
+
+[Contemporary, abstract view of pleated hills colored in a pale rainbow gradient. A constructivist piece — 1200px x 675px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-5-master-template.webp]
+
+## Technical Implementation
+
+### Template System
+- Modular component architecture
+- Responsive design framework
+- Interactive element library
+- Content block variations
+- Cross-platform compatibility
+
+### Build Process
+- Automated template population
+- Content validation system
+- Asset management workflow
+- Version control integration
+- Deployment automation
+
+[This piece of art is far more whimsical and fluid, like the earth's mountains are leaking liquid gold into a rainbow and midnight indigo swirling galaxy above. An abstract Baroque work of art. — 1200px x 960px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-3-master-template.webp]
+
+## Results & Future Development
+
+### System Benefits
+- Rapid content deployment capability
+- Consistent design language
+- Efficient content management
+- Scalable template system
+- Automated quality control
+
+[A vibrant geometric abstraction that feels like shops lining your favorite beach town. A much more traditional Bauhaus work of art. — 1200px x 960px — https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/master-template/img-2-master-template.webp]
+
+This case study showcases the successful implementation of a modular template system that integrates agentic development. It emphasizes the strategic component architecture, which ensures a well-organized and efficient system. The automated build processes streamline the development workflow, reducing manual effort and time. Intelligent content management allows for easy and effective handling of content, enhancing user experience. Additionally, the system’s cross-platform compatibility ensures it can be used on various devices without compromising functionality. Lastly, the future-proof design system guarantees that the system will remain relevant and adaptable to future technological advancements.

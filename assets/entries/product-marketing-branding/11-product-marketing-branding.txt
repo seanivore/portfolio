@@ -1,0 +1,109 @@
+POSITION - 11 
+
+CONTENT TILE TITLE 
+Web3 Brand Creative Direction & Strategy 
+
+CONTENT TILE SUMMARY 
+Strategic development and design implementation for a privacy-focused DAO including governance structures and visual systems.
+
+CONTENT TILE IMAGE - 16:9 aspect and 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-tile-product-marketing-branding.webp
+
+CONTENT TILE PRIMARY TAGS 
+Web3
+Strategy
+Design
+
+SEO META TITLE 
+DAO Design & Strategy | Web3 Organization Development
+
+SEO META SUMMARY 
+Strategic development and design implementation for a privacy-focused DAO, including governance structures and visual systems.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-thumbnail-product-marketing-branding.webp
+
+PAGE TITLE
+Web3 DAO: Strategic Design & Operations
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-hero-product-marketing-branding.webp
+
+PAGE SECONDARY TILES 
+DAO Strategy 
+Web3 Governance 
+Brand Architecture 
+Community Design 
+Protocol Development 
+Creative Direction
+
+---
+
+
+Creative Direction & Brand Art Development at a privacy protocol DAO. Led creative direction for a pioneering Web3 privacy protocol DAO, developing comprehensive brand identity through innovative art direction, including anime-style team visualizations and educational comic books that simplified complex technological concepts.
+
+[single 16:9 image; max 800px width card] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-14-product-marketing-branding.webp
+
+[side-by-side book like slide show of square images; max 800px width] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-01-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-02-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-03-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-04-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-05-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-06-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-07-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-08-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-09-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-10-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-11-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-12-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-13-product-marketing-branding.webp
+
+
+Project Impact
+
+Comic Books
+3,000+
+Printed & Distributed
+
+Brand Art
+1,000s
+Unique Pieces
+
+Pepe Variations
+200+
+Custom Designs
+
+[grid with 2 columns and 3 rows, all square images; total max width 800px wide] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-15-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-16-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-17-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-18-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-19-product-marketing-branding.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/product-marketing-branding/img-20-product-marketing-branding.webp
+
+Creative Direction
+
+- Developed comprehensive brand identity for Web3 privacy startup
+- Created anime-style visualizations of remote team members
+- Produced educational comic books explaining complex protocols
+- Managed digital UX/UI web consulting
+- Led autonomous creative operations from ideation to execution
+- Translated technical concepts into shareable content
+
+[two square gifs side-by-side in row; total row width 800px max width] 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/product-marketing-branding/img-gif-2-product-marketing-branding.GIF?raw=true” alt=“Redesigned for the modern age, a GIF of 'Everything is Fine' dog sitting in burning house with beautiful flicking lighting ”>
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/product-marketing-branding/img-gif-3-product-marketing-branding.GIF?raw=true” alt=“Creepy, high-resolution Pepe GIF”>
+
+
+Project Highlights
+
+- Successfully visualized complex privacy protocols through creative storytelling
+- Bridged communication gap between technical team and general audience
+- Created memorable brand identity through custom character designs
+- Produced high-impact educational materials for product launch
+- Maintained brand consistency across diverse content formats
+
+[one gif max width 800px wide] 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/product-marketing-branding/img-gif-1-product-marketing-branding.gif?raw=true” alt=“Speak no evil, monkeys and emoji”>

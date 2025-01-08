@@ -1,0 +1,99 @@
+POSITION - 7 
+
+CONTENT TILE TITLE 
+Award-Winning Viral Video Campaigns
+
+CONTENT TILE SUMMARY 
+Creation and execution of viral video campaigns achieving massive organic reach and media coverage through strategic content development. 
+
+CONTENT TILE IMAGE - 16:9 aspect and 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/img-tile-viral-campaign-strategy.webp
+
+CONTENT TILE PRIMARY TAGS 
+Production
+Strategy
+Innovation
+
+SEO META TITLE 
+Viral Marketing Campaigns | Video Production Strategy
+
+SEO META SUMMARY 
+Creation and execution of viral video campaigns achieving massive organic reach and media coverage through strategic content development.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/img-thumbnail-viral-campaign-strategy.webp
+
+PAGE TITLE 
+Viral Video Campaign Strategy & Production
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/img-hero-viral-campaign-strategy.webp
+
+PAGE SECONDARY TAGS 
+Video Production 
+Viral Strategy 
+Campaign Development 
+Media Relations 
+Content Distribution 
+Analytics
+
+---
+
+# Award-Winning PETA Viral Campaigns
+
+A series of highly successful viral campaigns for PETA, including an award-winning comedy video with 100M+ views, a Shorty Awards finalist campaign, and an innovative social media strategy that created widespread engagement and press coverage.
+
+## DoGooder Award-Winning Campaign
+The "Tofucken: The Vegan Turducken" [https://www.youtube.com/watch?v=j5QAjcbvbDg] campaign showcased how humor can drive massive engagement and social change [https://www.nten.org/article/winners-2016-dogooder-awards]:
+
+[![PETA Funny For Good Award Winning Viral Video Tofucken](https://img.youtube.com/vi/j5QAjcbvbDg/0.jpg)](https://www.youtube.com/watch?v=j5QAjcbvbDg)
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/viral-campaign-strategy/img-gif-1-viral-campaign-strategy.gif?raw=true” alt=“PETA Funny For Good Award Winning Viral Video Tofucken"> 
+
+Video Views
+100M+
+
+Award
+DoGooder
+
+Category
+Funny for Good
+
+[one image tile max width 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/image-1-viral-campaign-strategy.webp
+
+
+## Shorty Awards Finalist Campaign
+The "Behind the Leather" campaign created a powerful in-store experience that translated into viral online content [https://shortyawards.com/1st-socialgood/shoppers-horrified-when-they-realize-their-luxury-leather-purse-was-alive]:
+
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/viral-campaign-strategy/img-gif-2-viral-campaign-strategy.gif?raw=true” alt=“PETA Award Winning Viral Video Shocks Luxury Shoppers"> 
+
+Organic Views
+40M+
+
+Recognition
+Shorty Finalist
+
+[one image tile max width 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/image-2-viral-campaign-strategy.webp 
+
+
+## Viral Digital Strategy Creates Angry Hunters, Press [https://www.outdoorlife.com/heres-what-you-need-to-know-about-peta-facebook-photo-frame/#page-3] 
+
+[one image tile max width 800px square] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/viral-campaign-strategy/image-3-viral-campaign-strategy.webp
+
+### Innovative Social Strategy
+Created a viral Facebook Frame campaign that generated significant engagement and press coverage:
+- Developed a strategic Facebook Frame that went viral among target audience
+- Generated significant press coverage, including feature in Outdoor Life magazine
+- Successfully hijacked the #shootselfiesnotanimals hashtag on Instagram
+- Created widespread engagement and discussion across social platforms
+
+### Campaign Highlights
+- Award-winning humor-based viral video reaching 100M+ views
+- Integrated campaign finalist in Shorty Social Good Awards
+- Innovative use of new social media tools to create trending topics
+- Strategic content planning and distribution across multiple platforms
+- Successful engagement of diverse audience demographics
+- Generated significant earned media coverage

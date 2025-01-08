@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Award-Winning PETA Viral Campaigns - Sean Horvath</title>
+    <meta name="description" content="Case study of viral video campaigns and social media strategies for PETA">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="7-peta-viral-videos.css">
+</head>
+<body>
+    <nav class="project-nav">
+        <div class="project-nav-content">
+            <a href="../index.html" class="back-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <article class="project-detail">
+        <header class="project-header">
+            <h1 class="project-title">Award-Winning PETA Viral Campaigns</h1>
+            <p class="project-subtitle">High-Impact Video Production & Social Strategy</p>
+            
+            <p class="project-summary">
+                A series of highly successful viral campaigns for PETA, including an award-winning comedy video with 100M+ views, a Shorty Awards finalist campaign, and an innovative social media strategy that created widespread engagement and press coverage.
+            </p>
+
+            <div class="tags-section">
+                <span class="tag category-tag">Video Production</span>
+                <span class="tag skill-tag">Social Strategy</span>
+                <span class="tag skill-tag">Viral Marketing</span>
+                <span class="tag platform-tag">Multi-Platform</span>
+            </div>
+        </header>
+
+        <h2 class="section-header">DoGooder Award-Winning Campaign</h2>
+        <p>The "Tofucken: The Vegan Turducken" campaign showcased how humor can drive massive engagement and social change:</p>
+        
+        <div class="video-container">
+            <a href="https://www.youtube.com/watch?v=j5QAjcbvbDg" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.youtube.com/vi/j5QAjcbvbDg/0.jpg" alt="PETA Funny For Good Award Winning Viral Video Tofucken" class="project-image">
+            </a>
+        </div>
+        
+        <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/peta-viral-high-production/01-award-funny-for-good-shorty-tofucken-gif.webp" alt="PETA Funny For Good Award Winning Viral Video Tofucken" class="project-image">
+
+        <div class="metrics-grid">
+            <div class="metric">
+                <h3>Video Views</h3>
+                <p>100M+</p>
+            </div>
+            <div class="metric">
+                <h3>Award</h3>
+                <p>DoGooder</p>
+            </div>
+            <div class="metric">
+                <h3>Category</h3>
+                <p>Funny for Good</p>
+            </div>
+        </div>
+
+        <h2 class="section-header">Shorty Awards Finalist Campaign</h2>
+        <p>The "Behind the Leather" campaign created a powerful in-store experience that translated into viral online content:</p>
+        
+        <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/peta-viral-high-production/04-viral-award-winning-video-production.webp" alt="PETA Award Winning Viral Video Shocks Luxury Shoppers" class="project-image">
+
+        <div class="metrics-grid">
+            <div class="metric">
+                <h3>Organic Views</h3>
+                <p>40M+</p>
+            </div>
+            <div class="metric">
+                <h3>Recognition</h3>
+                <p>Shorty Finalist</p>
+            </div>
+        </div>
+
+        <h2 class="section-header">Innovative Social Strategy</h2>
+        <p>Created a viral Facebook Frame campaign that generated significant engagement and press coverage:</p>
+
+        <ul class="feature-list">
+            <li>Developed a strategic Facebook Frame that went viral among target audience</li>
+            <li>Generated significant press coverage, including feature in Outdoor Life magazine</li>
+            <li>Successfully hijacked the #shootselfiesnotanimals hashtag on Instagram</li>
+            <li>Created widespread engagement and discussion across social platforms</li>
+        </ul>
+
+        <h2 class="section-header">Campaign Highlights</h2>
+        <ul class="feature-list">
+            <li>Award-winning humor-based viral video reaching 100M+ views</li>
+            <li>Integrated campaign finalist in Shorty Social Good Awards</li>
+            <li>Innovative use of new social media tools to create trending topics</li>
+            <li>Strategic content planning and distribution across multiple platforms</li>
+            <li>Successful engagement of diverse audience demographics</li>
+            <li>Generated significant earned media coverage</li>
+        </ul>
+    </article>
+
+    <footer class="project-footer">
+        <div class="footer-nav">
+            <h3>Related Case Studies</h3>
+            <div class="related-projects">
+                <div class="related-project">
+                    <a href="8-influencer-pitch-deck.html" class="related-project-link">
+                        <h4>Next in Series:</h4>
+                        Influencer Growth Strategy
+                        <span class="related-description">Client pitch deck and growth hacking case study</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-content">
+            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
+            <div class="footer-contact">
+                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

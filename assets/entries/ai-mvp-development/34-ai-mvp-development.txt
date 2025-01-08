@@ -1,0 +1,176 @@
+POSITION - 34 
+
+CONTENT TILE TITLE
+Strategic MVP Development
+
+CONTENT TILE SUMMARY 
+An in-depth analysis of strategic MVP development methodology, focusing on project selection and prioritization in rapidly evolving AI landscapes.
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-mvp-development/img-tile-ai-mvp-development.webp
+
+CONTENT TILE PRIMARY TAGS 
+Strategy
+Development
+Innovation
+
+SEO META TITLE 
+MVP Strategy | AI Project Development
+
+SEO META SUMMARY 
+An in-depth analysis of strategic MVP development methodology, focusing on project selection and prioritization in rapidly evolving AI landscapes. Features practical frameworks for evaluating project viability and managing technological obsolescence risks.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-mvp-development/img-thumbnail-ai-mvp-development.webp
+
+PAGE TITLE
+Strategic MVP Development in the Age of Rapid AI Evolution
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-mvp-development/img-hero-ai-mvp-development.webp
+
+PAGE SECONDARY TAGS
+MVP Development
+Project Strategy
+AI Integration
+Risk Management
+Product Development
+Case Study
+
+
+---
+
+## Project Overview
+
+This case study examines the strategic approach to MVP development in an era where AI capabilities are rapidly evolving. It focuses on the methodology for selecting and prioritizing projects that maintain relevance despite rapid technological advancement.
+
+## Strategic Framework
+
+### Project Evaluation Criteria
+- Implementation complexity
+- Longevity potential
+- Market sustainability
+- AI integration requirements
+- Development timeline
+- Resource requirements
+
+### Project Classification System
+- Easy Implementation: 1-2 month timeline
+- Moderate Complexity: 2-4 month timeline
+- Complex Integration: 4+ month timeline
+
+[one image card with max width of 800px wide; 800px x 640px; Alt: Three figures stand, almost angelic, in a world of invention] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-mvp-development/img-1-ai-mvp-development.webp 
+
+## Project Portfolio Analysis
+
+### Easy Implementation Projects
+1. SERP/SEO Automation
+   - Focus on sustainable automation patterns
+   - Integration with existing workflows
+   - Scalable architecture design
+
+2. On-Task AI Management
+   - Core productivity enhancement
+   - Simple but effective implementation
+   - High utility-to-effort ratio
+
+### Moderate Complexity Projects
+1. Personal Development Tools
+   - Meditation Buddy
+   - Journal Assistant
+   - Poetry/Creative Writing Support
+   
+2. Creative Assistance Tools
+   - Photography Enhancement
+   - Short Story Development
+   - Personal Shopping Assistant
+
+### Complex Integration Projects
+1. AI Check-in & Feedback
+   - Comprehensive user interaction
+   - Advanced data processing
+   - Complex feedback mechanisms
+
+2. Creative Education Platforms
+   - AI Art Classes
+   - Interactive Learning Systems
+   - Adaptive Teaching Methods
+
+[one image card with max width of 800px wide; 800px x 450px; Alt: Busy town square in a fantasy, steam punk vibe aesthetic] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-mvp-development/img-2-ai-mvp-development.webp
+
+## Strategic Insights
+
+### Project Selection Criteria
+1. Sustainability Factors
+   - Long-term viability assessment
+   - Technology obsolescence risk
+   - Market demand stability
+
+2. Development Considerations
+   - Resource allocation efficiency
+   - Timeline management
+   - Risk mitigation strategies
+
+3. Innovation Balance
+   - Novel feature development
+   - Integration of existing technologies
+   - Future expansion potential
+
+## Implementation Strategy
+
+### Development Prioritization
+1. Quick Wins
+   - Focus on high-impact, low-complexity projects
+   - Rapid deployment capabilities
+   - Immediate value delivery
+
+2. Strategic Development
+   - Building foundational technologies
+   - Creating reusable components
+   - Establishing development patterns
+
+3. Long-term Investment
+   - Complex system architecture
+   - Advanced integration requirements
+   - Extensive testing needs
+
+[one image card with max width of 800px wide; 800px x 1000px; Alt: Feminine figure stands silhouetted against sunlight shining down onto a world of mechanical buildings in a steam punk aesthetic] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-mvp-development/img-3-ai-mvp-development.webp
+
+## Lessons Learned
+
+### Key Insights
+1. Project Selection
+   - Importance of longevity assessment
+   - Value of modular development
+   - Risk management strategies
+
+2. Development Approach
+   - Agile methodology adaptation
+   - Rapid prototyping benefits
+   - Iterative development value
+
+3. Resource Optimization
+   - Efficient allocation strategies
+   - Skill development focus
+   - Tool selection importance
+
+## Future Considerations
+
+### Evolution Strategies
+1. Technology Adaptation
+   - Monitoring AI advancement
+   - Adjusting development approaches
+   - Maintaining relevance
+
+2. Market Alignment
+   - User need assessment
+   - Competitive analysis
+   - Value proposition refinement
+
+## Conclusion
+
+This strategic approach to MVP development demonstrates the importance of careful project selection and prioritization in a rapidly evolving technological landscape. The framework provides a sustainable model for future development initiatives.
+
