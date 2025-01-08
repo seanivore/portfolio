@@ -5,24 +5,21 @@
     max-width: var(--section-width);
 }
 
-.section.related-projects {
-    margin-top: 16rem;
-}
-
 /* Content Width System */
 .content-wrap {
     max-width: var(--content-width);
-    margin: 0 auto;
+    margin: 2rem auto;
 }
 
 .content-wrap-narrow {
     max-width: 600px;
-    margin: 0 auto;
+    margin: 2rem auto;
 }
 
 .content-wrap-wide {
-    margin: 0 auto;
+    margin: 2rem auto;
     padding: 0 2rem;
+    align-items: center;
 }
 
 /* Grid System */
@@ -31,27 +28,6 @@
     gap: var(--element-spacing);
     margin: var(--element-spacing) auto;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
-}
-
-/* Project Image - HOMEPAGE ONLY */
-.project-image {
-    position: relative;
-    width: 100%;
-    max-width: 600px;
-    height: 338px;
-    overflow: hidden;
-    aspect-ratio: 16/9;
-}
-
-.project-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s ease;
-}
-
-.project-card:hover .project-image img {
-    transform: scale(1.05);
 }
 
 /* Card System */
@@ -90,10 +66,13 @@
 }
 
 .card .caption {
-    padding: 0.75rem 1.75rem;
+    padding: 0.8rem 0.88rem;
     font-size: 0.8rem;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
     line-height: 1.4;
     color: var(--text-color);
+    background-color: whitesmoke;
 }
 
 .card .caption p {
@@ -182,6 +161,10 @@
 }
 
 /* Related Projects Section */
+.section.related-projects {
+    margin-top: 16rem;
+}
+
 .related-projects {
     padding: 0 2rem;
 }
@@ -223,7 +206,7 @@
 .related-card p {
     color: var(--text-color);
     line-height: 1.6;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     flex-grow: 1;
 }
 
@@ -265,6 +248,7 @@
 .footer-nav {
     display: flex;
     gap: 2rem;
+    background-color: transparent;
 }
 
 .footer-nav a {
