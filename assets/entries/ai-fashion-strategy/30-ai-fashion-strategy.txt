@@ -58,9 +58,9 @@ Our three-layer methodology creates meaningful fashion narratives:
 - Real-world context integration
 
 [Three item grid row for three 400px wide and 600px tall images] 
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-1-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-2-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-3-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-1-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-2-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-3-ai-fashion-strategy.webp
 
 Caption: Character Evolution Through Style: From First Client Pitch to Industry Leadership
 
@@ -71,9 +71,9 @@ Caption: Character Evolution Through Style: From First Client Pitch to Industry 
 - Growth trajectories
 
 [Three item grid row for three 400px wide and 600px tall images] 
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-4-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-5-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-6-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-4-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-5-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-6-ai-fashion-strategy.webp
 
 Caption: Character Expression Through Art Movements
 
@@ -84,15 +84,15 @@ Caption: Character Expression Through Art Movements
 - Design language development
 
 [Three item grid row for three 400px wide and 600px tall images] 
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-7-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-8-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-9-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-7-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-8-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-9-ai-fashion-strategy.webp
 
 Caption: Visual Style Translation Across Art Movements
 
 Technical Implementation:
 [one 800px max-width by 899px tall image; Alt: Agentic content production flow charts]
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-10-ai-fashion-strategy.webp
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-10-ai-fashion-strategy.webp
 
 Caption: AI-Powered Content Generation System
 
@@ -103,7 +103,7 @@ Design Process Innovation:
 - Rapid prototype development
 
 [Flow chart in SVG format, Alt: Process of AI automated fashion model lookbook image productions] 
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/chart-1-ai-fashion-strategy.svg
+/Users/seanivore/Development/portfolio-2025/assets/entries/ai-fashion-strategy/chart-1-ai-fashion-strategy.svg
 
 Caption: AI-Assisted Fashion Design Workflow
 
