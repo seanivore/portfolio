@@ -139,76 +139,80 @@ Platform Evolution:
 
 Caption: AI-Powered Future: Predictive Style Recommendations and Automated Shopping
 
+===========
+
 Seasonal Collections:
-[LAYOUT: Slideshow 1 - 30 images, max-width 700px x 394px]
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-11-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-12-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-13-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-14-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-15-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-16-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-17-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-18-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-19-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-20-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-21-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-22-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-23-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-24-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-25-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-26-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-27-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-28-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-29-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-30-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-31-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-32-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-33-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-34-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-35-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-36-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-37-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-38-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-39-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-40-ai-fashion-strategy.webp
+[LAYOUT: Slideshow #1 - 30 images, max-width 600px x 394px]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-11-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-12-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-13-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-14-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-15-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-16-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-17-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-18-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-19-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-20-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-21-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-22-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-23-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-24-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-25-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-26-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-27-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-28-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-29-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-30-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-31-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-32-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-33-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-34-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-35-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-36-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-37-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-38-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-39-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-40-ai-fashion-strategy.webp
 
 Caption: Winter Collection: 9 Character Archetypes × 3 Milestones, Each Inspired by Distinct Art Movements
 
-[LAYOUT: Slideshow 2 - 34 images, max-width 700px x 394px]
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-41-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-42-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-43-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-44-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-45-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-46-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-47-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-48-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-49-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-50-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-51-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-52-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-53-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-54-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-55-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-56-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-57-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-58-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-59-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-60-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-61-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-62-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-63-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-64-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-65-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-66-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-67-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-68-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-69-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-70-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-71-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-72-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-73-ai-fashion-strategy.webp
-/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/ai-fashion-strategy/img-74-ai-fashion-strategy.webp
+[LAYOUT: Slideshow #2 - 34 images, max-width 600px x 394px]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-41-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-42-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-43-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-44-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-45-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-46-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-47-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-48-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-49-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-50-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-51-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-52-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-53-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-54-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-55-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-56-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-57-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-58-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-59-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-60-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-61-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-62-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-63-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-64-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-65-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-66-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-67-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-68-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-69-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-70-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-71-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-72-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-73-ai-fashion-strategy.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ai-fashion-strategy/img-74-ai-fashion-strategy.webp
 
 Caption: Summer Collection: 12 Zodiac-Inspired Personalities with Dual Art Movement Influences
 
