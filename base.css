@@ -764,6 +764,218 @@ main {
     font-size: .77rem;
 }
 
+/* Slideshow Base */
+.slideshow-container {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    background: var(--element-background);
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.slides {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slides img {
+    display: none;
+    max-width: 100%;
+    height: auto;
+}
+
+.book-style .slides img {
+    object-fit: contain;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 16px;
+    color: var(--element-background);
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.3s ease;
+    border-radius: 50%;
+    user-select: none;
+    background: rgba(0, 0, 0, 0.4);
+    border: none;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+}
+
+.prev { left: 10px; }
+.next { right: 10px; }
+
+.prev:hover, .next:hover {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.slide-counter {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.6);
+    color: var(--element-background);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    z-index: 2;
+}
+
+/* Presentation Style Slideshow */
+.presentation-style {
+    background: var(--primary-color);
+    padding: 2rem;
+    border-radius: 16px;
+    margin-bottom: 4rem;
+}
+
+.presentation-style .slides img {
+    max-height: 500px;
+    width: 100%;
+    object-fit: contain;
+    background: white;
+    border-radius: 8px;
+}
+
+.presentation-style .slide-thumbnails {
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding: 1rem 0;
+    margin-top: 1rem;
+    scrollbar-width: thin;
+    scrollbar-color: var(--secondary-color) transparent;
+}
+
+.slide-thumbnail {
+    width: 100px;
+    height: 60px;
+    flex-shrink: 0;
+    background-size: cover;
+    background-position: center;
+    border-radius: 4px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.slide-thumbnail:hover {
+    opacity: 0.8;
+    transform: translateY(-2px);
+}
+
+.slide-thumbnail.active {
+    opacity: 1;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 8px rgba(84, 176, 175, 0.5);
+}
+
+.presentation-style .slide-counter {
+    background: var(--primary-color);
+    font-weight: 500;
+}
+
+.presentation-style .prev,
+.presentation-style .next {
+    background: var(--primary-color);
+}
+
+.presentation-style .prev:hover,
+.presentation-style .next:hover {
+    background: var(--secondary-color);
+}
+
+/* Video Container */
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+}
+
+/* NFT Marketplace Buttons */
+.button-grid {
+    display: grid;
+    gap: 1rem;
+    width: 100%;
+}
+
+.marketplace-button {
+    display: block;
+    padding: 1rem 1.5rem;
+    background-color: var(--primary-color);
+    color: var(--element-background);
+    text-decoration: none;
+    border-radius: 8px;
+    text-align: center;
+    transition: all 0.3s ease;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+.marketplace-button:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* External Links */
+.external-link {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--primary-color);
+    color: var(--element-background);
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin: 0.5rem 0;
+}
+
+.external-link:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.text-link {
+    color: var(--secondary-color);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.text-link:hover {
+    color: var(--accent-color);
+    border-bottom-color: var(--accent-color);
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
     .stats-grid {

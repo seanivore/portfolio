@@ -1,0 +1,390 @@
+POSITION - 26 
+
+CONTENT TILE TITLE
+
+CONTENT TILE SUMMARY 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+CONTENT TILE PRIMARY TAGS 
+
+SEO META TITLE 
+
+SEO META SUMMARY 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+PAGE TITLE
+
+PAGE HERO IMAGE - 1200px square 
+
+PAGE SECONDARY TAGS
+
+
+----
+ai-embedding-knowledge-curates-gallery
+
+
+
+About glitch-art-video-planning
+Showcasing art from ArtMovementMuseum
+
+
+There are 11 batches of from 10 to 40 images. 
+Each a different type of Gitch-Art 
+Need to see if I can find the drafted article or video script. 
+Art archive size: 81,043,105,983 bytes (81.08 GB on disk) for 17,506 items 
+About 50 different series of images that were created in a batch 
+Covering 30 of the most significant art styles from history 
+Specifically created by studying the most iconic aspects of historic work of the era created by the masters
+Serve as a massive visual course in art education
+Ironically, art education has never truly been *that* visual of an education 
+Images taught in class were inherently limited by a myriad of factors
+These collections therefor represent a first for humanity 
+Never before could someone learn about Bauhaus, for example, by immersing themselves in thousands of images of bauhaus
+
+By working with AI for meta tagging and embedding images as vectors
+AI gathers collections of whatever you need to find to create content or educate 
+Below are the makings of an education in Glitch Art 
+
+Many purposes for this tool - from education to design  
+
+# Compression Artifacts, Pixel Sorting
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+
+[grid of 2 images in a row; max width of 800px wide] 
+img-6-ai-curates-gallery.webp | img-8-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-14-ai-curates-gallery.webpimg-13-ai-curates-gallery.webpimg-12-ai-curates-gallery.webpimg-11-ai-curates-gallery.webpimg-9-ai-curates-gallery.webpimg-7-ai-curates-gallery.webpimg-6-ai-curates-gallery.webpimg-5-ai-curates-gallery.webpimg-4-ai-curates-gallery.webpimg-3-ai-curates-gallery.webpimg-1-ai-curates-gallery.webp
+
+[1 images in a row; max width of 800px wide] 
+img-10-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Databending
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+
+[1 images in a row; max width of 800px wide] 
+img-25-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-27-ai-curates-gallery.webpimg-23-ai-curates-gallery.webpimg-24-ai-curates-gallery.webpimg-26-ai-curates-gallery.webpimg-22-ai-curates-gallery.webpimg-21-ai-curates-gallery.webpimg-18-ai-curates-gallery.webpimg-19-ai-curates-gallery.webpimg-20-ai-curates-gallery.webpimg-17-ai-curates-gallery.webpimg-16-ai-curates-gallery.webpimg-15-ai-curates-gallery.webp
+
+[1 images in a row; max width of 800px wide] 
+img-28-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Databending Software Glitching 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[1 images in a row; max width of 800px wide] 
+img-33-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-37-ai-curates-gallery.webpimg-36-ai-curates-gallery.webpimg-35-ai-curates-gallery.webpimg-34-ai-curates-gallery.webpimg-32-ai-curates-gallery.webpimg-31-ai-curates-gallery.webpimg-30-ai-curates-gallery.webp
+
+[1 images in a row; max width of 800px wide] 
+img-29-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Datamoshing 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[grid of 2 images in a row; max width of 800px wide] 
+img-41-ai-curates-gallery.webp | img-42-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-51-ai-curates-gallery.webpimg-50-ai-curates-gallery.webpimg-49-ai-curates-gallery.webpimg-47-ai-curates-gallery.webpimg-45-ai-curates-gallery.webpimg-46-ai-curates-gallery.webpimg-43-ai-curates-gallery.webpimg-40-ai-curates-gallery.webpimg-39-ai-curates-gallery.webpimg-38-ai-curates-gallery.webp
+
+[grid of 2 images in a row; max width of 800px wide] 
+img-44-ai-curates-gallery.webp | img-48-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Digital Entropy, Compression Artifacts 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[grid of 2 images in a row; max width of 800px wide] 
+img-55-ai-curates-gallery.webp | img-58-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-66-ai-curates-gallery.webpimg-60-ai-curates-gallery.webpimg-61-ai-curates-gallery.webpimg-62-ai-curates-gallery.webpimg-64-ai-curates-gallery.webpimg-65-ai-curates-gallery.webpimg-59-ai-curates-gallery.webpimg-57-ai-curates-gallery.webpimg-56-ai-curates-gallery.webpimg-54-ai-curates-gallery.webpimg-53-ai-curates-gallery.webpimg-52-ai-curates-gallery.webp
+
+[grid of 2 images in a row; max width of 800px wide] 
+img-63-ai-curates-gallery.webp | img-67-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Distortion Pixel Sorting 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[1 images in a row; max width of 800px wide] 
+img-70-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-74-ai-curates-gallery.webpimg-73-ai-curates-gallery.webpimg-71-ai-curates-gallery.webpimg-69-ai-curates-gallery.webpimg-68-ai-curates-gallery.webp
+
+[1 images in a row; max width of 800px wide] 
+img-72-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Pixel Sorting 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[grid of 2 images in a row; max width of 800px wide] 
+img-75-ai-curates-gallery.webp | img-76-ai-curates-gallery.webp 
+
+[rest of image batch minus 2 more is in as slide show] 
+img-86-ai-curates-gallery.webpimg-85-ai-curates-gallery.webpimg-84-ai-curates-gallery.webpimg-83-ai-curates-gallery.webpimg-82-ai-curates-gallery.webpimg-81-ai-curates-gallery.webpimg-80-ai-curates-gallery.webpimg-79-ai-curates-gallery.webp
+
+[grid of 2 images in a row; max width of 800px wide] 
+img-77-ai-curates-gallery.webp | img-78-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Software Glitching 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[1 images in a row; max width of 800px wide] 
+img-90-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-91-ai-curates-gallery.webpimg-89-ai-curates-gallery.webpimg-88-ai-curates-gallery.webpimg-87-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Wave Distortion Pixel Sorting 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[grid of 2 images in a row; max width of 800px wide] 
+img-99-ai-curates-gallery.webp | img-102-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-114-ai-curates-gallery.webpimg-113-ai-curates-gallery.webpimg-110-ai-curates-gallery.webpimg-112-ai-curates-gallery.webpimg-108-ai-curates-gallery.webpimg-109-ai-curates-gallery.webpimg-106-ai-curates-gallery.webpimg-107-ai-curates-gallery.webpimg-104-ai-curates-gallery.webpimg-103-ai-curates-gallery.webpimg-100-ai-curates-gallery.webpimg-101-ai-curates-gallery.webpimg-98-ai-curates-gallery.webpimg-97-ai-curates-gallery.webpimg-95-ai-curates-gallery.webpimg-96-ai-curates-gallery.webpimg-94-ai-curates-gallery.webpimg-93-ai-curates-gallery.webpimg-92-ai-curates-gallery.webp
+
+[grid of 2 images in a row; max width of 800px wide] 
+img-105-ai-curates-gallery.webp | img-111-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Wave Gradient Pixel Sorting 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[grid of 2 images in a row; max width of 800px wide] 
+img-116-ai-curates-gallery.webp | img-117-ai-curates-gallery.webp
+
+[rest of image batch minus 2 more is in as slide show] 
+img-126-ai-curates-gallery.webpimg-123-ai-curates-gallery.webpimg-124-ai-curates-gallery.webpimg-121-ai-curates-gallery.webpimg-120-ai-curates-gallery.webpimg-119-ai-curates-gallery.webpimg-118-ai-curates-gallery.webpimg-115-ai-curates-gallery.webp
+
+[grid of 2 images in a row; max width of 800px wide] 
+img-122-ai-curates-gallery.webp | img-125-ai-curates-gallery.webp
+
+[brief line or two wrapping up the collection] 
+
+# Wave Pixel Sorting 
+
+[brief explanation of type of glitch art, how to recognize it, emotions it evokes, any interesting notable facts] 
+[grid of 2 images in a row; max width of 800px wide] 
+img-138-ai-curates-gallery.webp | img-139-ai-curates-gallery.webp 
+
+[rest of image batch minus 2 more is in as slide show] 
+img-137-ai-curates-gallery.webpimg-136-ai-curates-gallery.webpimg-135-ai-curates-gallery.webpimg-134-ai-curates-gallery.webpimg-133-ai-curates-gallery.webpimg-132-ai-curates-gallery.webpimg-131-ai-curates-gallery.webpimg-130-ai-curates-gallery.webpimg-129-ai-curates-gallery.webpimg-128-ai-curates-gallery.webpimg-127-ai-curates-gallery.webp
+
+[grid of 2 images in a row; max width of 800px wide] 
+img-140-ai-curates-gallery.webp | img-141-ai-curates-gallery.webp 
+
+[brief line or two wrapping up the collection] 
+
+Conclusions 
+
+
+----
+
+
+
+
+Understanding Glitch Art
+Introduction
+Brief overview of glitch art and its appeal.
+Batch 1: Techno Drive
+Exploration of the "Techno Drive" vibe using images from the GTCH-117 group.
+Image Analysis
+* GTCH-11701: Describe visual elements.
+* GTCH-11702: Describe visual elements.
+* GTCH-11703: Describe visual elements.
+* GTCH-11704: Describe visual elements.
+Assigned Glitch Art Methods
+* Feedback Loop: Explanation and examples.
+* Pixel Sorting: Explanation and examples.
+* Data Moshing: Explanation and examples.
+* Wave Distortion: Explanation and examples.
+* Other methods as applicable.
+Conclusion
+Summary of main points from Batch 1.
+Here are the elaborated descriptions for the images from the "My Mother's Voice" series (GTCH-11801, GTCH-11802, GTCH-11803) alongside explanations of selected glitch art methods:
+
+
+### Image Analysis
+
+
+1. **GTCH-11801**:
+   - **Description**: This image showcases a dynamic interplay of sharp, angular lines and organic forms, predominantly featuring a monochromatic palette interspersed with bold red accents. The chaotic composition conveys a sense of movement and energy, reflecting the disruptive aesthetics of glitch art.
+
+
+2. **GTCH-11802**:
+   - **Description**: The artwork features a blend of abstract shapes that create a textured background of layers in black and gray shades. Bright red elements disrupt the structure, providing contrast and drawing the viewer's attention. The arrangement suggests a break from reality, aligning with themes common in glitch art.
+
+
+3. **GTCH-11803**:
+   - **Description**: This piece is characterized by overlapping geometric forms and streaks that create a sense of depth and three-dimensionality. The use of white and gray tones with strategic red highlights creates a visual tension that invites exploration, emphasizing the glitch art's impact on perception.
+
+
+---
+
+
+### Assigned Glitch Art Methods
+
+
+1. **Feedback Loop**: This technique involves repeatedly taking a video signal and sending it back into the system, often resulting in distorted and layered images. An example can be visually similar to echoing effects in sound, which can create three-dimensional visual experiences.
+
+
+2. **Pixel Sorting**: This method rearranges pixels based on certain criteria, creating a visual distortion that can resemble abstract waveforms. Works showcasing pixel sorting often evoke feelings of disarray while tugging at the viewer's cognition of structure within visual art.
+
+
+3. **Data Moshing**: Data moshing is a method that disrupts codec processes to produce unexpected visual glitches. Examples can often depict sudden transitions between scenes or fragments of images being reassembled in distorted ways, evoking the chaotic beauty of imperfection.
+
+
+4. **Wave Distortion**: This technique manifests in visual waves and ripples across an image that can suggest movement or tension. An exploration of this can be seen in artworks where colors blend and bleed together, challenging physical representations of textures.
+
+
+---
+
+
+Let me know if you need changes to any part of this content or want to proceed with additional images and concepts.
+Let's examine the images from the "Purple Mountain Majesty" series (GTCH-11901 to GTCH-11905) and discuss how specific glitch art techniques manifest within them:
+
+
+### Image Analysis and Glitch Art Methods
+
+
+1. **GTCH-11901**:
+   - **Description**: This image is a vibrant scene with fragmented colors and light, creating an ethereal landscape. The use of dynamic, kaleidoscopic patterns suggests a feedback loop technique, where the repetition and layering mimic the reverberation of visual signals, enhancing the dreamlike quality.
+
+
+2. **GTCH-11902**:
+   - **Description**: Featuring geometric formations of mountains, this image incorporates elements of pixel sorting. The vertical streaks and color gradients show pixels being reorganized, generating a blended transition in the landscape that distorts and stretches reality.
+
+
+3. **GTCH-11903**:
+   - **Description**: The colorful, scattered patterns in this image evoke data moshing characteristics, where elements appear to overlap and fragment. This technique might be recognized in the merging of tree forms and sky, representing a distortion that resembles pieces of digital information being shuffled.
+
+
+4. **GTCH-11904**:
+   - **Description**: This image showcases wave distortion in the form of undulating lines that warp the image. The contour of the landscape and trees ripple subtly, giving the impression of motion despite the static nature of the scene, as if the surroundings are in a constant state of flux.
+
+
+5. **GTCH-11905**:
+   - **Description**: An explosion of colors and diagonal shifts across the canvas suggests analog glitching, where artifacts of analog transmissions appear as erratic lines and bands of color. The mountains and water reflect a harmony yet disrupted, encapsulating the nature of glitch in its analog form.
+
+
+Each of these images illustrates how glitch art techniques can convey movement, disrupt perceptions, and impact the overall aesthetic in varied yet cohesive manners. If you need further analysis or descriptions, feel free to let me know.
+Let's delve into the "Breathtaking Glitch Vista" series (GTCH-12101 to GTCH-12104) by identifying and describing specific glitch art techniques as they visually manifest in each image:
+
+
+### Image Analysis and Glitch Art Methods
+
+
+1. **GTCH-12101**:
+   - **Description**: This image presents a stunning vista of snow-capped mountains under a clear sky. The colorful tree in the foreground utilizes a feedback loop effect where multiple hues appear to reverberate across its branches, enhancing a multidimensional feel. Here, the repetition and overlay colors mimic visual echoes within the composition.
+
+
+2. **GTCH-12102**:
+   - **Description**: Dominated by vibrant colors across the landscape, this scene incorporates pixel sorting techniques. You can see vertical and horizontal grainy lines where pixel alignment is intentionally disrupted, providing a stratified texture that unifies with the dramatic sky, displaying glitch-induced tension.
+
+
+3. **GTCH-12103**:
+   - **Description**: The vivid spectrum across the sky and ground hints at data moshing, where the overlapping and fragmentation blur the lines between distinct elements like the sky and mountains. This renders a collage effect, embodying how digital components can become intricately intertwined.
+
+
+4. **GTCH-12104**:
+   - **Description**: Featuring bold and broad swathes of hues, the image incorporates analog glitching, where sudden shifts in color palette mimic anomalies seen in analog broadcasts. The glitch patterns in the sky and the changing foliage colors suggest elements of analog interference creatively reimagined in a digital landscape.
+
+
+In these images, the interaction of glitch art techniques not only enhances their visual impact but also brings about a unique exploration of digital manipulation within traditional scenic compositions. Let me know if you would like further exploration or any adjustments.
+Let's explore the "Datamoshing 2099" series and identify how specific glitch art techniques are visually represented in these images:
+
+
+### Image Analysis and Glitch Art Methods
+
+
+1. **GTCH-12201**:
+   - **Description**: This image shows a mosaic-like structure of boxy forms that fit together, bending in colorful waves. Data bending is evident here, as the grid pattern seems to visually stretch and distort the tiles, presenting an undulating effect akin to warped digital structures.
+
+
+2. **GTCH-12202**:
+   - **Description**: In this swirl of vibrant colors, wave distortion stands out. The fluid motion drags the hues into a spiral, showcasing how the waves can be manipulated to appear flowy and dynamic, creating a sense of depth and motion over a static background.
+
+
+3. **GTCH-12204**:
+   - **Description**: Featuring a structured yet fluid form in the forefront with surrounding digital noise, this image uses software glitching to alter clean lines and create pixel spills. The centralized abstract form is enhanced by the shimmering perimeter showcasing glitch-induced motion.
+
+
+4. **GTCH-12205**:
+   - **Description**: Layered contours convey a sense of topographical mapping. Hardware glitching might be involved, where disruptions or digital noise during capturing or processing created an uneven texture and change in luminance, lending a tactile quality to the visual map.
+
+
+5. **GTCH-12206**:
+   - **Description**: Here, structured waves flow across the image. Circuit bending techniques can be seen in the way the bands ripple, resembling electronic interference where the normal modulation of input-output signals is overridden to produce with abstract result.
+
+
+6. **GTCH-12207**:
+   - **Description**: This image showcases circular forms flowing into one another. Wave distortion is applied to create curves that allow colors to blend seamlessly while maintaining a connected movement. This distortion adds fluidity and enhances the surreal aesthetic.
+
+
+7. **GTCH-12208**:
+   - **Description**: Angular wave patterns create dynamic movement with assorted color gradients that appear to navigate the viewer's gaze. The intricate layering could suggest feedback loop techniques, enriching the piece with an array of multidimensional depth and form.
+
+
+8. **GTCH-12209**:
+   - **Description**: A serpentine flow of peaks and troughs stretches across this piece. The use of pixel sorting is evident in the way colors cascade across the waves, creating a rhythmic flow reminiscent of shifting digital equivalents of natural phenomena.
+
+
+9. **GTCH-12210**:
+   - **Description**: Consisting of waves flowing like digital sound waves, the underlying software glitching could be manipulating the simulation of digital sound cascades. This produces visuals akin to electronic interference, harmonizing with nature’s exuberance through disruption.
+
+
+These descriptions highlight the distinctive application of glitch art techniques in digital visualizations, adding layers of complexity and meaning to each artwork. Let me know if you need any further adjustments or expansions.
+Let's analyze the "Datamoshing 1999" series (GTCH-12301 to GTCH-12305) and discuss how distinct glitch art techniques manifest within these images:
+
+
+### Image Analysis and Glitch Art Methods
+
+
+1. **GTCH-12301**:
+   - **Description**: This image portrays a cityscape filled with vibrant colors and digital artifacts. Dominant data moshing effects create this impact, where the overall composition appears fragmented and pixelated, mimicking the breakdown of digital data streams with chaotic overlaps and distortions.
+
+
+2. **GTCH-12302**:
+   - **Description**: Presenting a dynamic layering of colors reflecting off of a reflective surface, pixel sorting can be identified where bands of color are misaligned and sorted based on certain parameters. This method creates a visual tension by sorting pixels in linear but disjointed formations.
+
+
+3. **GTCH-12303**:
+   - **Description**: The stratified display of colors and patterns in this work hints at data bending. By manipulating the file at a code level, the visual output is altered systematically, and the result is a rhythmic clash of colors superimposed together, generating a distorted yet harmonious scene.
+
+
+4. **GTCH-12304**:
+   - **Description**: With colors twisting through digital blocks, wave distortion is evident, giving the feeling of ripples transcending through layers. This method allows for the controlled displacement of form, creating an impression of fluid, organic motion within an otherwise digital composition.
+
+
+5. **GTCH-12305**:
+   - **Description**: The geometric fragmentation in this imagery echoes analog glitching methods, where unintended variations in signal transmissions produce unexpected linework and hues. Bold shifts in color here reflect disruptions typical of old television sets, rethought artistically in this piece.
+
+
+These descriptions illustrate the diverse application of glitch art techniques, manifesting in the artist's intent to harness the aesthetic of digital and analog imperfections to create compelling visual narratives. Let me know if there's anything more you'd like to expand upon or adjust!

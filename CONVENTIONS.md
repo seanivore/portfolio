@@ -1,396 +1,317 @@
-Immediately provide where they can find (A) files to reference code from, being sure to encourage always copying code, and (B) list of all possible classes, variables, and the information that they need, that provided all together will ensure the system does feel inherently restrictive or oppressive. Showing options doubles as ensure we share what is needed. 
+# Portfolio Page Creation Guide
 
-Focus more on what the variables are and when to use them (--accent color, --section spacing, --element spacing). Currently this is at the end of the CONVENTIONS.md document. 
+## Overview
+This guide outlines the modular system for creating new portfolio project pages. The system is designed to be:
+- Completely modular with pre-defined components
+- Consistent across all project pages
+- No need for custom CSS or new classes
+- All styling is pre-defined in base.css
 
-Information about tag weights, how back-end systems work, etc. should be saved for you in a separate document. Putting it on the CONVENTIONS.md document provides unnecessary information making things more complex. 
+## Quick Start
+1. Copy `template.html` as your starting point
+2. Reference example pages:
+   - `pages/content-strategy-framework.html`
+   - `pages/realtime-social-system.html`
+3. Follow your project's TXT asset guide for:
+   - Image URLs (pre-formatted for GitHub)
+   - Content sections
+   - Element widths
+   - Tags and categories
 
-After variables breakdown, we should list all classes. Include all modifiers. "Conventions" = The way something is usually done within a specific role or area. 
+## Page Structure
 
-After those we can explain the spacing and other layout elements that they don't need to worry about setting --- we should make that clear, and indicate that we're just providing it so they know what to expect. 
+### Required Sections (in order)
+1. Navigation
+2. Hero Section
+3. Project Summary & Tags
+4. Main Content Sections
+5. Conclusion
+6. Related Projects
+7. Footer
 
-This way they know they can ignore it if they need to and we avoid any patronizing vibes. Only after providing these basic essentials should we provide norms, tips, or other information that isn't absolutely essential. This is also when we'd want to direct them to the walk-through. 
+### Basic HTML Template
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Title | Category</title>
+    <meta name="description" content="Project description">
+    <meta property="og:image" content="thumbnail-url">
+    <link rel="stylesheet" href="../base.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">...</nav>
 
+    <!-- Hero Section -->
+    <div class="hero">...</div>
 
+    <!-- Project Summary & Tags -->
+    <section class="section">...</section>
 
+    <!-- Content Sections -->
+    <section class="section">...</section>
 
+    <!-- Conclusion -->
+    <section class="section">
+        <div class="conclusion">...</div>
+    </section>
 
+    <!-- Related Projects -->
+    <section class="section related-projects">...</section>
 
+    <!-- Footer -->
+    <footer class="footer">...</footer>
 
-# SIMPLE BREAKDOWN #
+    <!-- Required Scripts -->
+    <script src="../assets/js/parallax.js" defer></script>
+    <script src="../assets/js/related-projects.js"></script>
+</body>
+</html>
+```
 
-    Visually separate page by >sections<
-    --> Each content element gets >content wrap< 
-    --> Content wrap controls >element width<
+## Content Width System
+Three predefined content widths available:
+```html
+<!-- Standard Width (800px) -->
+<div class="content-wrap">
+    <!-- Content here -->
+</div>
 
-            Emphasize content placed on interactive hovering CARDS
-            --> Break up page text with text and media on cards 
-            --> Cards line up in default site GRIDS 
+<!-- Narrow Width (600px) -->
+<div class="content-wrap-narrow">
+    <!-- Content here -->
+</div>
 
-                    One item across page • • •
-                    --> Two items across page • •
-                    --> Or three items across page •
+<!-- Full Width -->
+<div class="content-wrap-wide">
+    <!-- Content here -->
+</div>
+```
 
-        Call out impressive numbers using {stat-item}
-        --> Use THREE small square stat items in row 
-        --> End all project page entries with —conclusion— 
+## Common Layout Patterns
 
-# Content Types 
-No styling of content classes is ever necessary. It is already done and simply requires that you choose the proper content class as indicated either as the standard or as listed on the asset TXT document. 
-This makes it easy! You'll never need to make new classes, and you'll never need to decide any styling. 
+### 1. Single Image with Caption
+```html
+<div class="content-wrap-narrow">
+    <div class="card">
+        <img src="github-url" alt="descriptive text">
+        <div class="caption">
+            <p>Image caption text</p>
+        </div>
+    </div>
+</div>
+```
 
-## Sections
-Group page's content into multiple sections. Spacing inside a section and spacing between sections are different helping to visually structure information. 
+### 2. Two Images Side-by-Side
+```html
+<div class="content-wrap-wide">
+    <div class="card-grid">
+        <div class="card">
+            <img src="github-url" alt="descriptive text">
+            <div class="caption">
+                <p>First image caption</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="github-url" alt="descriptive text">
+            <div class="caption">
+                <p>Second image caption</p>
+            </div>
+        </div>
+    </div>
+</div>
+```
 
-## Content 
-Each element inside of a section will get a content wrap. The width of the content wrap will be indicated on the asset TXT document. In just a handful of cases, content width is predetermined. 
-    .content-wrap 			    This is the "norm" and is 800px wide 
-    .content-wrap wide 		    This is indicated (+3-image-card wide rows) and is full width 
-    .content-wrap narrow		This is indicated (+stat tiles) and is 600px 
+### 3. Three Images in a Row
+```html
+<div class="content-wrap-wide">
+    <div class="card-grid">
+        <div class="card">
+            <img src="github-url" alt="descriptive text">
+            <div class="caption">
+                <p>Caption text</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="github-url" alt="descriptive text">
+            <div class="caption">
+                <p>Caption text</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="github-url" alt="descriptive text">
+            <div class="caption">
+                <p>Caption text</p>
+            </div>
+        </div>
+    </div>
+</div>
+```
 
-Text content occasionally goes directly on the page, otherwise any other content including text goes on a card. 
+### 4. Text Content on Card
+```html
+<div class="content-wrap">
+    <div class="card">
+        <div class="content">
+            <h3>Section Title</h3>
+            <p>Paragraph text...</p>
+            <ul>
+                <li>List item one</li>
+                <li>List item two</li>
+            </ul>
+        </div>
+    </div>
+</div>
+```
 
-### Text
-What ways can text be laid out on page? 
-Occasionally on page. Often on card. 
+### 5. Stats Display (Always use three stats)
+```html
+<div class="content-wrap-narrow">
+    <div class="stats-grid">
+        <div class="stat-item">
+            <div class="stat-number">85%</div>
+            <div class="stat-label">Metric Label</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">3x</div>
+            <div class="stat-label">Metric Label</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">100%</div>
+            <div class="stat-label">Metric Label</div>
+        </div>
+    </div>
+</div>
+```
 
-The following would be in the same section visually. 
-Direct On Page
+## Interactive Elements
 
-.section 
->.content-wrap
-[header] 
-[Paragraph] 
+### 1. Image Slideshow
+For displaying multiple images in a navigable slideshow format. Two styles available:
 
-On Card On Page 
+#### Book-Style Side-by-Side Display
+```html
+<div class="content-wrap">
+    <div class="slideshow-container book-style">
+        <div class="slides">
+            <img src="image1-url" alt="Description 1">
+            <img src="image2-url" alt="Description 2">
+            <!-- Add all slides -->
+        </div>
+        <button class="prev" onclick="moveSlide(-1)">❮</button>
+        <button class="next" onclick="moveSlide(1)">❯</button>
+        <div class="slide-counter">1 / 10</div>
+    </div>
+</div>
+```
 
->.content-wrap
->>.card
->>>.content		<---text on card requires .content for structure 
-[header]
-[paragraph] 
-[bulleted-list] 
+#### Single Image Display
+```html
+<div class="content-wrap-narrow">
+    <div class="slideshow-container">
+        <div class="slides">
+            <img src="image1-url" alt="Description 1">
+            <img src="image2-url" alt="Description 2">
+            <!-- Add all slides -->
+        </div>
+        <button class="prev" onclick="moveSlide(-1)">❮</button>
+        <button class="next" onclick="moveSlide(1)">❯</button>
+        <div class="slide-counter">1 / 10</div>
+    </div>
+</div>
+```
 
-### Image
-What ways can images be laid out on page? More than one requires a grid. 
-	One image on card
-	One image on card --narrow
-	One image on card --wide 
-	
-    Two images, on cards, in row 
-	Two images, on cards, in row --narrow 
-	Two images, on cards, in row --wide 
-	
-    Three images, on cards, in row --wide 
+Required Script:
+```html
+<script src="../assets/js/slideshow.js"></script>
+```
 
-### Charts
-They only have one layout option. 
-	One card --wide 
+### 2. React Charts
+For displaying interactive data visualizations. Requires React and Chart.js.
 
-### Metrics Called-out
-One layout option, try to keep metric callouts to three items for consistency. 
-.section 
-> .content-wrap-narrow 
->> .stats-grid 
->>> .stat-item		>>> .stat-item		>>> .stat-item
->>>> .stat-number	>>>> .stat-number	>>>> .stat-number
->>>> .stat-label	>>>> .stat-label	>>>> .stat-label
+```html
+<!-- In head section -->
+<script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-### Conclusions
-Are already styled and need no alterations
-	One content layout --made wide 
+<!-- In body where chart should appear -->
+<div class="content-wrap">
+    <div id="chart-container" data-chart="path/to/chart.tsx"></div>
+</div>
 
-## Grid Layouts 
-Used to keep card or on-page content gap spacing even, and ensures responsive layout. 
+<!-- Before closing body tag -->
+<script src="../assets/js/chart-loader.js"></script>
+```
 
-.section 			<---all in one section below 
-> .content-wrap wide		<---wide would be indicated on asset TXT 
->> .card-grid			<---used because of two side by side elements 
->>> .card	>>> .card
-[img] 		[img]		<---images place directly on cards
-> .content-wrap
->> .card 
->>> .content 			<---text elements require .content to place on card 
-[header]
-[paragraph]
-[bulleted-list] 
+Example Chart Data Structure (chart.tsx):
+```typescript
+const data = {
+  labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'],
+  datasets: [{
+    label: 'User Engagement',
+    data: [65, 70, 75, 80, 85],
+    borderColor: 'rgb(75, 192, 192)',
+    tension: 0.1
+  }]
+};
+```
 
-===========================================
-===========================================
+### 3. GIF Handling
+Two approaches for including GIFs:
 
-# Modular System Layout 
+#### Direct URL (Preferred for most cases)
+```html
+<div class="content-wrap">
+    <img src="https://raw.githubusercontent.com/user/repo/branch/path/to/file.gif" 
+         alt="Description">
+</div>
+```
 
-## Already Prepared & Organized 
-- `base.css`
-  - All classes are defined and styled 
-  - No need to create new classes 
-  - No need to do any styling 
-  - Just follow same system in template
-- `template.html` 
-  - Layout components (sections, grids)
-  - Cards and content blocks
-  - Stats and metrics displays
-  - Conclusion blocks 
-- `related-projects.js` 
-  - Tag relationship matrix
-  - Project scoring system
-  - Dynamic related content population
+#### Raw GitHub URL (For larger GIFs)
+```html
+<div class="content-wrap">
+    <img src="https://github.com/user/repo/blob/branch/path/to/file.gif?raw=true" 
+         alt="Description">
+</div>
+```
 
-## Tag System Architecture
+Note: Use raw=true approach for GIFs larger than 5MB or when direct URL doesn't work.
 
-### UI Navigation Categories (Marketing-Focused)
-These categories serve as high-level filters on the homepage:
-1. Philosophy & Ethics 
-2. Systems Architecture 
-3. Industry Innovation 
-4. User-Behavior Design 
-5. Generative Production 
-6. Agentic Automation 
-7. AI Development 
-8. Product Design
+## Tag System
 
-### Project Tagging System (Technical Implementation)
+### Primary Tags (Top Row)
+```html
+<div class="tag-group">
+    <span class="tag tag--tech">Technology Tag</span>
+    <span class="tag tag--strategy">Strategy Tag</span>
+    <span class="tag tag--ai">AI Tag</span>
+</div>
+```
 
-#### Primary Tags
-- Higher weight in related projects calculation
-- Project-specific descriptors
-- Used in tech stack display
-- Example format: `data-primary-tags="innovation strategy earned-media"`
+### Secondary Tags (Bottom Row)
+```html
+<div class="tag-group">
+    <span class="tag tag--secondary">Secondary Tag</span>
+    <span class="tag tag--secondary">Secondary Tag</span>
+</div>
+```
 
-#### Secondary Tags
-- Lower weight in related projects calculation
-- More detailed descriptors
-- Used for fine-grained relationship matching
-- Example format: `data-secondary-tags="content-strategy multi-platform media-relations analytics campaign-development distribution-system"`
-
-### Tag Semantic Groups
-Used for calculating relationship scores in the related projects system:
-
-#### Systems & Architecture
-- system-architecture 
-- web-development 
-- system-integration
-- technical-architecture 
-- automation 
-- infrastructure
-- methodology 
-- implementation 
-- development
-
-#### Strategy & Innovation
-- business-strategy 
-- process-strategy 
-- innovation
-- risk-assessment 
-- strategic-communication
-- viral 
-- engagement 
-- earned-media
-
-#### Design & Experience
-- ux-ui 
-- visual-design 
-- product-design
-- user-behavior 
-- interaction-design
-- creative-direction 
-- motion-design
-
-#### AI & Automation
-- ai-development 
-- ai-integration 
-- ai-research
-- agentic 
-- generative 
-- automation
-- machine-learning 
-- ai-systems
-
-#### Theory & Analysis
-- philosophy 
-- ethics 
-- critical-analysis
-- research-methods 
-- systems-thinking
-- accessibility 
-- futurism
-
-## Related Projects Implementation
-
-### Tag Relationship Matrix
-- Stores relationship scores (1-50) between all tags
-- Higher scores indicate stronger relationships
-- Automatically expands with new project additions
-- Located in `related-projects.js`
-
-### Scoring System
-1. Primary tags compared with double weight
-2. Secondary tags compared with standard weight
-3. UI filter categories add bonus points
-4. Final score determines top 2 related projects
-
-### Example Project Markup
+## Project Card Data Attributes
+Required for related projects functionality:
 ```html
 <article class="project-card" 
          data-position="1"
-         data-categories="4,3"
-         data-primary-tags="innovation strategy earned-media"
-         data-secondary-tags="content-strategy multi-platform media-relations analytics campaign-development distribution-system">
-    <!-- Project content -->
+         data-categories="3,4"
+         data-primary-tags="strategy innovation earned-media"
+         data-secondary-tags="content-strategy multi-platform media-relations">
 </article>
 ```
 
-# Styling Guidelines
-## Use Variables
-```css
-:root {
-    /* Colors */
-    --primary-color: #1E2E46;    /* Deep Blue */
-    --secondary-color: #54b0af;  /* Cyan, Medium turquoise */
-    --accent-color: #f83821;     /* Strawberry Spinach Red */
-    --page-background: #EDEBDC;  /* Cream */
-    --text-color: #242831;       /* Dark Navy */
-    --element-background: #ffffff; /* White */
-    
-    /* Tag Colors */
-    --tag-tech: #408A8F;         /* Teal for tech/development */
-    --tag-strategy: #E85021;     /* Orange for strategy/marketing */
-    --tag-ai: #7a8b69;           /* Muted green for AI/ML */
-    --tag-secondary: #5f5655;    /* Brown for secondary tags */
-
-    /* Layout */
-    --nav-height: 60px;
-    --section-spacing: 6rem;
-    --element-spacing: 3rem;
-    --content-width: 800px;
-    --section-width: 1200px;
-}
-```
-
-## Component Structure
-
-### Navigation
-```html
-<nav class="nav">
-    <div class="nav-content">
-        <a href="../index.html" class="nav__back">
-            <!-- Back arrow SVG -->
-            Back to Portfolio
-        </a>
-    </div>
-</nav>
-```
-
-### Hero Section
-```html
-<div class="hero-container">
-    <div class="hero-overlay">
-        <div class="content-wrap">
-            <h1 class="hero-title">Page Title</h1>
-        </div>
-    </div>
-    <div class="hero-background" style="background-image: url('path/to/image.webp');"></div>
-</div>
-```
-- Requires parallax.js for smooth scroll effect
-- Background image height set to 1200px for scrolling room
-- content-wrap ensures proper title width
-
-### Project Summary & Tags
-```html
-<section class="section">
-    <div class="content-wrap">
-        <p class="project-summary">Project description text...</p>
-    </div>
-    <div class="content-wrap">
-        <div class="tags-section">
-            <div class="tag-group">
-                <span class="tag tag--tech">Primary Tag</span>
-            </div>
-            <div class="tag-group">
-                <span class="tag tag--secondary">Secondary Tag</span>
-            </div>
-        </div>
-    </div>
-</section>
-```
-
-### Content Sections
-```html
-<section class="section">
-    <div class="content-wrap">
-        <!-- Default 800px max-width content -->
-    </div>
-    
-    <!-- Three-item grids expand to 1200px -->
-    <div class="card-grid">
-        <div class="card">
-            <div class="content">...</div>
-        </div>
-    </div>
-</section>
-```
-
-### Card System
-- `.card` - Base card component
-  - White background
-  - Border radius and shadow
-  - Hover animation with translateY
-- `.content` - Inner card content wrapper
-  - Standard padding (1rem)
-  - Text styling
-
-### Stats Display
-- `.stats-grid` - Fixed 3-column grid within content-wrap
-- `.stat-item` - Fixed-width stat container
-- `.stat-number` - Large number display
-- `.stat-label` - Stat description
-
-### Conclusion Block
-- `.conclusion` - Final thoughts styling
-  - Left border accent using var(--accent-color)
-  - Uses content-wrap width
-  - Enhanced typography
-
-## Spacing Guidelines
-- Section spacing: 6rem (var(--section-spacing))   
-- Element spacing: 3rem (var(--element-spacing))
-- Card padding: 1rem
-- Grid gaps: 3rem
-- Tag group gaps: 0.75rem
-
-## Width Control
-- content-wrap: 800px max-width (var(--content-width))
-- section: 1200px max-width (var(--section-width))
-- Card grids auto-fit at minimum 300px per card
-- Stats maintain fixed widths within content-wrap
-
-## Responsive Behavior
-- Mobile breakpoint: 768px
-  - Single column layouts
-  - Adjusted font sizes
-  - Preserved content-wrap structure
-  - Maintained tag system layout
-
-
-# Related Projects Implementation Guide
-
-## Data Attributes Structure
-Every project card must include these data attributes:
-
-```html
-<article class="project-card"
-         data-position="[1-N]"
-         data-categories="[comma-separated UI filter numbers]"
-         data-primary-tags="[space-separated primary tags]"
-         data-secondary-tags="[space-separated secondary tags]">
-```
-
-### Position Attribute
-- `data-position="1"` indicates current project
-- Related projects have incrementing positions (2,3,etc)
-
-### Categories Attribute
-References UI filter numbers (1-8):
+### Category Numbers Reference
 1. Philosophy & Ethics 
 2. Systems Architecture 
 3. Industry Innovation 
@@ -400,54 +321,286 @@ References UI filter numbers (1-8):
 7. AI Development 
 8. Product Design
 
-Example: `data-categories="3,4"`
+## CSS Variables
+Use these predefined variables for consistency:
 
-### Primary Tags
-- Higher weight in relationship scoring (2x)
-- Core project descriptors
-- Reference tag semantic groups
-- Example: `data-primary-tags="strategy innovation earned-media"`
+### Colors
+```css
+--primary-color: #1E2E46;    /* Deep Blue */
+--secondary-color: #54b0af;  /* Cyan */
+--accent-color: #f83821;     /* Red */
+--page-background: #EDEBDC;  /* Cream */
+--text-color: #242831;       /* Dark Navy */
+--element-background: #ffffff; /* White */
 
-### Secondary Tags
-- Standard weight in relationship scoring (1x)
-- Detailed descriptors
-- Used for fine-grained matching
-- Example: `data-secondary-tags="content-strategy multi-platform media-relations"`
+/* Tag Colors */
+--tag-tech: #408A8F;         /* Teal */
+--tag-strategy: #E85021;     /* Orange */
+--tag-ai: #7a8b69;           /* Green */
+--tag-secondary: #5f5655;    /* Brown */
+```
 
-## Relationship Scoring System
+### Layout
+```css
+--nav-height: 60px;
+--section-spacing: 6rem;
+--element-spacing: 3rem;
+--content-width: 800px;
+--section-width: 1200px;
+```
 
-### Score Calculation
-1. Compare primary tags (double weight)
-2. Compare secondary tags (standard weight)
-3. Apply UI category bonuses
-4. Sort by total score
-5. Select top 2 related projects
+## Page Creation Checklist
 
-### Category Weight Multipliers
-- Philosophy & Ethics: 1.3x
-- Systems Architecture: 1.2x
-- Industry Innovation: 1.4x
-- User-Behavior Design: 1.3x
-- Generative Production: 1.2x
-- Agentic Automation: 1.3x
-- AI Development: 1.4x
-- Product Design: 1.2x
+### Setup
+□ Copy template.html to new file
+□ Update page title and meta description
+□ Update og:image meta tag with thumbnail URL
 
-### Implementation Requirements
+### Hero Section
+□ Set hero background image
+□ Add hero title
+□ Verify parallax effect works
 
-#### Required Files
-1. related-projects.js
-2. Tag semantic group definitions in CONVENTIONS.md
-3. Data attributes on all project cards
+### Project Info
+□ Add project summary
+□ Set appropriate primary tags
+□ Add relevant secondary tags
+□ Include data attributes for related projects
 
-#### HTML Structure
+### Content
+□ Follow TXT asset guide structure
+□ Use appropriate content-wrap widths
+□ Include all images with captions
+□ Add stats if available
+□ Write conclusion section
+
+### Final Checks
+□ Verify all image URLs are GitHub formatted
+□ Check all scripts are included
+□ Test parallax scrolling
+□ Verify related projects loading
+□ Test responsive layout
+
+## Common Issues & Solutions
+
+### Images Not Loading
+- Verify GitHub URL format is correct
+- Check image path in assets folder
+- Ensure image is committed to repository
+
+### Related Projects Not Showing
+- Verify data attributes are set
+- Check category numbers are correct
+- Ensure related-projects.js is included
+
+### Layout Issues
+- Use correct content-wrap class for width
+- Keep stats display to exactly three items
+- Maintain card-grid structure for multiple items
+
+### Parallax Not Working
+- Verify parallax.js is included
+- Check hero section structure
+- Ensure hero-background height is set
+
+Need more help? Reference the example pages or ask for clarification.
+
+## Narrative Structure Patterns
+
+The example pages demonstrate effective narrative structures you can follow:
+
+### Timeline-Based Structure (from content-strategy-framework.html)
+```
+1. Innovation Timeline
+   - Historical context
+   - Key milestones
+   - Evolution of approach
+2. Campaign Results
+   - Metrics and achievements
+   - Recognition
+3. Key Takeaways
+   - Industry impact
+   - Future implications
+```
+
+### Context-Based Structure (from realtime-social-system.html)
+```
+1. Overview/Introduction
+   - Problem statement
+   - Innovation summary
+2. Case Studies
+   - Specific examples
+   - Results and impact
+3. Context Section
+   - Industry landscape
+   - Strategic approach
+4. Key Takeaways
+   - Broader implications
+   - Legacy impact
+```
+
+## TXT Asset Guide Format
+
+Each project folder contains a numbered TXT file (e.g., "22-agentic-social-manager.txt") that provides:
+
+```
+# Project Title
+[Title as it should appear in hero section]
+
+# Project Summary
+[2-3 sentence summary for project-summary section]
+
+# Tags
+Primary:
+- tag1 (tech/strategy/ai)
+- tag2
+- tag3
+
+Secondary:
+- tag1
+- tag2
+- tag3
+
+# Categories
+[Comma-separated list of category numbers]
+
+# Content Sections
+[Section by section content with specified widths]
+
+## Section 1: [Title]
+Width: [content-wrap/content-wrap-narrow/content-wrap-wide]
+Content: [Text content]
+Images: [GitHub URLs]
+
+## Interactive Elements
+
+### Slideshow
+[side-by-side book like slide show of square images; max 800px width]
+https://github-url-1.webp
+https://github-url-2.webp
+https://github-url-3.webp
+[continue listing all slideshow images]
+
+### React Chart
+[React Chart of Metrics Over Time]
+https://path/to/chart.tsx
+
+### GIFs
+[one gif max width 800px wide]
+<img src="https://github.com/user/repo/blob/branch/path/to/file.gif?raw=true" alt="Description">
+
+[two square gifs side-by-side in row; total row width 800px max width]
+<img src="https://github.com/user/repo/blob/branch/path/to/file1.gif?raw=true" alt="Description 1">
+<img src="https://github.com/user/repo/blob/branch/path/to/file2.gif?raw=true" alt="Description 2">
+
+## Additional Sections
+[Continue with other content sections...]
+
+# Stats (if applicable)
+1. Number: [value]
+   Label: [text]
+2. Number: [value]
+   Label: [text]
+3. Number: [value]
+   Label: [text]
+
+# Conclusion
+[Conclusion text following standard formula]
+```
+
+## Image Storytelling Patterns
+
+### Before/After Comparison
+As seen in content-strategy-framework.html:
 ```html
-<section class="section related-projects">
-    <div class="content-wrap">
-        <h2>Related Projects</h2>
-        <div class="related-grid">
-            <!-- Populated by related-projects.js -->
+<div class="content-wrap">
+    <div class="card-grid">
+        <div class="card">
+            <img src="before-image-url" alt="Before">
+            <div class="caption">
+                <p>Situation before implementation</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="after-image-url" alt="After">
+            <div class="caption">
+                <p>Results after implementation</p>
+            </div>
         </div>
     </div>
-</section>
+</div>
+```
+
+### Case Study Presentation
+As seen in realtime-social-system.html:
+```html
+<div class="content-wrap-wide">
+    <div class="card-grid">
+        <div class="card">
+            <img src="case-study-1-url" alt="Case Study 1">
+            <div class="caption">
+                <p>Case study caption</p>
+            </div>
+            <div class="content">
+                <h3>Case Study Title</h3>
+                <p>Context paragraph</p>
+                <ul>
+                    <li>Key achievement 1</li>
+                    <li>Key achievement 2</li>
+                </ul>
+            </div>
+        </div>
+        <!-- Repeat for second case study -->
+    </div>
+</div>
+```
+
+## Related Projects System
+
+The related projects system uses a sophisticated scoring algorithm:
+
+### Tag Relationship Scoring
+- Primary tags have 2x weight
+- Secondary tags have 1x weight
+- Category matches add bonus points
+- Final score determines top 2 related projects
+
+### Category Weight Multipliers
+1. Philosophy & Ethics: 1.3x
+2. Systems Architecture: 1.2x
+3. Industry Innovation: 1.4x
+4. User-Behavior Design: 1.3x
+5. Generative Production: 1.2x
+6. Agentic Automation: 1.3x
+7. AI Development: 1.4x
+8. Product Design: 1.2x
+
+### Tag Selection Strategy
+Choose tags that:
+- Accurately describe core project aspects (primary)
+- Capture additional relevant areas (secondary)
+- Connect to related work through shared concepts
+- Span both technical and strategic aspects
+
+## Writing Formulas
+
+### Project Summary
+1. Start with innovation/achievement
+2. Explain approach/methodology
+3. Highlight key impact/results
+
+Example:
+```
+Development of a comprehensive content strategy framework spanning multiple platforms and media types. Building on earlier innovations in real-time content creation, this project evolved our social media strategy to encompass coordinated hashtag campaigns and pioneering video content approaches.
+```
+
+### Conclusion Formula
+1. Summarize key achievements
+2. Connect to broader industry impact
+3. Highlight lasting influence
+4. Project future implications
+
+Example:
+```
+This pioneering work in real-time social media marketing established new benchmarks during a pivotal period of digital transformation. By developing innovative workflows for rapid visual content creation when most brands relied on text-only updates, we demonstrated the powerful potential of timely, visual storytelling. Our strategic approach to live event coverage and trend monitoring, combined with efficient content production systems, created a replicable model that influenced industry practices.
 ```
