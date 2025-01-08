@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Influencer Growth Strategy - Sean Horvath</title>
+    <meta name="description" content="Case study of influencer growth hacking strategy and pitch deck development">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="8-influencer-pitch-deck.css">
+</head>
+<body>
+    <nav class="project-nav">
+        <div class="project-nav-content">
+            <a href="../index.html" class="back-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <article class="project-detail">
+        <header class="project-header">
+            <h1 class="project-title">Influencer Growth Strategy</h1>
+            <p class="project-subtitle">Growth Hacking & Strategic Pitch Deck Development</p>
+            
+            <p class="project-summary">
+                A comprehensive pitch deck showcasing influencer growth hacking strategies and service offerings. This presentation demonstrates strategic approaches to social media growth, engagement optimization, and audience development.
+            </p>
+
+            <div class="tags-section">
+                <span class="tag category-tag">Strategy</span>
+                <span class="tag skill-tag">Growth Hacking</span>
+                <span class="tag skill-tag">Pitch Deck</span>
+                <span class="tag platform-tag">Social Media</span>
+            </div>
+        </header>
+
+        <div class="slide-presentation">
+            <div class="slide-container" id="slideContainer">
+                <div class="slide-navigation">
+                    <button class="nav-button prev" id="prevButton" aria-label="Previous slide">❮</button>
+                    <button class="nav-button next" id="nextButton" aria-label="Next slide">❯</button>
+                </div>
+                <div class="slide-counter">
+                    <span id="current-slide">1</span> / <span id="total-slides">21</span>
+                </div>
+                <div class="slides">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-1.png" alt="Slide 1" class="slide active">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-2.png" alt="Slide 2" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-3.png" alt="Slide 3" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-4.png" alt="Slide 4" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-5.png" alt="Slide 5" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-6.png" alt="Slide 6" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-7.png" alt="Slide 7" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-8.png" alt="Slide 8" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-9.png" alt="Slide 9" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-10.png" alt="Slide 10" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-11.png" alt="Slide 11" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-12.png" alt="Slide 12" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-13.png" alt="Slide 13" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-14.png" alt="Slide 14" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-15.png" alt="Slide 15" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-16.png" alt="Slide 16" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-17.png" alt="Slide 17" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-18.png" alt="Slide 18" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-19.png" alt="Slide 19" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-20.png" alt="Slide 20" class="slide">
+                    <img src="https://raw.githubusercontent.com/seanivore/portfolio/master/assets/entries/influence-growth-hacking-deck/influencer-growth-hacking-deck-21.png" alt="Slide 21" class="slide">
+                </div>
+            </div>
+        </div>
+
+        <h2 class="section-header">Presentation Overview</h2>
+        <ul class="feature-list">
+            <li>Comprehensive growth hacking strategies for social media influencers</li>
+            <li>Data-driven approach to audience development and engagement</li>
+            <li>Strategic content planning and optimization techniques</li>
+            <li>Monetization and brand partnership strategies</li>
+            <li>Analytics and performance tracking methodologies</li>
+            <li>Customized growth roadmap development</li>
+        </ul>
+    </article>
+
+    <footer class="project-footer">
+        <div class="footer-nav">
+            <h3>Related Case Studies</h3>
+            <div class="related-projects">
+                <div class="related-project">
+                    <a href="9-hawaii-covid-response.html" class="related-project-link">
+                        <h4>Next in Series:</h4>
+                        Hawaii COVID-19 Response
+                        <span class="related-description">Digital consultancy for healthcare providers taskforce</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-content">
+            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
+            <div class="footer-contact">
+                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            let currentSlide = 1;
+            const totalSlides = 21;
+            const slides = document.querySelectorAll('.slide');
+            const prevButton = document.getElementById('prevButton');
+            const nextButton = document.getElementById('nextButton');
+            const currentSlideDisplay = document.getElementById('current-slide');
+            const slideContainer = document.getElementById('slideContainer');
+
+            let touchStartX = 0;
+            let touchEndX = 0;
+
+            function showSlide(n) {
+                slides.forEach(slide => slide.classList.remove('active'));
+                
+                if (n > totalSlides) {
+                    currentSlide = 1;
+                } else if (n < 1) {
+                    currentSlide = totalSlides;
+                } else {
+                    currentSlide = n;
+                }
+                
+                slides[currentSlide - 1].classList.add('active');
+                currentSlideDisplay.textContent = currentSlide;
+            }
+
+            function nextSlide() {
+                showSlide(currentSlide + 1);
+            }
+
+            function previousSlide() {
+                showSlide(currentSlide - 1);
+            }
+
+            // Click events
+            prevButton.addEventListener('click', previousSlide);
+            nextButton.addEventListener('click', nextSlide);
+
+            // Touch events
+            slideContainer.addEventListener('touchstart', (e) => {
+                touchStartX = e.changedTouches[0].screenX;
+            }, false);
+
+            slideContainer.addEventListener('touchend', (e) => {
+                touchEndX = e.changedTouches[0].screenX;
+                handleSwipe();
+            }, false);
+
+            function handleSwipe() {
+                const swipeThreshold = 50;
+                const swipeDistance = touchEndX - touchStartX;
+                
+                if (Math.abs(swipeDistance) > swipeThreshold) {
+                    if (swipeDistance > 0) {
+                        previousSlide();
+                    } else {
+                        nextSlide();
+                    }
+                }
+            }
+
+            // Keyboard navigation
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'ArrowRight') {
+                    nextSlide();
+                } else if (e.key === 'ArrowLeft') {
+                    previousSlide();
+                }
+            });
+
+            // Prevent zooming on double tap for touch devices
+            let lastTouchEnd = 0;
+            document.addEventListener('touchend', (e) => {
+                const now = Date.now();
+                if (now - lastTouchEnd <= 300) {
+                    e.preventDefault();
+                }
+                lastTouchEnd = now;
+            }, false);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,204 @@
+PLACEMENT - 13
+
+CONTENT TILE TITLE
+Published LGBTQ Illustrations & Poetry
+
+CONTENT TILE SUMMARY 
+Authored and illustrated poetry book of original digital illustration and wordplay, bridging digital and traditional workflows. 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-tile-illustrated-poetry-book.webp
+
+CONTENT TILE PRIMARY TAGS 
+Design
+Production
+Strategy
+
+SEO META TITLE 
+Title: Digital Art Book Publication | Illustrated Poetry Collection
+
+SEO META SUMMARY 
+Creation and publication of a poetry book featuring original digital illustrations, successfully bridging digital and traditional publishing. The project demonstrates expertise in digital illustration, print production, and book publishing workflows.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-thumbnail-illustrated-poetry-book.webp
+
+PAGE TITLE 
+Illustrated Poetry Book: Digital Art to Print
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-hero-illustrated-poetry-book.webp
+
+PAGE SECONDARY TAGS 
+Digital Illustration 
+Book Publishing 
+Print Production 
+Creative Direction 
+Distribution Strategy 
+Editorial Design
+
+
+---
+
+A self-published book of LGBTQ+ poetry featuring original digital illustrations, combining classical Greek sculptural influences with contemporary personal narrative. Written, illustrated, and published under my authorship as Sean August Horvath, the book has maintained consistent sales since its 2018 publication, including recent purchases in 2024.
+
+[one image tile max width 800px wide by 600 px]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-92-illustrated-poetry-book.webp
+
+[two image tiles in one row, both 480px x 600px portrait images]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-88-illustrated-poetry-book.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-89-illustrated-poetry-book.webp
+
+Project Scope:
+- Complete book conceptualization and execution
+- Original poetry writing and editing
+- Digital illustration creation for every poem
+- Book design and layout
+- Self-publishing process management
+- Post-publication marketing and distribution
+
+[one image tile max width 800px wide by 600 px]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-90-illustrated-poetry-book.webp
+
+The illustrations draw inspiration from classical Greek sculpture while incorporating contemporary elements from personal photography and memories. This fusion creates a unique visual narrative that complements the poetry's themes of love, growth, and self-discovery.
+
+[one image tile max width 800px wide by 600 px]
+
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/illustrated-poetry-book/img-91-illustrated-poetry-book.webp
+
+Publication Impact:
+- Featured review on BookLife (Publishers Weekly platform)
+- Consistent sales through Barnes & Noble and local consignment
+- Particularly resonant with young LGBTQ+ readers
+- Successfully pitched to multiple literary blogs and media outlets
+
+[Button text "Barnes & Noble" at url: https://www.barnesandnoble.com/w/pantone-3537-up-sean-august-horvath/1129908743]
+
+[Link the URL within the text — BookLife Review: https://booklife.com/project/pantone-3537-up-36219] 
+
+Personal Note:
+Writing this book fulfilled dual purposes: personal catharsis and creating the kind of resource I wished existed during my own coming-of-age journey. While the poems capture the raw emotions of early-20s love, the project's true value lies in its contribution to LGBTQ+ youth literature and its demonstration of how personal experience can be transformed into professional creative work.
+
+[image grid with tree images in a row, each are 300px square; 29 total rows] 
+Each row should display the same illustration in three color variations:
+- Column 1: Green
+- Column 2: Charcoal
+- Column 3: White
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-1-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-2-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-3-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-4-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-5-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-6-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-7-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-8-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-9-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-10-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-11-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-12-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-13-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-14-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-15-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-16-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-17-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-18-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-19-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-20-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-21-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-22-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-23-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-24-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-25-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-26-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-27-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-28-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-29-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-30-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-31-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-32-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-33-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-34-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-35-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-36-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-37-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-38-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-39-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-40-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-41-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-42-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-43-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-44-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-45-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-46-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-47-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-48-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-49-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-50-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-51-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-52-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-53-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-54-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-55-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-56-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-57-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-58-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-59-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-60-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-61-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-62-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-63-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-64-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-65-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-66-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-67-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-68-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-69-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-70-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-71-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-72-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-73-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-74-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-75-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-76-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-77-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-78-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-79-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-80-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-81-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-82-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-83-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-84-illustrated-poetry-book.webp
+
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-85-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-86-illustrated-poetry-book.webp
+/Users/seanivore/Dropbox/Development/portfolio-2025/assets/entries/illustrated-poetry-book/img-87-illustrated-poetry-book.webp

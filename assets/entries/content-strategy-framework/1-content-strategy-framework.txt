@@ -1,0 +1,92 @@
+PLACEMENT - 1
+
+CONTENT TILE TITLE 
+Multi-Platform Content Strategy Framework
+
+CONTENT TILE SUMMARY 
+Development of a comprehensive content strategy framework spanning multiple platforms and media types. 
+
+CONTENT TILE IMAGE - 16:9 aspect ratio @ 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-tile-content-strategy-framework.webp
+
+FRONT HOME PAGE CONTENT TILE TAGS
+Strategy
+Production
+Innovation
+
+SEO META TITLE
+Content Strategy Framework | Multi-Platform Media
+
+SEO META SUMMARY 
+Development of a comprehensive content strategy framework spanning multiple platforms and media types. 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-thumbnail-content-strategy-framework.webp
+
+ENTRY PAGE TITLE
+Multi-Platform Content Strategy Framework
+
+HERO PROJECT PAGE IMAGE 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-hero-content-strategy-framework.webp
+
+INNER ON PROJECT PAGE TAGS
+Content Strategy 
+Multi-Platform 
+Media Relations 
+Analytics 
+Campaign Development 
+Distribution Systems
+
+
+---
+
+Social Media Strategy Evolution: From Hashtag Activism to Industry-Leading Video Engagement
+
+Building on earlier innovations in real-time content creation, I evolved our social media strategy to encompass coordinated hashtag campaigns and pioneering video content approaches. These innovations led to significant earned media coverage and established new benchmarks for nonprofit social media engagement.
+
+Innovation Timeline
+
+Hashtag Campaign Innovation: #AskSeaWorld (2015)
+Pioneered a landmark example of strategic hashtag response and real-time content creation that demonstrated the power of coordinated social media activism:
+
+- Developed rapid response visual content creation system for maximum impact
+- Coordinated multi-channel distribution strategy across platforms
+- Leveraged existing email lists for amplified reach and engagement
+- Created shareable, emotion-driven content optimized for social platforms
+
+[image max-width 800px wide 16:9 aspect 450px high; Alt: SeaWorlds #AskSeaWorld Twitter Campaign Backfire Massively Magazine Press Coverage Clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-3-content-strategy-framework.webp
+[Caption:] Refinery 29 Coverage of PETA Campaign that made "SeaWorlds #AskSeaWorld Twitter Campaign Backfire Massively, with image of a Orca biting the glass and text "if you were in a bathtub for 30 years you'd be a little psychotic too" that I created. 
+
+[image max-width 800px wide 16:9 aspect 450px high; Alt: PETA Pokes Fun at Ongoing SeaWorld PR Campaign Press Coverage Headline Clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-4-content-strategy-framework.webp
+[Caption:] AgencySpy headline clipping about campaign effectiveness, "PETA Pokes Fun at Ongoing SeaWorld PR Campaign"
+
+Video Content Innovation: Britches Animal Testing Story (2016)
+Led the evolution into video content strategy, achieving industry recognition and record-breaking engagement rates:
+
+- Pioneered rapid video content creation ahead of market adoption
+- Developed efficient workflows for real-time video editing and deployment
+- Implemented multi-platform video optimization techniques
+- Created scalable video production system for consistent quality
+
+[image max-width 800px wide 16:9 aspect 450px high; Alt: PR News posts the emotional rescue investigation press clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-2-content-strategy-framework.webp
+[Caption:] PR News posts the emotional rescue investigation video of Britches the tortured baby primate video that I produced.
+
+[image max-width 800px wide 16:9 aspect 450px high; Alt: PR New Pro Comparison of Engagement Rates press clipping] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/press-img-1-content-strategy-framework.webp
+[Caption:] PR New Pro Comparison of Engagement Rates, has all the metrics included in a longer article with photo of my mentor; 
+
+[two image card grid row; both images 800px square; Alt: Britches before rescue, Alt: Britches after rescue]  
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-2-content-strategy-framework.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/content-strategy-framework/img-1-content-strategy-framework.webp
+[Caption:] The Britches story powerfully demonstrated the impact of video content in driving engagement. 
+
+Campaign Results & Recognition
+- 4.5 million consumer actions
+- 15% year-over-year engagement increase
+- 61% video engagement rate
+- Industry recognition in PR News Pro
+
+Key Takeaways
+This strategic evolution marked a fundamental shift from reactive social media to sophisticated, coordinated campaigns. By pioneering video content adoption before widespread platform support and developing emotion-driven frameworks, we established new industry benchmarks for campaign coordination. Our multi-channel distribution approach and focus on replicable frameworks not only led the nonprofit sector in Facebook engagement metrics but created lasting impact on social media strategy. This transformation demonstrated how innovative content approaches, when properly structured and executed, could consistently deliver breakthrough results while maintaining authentic engagement.

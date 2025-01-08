@@ -1,0 +1,111 @@
+POSITION - 4 
+
+CONTENT TILE TITLE 
+Mobile App Development & Strategy Management
+
+CONTENT TILE SUMMARY 
+Management and development of a collection of mobile applications, focusing on user growth and engagement metrics.
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-tile-ux-ui-ios-marketing.webp
+
+CONTENT TILE PRIMARY TAGS
+Development
+Strategy
+Production
+
+SEO META TITLE 
+Mobile App Portfolio | Development & Growth Strategy
+
+SEO META SUMMARY 
+Management and development of a collection of mobile applications, focusing on user growth and engagement metrics.
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-thumbnail-ux-ui-ios-marketing.webp
+
+PAGE TITLE 
+Mobile App Collection: Development & Strategy
+
+PAGE HERO IMAGE - 1200 px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-hero-ux-ui-ios-marketing.webp
+
+PAGE SECONDARY TAGS
+Mobile Development 
+Project Management 
+User Growth 
+App Strategy 
+Analytics 
+Performance Optimization
+
+
+--
+
+Multi-App Development & Management – Led development and optimization of three distinct mobile applications for PETA, including an action-taking platform with over 1M downloads, an iMessage sticker app ranked #198 in its category, and a cruelty-free product database with significant user growth.
+
+Apps Performance Overview
+
+[bar graph on single card max width 800px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/chart-1-ux-ui-ios-marketing.tsx
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/chart-2-ux-ui-ios-marketing.tsx
+
+
+PETA: Saving Animals Made Easy
+
+Downloads
+1M+
+
+Rating
+4.8 ★
+
+Reviews
+1.5K+
+
+[TWO IMAGE CARD GRID ROW, TOTAL MAX WIDTH 800PX] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-1-ux-ui-ios-marketing.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-2-ux-ui-ios-marketing.webp
+
+Key Achievements
+- Achieved over 1 million downloads with multi-million actions taken
+- Increased conversion rate by 22% month-over-month
+- Maintained 4.8 rating across 1.5K+ reviews
+- Optimized "How To Go Vegan" kit conversion funnel
+
+
+Animal Rights Stickers
+
+Category Rank
+#198
+
+Rating
+4.5 ★
+
+[TWO IMAGE CARD GRID ROW, TOTAL MAX WIDTH 800PX] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-3-ux-ui-ios-marketing.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-4-ux-ui-ios-marketing.webp
+
+
+Project Impact
+- Ranked #198 in Animals & Nature category
+- Coordinated with remote teams for content updates
+- Managed TestFlight beta testing program
+- Led press release and launch communications
+
+
+Bunny Free Database
+
+Return Users
++33.7%
+
+Page Views
++12%
+
+[TWO IMAGE CARD GRID ROW, TOTAL MAX WIDTH 800PX] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-5-ux-ui-ios-marketing.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-ios-marketing/img-6-ux-ui-ios-marketing.webp
+
+
+Development Impact
+- Increased return users by 33.7% month-over-month
+- Improved page views by 12% after redesign
+- Direct liaison with freelance development team
+- Managed regular database content updates

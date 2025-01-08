@@ -1,0 +1,83 @@
+PLACEMENT - 5 
+
+CONTENT TILE TITLE 
+Healthcare Provider Platform Development
+
+CONTENT TILE SUMMARY 
+Creation of a comprehensive digital platform for client, integrating digital media marketing and advertising campaigns.
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/health-digital-integrated/img-tile-health-digital-integrated.webp
+
+CONTENT TILE FRONT PRIMARY TAGS 
+Development
+Design
+Strategy
+
+SEO META TITLE
+Healthcare Digital Platform | Provider Website Development
+
+SEO META SUMMARY 
+Creation of a comprehensive digital platform for healthcare providers, integrating patient management and communication systems.
+
+SEO META THUMBNAIL SOCIAL SHARE IAMGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/health-digital-integrated/img-thumbnail-health-digital-integrated.webp
+
+PAGE TITLE 
+Healthcare Provider Platform Development
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/health-digital-integrated/img-hero-health-digital-integrated.webp
+
+PROJECT PAGE INNER SECONDARY TAGS
+Healthcare Systems 
+Web Development 
+UX Design 
+Patient Experience 
+Digital Strategy 
+System Integration
+
+----
+
+CK Heals LLC Website Development and digital consulting, copywriting, email campaigns, and social advertising for events. As Digital Business Consultant for CK Heals LLC, I led comprehensive web development and digital strategy initiatives that resulted in tripled lead generation, 50% increase in client bookings, and 11.5% growth in repeat bookings through strategic design and marketing implementations.
+
+Project Evolution
+
+Latest Webflow Implementation
+
+The most recent iteration of the CK Heals LLC website showcases a modern, user-friendly design implemented through Webflow, optimizing both aesthetics and functionality:
+
+[two gifs, one per row, both max width 800px] 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/health-digital-integrated/img-gif-1-health-digital-integrated.gif?raw=true” alt=“Webflow design for client with all custom art”>
+CAPTION: Webflow design for client with all custom art
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/health-digital-integrated/img-gif-2-health-digital-integrated.gif?raw=true” alt=“Custom art, and custom photography for Webflow website redesign”>
+CAPTION: Custom art, and custom photography for Webflow website redesign
+
+Earlier Design Implementation
+
+Prior to the Webflow implementation, I created this design using Kajabi, establishing the foundation for the client's digital presence:
+
+[one gif image card max width 800px] 
+<img src=“https://github.com/seanivore/portfolio/blob/new-clean-branch/assets/entries/health-digital-integrated/img-gif-3-health-digital-integrated.gif?raw=true” alt=“Earlier version of website created for client, this one on Kajabi”>
+CAPTION: Earlier version of website created for client, this one on Kajabi
+
+Comprehensive Digital Solutions
+
+- Constructed complete digital business architecture including web pages, domains, Google Workplace integration, analytics, and payment systems
+- Designed brand identity including logo creation and annual website redesigns with quarterly updates
+- Produced online courses and managed traditional advertising alongside social media content
+- Implemented email marketing sequences and managed digital advertising campaigns across Facebook, Instagram, and Google Adsense
+- Focused on emotion-centric, design-first development approach
+- Specialized in copywriting that authentically expresses the client's personality
+
+Lead Generation
+3x Growth
+
+Client Bookings
++50%
+
+Repeat Bookings
++11.5%
+
+
+

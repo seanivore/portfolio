@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<!--
+⚠️ MASTER TEMPLATE - IMPORTANT INSTRUCTIONS ⚠️
+✅ DO: Edit content within <article class="project-detail"> section
+❌ DON'T: Modify the nav header or footer sections
+➡️ REMEMBER: Create your page-specific CSS file by copying projects-master.css
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web3 Privacy Protocol: Brand & Motion Design Direction | Sean Horvath</title>
+    <meta name="description" content="Creative direction and motion design for a privacy-focused web3 DAO, featuring 3D animation, vector illustration, and custom After Effects expressions.">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="14 - Web3 Privacy Protocol Brand Social Video Production.css">
+</head>
+<body>
+    <nav class="project-nav">
+        <div class="project-nav-content">
+            <a href="../index.html" class="back-link">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <article class="project-detail">
+        <!-- START EDITING HERE -->
+        <header class="project-header">
+            <h1 class="project-title">Web3 Privacy Protocol: Brand & Motion Design Direction</h1>
+            
+            <p class="project-summary">
+                As Creative Director for a privacy-focused web3 DAO, I spearheaded the complete visual identity and motion design strategy, producing thousands of creative assets while collaborating with a global development team. This role demanded mastery of multiple animation techniques and design approaches to establish a distinctive brand presence in the competitive web3 space.
+            </p>
+
+            <div class="tags-section">
+                <span class="tag category-tag">Creative Direction</span>
+                <span class="tag skill-tag">Motion Design</span>
+                <span class="tag skill-tag">3D Animation</span>
+                <span class="tag platform-tag">Web3</span>
+            </div>
+        </header>
+
+        <h2 class="section-header">Technical Proficiencies</h2>
+        <ul class="feature-list">
+            <li>After Effects expression programming</li>
+            <li>3D modeling and animation</li>
+            <li>Vector illustration and motion graphics</li>
+            <li>Social media-optimized content creation</li>
+            <li>Cross-platform visual asset management</li>
+        </ul>
+
+        <div class="full-width-gif">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/3D-coins-defi-web3-video-animation-clip-1.gif?raw=true" alt="Video Production with 3D Elements representing coins for their competitors">
+            <p class="caption">Competitor Analysis Motion Graphics</p>
+        </div>
+
+        <div class="full-width-gif">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/3D-coins-defi-web3-video-animation-clip-2.gif?raw=true" alt="3D Coins for Cryptocurrency Branding Social Media Pages">
+            <p class="caption">Cryptocurrency Brand Animation</p>
+        </div>
+
+        <h2 class="section-header">Brand Identity Evolution</h2>
+        <p>The project required balancing stakeholder vision with innovative design approaches. I leveraged creative autonomy to explore emerging design trends, particularly in 3D animation and motion graphics, while maintaining brand consistency.</p>
+
+        <div class="full-width-gif">
+            <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/glass%203d%20logo%20animation.gif?raw=true" alt="Silent Protocol 3D Glass Reflective Logo Animated Clip">
+            <p class="caption">Protocol Brand Identity Animation</p>
+        </div>
+
+        <h2 class="section-header">Technical Animation Development</h2>
+        <p>Advanced my expertise in After Effects expressions and 3D animation, creating custom effects for video productions and social media content.</p>
+
+        <div class="gif-grid-2x1">
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/after-effects-fx-infinite-never-ending-grid-tunnel.gif?raw=true" alt="Infinite Neon Grid Tunnel">
+            </div>
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/after-effects-spinning-glowing-cube.gif?raw=true" alt="Spinning Radiant 3D Cube">
+            </div>
+        </div>
+        <p class="caption">Custom After Effects Expression Animations</p>
+
+        <h2 class="section-header">Vector Illustration & Motion Design</h2>
+        <p>Developed hand-crafted vector animations using Adobe Fresco, combining traditional artistic techniques with digital motion design to create unique, engaging content.</p>
+
+        <div class="gif-grid-3x2">
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/hand-drawn-vector-animated-dragon.gif?raw=true" alt="Hand Drawn Vector Motion Graphic Dragon">
+            </div>
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/hand-drawn-vector-flag-waving-1.gif?raw=true" alt="Hand Drawn Vector Motion Graphic Waving Flag">
+            </div>
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/pepe-meme-new-influencer-follower-commentary.gif?raw=true" alt="Pepe New Influencer Following Commentary Post">
+            </div>
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/pepe-social-brand-new-followers-commentary.gif?raw=true" alt="Pepe Motion Graphic Commentary On Following Growth Before Launch">
+            </div>
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/running-horse-pepe-with-flag-waving.gif?raw=true" alt="Hero Pepe Stop Motion Video">
+            </div>
+            <div class="gif-container">
+                <img src="https://github.com/seanivore/portfolio/blob/master/assets/entries/web3-creative-director/web3-brand-character-moon-animation.gif?raw=true" alt="Monkey and Pepe Beat Competition To Moon Social Media Post Motion Graphic">
+            </div>
+        </div>
+        <p class="caption">Vector-based Motion Graphics Series</p>
+
+        <h2 class="section-header">Project Impact</h2>
+        <ul class="feature-list">
+            <li>Established cohesive brand identity across multiple platforms</li>
+            <li>Created scalable design system for ongoing content creation</li>
+            <li>Integrated emerging animation techniques with traditional design principles</li>
+            <li>Developed efficient workflow for rapid content production</li>
+            <li>Successfully balanced stakeholder requirements with creative innovation</li>
+        </ul>
+        <!-- END EDITING HERE -->
+    </article>
+
+    <footer class="project-footer">
+        <div class="footer-nav">
+            <h3>Related Case Studies</h3>
+            <div class="related-projects">
+                <div class="related-project">
+                    <a href="15 - GIFs Anamorphic NFTs and Classic Memes.html" class="related-project-link">
+                        <h4>Next in Series:</h4>
+                        GIFs, Anamorphic NFTs, and Classic Memes
+                        <span class="related-description">Exploring digital art through GIF creation and NFT development</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-content">
+            <a href="../index.html" class="back-to-portfolio">Back to Portfolio</a>
+            <div class="footer-contact">
+                <a href="mailto:horvathaugust@gmail.com">horvathaugust@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/seanivore" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.behance.net/seanivore" target="_blank" rel="noopener noreferrer">Behance</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
