@@ -1,3 +1,81 @@
+# Content Types 
+No styling of content classes is ever necessary. It is already done and simply requires that you choose the proper content class as indicated either as the standard or as listed on the asset TXT document. 
+This makes it easy! You'll never need to make new classes, and you'll never need to decide any styling. 
+
+## Sections
+Group page's content into multiple sections. Spacing inside a section and spacing between sections are different helping to visually structure information. 
+
+## Content 
+Each element inside of a section will get a content wrap. The width of the content wrap will be indicated on the asset TXT document. In just a handful of cases, content width is predetermined. 
+.content-wrap 			This is the "norm" and is 800px wide 
+.content-wrap wide 		This is indicated (+3-image-card wide rows) and is full width 
+.content-wrap narrow		This is indicated (+stat tiles) and is 600px 
+
+Text content occasionally goes directly on the page, otherwise any other content including text goes on a card. 
+
+### Text
+What ways can text be laid out on page? 
+Occasionally on page. Often on card. 
+
+The following would be in the same section visually. 
+Direct On Page
+
+.section 
+>.content-wrap
+[header] 
+[Paragraph] 
+
+On Card On Page 
+
+>.content-wrap
+>>.card
+>>>.content		<---text on card requires .content for structure 
+[header]
+[paragraph] 
+[bulleted-list] 
+
+### Image
+What ways can images be laid out on page? More than one requires a grid. 
+	One image on card
+	One image on card --made narrow
+	One image on card --made wide 
+	Two images, on cards, in row 
+	Two images, on cards, in row --made narrow 
+	Two images, on cards, in row --made wide 
+	Three images, on cards, in row --made wide 
+
+### Charts
+They only have one layout option. 
+	One card --made wide 
+
+### Metrics Called-out
+One layout option, try to keep metric callouts to three items for consistency. 
+.section 
+> .content-wrap narrow 
+>> .stats-grid 
+>>> .stat-item		>>> .stat-item		>>> .stat-item
+>>>> .stat-number	>>>> .stat-number	>>>> .stat-number
+>>>> .stat-label	>>>> .stat-label	>>>> .stat-label
+
+### Conclusions
+Are already styled and need no alterations
+	One content layout --made wide 
+
+## Grid Layouts 
+Used to keep card or on-page content gap spacing even, and ensures responsive layout. 
+
+.section 			<---all in one section below 
+> .content-wrap wide		<---wide would be indicated on asset TXT 
+>> .card-grid			<---used because of two side by side elements 
+>>> .card	>>> .card
+[img] 		[img]		<---images place directly on cards
+> .content-wrap
+>> .card 
+>>> .content 			<---text elements require .content to place on card 
+[header]
+[paragraph]
+[bulleted-list] 
+
 # Portfolio Modular System Documentation
 
 ## File Organization
