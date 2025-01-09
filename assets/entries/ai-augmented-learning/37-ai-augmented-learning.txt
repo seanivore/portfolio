@@ -7,24 +7,91 @@ CONTENT TILE SUMMARY
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
 
 CONTENT TILE PRIMARY TAGS 
+Technical
+Research
+AI Systems
 
 SEO META TITLE 
+RAG Development Case Study | AI Knowledge Systems
 
 SEO META SUMMARY 
+A deep dive into developing a Retrieval-Augmented Generation system for personal knowledge management, integrating insights from AI behavior patterns and human learning processes to create an adaptive, engagement-driven knowledge system.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
 
 PAGE TITLE
+Building a Personal Knowledge RAG: A Case Study in AI-Augmented Learning
 
 PAGE HERO IMAGE - 1200px square 
 
 PAGE SECONDARY TAGS
+RAG Development
+Knowledge Systems
+System Architecture
+AI Integration
+Learning Systems
+Case Study
 
 
 
-ai-augmented-learning
+
+REVIEW TAGS TO MAKE SURE THEY FIT IN NEW SYSTEM AND ORGANIZATION 
+
+### Systems & Architecture
+system-architecture 
+web-development 
+system-integration
+technical-architecture 
+automation 
+infrastructure
+methodology 
+implementation 
+development
+
+### Strategy & Innovation
+business-strategy 
+process-strategy 
+innovation
+risk-assessment 
+strategic-communication
+viral 
+engagement 
+earned-media
+
+### Design & Experience
+ux-ui 
+visual-design 
+product-design
+user-behavior 
+interaction-design
+creative-direction 
+motion-design
+
+### AI & Automation
+ai-development 
+ai-integration 
+ai-research
+agentic 
+generative 
+automation
+machine-learning 
+ai-systems
+
+### Theory & Analysis
+philosophy 
+ethics 
+critical-analysis
+research-methods 
+systems-thinking
+accessibility 
+futurism
+
+
 
 --
+
+
+
 
 	- We were tired of the rate limits using Anthropics web app
 	- Created messenger UI
@@ -34,17 +101,15 @@ ai-augmented-learning
 	- Then rewrite accordingly 
 	- Is the slug appropriate 
 
+--
+
+
+Three images that are artsy to place throughout, all are 'Neo Expressionism Cyberpunk' -- neons, rough drawing, mechanical looking euphoric wild future city. 
+
 
 
 
 ---
-Templates in portfolio-clean that have not been committed or pushed to GitHub: 
-
-/Users/seanivore/Projects/portfolio-clean/projects/ai-augmented-learning.css
-/Users/seanivore/Projects/portfolio-clean/projects/ai-augmented-learning.html
-
-
-# Building a Personal Knowledge RAG: A Case Study in AI-Augmented Learning
 
 ## Project Overview
 
@@ -141,33 +206,3 @@ This case study documents the development of a personal knowledge management sys
 
 This project demonstrates the effective implementation of RAG technology in personal knowledge management, highlighting the importance of considering both human and AI learning patterns in system design.
 
-
-
-----
-
-
-
-Title: Building a Personal Knowledge RAG: A Case Study in AI-Augmented Learning
-Meta Title: RAG Development Case Study | AI Knowledge Systems
-Summary: A deep dive into developing a Retrieval-Augmented Generation system for personal knowledge management, integrating insights from AI behavior patterns and human learning processes to create an adaptive, engagement-driven knowledge system.
-
-Thumbnail Share Image - 1200 x 630px
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-augmented-learning/1200-630-px-thumbnail-social-share-ai-augmented-learning.webp
-
-Front Page Tags (3):
-
-Technical (Blue)
-Research (Purple)
-AI Systems (Green)
-
-Inner Page Tags (6):
-
-RAG Development
-Knowledge Systems
-System Architecture
-AI Integration
-Learning Systems
-Case Study
-
-Homepage Content Tile Image (for redesign of tiles) - 16:9 and 600px wide 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/ai-augmented-learning/16-9-aspect-600-px-wide-tile-image-ai-augmented-learning.webp
