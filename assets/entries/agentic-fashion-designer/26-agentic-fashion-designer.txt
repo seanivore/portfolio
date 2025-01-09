@@ -36,6 +36,8 @@ So this post will still be strategic, but in this case it is more about how the 
 
 And for added enjoyment, the scenarios, which if I don't get a chance to detail its operation in more than a few sentences per scenario, please get me started and tap me in for specifics — but they'll all be separated by fashionable photo prints of Femme Fatale women from the Film Noir art movement era. 
 
+Obviously please arrange the visuals around as you see best fit. 
+
 ---
 
 [one image card in this row - Alt: Image says "Automated Photograph Preparations Cropped and resized using Vision Al. Stored in database with Generative Al produced keywords and descriptions."] 
@@ -59,7 +61,32 @@ https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seani
 [one image card in this row - Alt: Website Content Production - How narratives informed archetypes and emotions that allowed for unique fashion design."] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-07-agentic-fashion-designer.webp
 
-[one image card in this row - Alt: Administrative Digital Media
-Management Tasks
-Once time-consuming & tedious, now fully automated. Added bonus: Trained Al actually can seethe fashion, conceptualize the personality profile and mood, writing the perfect SEO Titles & Summaries."] 
+[one image card in this row - Alt: Administrative Digital Media Management Tasks - Once time-consuming & tedious, now fully automated. Added bonus: Trained Al actually can seethe fashion, conceptualize the personality profile and mood, writing the perfect SEO Titles & Summaries."] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-08-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Delegating Terribly Boring Digital Media Tasks - Each look book has at least a couple hundred published images. All must be cropped and sized for various digital purposes, then moved to other databases. Again the added bonus of Al being able to appreciate the nuances of the design to produce SEO Meta Text & Summary - Information for various publications. Literal DAYS of work saved.] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-09-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: When your training for the Al is particularly perfected, you can roll out the more massive copywriting automations.] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-10-agentic-fashion-designer.webp
+
+[Prompt part 1 about producing the narrative; 1000x1099px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-11-agentic-fashion-designer.webp
+
+[Prompt part 2 about defining the characters; 1000x1291px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-12-agentic-fashion-designer.webp
+
+[Prompt part 3 about the vision, aesthetics, and the goal, for personal growth through attire; 1000x1027px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-13-agentic-fashion-designer.webp
+
+[Prompt part 4 — the above materials are now used with a reliably perfected prompt to produce the outfit descriptions that are later created in visual form; 1000x1130px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-14-agentic-fashion-designer.webp
+
+[The Archetypes in the most recent 2nd Edition Winter 2024-2025 Lookbook; 1000x868px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-15-agentic-fashion-designer.webp
+
+[Film Noir Femme Fatal image; 800x1000px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-16-agentic-fashion-designer.webp
+
+[Film Noir Femme Fatal image; 800x1000px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-17-agentic-fashion-designer.webp
