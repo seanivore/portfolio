@@ -72,23 +72,60 @@ This guide outlines the modular system for creating new portfolio project pages.
 </html>
 ```
 
-## Content Width System
-Three predefined content widths available:
+## Visual Spacing System
+
+### Section Usage
+- Use `<section class="section">` to create visual breaks between major content blocks
+- Each section creates significant vertical spacing (6rem) from other sections
+- Every major content block should be wrapped in its own section
+- Multiple related elements can be grouped in one section when they form a cohesive unit
+
+### Content Width System
+All content within sections must use one of these three predefined width classes:
+
 ```html
 <!-- Standard Width (800px) -->
 <div class="content-wrap">
-    <!-- Content here -->
+    <!-- Use for standard content blocks -->
+    <!-- Good for: regular text, single images, basic cards -->
 </div>
 
 <!-- Narrow Width (600px) -->
 <div class="content-wrap-narrow">
-    <!-- Content here -->
+    <!-- Use for focused content that benefits from tighter width -->
+    <!-- Good for: stats displays, text-heavy content, single column lists -->
 </div>
 
-<!-- Full Width -->
+<!-- Wide Width (up to section max-width) -->
 <div class="content-wrap-wide">
-    <!-- Content here -->
+    <!-- Use for content that needs more horizontal space -->
+    <!-- Good for: image grids, wide charts, multi-column layouts -->
 </div>
+```
+
+Example of proper section and content-wrap nesting:
+```html
+<!-- Major content block -->
+<section class="section">
+    <!-- Section title -->
+    <div class="content-wrap">
+        <h2>Section Title</h2>
+    </div>
+    
+    <!-- Wide content like image grid -->
+    <div class="content-wrap-wide">
+        <div class="card-grid">
+            <!-- Cards here -->
+        </div>
+    </div>
+    
+    <!-- Focused content like stats -->
+    <div class="content-wrap-narrow">
+        <div class="stats-grid">
+            <!-- Stats here -->
+        </div>
+    </div>
+</section>
 ```
 
 ## Common Layout Patterns
@@ -230,25 +267,43 @@ Required Script:
 ```
 
 ### 2. React Charts
-For displaying interactive data visualizations. Requires React and Chart.js.
+For displaying interactive data visualizations. Two implementation methods are available:
+
+#### Method 1: Using chart-loader.js
+Best for simpler charts with inline data:
 
 ```html
 <!-- In head section -->
-<script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
-<script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <!-- In body where chart should appear -->
 <div class="content-wrap">
-    <div id="chart-container" data-chart="path/to/chart.tsx"></div>
+    <div id="chart-container" class="h-96"></div>
 </div>
 
 <!-- Before closing body tag -->
 <script src="../assets/js/chart-loader.js"></script>
 ```
 
+#### Method 2: Using mobile-charts.js with TSX files
+Better for complex charts or when data is maintained separately:
+
+```html
+<!-- In head section -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- In body where chart should appear -->
+<div class="content-wrap-wide">
+    <div id="performance-chart" data-chart="https://raw.githubusercontent.com/user/repo/branch/path/to/chart.tsx"></div>
+</div>
+
+<!-- Before closing body tag -->
+<script src="../assets/js/mobile-charts.js"></script>
+```
+
 Example Chart Data Structure (chart.tsx):
 ```typescript
+// chart-1-example.tsx
 const data = {
   labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'],
   datasets: [{
@@ -258,7 +313,12 @@ const data = {
     tension: 0.1
   }]
 };
+
+// Export for mobile-charts.js
+export default data;
 ```
+
+Note: When using Method 2, ensure your TSX files are properly formatted and accessible via GitHub raw URLs.
 
 ### 3. GIF Handling
 Two approaches for including GIFs:
