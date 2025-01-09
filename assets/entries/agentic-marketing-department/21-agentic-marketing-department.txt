@@ -1,10 +1,5 @@
 POSITION - 21
 
-# Data Attributes <--- Sean to enter on Index.html content tile. 
-data-position="21"
-data-categories="3,6,7"
-data-primary-tags="ai strategy tech"
-data-secondary-tags="content-strategy automation system-integration media-production process-strategy implementation analytics innovation"
 
 CONTENT TILE TITLE
 The Agentic Marketing Department: Full-Scale AI Implementation

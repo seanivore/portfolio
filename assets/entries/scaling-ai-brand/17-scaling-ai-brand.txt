@@ -37,16 +37,6 @@ Media Production
 Process Strategy
 Implementation
 
-CATEGORIES
-3,6,7
-
-# Data Attributes (for related projects)
-data-position="21"
-data-categories="3,6,7"
-data-primary-tags="ai strategy tech"
-data-secondary-tags="content-strategy automation system-integration media-production process-strategy implementation analytics innovation"
-
-
 
 =====
 
