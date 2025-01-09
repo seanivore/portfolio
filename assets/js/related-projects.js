@@ -17,32 +17,51 @@ document.addEventListener('DOMContentLoaded', function() {
         return !link.includes(currentPage);
     });
 
-    // Find matches based on tags and categories
-    const matches = projectsArray
-        .map(card => {
+    // Shuffle array (Fisher-Yates shuffle)
+    for (let i = projectsArray.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [projectsArray[i], projectsArray[j]] = [projectsArray[j], projectsArray[i]];
+    }
+
+    // Get 2 random projects, ensuring at least one has a shared category or tag if possible
+    let matches = [];
+    
+    // Try to find at least one with shared attributes
+    const currentCard = document.querySelector(\`.project-card[data-categories*="\${currentPage}"]\`);
+    if (currentCard) {
+        const currentCategories = currentCard.dataset.categories?.split(',') || [];
+        const currentPrimaryTags = currentCard.dataset.primaryTags?.split(' ') || [];
+        const currentSecondaryTags = currentCard.dataset.secondaryTags?.split(' ') || [];
+
+        // Find first match with any similarity
+        const similarProject = projectsArray.find(card => {
+            const categories = card.dataset.categories?.split(',') || [];
             const primaryTags = card.dataset.primaryTags?.split(' ') || [];
             const secondaryTags = card.dataset.secondaryTags?.split(' ') || [];
-            const categories = card.dataset.categories?.split(',') || [];
-            
-            // Simple scoring: count shared tags and categories
-            let score = 0;
-            if (primaryTags.length) score += primaryTags.length;
-            if (secondaryTags.length) score += secondaryTags.length * 0.5;
-            if (categories.length) score += categories.length * 0.3;
-            
-            return { card, score };
-        })
-        .sort((a, b) => b.score - a.score)
-        .slice(0, 2); // Get top 2 matches
 
-    // Ensure we have at least one match
-    if (!matches.length) {
-        matches.push({ card: projectsArray[0] }); // Just take the first project as fallback
+            return categories.some(cat => currentCategories.includes(cat)) ||
+                   primaryTags.some(tag => currentPrimaryTags.includes(tag)) ||
+                   secondaryTags.some(tag => currentSecondaryTags.includes(tag));
+        });
+
+        if (similarProject) {
+            matches.push(similarProject);
+            projectsArray.splice(projectsArray.indexOf(similarProject), 1);
+        }
+    }
+
+    // Add a random second project if we have one available
+    if (projectsArray.length) {
+        matches.push(projectsArray[0]);
+    }
+
+    // If we somehow got no matches, just take the first two (or one) available projects
+    if (!matches.length && projectsArray.length) {
+        matches = projectsArray.slice(0, 2);
     }
 
     // Create and insert related project cards
-    matches.forEach(match => {
-        const card = match.card;
+    matches.forEach(card => {
         const title = card.querySelector('.project-title').textContent;
         const image = card.querySelector('img').src;
         const link = card.querySelector('a').getAttribute('href');
