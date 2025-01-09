@@ -36,19 +36,31 @@ This must be learned hands on and the only way that can really be efficiently do
 Then after a few months of perfecting a system, you'll be ready to have someone code for you a programmed solution — if you even need it yet! 
 
 
-[Image of flowchart from Make - img-1-agentic-marketing-department.webp] 
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-1-agentic-marketing-department.webp
+
 
 Preparing identified variables that fill into a spreadsheet or database, requests are distributed to various AI with specific instructions and system prompts. Based on those instructions and the added variables, they produce a variety of blog content each week. 
 
 Initial training of AI is simple, requiring review of assets for the first few weeks. The review feedback is presented directly to the various AI so that they can create a clear, instructive, multipurpose SOP for writing the blog content. This SOP can be improved upon and adjusted for variety, or perfected and ran almost entirely human free, as later automations have an AI review the content, approve it, then trigger an automation that uses API to publish the blogs to the Webflow CMS. 
 
 
-[Image of flowchart from Make — img-2-agentic-marketing-department.webp]
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-2-agentic-marketing-department.webp
+
 
 AI is prompted to create content based on predetermined parameters in the database. After producing the written content another AI reviews it to create prompts for another AI to use in generation of images relevant to the content. A final AI compiles a draft for review and places it back in the database before a notification is sent to a Discord channel that will either alert human for review, QA, next steps, or trigger an entire next automated flow automatically. 
 
-[Image of flowcharts from Make - 
-img-3-agentic-marketing-department.webpimg-4-agentic-marketing-department.webpimg-5-agentic-marketing-department.webp]
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-3-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-4-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-5-agentic-marketing-department.webp
+
 
 Thanks to keeping all content in properly organized databases, creating additional assets using generative AI is easy and just as simple to perfect as the SOP for writing the blogs. 
 
@@ -56,8 +68,12 @@ Here, the automation is pulling images that were produced based on the content e
 
 While the first automation depicts a flow for posting images to promote the content across social media, the second shows an automation that pulls the images and other new text copy so be using in the production of video shorts using an API production service. The template for these videos is created once in the services web app and then a number of videos can be produced for free monthly. Shown in the final flow is the 12 we would create weekly using this service. 
 
-[Image of flowcharts from Make - 
-img-6-agentic-marketing-department.webpimg-7-agentic-marketing-department.webpimg-8-agentic-marketing-department.webpimg-9-agentic-marketing-department.webpimg-10-agentic-marketing-department.webp]
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-6-agentic-marketing-department.webp
+
+[two in row, two rows of images on cards - database screenshots ] https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-7-agentic-marketing-department.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-8-agentic-marketing-department.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-9-agentic-marketing-department.webp | https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-10-agentic-marketing-department.webp
+
 
 Notion really couldn't make running very complex automations any easier thanks to the user friendly interface of their databases, and the versatility with which you can build a database for basically any need possible. 
 
@@ -73,12 +89,32 @@ The next image was a database that was used to inform the production of the arti
 
 In the final image you can see the output of the automations. This database was organized to make it simple to go through, review the content, and then add all the necessary images for each art history article. 
 
-[Image of flowcharts from Make - 
-img-11-agentic-marketing-department.webpimg-12-agentic-marketing-department.webp
 
-This next batch of flow charts is where content creation gets really fun. The first two charts are technically two of the much later used scenarios after using the automated AI email Webhook requests in the next handful of flow charts. Due to podcast and email newsletter length and variety of topics or different voices, or need for details and research, those are the content types where these next automations were most frequently used. Hopefully it is clear however they they could be used for any of the prior content production flows with some simple adjustments. 
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-11-agentic-marketing-department.webp
 
-[Image of flowcharts from Make - img-13-agentic-marketing-department.webpimg-14-agentic-marketing-department.webpimg-15-agentic-marketing-department.webpimg-16-agentic-marketing-department.webpimg-17-agentic-marketing-department.webp]
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-12-agentic-marketing-department.webp
+
+
+This next batch of flow charts is where content creation gets really fun. The first two charts are technically two of the much later used scenarios after using the automated AI email Webhook requests in the next handful of flow charts. Due to podcast and email newsletter length and variety of topics or different voices, or need for details and research, those are the content types where these next automations were most frequently used. Hopefully it is clear however they could be used for any of the prior content production flows with some simple adjustments. 
+
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-13-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-14-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-15-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-16-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-17-agentic-marketing-department.webp
+
 
 The automation here use emails created from the AI to human for reviews, selection of content topics, requests for more research — all of the above. Responding directly to those emails triggers a new automation, placing your email response content directly into the AI as the prompt request. 
 
@@ -86,7 +122,10 @@ These are great for rewrite requests. Or if you want to tag in a specific LLM wh
 
 The final key to this puzzle. 
 
-img-18-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-18-agentic-marketing-department.webp
+
 
 Everything created — from drafts, research, outlines, notes on what worked and what didn't, as well as links of actual promoted content and the analysis of the content's performance — it all can and should be managed by an AI with embeddings. 
 
@@ -98,17 +137,41 @@ Not to worry, it walks you through every single step. And, it is AI — so if i
 
 So, custom newsletters. Here I'll just drop a visual progression of going through a draft, giving feedback, and then a presentable draft ready to send out. It even was able to populate the entire thing with the content from our blogs along with all the necessary links. Images too. After the second draft I understood how to better provide feedback and the result was pretty much ready to send. Check it out. 
 
-img-24-agentic-marketing-department.webpimg-25-agentic-marketing-department.webpimg-26-agentic-marketing-department.webp
+
+[one extra wide card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-24-agentic-marketing-department.webp
+
+[one extra wide card in row - flowchart from Make]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-25-agentic-marketing-department.webp
+
+[one extra wide card in row - flowchart from Make] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-26-agentic-marketing-department.webp
+
 
 That jump from the second draft to the final is pretty crazy, right? This is what I'm saying though. Your brain has more space to provide the proper feedback when you aren't thinking about things like how many REM the padding is and if all the margins are even and the color palette — that we decided on first. 
 
 The last really rad thing we have for the Agentic Marketing Department entry here is for running your online store using AI, generative copy, images, and automation for updating all the different stores. There is another entry specifically on automated e-commerce so we won't get too deep in this section. 
 
-img-20-agentic-marketing-department.webpimg-19-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-19-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-20-agentic-marketing-department.webp
+
 
 The big player here is a system that conducts an SEO and SERP analysis of your store. This analysis could literally be run weekly for the pennies it would cost for the API calls. 
 
-img-23-agentic-marketing-department.webpimg-22-agentic-marketing-department.webpimg-21-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-21-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-22-agentic-marketing-department.webp
+
+[one image card in row - flowchart from Make]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-marketing-department/img-23-agentic-marketing-department.webp
+
 
 It structure — conceptually — it is a bit complex. Well, mostly it sounds super complex when you nag Perplexity to break down how to do it without paying for services, but in the end you basically just prompt AI a billion different things and feed it all into AI for embedding so that it can create a matrix far more complex than I can even visualize to come up with results. 
 
