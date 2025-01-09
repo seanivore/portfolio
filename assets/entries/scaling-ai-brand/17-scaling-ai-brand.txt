@@ -1,364 +1,125 @@
 POSITION - 17 
 
 CONTENT TILE TITLE
+Automated Content Creation System
 
 CONTENT TILE SUMMARY 
+Pioneer of automated content creation at scale, producing 89 weekly pieces through AI-driven systems. Built and implemented advanced automation two years ago that others are only theorizing about today, including automated video production and an early AI podcast system.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-tile-scaling-ai-content-production.webp
 
 CONTENT TILE PRIMARY TAGS 
+AI
+Strategy
+Tech
 
 SEO META TITLE 
+Scaling AI Brand: Automated Content Creation System | Sean August
 
 SEO META SUMMARY 
+Pioneering implementation of AI-driven content automation, producing 89 weekly pieces through advanced systems. Case study of automated blog, video, and podcast production using cutting-edge AI technology.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-thumbnail-scaling-ai-content-production.webp
 
 PAGE TITLE
+Astrofluenced: Revolutionizing Content Creation Through AI
 
 PAGE HERO IMAGE - 1200px square 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-hero-scaling-ai-content-production.webp
 
 PAGE SECONDARY TAGS
+Automation
+Content Strategy
+System Integration
+Media Production
+Process Strategy
+Implementation
+
+CATEGORIES
+3,6,7
+
+# Data Attributes (for related projects)
+data-position="21"
+data-categories="3,6,7"
+data-primary-tags="ai strategy tech"
+data-secondary-tags="content-strategy automation system-integration media-production process-strategy implementation analytics innovation"
+
+
 
 =====
 
-
-scaling-ai-brand
-
-Evolution of Astrofluenced Brand in Phases
-
-First, find each phase defined. 
-Second, find visuals that can be integrated into post. 
-
-Below that are two different entry drafts that seem super similar. 
-
-Idea here being to turn this into an even more comprehensive case study using Astrofluenced as an example specifically. 
-
-I have another entry that is more generally about creating "agentic-automated-marketing-department" where I have examples that below doesn't cover as well as some overlapping examples — which I think is okay for telling the story two different ways (?). 
-
-Also a chart...
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-chart-1-scaling-automated-content.webp
-
-=====
->>PHASE 1 
-- Automated Generative Written Blogs
-- Automated Their Promotions with Generative Produced Social Posts 
-
-1. Human — Simply put the location of the planets in one database each week.
-
-2. Generative AI — Massive automations that used AI's natural ability to craft content about archetypes of astrology. We used this to our advantage to create not just pseudo-helpful content of interest like horoscopes, but took it a step further to create content that broke down how to improve ones life through personal growth. In creating the generative automated copy produced and published for these blogs and social posts, we pushed the automations further always being sure to create more content than needed which we later capitalized on.
-
-3. Both - Created artistically relevant images that fit the brand, about 200 each week to start, keeping organized in dropbox archive, always creating more for presumptive future use in new types of media and mediums. 
-
-
-This is a PHASE ONE type post on Astrofluenced
-It should be primarily about the process used for making an automated brand in general 
-- 1st planning out brand
-- 2nd making content 
-- 3rd researching newest ways to automate production 
-- 4th dissemination of new tools versus old process 
-- 5th laying out full automation plan by media and medium type
-- 6th implementation of each 'leg' of brand
-- 7th running, optimization, QA 
-- 8th profit* 
-
-
-=====
->>PHASE 2 
-- Maintaining Phase 1 Media Production, Presentation 
-- Integration of API Video Short Production
-
-1. Human 
-	- Previous operations optimized to couple hours a week. 
-	- Build one 60 second video Shotstack template. 
-	- Review, adjust (QA) surplus copy produced in Phase 1 automations 
-
-2. Automation — Pulling from databases and applying template, rendering new videos, saving them to database that publishing automation pulls from. 
-
-3. Generative AI - reviewed media and copy used in video short production and writes multiple captions for posting to multiple social media channels. Content is added to same publishing database. 
-
-=====
->>PHASE 3  
-- Continued Phase 1 Production, Presentation Maintenance 
-- Addition of Video Production Automation Maintenance 
-- Creation of Astrofluenced Podcast Creating Biggest Impact 
-
-1. Human - All previous operations continued, now ~1 days work. 
-
-2. Agentic, Generative, Automated AI - 
-	- Previously written blog copy in database used in a new way. 
-	- Scenarios more complex involving reviews and decision making. 
-	- Create long before I knew what a 'RAG' was, before term was colloquial. 
-	- Huge database of text and images strategically informed prepared prompts. 
-	- Prompts resulted in entirely new content — this time actual VO to be spoken. 
-	- Used GPT model for initial writing and structure of script. 
-	- Used Claude model for editing adding voice. 
-	- AI reviewed each other's work. 
-	- Automation then pushed to TTS production 
-
-3. Human - Most work of all prior phases. Clips produced edited together in Audition with audio. Visual FX created for Youtube Podcast made in After Effects. Transcript turned into captioning in Premier Pro. 
-
-
-=======
-
----ALL PHASES---
-
-ADMIN FOR ALL CONTENT TYPE
-
-Automation for creation of tracked URLs triggered after Webflow publication every week, adding the fully tracked URLs to the same database that will later be pulled when the automated flow for posting content runs. 
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-1-scaling-ai-content-production.webp
-
----ALL PHASES---
-
-EMAILING AI CONTENT FOR CREATING EMBEDDINGS 
-
-This was primary for sending an Assistant content as it was created so that it could create embeddings and have knowledge of all produced content through all phases as well as performance and brand art. This later allowed the assistant to plan content without creating redundant content, being able to see what worked best, asses why, to replicate copy and voice style, etc. 
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-2-scaling-ai-content-production.webp
-
-
----ALL PHASES---
-
-CREATING WRITTEN CONTENT
-
-Mass of content produced generatively with minimal to no human interaction once prompts were perfected over time. 
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-5-scaling-ai-content-production.webp
-
-
-
----PHASE ONE---
-
-IMAGE PRODUCTION FOR SOCIAL PROMOTIONS
-
-- Produce images (add text, crop, etc.)
-- Vision AI and then generative AI captioning 
-- Automated posting and then recording imagery, copy, URL via embeddings 
-
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-3-scaling-ai-content-production.webp
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-4-scaling-ai-content-production.webp
-
----PHASE TWO---
-
-PULLING VISUAL AND WRITTEN ASSETS FOR API VIDEO PRODUCTION 
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-7-scaling-ai-content-production.webp
-
-SENDING TO API VIDEO PRODUCTION CLOUD BASED SERVICE 
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-9-scaling-ai-content-production.webp
-
----PHASE THREE---
-
-ASTROFLUENCED PODCAST PRODUCTION 
-
-1. The blogs on the website were all automated, producing over 100 a week
-2. We had hundreds of brand art images created each week as well 
-3. Those were published as web content, promoted automatically 
-
-
-PODCAST SCRIPT WRITING
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-8-scaling-ai-content-production.webp
-
-TEXT-TO-SPEECH
-
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-6-scaling-ai-content-production.webp
-
-
---------
-
-PREVIOUS DRAFTS TO EDIT
-
-----
-
-
-Astrofluenced: Pioneering AI-Driven Content Automation
-
-A comprehensive case study in building automated content creation and distribution systems, combining AI, automation tools, and strategic planning to transform traditional marketing approaches.
-
-System Architecture Overview:
-This multi-faceted content automation system handled:
-- 5 distinct horoscope blog categories per zodiac sign
-- Automated social media content generation and distribution
-- Video production pipeline
-- Podcast content management
-- Newsletter automation
-- Dynamic URL tracking
-
-[LAYOUT: Full-width automation flow diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/automations-write-script-newsletter-blog-TTS-script.webp
-Caption: Core content creation and distribution workflow
-
-Content Production Systems:
-
-1. Blog Automation Pipeline:
-- Automated content generation for multiple blog categories
-- Dynamic URL tracking system for analytics
-- Integrated publication workflow with Webflow
-
-[LAYOUT: Full-width automation diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/automation-publish-track-urls.webp
-Caption: Automated URL tracking and analytics system
-
-2. Social Media Content Engine:
-- AI-powered image and text generation
-- Multi-platform distribution (Instagram, Facebook)
-- Automated caption generation using Computer Vision
-
-[LAYOUT: Full-width automation visualization]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/social-image-production-automation-metaphysical-crystal-text-on-image.webp
-Caption: AI-powered social media content generation workflow
-
-3. Video Production System:
-Created a three-tier automation system for video content:
-
-[LAYOUT: Three automation diagrams in sequence]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/automation-media-prep-video-api-production.webp
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/automation-friend-horoscope-video-short-production.webp
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/automation-video-short-production.webp
-Caption: Multi-stage video production automation pipeline
-
-4. Podcast Innovation:
-Developed an early implementation of RAG-style automation for podcast content:
-- 68 Video-Podcasts produced for Season 1
-- Over 800 lifetime views
-- 27 hours of total watch time
-
-[LAYOUT: Full-width analytics graph]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/Astrofluenced%20During%20Show%20Posts.webp
-Caption: Engagement metrics during active show period
-
-[LAYOUT: YouTube thumbnail with link]
-[!["Disconcerting vibrations serve a purpose"](https://img.youtube.com/vi/ubSca_YreJk/0.jpg)](https://www.youtube.com/watch?v=ubSca_YreJk)
-Caption: Example Episode: "Disconcerting vibrations serve a purpose"
-
-5. AI Communication System:
-Implemented automated GPT assistant integration for:
-- Email communication
-- Content planning
-- Workflow management
-
-[LAYOUT: Full-width system diagram]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/astrofluenced-ai-innovation/automated-gpt-assistant-communication-planning-email-relay.webp
-Caption: AI assistant communication system architecture
-
-Project Impact:
-- Reduced content production time by 60%
-- Increased engagement rates by 45%
-- Achieved 130% of Q4 marketing goals
-- Established scalable, repeatable content processes
-- Pioneered early implementation of RAG-style automation
-
-Technical Implementation:
-- Integration of multiple AI services
-- Custom automation workflows in Make/Integromat
-- Database-driven content management
-- Multi-platform content distribution
-- Analytics and tracking systems
-
-Future Implications:
-This project demonstrated the potential for:
-- Scalable content automation
-- AI-driven creative processes
-- Automated multi-platform distribution
-- Early adoption of emerging AI technologies
-- Integration of multiple automation systems
-
-The Astrofluenced project serves as a comprehensive case study in the practical application of AI and automation in content marketing, showcasing the potential for systematic, scalable content production while maintaining quality and engagement.
-
-
-
-
----
-
-
-# Case Study 💎 AI-Driven Marketing Evolution
-
-## Moving from Traditional to Automated Campaigns
-
-## The Challenge
-
-- Transition from traditional marketing methods to AI-driven strategies
-- Need for scalable, efficient content creation and distribution
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2c4abaa4-d8a5-458f-b6f9-e978126a5de1/741fbf7f-a213-44fa-bf6e-7e7874d4eb85/image.png)
-
-## Learning Journey
-
-- Exploration of AI tools and platforms for marketing automation
-- Development of skills in prompt engineering and AI-assisted content creation
-- Integration of AI tools into existing marketing workflows
-
-# Adaptability Case Study Template
-
-# Rapid Adaptation: From Traditional Marketing to AI-Driven Campaigns
-
-## Challenge:
-
-In 2022, our client needed to pivot from traditional marketing to AI-driven campaigns within a 3-month timeframe.
-
-## My Learning Journey:
-
-1. Week 1-2: Intensive study of AI marketing tools (list specific platforms/tools)
-2. Week 3-4: Completed online courses in AI for marketing (mention specific courses)
-3. Week 5-6: Developed and tested pilot AI campaigns
-4. Week 7-8: Analyzed results, refined approach
-5. Week 9-12: Fully implemented AI-driven strategy
-
-## Results:
-
-- Mastered 3 new AI marketing platforms
-- Reduced campaign setup time by 60%
-- Increased engagement rates by 45% compared to traditional methods
-- Client achieved 130% of their Q4 marketing goals
-
-## Key Takeaway:
-
-This experience showcases my ability to rapidly acquire new skills and apply them effectively, turning potential challenges into opportunities for innovation and growth.
-
-## Automation System Setup Process
-
-- Selection and implementation of AI-powered marketing tools
-- Development of custom scripts and integrations for seamless workflow
-- Creation of templates and guidelines for AI-assisted content generation
-
-## Content Automation Showcase
-
-- Examples of AI-generated social media posts, email campaigns, and ad copy
-- Comparison of manual vs. automated content creation processes
-- Demonstration of consistency in brand voice across automated content
-
-## Successful/Viral Content Highlights
-
-- Analysis of top-performing AI-generated content
-- Metrics showcasing reach, engagement, and conversion rates
-- Case studies of viral campaigns powered by AI-driven insights
-
-## Results
-
-- Quantitative improvements in content output, engagement rates, and ROI
-- Qualitative enhancements in content variety and personalization
-- Time and resource savings through automation
-
-## Key Takeaways
-
-- The role of human creativity in guiding AI-driven marketing
-- Balancing automation with authentic brand storytelling
-- Future predictions for AI in marketing and content creation
-
-This case study illustrates the journey from traditional marketing to AI-driven campaigns, showcasing the power of automation while highlighting the continued importance of human insight and creativity. 
-
-
----
-
-
-
-
+# Content Sections
+
+## Section 1: Breaking Through Scale Barriers
+
+Think about creating content for an astrology brand. Now multiply that by 89 - that's how many unique pieces we needed to produce every single week:
+- 7 personalized blog posts for each zodiac sign (84 total)
+- 2 different types of daily readings
+- A 3-part weekly series focused on personal growth
+
+Traditional content creation methods would crumble under this load. We needed something revolutionary - not just automation, but a whole new way of thinking about content creation.
+
+[React Chart Component: scaling-metrics-adjusted -- /Users/seanivore/Development/portfolio-seanivore/assets/entries/scaling-ai-brand/img-chart-scaling-ai-brand.tsx]
+Caption: The evolution of our content system across three phases, showing the exponential growth in automated content production while maintaining consistent quality
+
+## Section 2: Phase One - Building the Foundation
+
+### The Human Touch
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-1-scaling-ai-content-production.webp]
+At the core of our system was human expertise - astrologers providing weekly planetary data and insights. This wasn't about replacing human knowledge, but about amplifying it to reach more people in meaningful ways.
+
+### Generative AI Innovation
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-5-scaling-ai-content-production.webp]
+Our breakthrough came in developing AI systems that could turn astrological data into personalized, meaningful content. This wasn't just about generating text - it was about creating content that could genuinely help people find catalysts for personal growth.
+
+### The Power of Agentic Automation
+[Two-image grid wide]
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-3-scaling-ai-content-production.webp]
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-4-scaling-ai-content-production.webp]
+We faced a crucial realization: with 89 weekly articles, traditional promotional methods would be overwhelming. Our solution? An intelligent system that could:
+- Analyze content to find multiple promotional angles
+- Automatically create varied visual content
+- Schedule posts for optimal engagement
+- Track performance and adapt strategies
+
+## Section 3: Phase Two - The Video Revolution
+
+Beyond Written Content
+[Two-image grid wide]
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-7-scaling-ai-content-production.webp]
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-9-scaling-ai-content-production.webp]
+
+While others were still figuring out basic content automation, we pushed into video. This wasn't just about slapping text on images - we developed systems that could:
+- Transform written insights into engaging video scripts
+- Automatically select and combine visual elements
+- Create multiple video formats for different platforms
+- Maintain consistent branding across all content
+
+## Section 4: Phase Three - Pioneering AI Podcasting
+
+### Early Innovation in Audio Content
+[Two-image grid]
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-8-scaling-ai-content-production.webp]
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-6-scaling-ai-content-production.webp]
+
+Before NotebookLM existed, before RAG became a buzzword, we built something remarkable: an AI-driven podcast system that could:
+- Analyze our vast content database for themes and patterns
+- Generate engaging, natural-sounding scripts
+- Create professional-quality voiceovers
+- Maintain consistent narrative quality across episodes
+
+## Section 5: The Integration Engine
+
+### Bringing It All Together
+[Image: https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-2-scaling-ai-content-production.webp]
+The magic wasn't just in each component - it was in how they worked together. We built an integration system that could:
+- Send new content to an AI assistant for embedding
+- Track performance across all channels
+- Guide future content planning
+- Maintain quality control across the entire operation
+
+## Conclusion
+{.conclusion}
+"While others debate whether AI can transform content creation, we've been doing it for years. This isn't about future possibilities - it's about proven results: 89 weekly pieces of content, hundreds of social promotions, automated video production, and an AI-driven podcast, all created with minimal human oversight while maintaining high quality and engagement."
