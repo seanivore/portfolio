@@ -1,10 +1,14 @@
 POSITION - 37 
 
+Need tile title and summary please too! 
+
+
 CONTENT TILE TITLE
 
 CONTENT TILE SUMMARY 
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-tile-ai-augmented-learning.webp
 
 CONTENT TILE PRIMARY TAGS 
 Technical
@@ -18,11 +22,13 @@ SEO META SUMMARY
 A deep dive into developing a Retrieval-Augmented Generation system for personal knowledge management, integrating insights from AI behavior patterns and human learning processes to create an adaptive, engagement-driven knowledge system.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-thumbnail-ai-augmented-learning.webp
 
 PAGE TITLE
 Building a Personal Knowledge RAG: A Case Study in AI-Augmented Learning
 
 PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-hero-ai-augmented-learning.webp
 
 PAGE SECONDARY TAGS
 RAG Development
@@ -35,56 +41,6 @@ Case Study
 
 
 
-REVIEW TAGS TO MAKE SURE THEY FIT IN NEW SYSTEM AND ORGANIZATION 
-
-### Systems & Architecture
-system-architecture 
-web-development 
-system-integration
-technical-architecture 
-automation 
-infrastructure
-methodology 
-implementation 
-development
-
-### Strategy & Innovation
-business-strategy 
-process-strategy 
-innovation
-risk-assessment 
-strategic-communication
-viral 
-engagement 
-earned-media
-
-### Design & Experience
-ux-ui 
-visual-design 
-product-design
-user-behavior 
-interaction-design
-creative-direction 
-motion-design
-
-### AI & Automation
-ai-development 
-ai-integration 
-ai-research
-agentic 
-generative 
-automation
-machine-learning 
-ai-systems
-
-### Theory & Analysis
-philosophy 
-ethics 
-critical-analysis
-research-methods 
-systems-thinking
-accessibility 
-futurism
 
 
 
@@ -105,7 +61,14 @@ futurism
 
 
 Three images that are artsy to place throughout, all are 'Neo Expressionism Cyberpunk' -- neons, rough drawing, mechanical looking euphoric wild future city. 
+1200x1500px small man in front of huge monolithic mask in glorious colors but somehow foreboding. 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-01-ai-augmented-learning.webp
 
+1200x1200px geometric with pale pinks and yellows, sort of vapor wave colored, but it isn't clear what kind of humanoid entity is in the sharp looking cage around its head, as gloriously colored as it all is. 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-02-ai-augmented-learning.webp
+
+1200x800px neon pink and electric blue futuristic looking great sphinx monument
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-03-ai-augmented-learning.webp
 
 
 
