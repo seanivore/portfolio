@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Case study in systematic optimization of portfolio development, reducing timeline from weeks to hours through strategic design and AI integration.
 
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/portfolio-system-design/img-tile-portfolio-system-design.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/portfolio-system-design/img-tile-portfolio-system-design.webp
 
 CONTENT TILE PRIMARY TAGS 
 Strategy
@@ -21,13 +21,13 @@ SEO META SUMMARY
 Detailed analysis of portfolio development optimization, showcasing systematic approach to reducing development time by 95% while maintaining quality. Demonstrates strategic planning, AI integration, and modern development practices through practical implementation.
 
 SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/portfolio-system-design/img-thumbnail-portfolio-system-design.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/portfolio-system-design/img-thumbnail-portfolio-system-design.webp
 
 PAGE TITLE
 Portfolio Development Strategy: A Case Study in System Design and AI Integration
 
 PAGE HERO IMAGE - 1200px square 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/portfolio-system-design/img-hero-portfolio-system-design.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/portfolio-system-design/img-hero-portfolio-system-design.webp
 
 PAGE SECONDARY TAGS
 Process Design
@@ -44,8 +44,8 @@ Case Study
 
 The challenge of portfolio development typically presents a classic trade-off between quality and speed. Traditional approaches often require weeks of development time, multiple revision cycles, and significant maintenance overhead. This case study presents a systematic approach that leverages modern tools and AI integration to transform this process.
 
-[Process Diagram - Shows complete development workflow - mermaid file]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/portfolio-system-design/img-chart-portfolio-system-design.mermaid
+[Process Diagram - Shows complete development workflow - mermaid file- already very vertical]
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/portfolio-system-design/img-chart-portfolio-system-design.mermaid
 CAPTION: Complete development workflow process
 
 ## System Architecture Design
@@ -96,7 +96,7 @@ The system was designed from the ground up to work effectively with AI assistanc
    - Error recovery procedures
 
 [single image tile with max width 800px; 800x533px; Alt: Geometric abstract structures] 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/portfolio-system-design/img-1-portfolio-system-design.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/portfolio-system-design/img-1-portfolio-system-design.webp
 
 ## Implementation Metrics
 
@@ -161,7 +161,7 @@ The development process was structured in three main phases:
    - Growth capacity
 
 [single image tile with max width 800px; 800x533px; Alt: Geometric abstract structures] 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/portfolio-system-design/img-2-portfolio-system-design.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/portfolio-system-design/img-2-portfolio-system-design.webp
 
 ## Industry Context
 
