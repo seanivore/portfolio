@@ -44,11 +44,9 @@
                      style="display: none;">
             </article>
         </div>
-
-        <div class="content-wrap">
-            <p class="project-summary">An in-depth analysis of strategic MVP development methodology, focusing on project selection and prioritization in rapidly evolving AI landscapes.</p>
-        </div>
-
+    </section>
+        
+    <section class="section">
         <div class="content-wrap-narrow">
             <div class="tags-section">
                 <div class="tag-group">
@@ -68,19 +66,13 @@
         </div>
     </section>
 
-    <!-- Project Overview Section -->
-    <section class="section">
-        <div class="content-wrap">
-            <h2>Project Overview</h2>
-            <p>This case study examines the strategic approach to MVP development in an era where AI capabilities are rapidly evolving. It focuses on the methodology for selecting and prioritizing projects that maintain relevance despite rapid technological advancement.</p>
-        </div>
-    </section>
-
     <!-- Strategic Framework Section -->
     <section class="section">
         <div class="content-wrap">
             <h2>Strategic Framework</h2>
             <h3>Project Evaluation Criteria</h3>
+        </div>
+        <div class="content-wrap-narrow"
             <ul>
                 <li>Implementation complexity</li>
                 <li>Longevity potential</li>
@@ -93,6 +85,8 @@
 
         <div class="content-wrap">
             <h3>Project Classification System</h3>
+        </div>
+        <div class="content-wrap-narrow"
             <ul>
                 <li>Easy Implementation: 1-2 month timeline</li>
                 <li>Moderate Complexity: 2-4 month timeline</li>
@@ -110,16 +104,19 @@
 
     <!-- Project Portfolio Analysis Section -->
     <section class="section">
-        <div class="content-wrap">
-            <h2>Project Portfolio Analysis</h2>
-        </div>
-
         <div class="content-wrap-wide">
+            <h2>Project Portfolio Analysis</h2>
             <div class="card">
-                <div id="mvp-analysis" data-chart="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-mvp-development/chart-1-ai-mvp-development.tsx" class="h-96"></div>
+                <div data-chart="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-mvp-development/chart-1-ai-mvp-development.tsx"
+                     data-type="bar"
+                     data-title="MVP Project Complexity Analysis"></div>
+                <div class="mt-8">
+                    <!-- The table component will be rendered here -->
+                </div>
             </div>
         </div>
-
+    </section>
+    <section class="section">
         <div class="content-wrap">
             <h3>Easy Implementation Projects</h3>
             <div class="card">
@@ -400,6 +397,6 @@
     <!-- Scripts -->
     <script src="../assets/js/parallax.js" defer></script>
     <script src="../assets/js/related-projects.js"></script>
-    <script src="../assets/js/mobile-charts.js"></script>
+    <script src="../assets/js/charts.js"></script>
 </body>
 </html>
