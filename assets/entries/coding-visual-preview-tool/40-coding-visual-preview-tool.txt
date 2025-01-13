@@ -1,0 +1,110 @@
+POSITION - 40
+
+CONTENT TILE TITLE
+
+CONTENT TILE SUMMARY 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+CONTENT TILE PRIMARY TAGS 
+
+SEO META TITLE 
+
+SEO META SUMMARY 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+PAGE TITLE
+
+PAGE HERO IMAGE - 1200px square 
+
+PAGE SECONDARY TAGS
+
+
+coding-visual-preview-tool
+
+---
+
+Building a Local File Preview MCP Server for Claude
+Overview
+In under an hour and for just $3.03 in API costs, we developed a custom Model Context Protocol (MCP) server that enables Claude to preview and analyze local HTML files. This tool bridges a critical gap in Claude's capabilities, allowing it to visually inspect web pages it helps create.
+
+Development Approach
+The development process followed a systematic path:
+
+Core Implementation
+
+Built on the MCP SDK for standardized communication
+Integrated Puppeteer for headless browser control
+Implemented file system operations for local access
+Feature Development
+
+Screenshot capture with full CSS styling
+HTML structure analysis
+Local file path handling
+Screenshot management system
+Technical Challenges & Solutions
+Challenge 1: Local Resource Access
+Initially, we faced issues with CSS file loading when using file:// URLs. The solution involved:
+
+Reading CSS files directly from the filesystem
+Injecting styles programmatically using Puppeteer's page.addStyleTag
+Handling relative paths for resources
+Challenge 2: Environment Integration
+We encountered path resolution issues with __dirname in ES modules. We resolved this by:
+
+Implementing absolute path handling
+Creating a dedicated screenshots directory
+Ensuring proper file system permissions
+Results
+The final implementation provides:
+
+Full-page screenshots of HTML files with proper styling
+Detailed HTML structure analysis
+Seamless integration with Claude OS and Cline
+Open-source availability for community use
+Impact
+This tool significantly enhances Claude's web development capabilities:
+
+Direct visual feedback on HTML changes
+Automated structure analysis
+Local file preview without external servers
+Improved development workflow efficiency
+Time & Cost Efficiency
+Development Time: Under 1 hour
+Total Cost: $3.03
+Result: A fully functional MCP server that extends Claude's capabilities
+The project demonstrates how quickly and cost-effectively custom tools can be developed to enhance AI capabilities, particularly in local development scenarios.
+
+---
+
+The MCP File Preview Server is now complete and available on GitHub at 
+https://github.com/seanivore/mcp-file-preview
+
+Key accomplishments:
+
+Created a fully functional MCP server that:
+
+Captures full-page screenshots of HTML files
+Analyzes HTML structure
+Handles local file paths and CSS
+Saves screenshots to a dedicated directory
+Set up in both environments:
+
+Claude OS config
+Cline VSCode extension
+Full project structure with:
+
+TypeScript implementation
+Comprehensive documentation
+MIT License
+Contributing guidelines
+Proper .gitignore
+Others can now:
+
+Clone the repository
+Follow the README instructions to set up
+Use it in their Claude OS or Cline environments
+Contribute improvements following the guidelines
+The server is ready for use and open for community contributions!
+

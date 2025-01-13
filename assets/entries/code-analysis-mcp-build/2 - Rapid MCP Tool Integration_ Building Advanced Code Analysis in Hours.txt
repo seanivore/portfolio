@@ -1,0 +1,269 @@
+﻿Dec 1, 2024
+A couple of hours of coding to create a code analysis tool using Anthropic's Model Context Protocol.
+Rapid MCP Tool Integration: Building Advanced Code Analysis in Hours
+Learn how we built a powerful code analysis tool using Anthropic's Model Context Protocol (MCP) in just hours. See how MCP enables seamless integration between Claude and development tools, showcasing rapid implementation of AI-powered code analysis. Includes implementation details, code samples, and architectural decisions.
+Overview
+Rapidly implemented a suite of integrated tools using Anthropic's Model Context Protocol (MCP), focusing on advanced code analysis capabilities. The project demonstrates the ability to quickly adopt and implement new technologies while delivering practical, production-ready solutions.
+Technical Implementation
+Core Components
+* Code Analysis Tool
+   * Built on MCP's standardized protocol
+   * Implements deep code parsing and understanding
+   * Provides contextual analysis and recommendations
+   * Integrates with existing development workflows
+* Supporting Tools
+   * Web Search Integration
+   * GitHub Repository Access
+   * File System Operations
+   * Memory Management
+Key Features
+* Real-time code analysis
+* Context-aware suggestions
+* Integration with multiple data sources
+* Extensible architecture
+Development Process
+Timeline (~5 hours)
+* Day 1 (Hours 1-2): Initial MCP setup and tool integration
+* Day 1 (Hours 2-3): Code analysis implementation
+* Day 1 (Hours 3-5): Testing and refinement
+Technical Decisions
+* Protocol Choice
+   * Selected MCP for standardization and future-proofing
+   * Leverages Anthropic's ecosystem
+   * Enables seamless tool integration
+* Architecture
+   * Clean separation of concerns
+   * Modular tool implementation
+   * Extensible design for future additions
+Technical Highlights
+Tool Implementation Guide
+# MCP Code Analyzer
+
+
+A Model Context Protocol server that analyzes Python code for:
+- Code structure (functions, classes, methods)
+- Code complexity (cyclomatic complexity, decision points)
+- Dependencies (imports)
+
+
+## Installation
+
+
+```bash
+# Create and activate a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+.\venv\Scripts\activate  # On Windows
+
+
+# Install the package
+pip install mcp-code-analyzer
+```
+
+
+## Usage with Claude
+
+
+Add to your `claude_desktop_config.json`:
+
+
+```json
+"code-analyzer": {
+ "command": "npx",
+ "args": [
+   "-y",
+   "@modelcontextprotocol/server-code-analyzer",
+   "/path/to/allowed/directory"  # e.g., "/Users/username/Projects"
+ ]
+}
+```
+
+
+## Features
+
+
+Supports three types of analysis:
+1. `structure` - Lists all functions, classes, and methods
+2. `complexity` - Calculates cyclomatic complexity and code metrics
+3. `dependencies` - Shows all module imports and dependencies
+
+
+## Example Usage
+
+
+Ask Claude questions like:
+- "Analyze the complexity of file.py"
+- "Show me the structure of file.py"
+- "What dependencies does file.py use?"
+Integration Architecture Plan
+graph TD
+   A[Client Request] -->|MCP Protocol| B[Tool Manager]
+   B --> C[Code Analysis]
+   B --> D[Web Search]
+   B --> E[GitHub Access]
+   C --> F[Analysis Results]
+   D --> F
+   E --> F
+   F -->|MCP Response| G[Client]
+Results and Impact
+Performance Metrics
+* Implementation completed in under 6 hours
+* Handles complex code analysis tasks
+* Seamlessly integrates multiple data sources
+* Production-ready implementation
+Key Achievements
+* Rapid adoption of new technology (MCP)
+* Creation of production-quality code analysis
+* Clean, maintainable implementation
+* Extensible architecture for future growth
+Code Usage Example from Testing
+Could you analyze the complexity of this file: /Users/seanivore/Projects/mcp-code-analyzer/src/mcp_code_analyzer/server.py
+I'll help you analyze the complexity of that Python file. Let me read it first.
+View Result from read_file from filesystem (local)
+Let me analyze this Python file in detail. It's a code analyzer server that performs static analysis on Python code. I'll break down its complexity across several dimensions:
+* Structural Complexity:
+* The file defines one main class CodeAnalyzerServer with 8 methods
+* The codebase is well-organized with clear separation of concerns between different types of analysis
+* Contains an async main function and standard if __name__ == "__main__" entry point
+* Cyclomatic Complexity:
+* Most methods have relatively low cyclomatic complexity
+* The most complex methods are:
+   * _analyze_complexity(): Moderate complexity with multiple nested loops and conditions
+   * analyze_file(): Low-moderate complexity with multiple conditionals for different analysis types
+   * _analyze_structure(): Low complexity despite handling multiple node types
+* Code Quality Metrics:
+* Good separation of concerns with private methods prefixed with underscore
+* Clear error handling with try-catch blocks
+* Type hints are used consistently throughout the code
+* Clear documentation in docstrings and comments
+* Consistent code style following Python conventions
+* Notable Design Patterns:
+* Uses the Command pattern with different analysis types
+* Implements an async communication protocol for stdin/stdout
+* Utilizes the AST (Abstract Syntax Tree) visitor pattern for code analysis
+* Factory-like method pattern for different types of analysis
+* Areas of Potential Improvement:
+* The error handling could be more specific (currently catches generic Exception)
+* Some methods like _analyze_complexity could be split into smaller functions
+* Could benefit from more input validation
+* The dependency analysis is relatively simple and could be expanded
+* Technical Metrics:
+* Approximately 200 lines of code (excluding whitespace and comments)
+* Uses standard library modules (ast, json, sys, typing, pathlib)
+* No external dependencies required
+* All methods are reasonably sized, with none being excessively long
+* Key Features:
+* Structure analysis (functions, classes, methods)
+* Complexity analysis (cyclomatic complexity, decision points)
+* Dependency analysis (imports and module usage)
+* Async I/O handling
+* JSON-based communication protocol
+The code is generally well-written and maintainable, with a good balance between functionality and complexity. The main complexity concentrations are in the analysis methods, which is appropriate given their purpose. The cyclomatic complexity is kept in check through good method separation and clear control flow.
+Would you like me to dive deeper into any particular aspect of this analysis?
+What dependencies does server.py use?
+Let me analyze the dependencies in server.py:
+View Result from search_nodes from memory (local)
+Looking at the code, server.py uses only Python standard library dependencies:
+Built-in modules:
+* ast: For parsing and analyzing Python code's Abstract Syntax Tree
+* json: For handling JSON serialization/deserialization in communication
+* sys: For stdin/stdout handling and error output
+* typing: For type hints (importing Any, Dict, List, Set)
+* pathlib: For file path handling (importing Path)
+* asyncio: For async/await functionality (imported in the main block)
+The file is quite self-contained and doesn't rely on any external third-party packages or libraries. This makes it very portable and easy to deploy since it only requires a standard Python installation to run.
+Would you like me to explain how any of these dependencies are being used in more detail?
+Technical Skills Demonstrated
+Languages & Technologies
+* TypeScript/JavaScript
+* Python
+* MCP Protocol
+* Git/GitHub
+Concepts & Patterns
+* Protocol Implementation
+* Tool Integration
+* Code Analysis
+* API Design
+Future Enhancements
+* Additional analysis capabilities
+* Enhanced GitHub integration
+* Project management features
+* Extended memory capabilities
+Code Samples
+Snippet of Analyzer
+#!/usr/bin/env node
+
+
+const { spawn } = require('child_process');
+const path = require('path');
+
+
+console.error('Debug: Starting Python MCP server...');
+
+
+// Get the full path to the Python module
+const pythonPath = process.env.VIRTUAL_ENV
+   ? path.join(process.env.VIRTUAL_ENV, 'bin', 'python')
+   : 'python';
+
+
+console.error('Debug: Using Python path:', pythonPath);
+
+
+// Launch the Python MCP server
+const pythonProcess = spawn(pythonPath, ['-m', 'mcp_code_analyzer.server'], {
+   stdio: ['pipe', 'pipe', 'pipe'],
+   env: { ...process.env, PYTHONUNBUFFERED: '1' }
+});
+
+
+// Handle Python process stdout
+pythonProcess.stdout.on('data', (data) => {
+   console.log(data.toString());
+});
+Claude Desktop Configuration
+{
+ "mcpServers": {
+   "brave-search": {
+     "command": "npx",
+     "args": [
+       "-y",
+       "@modelcontextprotocol/server-brave-search"
+     ],
+     "env": {
+       "BRAVE_API_KEY": "your-brave-api-key"
+     }
+   },
+   "filesystem": {
+     "command": "npx",
+     "args": [
+       "-y",
+       "@modelcontextprotocol/server-filesystem",
+       "/Users/seanivore/Desktop",
+       "/Users/seanivore/Projects"
+     ]
+   },
+   "memory": {
+     "command": "npx",
+     "args": [
+       "-y",
+       "@modelcontextprotocol/server-memory"
+     ]
+   },
+   "code-analyzer": {
+     "command": "npx",
+     "args": [
+       "-y",
+       "@modelcontextprotocol/server-code-analyzer",
+       "/Users/seanivore/Projects"
+     ]
+   }
+ }
+}
+Learning Outcomes
+* Rapid adoption of new protocols
+* Effective tool integration
+* Clean architecture implementation
+* Production-ready development
+Conclusion
+This project demonstrates the ability to quickly adopt new technologies while maintaining high code quality and creating practical solutions. The implementation showcases both technical expertise and efficient development practices.
