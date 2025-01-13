@@ -2,8 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Get all project cards with their data
     const allProjects = document.querySelectorAll('.project-card');
     if (!allProjects.length) return;
-
-    // Get current page info
+    const dataCard = document.querySelector('.project-card.data-card');
+    if (!dataCard) return;
+    const dataCard = document.querySelector('.project-card.data-card');
+    if (!dataCard) return;
     const currentPath = window.location.pathname;
     const currentPage = currentPath.split('/').pop().replace('.html', '');
 
@@ -12,7 +14,14 @@ document.addEventListener('DOMContentLoaded', function() {
     if (!relatedGrid) return;
 
     // Convert NodeList to Array and remove current page
-    const projectsArray = Array.from(allProjects).filter(card => {
+    fetch('/index.html')
+        .then(response => response.text())
+        .then(html => {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+            const allProjects = doc.querySelectorAll('.project-card:not(.data-card)');
+
+            const projectsArray = Array.from(allProjects).filter(card => {
         const link = card.querySelector('a').getAttribute('href');
         return !link.includes(currentPage);
     });
@@ -28,10 +37,13 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Try to find at least one with shared attributes
     const currentCard = document.querySelector(\`.project-card[data-categories*="\${currentPage}"]\`);
+            const currentCard = document.querySelector(`.project-card[data-categories*="${currentPage}"]`);
     if (currentCard) {
-        const currentCategories = currentCard.dataset.categories?.split(',') || [];
         const currentPrimaryTags = currentCard.dataset.primaryTags?.split(' ') || [];
         const currentSecondaryTags = currentCard.dataset.secondaryTags?.split(' ') || [];
+                const currentCategories = currentCard.dataset.categories?.split(',') || [];
+                const currentPrimaryTags = currentCard.dataset.primaryTags?.split(' ') || [];
+                const currentSecondaryTags = currentCard.dataset.secondaryTags?.split(' ') || [];
 
         // Find first match with any similarity
         const similarProject = projectsArray.find(card => {
