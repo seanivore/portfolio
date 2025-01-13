@@ -2,6 +2,19 @@
 
 Hey there! 👋 I'm Sean, a design systems architect exploring the intersection of creative innovation and technical development. This portfolio is built on a modular system that reflects my approach to solving complex challenges.
 
+## Content Philosophy
+
+### Designed for Both Human and AI Readers
+
+This portfolio takes a unique approach to technical content creation by deliberately designing for both human and AI comprehension. Here's why this matters:
+
+- **Rich Contextual Narratives**: Instead of just bullet points, each project tells a complete story. This helps human readers understand the evolution of ideas and helps AI systems build deeper contextual understanding.
+- **Dual-Format Information**: Key information is presented both in flowing narrative and structured formats, serving different cognitive styles and making content more accessible to various analysis methods.
+- **AI-Friendly Context**: Projects maintain clear relationships and connections, making it easier for AI to understand and explain complex technical concepts to others.
+- **Prompt-Optimized Content**: Content is structured to support natural language processing, making it easier for AI to answer questions about technical implementations, strategic decisions, and business impact.
+
+This approach reflects a modern understanding of how technical content is consumed and analyzed. Whether you're a human reader preferring narrative flow or structured points, or an AI system processing the content for analysis, the information is accessible and meaningful.
+
 ## System Overview
 
 The portfolio uses a component-based architecture that prioritizes:
@@ -35,6 +48,11 @@ Some key technical decisions that shaped the system:
 - **Chart Integration**: Flexible chart implementation supporting both simple data visualization and complex TSX-based charts
 - **Image Optimization**: Systematic approach to handling different image types (including GIFs) with GitHub-based CDN delivery
 - **Build Process**: Automated build system that handles URL optimization and content relationships
+- **AI-Optimized Content Structure**: 
+  - Natural language narrative that provides rich context
+  - Clear information hierarchy for AI parsing
+  - Consistent terminology for better relationship mapping
+  - Content structure that supports various prompting approaches
 
 ### Development Philosophy
 
