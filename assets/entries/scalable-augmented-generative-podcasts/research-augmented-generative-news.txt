@@ -1,85 +1,0 @@
-POSITION - 36 
-
-CONTENT TILE TITLE
-
-CONTENT TILE SUMMARY 
-
-CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
-
-CONTENT TILE PRIMARY TAGS 
-
-SEO META TITLE 
-
-SEO META SUMMARY 
-
-SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
-PAGE TITLE
-
-PAGE HERO IMAGE - 1200px square 
-
-PAGE SECONDARY TAGS
-
-----
-
-research-augmented-generative-news
-
-----
-
-[Flow Chart Automation with Text — Automated Podcast Research
-API automations prompted Perplexity to email human the top news every week across all 20-some topics. These emails included briefings from the Al, bullet points, and even suggested content framing ideation.]
-img-01-research-augmented-generative-news.webp
-
-
-[Flow Chart Automation with Text — Managing Sources]
-img-02-research-augmented-generative-news.webp
-
-[Flow Chart Automation with Text — Research Augmented Debate Podcast
-Script Writing Automation]img-03-research-augmented-generative-news.webp
-
-[Flow Chart Automation with Text — Character "Theodore' VO Interjections Production Theo broke down complex points, making podcasts more accessible. His character was a hipster with ADHD and sort of jaded - this broke up the podcast's monotony making it better optimized for social media.]img-04-research-augmented-generative-news.webp
-
-[Flow Chart Automation with Text — Al Generative Blog Production
-Pulling from podcast transcript, supporting documents, briefing, and FAQs]img-05-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'Trading Bots Making Unethical Trades']img-06-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'Here's how you can use Al to make money trading.']img-07-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'AI AGENTS WILL BECOME THE ARCHITECTS OF WEB3 WTF IS THE DIFFERENCE BETWEN CRYPTO AND TOKENS?']img-08-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'Nutella Ad Campaign Used Al &SOLD OUT Designers expected to know Al generative tools.'] img-09-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'Here's how Al has already created jobs in art industries. Meanwhile Al directed a Lexus car commercial.']img-10-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'You've already heard music made by an Al HOW AI LEARNED TO MAKE MUSIC']img-11-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'AI LEARNING MUSIC ISN'T BREAKING COPYRIGHT'] img-12-research-augmented-generative-news.webp
-
-[Youtube Thumbnail - 'The tech behind Sam Altman's dystopian iris-scanning orb. AND WHY YOU'LL END UP USING IT']img-13-research-augmented-generative-news.webp
-
-[Image with manifesto text: A.S. Daily Polytechnic Briefings
-We live in an era of consolidating centralization; as Artificial Intelligence increasingly brings value to the product and not the producer, ASD's Polytechnic Briefings is strategically positioned to disrupt the status quo.
-We call for a movement: escaping our silos and turning their walled gardens into botanical urban splendor. We place technological knowledge into the hands of those it directly influences - out of the academic ivory and into the minds and hearts of global citizens. Like the great storytellers before us, we weave technically complex concepts into engaging dialogue, cultivating a culture of cross-disciplinary curiosity and connection.
-Extraordinary. There is no other word for the progress unfolding across all disciplines right now.
-You live in the most enlightening period of human history, yet towers and golden stairways through skyscrapers lay vacant beside vagrants, throwing shade into the very essence of your being. While crisis-focused media fixates on carefully crafted headlines designed to divide, we shine a solar maximum on humanity's ingenuity born from the womb of the hopeful.
-We wield words that decentralize the post neo-libertarian corporate conglomerates that coagulate what belongs to the people. Technology will be ours. We build bridges, connecting cultures with knowledge and smiling eyes.
-Don't underestimate yourself - knowledge is power. Our weekly synthesis of 100+ science and breaking news articles across 20 industries, consumed in an hour a day, will challenge their isolation of expertise. Together, we nurture collaborative innovation and craft the world our children desire.] img-14-research-augmented-generative-news.webp
-
-[Screenshot of Youtube Podcast Channel] img-15-research-augmented-generative-news.webp
-
-[Screenshot of Youtube Podcast Channel's Playlists which represent the various topics covered weekly] img-16-research-augmented-generative-news.webp
-
-[Youtube graph with text 'Premiered October 2, 2024 One Month - 14,760 views & 150.3 watch hours'] img-17-research-augmented-generative-news.webp
-
-[GIF clip of an episode with subtitles saying that human-centric jobs will still be valued in the arts] img-gif-1-research-augmented-generative-news.gif
-
-[GIF clip of an episode with subtitles saying that an AI will know exactly when you're going to cave and spend more money on an overpriced latte] img-gif-2-research-augmented-generative-news.gif
-
-[GIF clip of an episode with subtitles saying that an AI isn't just coming for your job, it already has its digital fingers in your wallet] img-gif-3-research-augmented-generative-news.gif
-
-[GRAPHS TO PULL METRICS FROM] 
-/Users/seanivore/Development/portfolio-2025/workspace-to-be-deleted/assets/research-augmented-generative-news/xGraphs-to-graph-metrics
-
-[Audio clips of manifesto and of hosts talking about the channel in context of manifesto — to use a embedded playable audio on page if possible] 
-/Users/seanivore/Development/portfolio-2025/workspace-to-be-deleted/assets/research-augmented-generative-news/xManifesto-audio-clips 
