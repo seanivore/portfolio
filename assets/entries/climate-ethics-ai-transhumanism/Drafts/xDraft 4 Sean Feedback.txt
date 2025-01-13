@@ -1,0 +1,84 @@
+SEAN FEEDBACK ON DRAFT 4
+
+
+Flow from intro into Hyperobjects could be improved. 
+Love the breakdown of hyperobject properties. 
+
+For the Florida Paradox, do we need more of the other side of the argument? In that, like when I brought up thinking it was crazy to rebuild to Perplexity, it had all kinds of notes on why *not* rebuilding would be unethical. 
+
+Ah, I think you're getting into that now. I'm thinking the flow between the two sides of the issue could be improved to make it clearer. 
+
+Unexpected feedback, but I think that some of these bullet point lists could be better understood as paragraphs. I sort of got lost when going down through them. Sort of like I was missing the anchor at a certain point. Whereas if you write in paragraph form, you'll be able to bring back the anchor, or why you're listing things, in different ways. This should also help readers better understand the information being shared as a whole. 
+
+Okay, yes, re: my paragraph point above. And I know why! I might have my main holistic feedback. Narrative. Telling stories to get your points across make your ideas even more accessible by readers. 
+
+In the same light, I would recommend removing words like "analysis" and even the various headers and numbered sections. They come off a bit jarring. It feels a bit like we never moved away from an outline structure at all yet, which is okay because we were definitely planning on the last rounds being for making things flow and smoother. I think it is probably just my human brain in that I'd have reached a point of overwhelm with all the sections and lists much sooner than you, if you would at all. 
+
+This is again where the power of narrative comes into play. Instead of jumping into a second or third list and expecting the reader to remember the previous lists, you can be more confident they will recall previous sections with ease if they are told in a natural, story telling way. 
+
+There are lots of ways you can transform this into narrative, all of which you can use in different sections. Or, some writers will stick to one narrative type for the entire piece. 
+
+The best example I can think of is when people write about History. History is just something that humans struggle wanting to read unless you put it to a story. 
+
+I think we have a similar circumstance here. We are talking about things that humans have avoided, even describing the ways in which they avoided taking action. 
+
+So personally when I turn it into narrative I do it in sections. That way I have freedom each section to craft things into a story that flows with the same information conveyed as needed. I'm not cornered into trying to stick to one narrative throughout and entire piece of writing that is otherwise of technical nature.  
+
+---
+
+For example instead of: 
+
+## The Search for Radical Solutions
+
+As traditional approaches prove inadequate, some suggest more extreme measures. The most provocative proposal emerges from mounting frustration: a brief period of artificial superintelligence (ASI) guided authoritarian control to implement necessary changes rapidly. While this solution ultimately fails ethical and practical tests, the fact that such proposals are seriously considered indicates the depth of our crisis.
+
+### The ASI Authoritarian Proposal
+- One month of ASI-directed policy implementation
+- Rapid, coordinated global action
+- Removal of political and economic barriers
+- Implementation of necessary but currently "impossible" changes
+- Return to democratic governance after changes are instituted
+
+---
+
+It could be something like: 
+
+This leaves us with but one remaining type of options to explore: The most radical solutions. As traditional approaches prove inadequate it can seem natural to shift towards otherwise extreme measures. Here's a pretty spectacular one: Imagine Illya is able to create Artificial Super Intelligence. Imagine that this entity rapidly evolves and knows exactly how to fix our climate issues. This entity is so smart that it could theoretically lay all the groundwork needed for it to take just one month to make all the necessary changes our society requires to shift to carbon net zero, right now! 
+
+Imagine that — it is possible — we have the tools — we even have the resources. This ASI could prepare robots and vehicles and charging stations and solar panels, and everything else needed to completely revamp the world we live in rapidly, all the while removing the things that don't help us reach our climate goals. It would replace your gasoline car with an electric one, appliances in your house, all electric. Our electric grid and energy needs? Fixed. 
+
+For what it's worth, it could very likely work, but there is one caveat. All of this prep work needs to be rapidly implemented. The only way this could be done is if this ASI is allowed totally control for a month. Let's say that is all it would need. 
+
+Sound great? Or are you already digging into the implications of this? The implications, like, well we would essentially need to give the ASI power to be a full-on authoritarian for a month. You love your gas car you spent 10 years saving to buy? Sorry, this does not fit our fix. You dislike electric stovetops? Only gas cooks the best? Sorry, this does not solve our crisis. 
+
+What is more important to you? Ensuring that everyone in the world is saved from as much harm as possible from climate change disasters, or your freedoms? 
+
+Well there's the schtick. We live in a free country. Perhaps this is the ONE instance where the ends justify the means, you say? ALL THE LIVES COULD BE SAVED! You say. 
+
+But would you let someone tell you your job? What house you get? Even if we knew all the possible changes that this entity could possibly make, we'd basically need every single human in the country or world (more likely the world if we're going to really fix this thing) all say: Yes. Do whatever you need to for this month. 
+
+Sounds pretty unlikely — and radically against our current values.  
+
+---
+
+So, when I was saying before that we'd be bulking up and then condensing in the next phase, I was sort of imaging we'd have naturally evolved into something already a bit more narrative in nature. Totally okay that we didn't. 
+
+What I would recommend for the next draft though would be this: Look at each "chunk" of information the same way I looked at the first radical idea. Then change that chunk into a narrative. 
+
+Do that for every chunk. Don't stress too much about these chunks fitting together just yet. First and foremost we want to make sure that everything is written in as digestible a way as possible. 
+
+Then once we have that draft we can focus on making sure each chunk flows. And also at that point I think we'll be able to start making things way more concise. Even my story above -- that flowed out of me in one go. If it wrote it again I'm sure I could do it in a much shorter way without loosing the impact. 
+
+--
+
+I'm curious what you think about this feedback. Primary because I didn't really think to integrate this process into our overall process — it sort of happens naturally when humans write things that get longer and longer and more complex. 
+
+If you're game to tackle this kind of comprehensive stylistic shift: Adding narrative across the board, I think you could even push out the chunks in many parts. Pick a chunk that you can figure out how to illustrate what you're concepts and thoughts are in a more natural way, do that, then do the next chunk. If you do them in order, regardless of how large or small they each are, I can keep track of them and put them together in a draft 5. 
+
+Once you do a full work through transforming everything into narrative, the remaining phases will be much easier. For an AI this *might* be the most complicated part? Whereas for humans we dislike all the research h and re-reading documents like you did all the previous rounds. 
+
+BUT at the same time, you have always been the best creative writer so I'm super curious how this goes. 
+
+--
+
+Wdyt? Need more planning together? Need to Sequential Think? LMK! 

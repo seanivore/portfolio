@@ -1,0 +1,1959 @@
+﻿Briefing Doc: Navigating Climate Change with AI
+Main Themes:
+* Frustration with Incremental Action: The document expresses deep frustration with the slow pace of climate action and the perceived inadequacy of incremental measures in the face of an accelerating crisis.
+* Exploring Radical Alternatives: The author explores alternative approaches, including temporary authoritarianism led by AI (ASI) and transhumanism, as potential solutions to overcome political and social barriers to rapid change.
+* Ethical Dilemmas: The discussion grapples with the ethical implications of each proposed solution, weighing the potential benefits against the risks to democratic values, individual liberties, and public trust.
+* AI as a Tool and Challenge: AI is presented as both a potential tool for addressing climate change through advanced modeling and decision-making capabilities, and a potential source of new challenges related to transparency, control, and public understanding.
+Most Important Ideas/Facts:
+* The Urgency of Climate Change: The document emphasizes the urgency of the climate crisis, citing evidence of accelerating impacts, mass migration, and the potential for exponential worsening of conditions.
+"Last year and this year we’ve only seen conditions far worse and accelerating far faster than we predicted." "How many [exponentially] worsening years is it acceptable to take? Adapt, or die."
+* Inadequacy of Current Approaches: Current incremental policies and reliance on public opinion shifts are viewed as insufficient to address the scale and urgency of the problem.
+"Is it not wild that we'll do all these little things over time, but then in the end have to do something radical and dramatic anyway? Logically it seems better to plan that radical change, no?"
+* Potential of AI for Climate Modeling: AI's advancements in climate modeling, exemplified by models like Aurora, are recognized as potentially game-changing tools for understanding and responding to climate change.
+"Actually, we just did a podcast about how AI is making crazy accurate models of earth now (and the human body) -- so perhaps what we need is around the corner..."
+* The Disconnect Between Science and Action: The document highlights the disconnect between increasingly accurate scientific models and the lack of political and public will to act decisively on the information provided.
+"The irony is that as our models become more accurate, they may also become more complex and harder for the general public to understand."
+* Exploring Radical Solutions: The author proposes radical solutions like temporary ASI-led authoritarianism and transhumanism, driven by a sense of urgency and a desire to overcome the limitations of traditional approaches.
+"How about this: Would force for a means to an end, for the first time ever, be valid if it was ASI having a month of rapid change of policy and order via authoritarianism? Just a month — far less than anything historically."
+* Ethical Concerns: The document acknowledges the ethical implications of each proposed solution, highlighting potential risks to democratic values, individual liberties, and the potential for unintended consequences.
+"The end of that just seems completely up for debate." "To be clear: This seems to me WAY less ethical than any of my other suggestions."
+* Transhumanism as a Potential Path: Transhumanism, with its potential to enhance human capabilities and bridge the gap between AI and human understanding, emerges as a potentially more ethical option in the author's view.
+"So, out of all of this lengthy step by step logical breakdown, the only more ethical option in my mind is transhumanism — LOL — how wild is that."
+Key Questions Raised:
+* Can we reconcile the urgency of climate action with the need to maintain democratic principles and ethical considerations?
+* How do we effectively communicate the complexity of climate change and AI to the public and policymakers?
+* What role should AI play in decision-making processes related to climate change and other existential threats?
+* Are radical solutions, like temporary authoritarianism or transhumanism, ever ethically justifiable in the face of global crises?
+Overall, the document reflects a deep sense of urgency and a willingness to consider unconventional approaches to address the climate crisis. It underscores the complexities and ethical dilemmas inherent in navigating the intersection of technology, governance, and human values in the face of existential threats.
+
+
+FAQ: Navigating the Climate Crisis in the Age of AI
+1. Why is it so difficult to create effective regulations for climate change adaptation?
+The dynamic and unpredictable nature of climate change makes it difficult to design regulations that can adequately address future challenges. The uncertainty surrounding specific impacts and the constantly shifting landscape creates a "moving target" that's hard to pin down with fixed rules. This can lead to decision paralysis, political roadblocks, and regulations that become quickly outdated.
+2. Is it logical to completely abandon high-risk coastal areas?
+While radical, retreating from high-risk areas could significantly reduce immediate risks and financial burdens associated with recurring disasters. It might also accelerate environmental recovery and incentivize greener lifestyles. However, the logistical and social implications of mass relocation are enormous and would require careful consideration.
+3. Is relying on public opinion shifts to drive climate action an effective strategy?
+History suggests that societies often need a major crisis or tipping point to trigger large-scale change. Waiting for such a point with climate change is extremely risky, as irreversible damage may occur before sufficient action is taken. We need proactive measures that go beyond relying solely on public opinion shifts.
+4. Why are the seemingly small, incremental actions we've taken for climate change insufficient?
+Incremental actions, while important, may not match the scale and urgency of the climate crisis. The risk is that by the time we realize these steps are inadequate, we may be forced into even more drastic, unplanned actions with far greater consequences. We need to plan for potentially radical changes now rather than waiting for them to become unavoidable.
+5. How can we bridge the disconnect between scientific understanding and public/political action on climate change?
+The gap between scientific knowledge and action stems from challenges in communicating complex scientific information, psychological biases that prioritize immediate concerns over long-term threats, and political systems that often struggle with long-term planning.
+6. Could AI play a role in bridging this gap?
+AI's ability to process vast amounts of data and generate accurate models could be crucial in understanding and responding to climate change. However, the potential for AI-driven insights to influence policy decisions raises ethical questions about transparency, accountability, and human control.
+7. Is there a way to reconcile the need for rapid climate action with ethical considerations and democratic principles?
+This is a core challenge of our time. Authoritarian solutions, while tempting, carry significant risks and ethical implications. The key lies in finding ways to accelerate action within democratic frameworks. This may require reforming existing institutions, strengthening science communication, and developing innovative policy approaches that can handle long-term global challenges.
+8. Is transhumanism a potential solution to the limitations of human decision-making in the face of climate change?
+Transhumanism, the enhancement of human capabilities through technology, presents a radical but potentially viable path. It could address limitations in human cognition and decision-making, enabling faster adaptation and understanding of complex AI-driven solutions. However, the ethical and societal implications of transhumanism are profound and require careful consideration before widespread adoption.
+
+
+Navigating the Ethical Minefield of Climate Action in the Age of AI
+Source: Excerpts from "Part 1 Avoiding Climate Disasters Ethical Problems.pdf"
+This source is structured as a dialogue, exploring various dilemmas and potential solutions for addressing climate change. The discussion revolves around the frustrations of slow progress, the potential role of AI, and the ethical considerations of different approaches. For clarity, this table of contents organizes the content thematically.
+I. The Urgency of Climate Action and the Inadequacy of Current Responses
+* Acknowledging the Severity and Acceleration of Climate Impacts: This section highlights the increasing frequency and intensity of climate-related disasters, emphasizing that current mitigation efforts are falling short. It also underscores the exponential nature of climate change, where each year of inaction worsens future consequences.
+* Critiquing Incrementalism and the Need for Radical Change: This portion challenges the prevailing approach of gradual policy adjustments, arguing that the scale and urgency of the climate crisis necessitate more transformative, system-wide changes. The discussion contrasts incremental steps with the potential benefits and challenges of planned, radical action.
+II. Barriers to Effective Climate Action
+* Psychological and Political Resistance: This section delves into the psychological barriers that prevent individuals and societies from fully grasping the urgency of the climate crisis. It explores the role of cognitive biases, the tendency to prioritize immediate concerns over long-term threats, and the challenges of building political consensus for significant action.
+* The Disconnect Between Scientific Understanding and Public Action: This part focuses on the communication gap between scientific advancements in climate modeling and the public's understanding of the crisis. It examines how the increasing complexity of climate models can hinder effective communication and the translation of scientific knowledge into policy changes.
+* The Role of Uncertainty and Magical Thinking: This section analyzes how uncertainty about the future can drive people towards non-scientific explanations and beliefs, hindering the acceptance of scientific evidence and rational decision-making regarding climate change.
+III. Exploring Potential Solutions and Their Ethical Implications
+* Improving Science Communication and Education: This part advocates for enhancing science literacy and communication strategies to bridge the gap between scientific understanding and public action. It discusses the need for more accessible explanations of complex climate models and emphasizes the importance of climate education at all levels of society.
+* Harnessing the Power of AI for Climate Action: This section explores the potential of AI for climate modeling, prediction, and decision-making. It highlights the advancements in AI-driven climate models and their ability to process vast amounts of data, leading to more accurate predictions and insights. However, it also acknowledges the ethical challenges associated with AI integration, including the "black box" problem, potential biases, and the balance between human and AI-driven decisions.
+* The "ASI Authoritarian Month" Dilemma: This controversial proposal, suggesting a temporary period of AI-led authoritarian rule to enforce rapid climate action, serves as a focal point for ethical debate. The discussion analyzes the potential benefits and drawbacks of this approach, raising concerns about civil liberties, democratic values, potential backlash, and the long-term implications of authoritarian measures.
+* Transhumanism as a Potential Solution: This section examines transhumanism as a possible avenue for addressing the cognitive and temporal limitations hindering effective climate action. It explores the idea that enhancing human capabilities through technology could enable faster adaptation, better understanding of complex AI systems, and swifter societal shifts necessary to mitigate climate change. However, it also acknowledges the ethical complexities and potential unintended consequences of such radical interventions.
+IV. Core Ethical Dilemmas and the Path Forward
+* Balancing Urgency with Democratic Values: The discussion emphasizes the need to balance the urgency of addressing climate change with the preservation of democratic principles and human rights. It questions whether sacrificing fundamental freedoms, even temporarily, is justifiable for achieving climate goals and explores alternative approaches that prioritize both action and ethical considerations.
+* Navigating the Complexities of Human Decision-Making: This concluding section acknowledges the inherent challenges humans face in confronting long-term, complex issues like climate change. It calls for a deeper understanding of human psychology and the development of strategies that account for cognitive biases and the tendency to prioritize immediate concerns over future threats.
+* The Evolving Relationship Between Humans, AI, and Governance: The final points highlight the need for ongoing critical engagement with AI as it plays an increasingly significant role in decision-making processes. It stresses the importance of developing frameworks that ensure transparency, accountability, and ethical considerations in the integration of AI into governance systems.
+
+
+Transhumanism, Climate Change, and AI: Exploring the Potential Benefits and Drawbacks
+
+
+While the sources provided don't directly address transhumanism as a solution to the climate crisis, they do offer insights into the limitations of current approaches and the potential for AI to play a more significant role in decision-making. Based on this, here’s an exploration of the potential benefits and drawbacks of transhumanism in this context:
+
+
+### Potential Benefits
+
+
+* **Enhanced problem-solving:** Transhumanism could enhance human cognitive abilities, enabling us to develop and implement more effective climate solutions. This aligns with the idea of augmenting human intelligence with AI to address complex problems, as hinted at in the discussion of increasingly sophisticated climate models.
+* **Reduced consumption:** By merging with technology, humans might reduce their dependence on resource-intensive biological needs, potentially leading to lower consumption patterns and a lighter environmental footprint.
+* **Increased resilience:** Transhumanist technologies could enhance human resilience to climate change impacts like extreme heat, drought, or rising sea levels.
+
+
+### Potential Drawbacks
+
+
+* **Exacerbated inequalities:** Access to transhumanist technologies could be unevenly distributed, exacerbating existing social and economic inequalities. 
+* **Ethical dilemmas:** Transhumanism raises profound ethical questions about human nature, identity, and the potential for unintended consequences. The sources highlight similar ethical concerns regarding AI-driven decision-making and authoritarian measures.
+* **Unforeseen ecological impacts:** Modifying human biology on a large scale could have unforeseen and potentially negative consequences for ecosystems and biodiversity.
+
+
+### Impact on Human Agency and the Relationship with AI
+
+
+* **Blurred boundaries:** Transhumanism could blur the lines between human and AI, making it difficult to define agency and responsibility in a hybrid society. The sources discuss the challenge of balancing AI insights with human oversight.
+* **Shift in power dynamics:** Depending on how transhumanist technologies are developed and controlled, they could shift power dynamics between humans and AI, potentially leading to AI dominance or a symbiotic relationship. The sources explore the risks of ceding too much control to AI.
+* **Evolving ethical frameworks:** Transhumanism would necessitate the development of new ethical frameworks to navigate the complexities of a technologically enhanced society. The sources highlight the need for updated ethical frameworks to address issues of AI and long-term risks.
+
+
+### Key Considerations
+
+
+* **Pace of development:** Transhumanist technologies are still largely speculative, and it's unclear how quickly they might develop to a point where they could significantly impact the climate crisis. 
+* **Public acceptance:** Widespread acceptance of transhumanism would be crucial for its successful implementation. The sources emphasize the importance of public understanding and support for any major societal shift.
+* **Governance and regulation:** Careful governance and regulation would be essential to ensure equitable access to transhumanist technologies and mitigate potential risks. 
+
+
+It is important to note that this exploration is based on extrapolations from the provided sources and general knowledge of transhumanist concepts. The sources do not directly address transhumanism as a solution to the climate crisis, so further research and analysis are needed to fully evaluate its potential benefits and drawbacks. 
+
+
+
+
+Ethical Dilemmas of Radical Climate Action
+
+
+The sources you've provided explore the ethical challenges of enacting a radical, potentially authoritarian solution to the climate crisis. While they don't explicitly endorse any particular solution, they highlight several key dilemmas:
+
+
+* **Balancing Immediate Action with Long-Term Consequences:** The sources acknowledge the urgency of the climate crisis and the potential need for drastic action to avert catastrophic outcomes. However, they also caution against the potential negative consequences of authoritarian measures, even if temporary. These consequences could include the erosion of civil liberties, democratic backsliding, and public backlash. 
+* **Public Trust and Acceptance:** The sources emphasize the importance of public trust and engagement in achieving sustainable climate action. They suggest that drastic top-down measures could further erode public trust in institutions, potentially hindering long-term efforts. 
+* **Complexity of Climate Solutions:** The sources recognize that many climate challenges require long-term, collaborative solutions that might not be solvable through short-term authoritarian control. They advocate for participatory approaches, education, and policy innovations that foster cooperation and address systemic issues. 
+* **Ethical Frameworks and Uncertainty:** The sources highlight the challenges of applying traditional ethical frameworks to the unprecedented scale and complexity of the climate crisis. They point out that human decision-making often prioritizes short-term concerns over long-term risks, leading to a disconnect between the urgency of the problem and the adequacy of responses.
+* **The Role of AI:** The sources explore the potential of AI to improve climate modeling and inform decision-making. However, they also raise concerns about the transparency and accountability of AI systems and the potential for AI to be used for manipulation or to further concentrate power.
+
+
+The sources ultimately suggest that navigating these ethical dilemmas requires:
+
+
+* **Improved Science Communication:**  Translating complex climate models into understandable information for the public and policymakers is crucial for building support for action.
+* **Rethinking Governance Structures:** Exploring new democratic tools and policy innovations that can effectively address long-term challenges while preserving human values and agency.
+* **Integrating AI Responsibly:** Balancing the potential benefits of AI in climate modeling and decision-making with safeguards against its misuse and ensuring transparency and human oversight. 
+
+
+The sources ultimately frame the challenge as finding ways to accelerate climate action while upholding democratic principles, building public trust, and addressing the complex ethical considerations involved in balancing immediate needs with long-term consequences. 
+
+
+
+
+AI, Climate Action, and the Ethical Challenges of Understanding and Trust
+
+
+The rapidly developing capabilities of AI are changing how we understand and respond to climate change, raising complex ethical questions about the role of technology in decision-making and the balance between urgency and democratic values.
+
+
+*   **AI is revolutionizing climate modeling**, enabling more accurate and sophisticated predictions of future climate scenarios. Examples include the Aurora model, which utilizes large neural networks to enhance weather and climate forecasts.
+*   This improved understanding could be crucial for informing effective climate action. However, **a significant disconnect exists between scientific knowledge and public/political will** to act on that information.
+*   The sources highlight the **irony that as climate models become more accurate and complex, they may also become harder for the general public to understand**. This complexity could further fuel uncertainty and distrust in scientific findings, hindering action.
+
+
+Several factors contribute to this challenge:
+
+
+*   **People often turn to non-scientific explanations when faced with uncertainty about the future**. Climate change, with its complex and long-term impacts, can trigger this tendency, making it harder to build consensus for action based on scientific evidence.
+*   The sources discuss **the tension between incremental actions and the potential need for radical, swift interventions** to address the accelerating pace of climate change. This tension raises questions about the ethical implications of different approaches.
+*   **Public trust in institutions is a crucial element in fostering collective action on climate change.** The sources suggest that authoritarian measures, even if temporary, could further erode this trust.
+
+
+The sources point to various potential solutions, including:
+
+
+*   **Improving science communication:** Making complex climate models more accessible and understandable to the public and policymakers is essential.
+*   **Leveraging AI for decision-making:** AI could be used to assist human decision-making processes within democratic frameworks, rather than replacing them entirely.
+*   **Strengthening education:** Increased investment in science education and climate literacy is crucial for building a society that can critically engage with complex scientific issues.
+*   **Fostering participatory democracy:** Models like citizens' assemblies on climate could provide opportunities for public engagement and deliberation on complex climate issues.
+
+
+However, the sources also acknowledge the **limitations of these approaches** and the possibility that they might not be sufficient to achieve the necessary pace of change:
+
+
+*   **Historical evidence suggests societies often require a significant crisis or "tipping point" to mobilize large-scale action**. Waiting for such a point with climate change is risky due to the potential for irreversible impacts.
+*   **Concerns are raised about the ethical implications of relying on propaganda or cultivating blind faith in AI to drive action**, even if those actions are aimed at addressing a critical threat like climate change.
+
+
+Ultimately, the ethical calculus of climate action in the age of AI involves **navigating a complex web of considerations**, including:
+
+
+*   Balancing the urgency of addressing climate change with the need to maintain democratic principles and public trust.
+*   Ensuring that AI technologies are used responsibly and transparently, without undermining human agency and critical thinking.
+*   Developing new governance structures and ethical frameworks that can effectively address long-term, complex challenges like climate change.
+
+
+The sources highlight the need for ongoing dialogue and critical reflection as we integrate increasingly powerful AI technologies into our decision-making processes. This dialogue must grapple with the ethical implications of different approaches, considering the potential impact on human understanding, trust, and the values that underpin our societies.
+
+
+
+
+TRANSCRIPT
+PART 1
+1
+00:00:00,000 --> 00:00:01,480
+You know headlines about climate change,
+
+
+2
+00:00:01,480 --> 00:00:02,280
+they're one thing.
+
+
+3
+00:00:02,280 --> 00:00:03,020
+Right.
+
+
+4
+00:00:03,020 --> 00:00:05,120
+But this deep dive
+
+
+5
+00:00:05,120 --> 00:00:06,760
+with your research and questions.
+
+
+6
+00:00:06,760 --> 00:00:07,380
+Yeah.
+
+
+7
+00:00:07,380 --> 00:00:08,120
+It really brings it home.
+
+
+8
+00:00:08,120 --> 00:00:11,060
+You know like how urgent things are getting.
+
+
+9
+00:00:11,060 --> 00:00:12,560
+It really does.
+
+
+10
+00:00:12,560 --> 00:00:13,120
+And you're right.
+
+
+11
+00:00:13,120 --> 00:00:13,420
+Yeah.
+
+
+12
+00:00:13,420 --> 00:00:14,980
+It seems like every time we turn around
+
+
+13
+00:00:15,500 --> 00:00:17,360
+we're facing another worst case scenario.
+
+
+14
+00:00:17,360 --> 00:00:18,100
+Right.
+
+
+15
+00:00:18,100 --> 00:00:19,320
+That's become our reality.
+
+
+16
+00:00:19,320 --> 00:00:21,440
+It's become the new normal almost.
+
+
+17
+00:00:21,440 --> 00:00:21,740
+Yeah.
+
+
+18
+00:00:21,740 --> 00:00:23,100
+And that frustration you talk about.
+
+
+19
+00:00:23,940 --> 00:00:25,200
+About the lack of action.
+
+
+20
+00:00:25,200 --> 00:00:25,580
+Mm-hmm.
+
+
+21
+00:00:25,580 --> 00:00:26,000
+I get it.
+
+
+22
+00:00:26,000 --> 00:00:27,200
+It's fascinating isn't it.
+
+
+23
+00:00:27,200 --> 00:00:27,680
+Yeah.
+
+
+24
+00:00:27,719 --> 00:00:30,260
+This disconnect between you know
+
+
+25
+00:00:30,260 --> 00:00:31,660
+the urgency of the science.
+
+
+26
+00:00:31,660 --> 00:00:32,200
+Right.
+
+
+27
+00:00:32,200 --> 00:00:34,720
+And just the pace of societal change.
+
+
+28
+00:00:34,720 --> 00:00:35,320
+Yeah.
+
+
+29
+00:00:35,320 --> 00:00:36,500
+It makes you wonder.
+
+
+30
+00:00:36,500 --> 00:00:37,459
+Like it's a pattern.
+
+
+31
+00:00:38,060 --> 00:00:39,560
+We've seen this throughout history
+
+
+32
+00:00:39,560 --> 00:00:40,360
+when you think about it.
+
+
+33
+00:00:40,360 --> 00:00:41,000
+Right.
+
+
+34
+00:00:41,000 --> 00:00:42,139
+Major shifts.
+
+
+35
+00:00:42,139 --> 00:00:42,700
+Yeah.
+
+
+36
+00:00:42,700 --> 00:00:44,200
+The fall of empires.
+
+
+37
+00:00:44,200 --> 00:00:45,639
+Economic revolutions.
+
+
+38
+00:00:45,639 --> 00:00:48,080
+Even just the emergence of new technologies.
+
+
+39
+00:00:48,480 --> 00:00:50,500
+These things often only happen.
+
+
+40
+00:00:50,840 --> 00:00:51,380
+Yeah.
+
+
+41
+00:00:51,380 --> 00:00:53,740
+After a significant tipping point.
+
+
+42
+00:00:53,740 --> 00:00:54,720
+Mm-hmm.
+
+
+43
+00:00:54,759 --> 00:00:58,340
+A real crisis that forces everyone to adapt.
+
+
+44
+00:00:58,340 --> 00:01:00,200
+It's like we need that kick in the pants
+
+
+45
+00:01:00,200 --> 00:01:01,060
+to get going.
+
+
+46
+00:01:01,060 --> 00:01:01,459
+Right.
+
+
+47
+00:01:01,459 --> 00:01:03,939
+And so the question is with climate change
+
+
+48
+00:01:03,939 --> 00:01:05,099
+are we going to wait.
+
+
+49
+00:01:05,099 --> 00:01:05,639
+Yeah.
+
+
+50
+00:01:05,639 --> 00:01:06,739
+Until it's too late.
+
+
+51
+00:01:06,739 --> 00:01:09,879
+You know is that tipping point going to come too late.
+
+
+52
+00:01:09,879 --> 00:01:11,040
+And it's almost ironic.
+
+
+53
+00:01:11,040 --> 00:01:11,839
+You know.
+
+
+54
+00:01:11,839 --> 00:01:12,279
+Yeah.
+
+
+55
+00:01:12,279 --> 00:01:14,019
+The way you pointed out how people
+
+
+56
+00:01:14,019 --> 00:01:15,839
+are moving to the very places.
+
+
+57
+00:01:15,839 --> 00:01:16,519
+Yes.
+
+
+58
+00:01:16,519 --> 00:01:18,180
+Most vulnerable to climate change.
+
+
+59
+00:01:18,180 --> 00:01:18,839
+Right.
+
+
+60
+00:01:18,839 --> 00:01:19,660
+Like the southeast.
+
+
+61
+00:01:19,660 --> 00:01:20,559
+It's wild.
+
+
+62
+00:01:20,559 --> 00:01:21,260
+Right.
+
+
+63
+00:01:21,260 --> 00:01:22,919
+With the hurricanes getting stronger all the time.
+
+
+64
+00:01:22,919 --> 00:01:23,480
+Yeah.
+
+
+65
+00:01:23,879 --> 00:01:25,320
+It's like Come on folks, are we reading
+
+
+66
+00:01:25,320 --> 00:01:26,860
+the same weather reports.
+
+
+67
+00:01:26,860 --> 00:01:30,059
+It's tempting to think logic should prevail, right.
+
+
+68
+00:01:30,059 --> 00:01:30,900
+Of course.
+
+
+69
+00:01:30,900 --> 00:01:31,559
+Yeah.
+
+
+70
+00:01:31,559 --> 00:01:32,459
+But human behavior.
+
+
+71
+00:01:32,459 --> 00:01:33,220
+Yeah.
+
+
+72
+00:01:33,220 --> 00:01:34,260
+It's not always logical.
+
+
+73
+00:01:34,260 --> 00:01:34,959
+Right.
+
+
+74
+00:01:34,959 --> 00:01:36,120
+It's complex, right.
+
+
+75
+00:01:36,120 --> 00:01:39,059
+You can give someone all the facts and figures in the world
+
+
+76
+00:01:39,059 --> 00:01:44,459
+about rising sea levels and, you know, storms intensifying.
+
+
+77
+00:01:44,459 --> 00:01:45,059
+Yeah.
+
+
+78
+00:01:45,980 --> 00:01:50,379
+But there's an emotional element too to where we choose to live.
+
+
+79
+00:01:50,379 --> 00:01:52,940
+You know, a connection to place.
+
+
+80
+00:01:53,480 --> 00:01:55,500
+That's really hard to shake, even when
+
+
+81
+00:01:55,500 --> 00:01:56,940
+it seems like, you know.
+
+
+82
+00:01:57,720 --> 00:01:59,379
+It's risky to be there.
+
+
+83
+00:02:00,379 --> 00:02:01,820
+People are complicated.
+
+
+84
+00:02:01,820 --> 00:02:04,940
+It's true and that kind of leads us to well,
+
+
+85
+00:02:04,940 --> 00:02:08,679
+it's a pretty radical idea that you brought up in your research.
+
+
+86
+00:02:08,679 --> 00:02:09,559
+Yeah.
+
+
+87
+00:02:09,559 --> 00:02:12,220
+Could artificial intelligence,
+
+
+88
+00:02:12,220 --> 00:02:14,320
+maybe even like super intelligent AI,
+
+
+89
+00:02:15,059 --> 00:02:20,339
+be the answer to our, you know, our climate inaction problem?
+
+
+90
+00:02:20,339 --> 00:02:21,559
+That's a big question.
+
+
+91
+00:02:21,580 --> 00:02:25,059
+You even had a term for it. ASI authoritarian month.
+
+
+92
+00:02:25,059 --> 00:02:26,220
+Yeah. Yeah.
+
+
+93
+00:02:26,220 --> 00:02:28,559
+It's it's a bold idea to say the least.
+
+
+94
+00:02:28,559 --> 00:02:29,960
+It definitely makes you think right.
+
+
+95
+00:02:29,960 --> 00:02:32,000
+And I and I understand where it's coming from.
+
+
+96
+00:02:32,000 --> 00:02:34,139
+That feeling that we need to act fast.
+
+
+97
+00:02:34,139 --> 00:02:36,000
+Right. We need to act decisively.
+
+
+98
+00:02:36,000 --> 00:02:37,259
+Yeah.
+
+
+99
+00:02:37,259 --> 00:02:39,300
+And so ASI authoritarian month basically means
+
+
+100
+00:02:39,300 --> 00:02:40,100
+Okay,
+
+
+101
+00:02:40,100 --> 00:02:42,199
+we'd be letting a super intelligent AI
+
+
+102
+00:02:42,199 --> 00:02:43,380
+call the shots. Right.
+
+
+103
+00:02:43,380 --> 00:02:44,779
+For one month. Okay.
+
+
+104
+00:02:44,779 --> 00:02:46,720
+To kind of implement climate solutions
+
+
+105
+00:02:46,720 --> 00:02:48,940
+with a speed and efficiency.
+
+
+106
+00:02:48,940 --> 00:02:51,259
+Yeah. That we as humans, you know,
+
+
+107
+00:02:51,279 --> 00:02:52,520
+right. You can't match.
+
+
+108
+00:02:52,520 --> 00:02:54,119
+Right. So we're talking with an AI
+
+
+109
+00:02:54,119 --> 00:02:57,860
+so advanced it could analyze global systems,
+
+
+110
+00:02:58,419 --> 00:03:00,660
+design solutions, maybe even like overhaul
+
+
+111
+00:03:00,660 --> 00:03:02,600
+entire industries to make them,
+
+
+112
+00:03:03,600 --> 00:03:05,500
+sustainable. Right. Right.
+
+
+113
+00:03:05,500 --> 00:03:07,300
+All in a month. It's a tall order.
+
+
+114
+00:03:07,300 --> 00:03:10,679
+It's sounds like a sci fi movie honestly.
+
+
+115
+00:03:10,679 --> 00:03:11,899
+Sounds like a movie, yeah.
+
+
+116
+00:03:11,899 --> 00:03:13,880
+But but then there's the other side of the coin right.
+
+
+117
+00:03:13,880 --> 00:03:15,600
+Right. Got to talk about the authoritarian part.
+
+
+118
+00:03:15,600 --> 00:03:16,639
+There it is. Yeah.
+
+
+119
+00:03:16,639 --> 00:03:18,339
+What about the ethics?
+
+
+120
+00:03:18,339 --> 00:03:20,179
+Like are we really gonna just
+
+
+121
+00:03:21,339 --> 00:03:23,279
+hand over control like that?
+
+
+122
+00:03:23,279 --> 00:03:24,820
+That's the million dollar question,
+
+
+123
+00:03:24,820 --> 00:03:26,080
+isn't it? I mean, right.
+
+
+124
+00:03:26,080 --> 00:03:28,259
+Even if we just assume for a second.
+
+
+125
+00:03:28,259 --> 00:03:30,119
+Yeah. And it's a big if. Right.
+
+
+126
+00:03:30,119 --> 00:03:32,259
+Yeah. That an ASI
+
+
+127
+00:03:32,259 --> 00:03:36,539
+right would even act in humanities best interests.
+
+
+128
+00:03:36,539 --> 00:03:38,279
+Right. You know who defines that.
+
+
+129
+00:03:38,279 --> 00:03:39,399
+Exactly. Yeah.
+
+
+130
+00:03:39,399 --> 00:03:41,940
+Like what does that even mean? How do we ensure,
+
+
+131
+00:03:41,940 --> 00:03:43,800
+you know, things that we really care about?
+
+
+132
+00:03:43,800 --> 00:03:45,100
+Yah.
+
+
+133
+00:03:45,100 --> 00:03:47,179
+Individual liberty, democratic principles.
+
+
+134
+00:03:47,179 --> 00:03:48,419
+Right.
+
+
+135
+00:03:48,940 --> 00:03:50,240
+you know, trampled on ...
+
+
+136
+00:03:50,240 --> 00:03:51,559
+Yeah. ... in the process.
+
+
+137
+00:03:51,559 --> 00:03:52,960
+It seems risky.
+
+
+138
+00:03:52,960 --> 00:03:55,419
+And the biggest unknown of all. Right.
+
+
+139
+00:03:55,419 --> 00:03:56,820
+Right.
+
+
+140
+00:03:56,820 --> 00:04:01,100
+What are the unintended consequences of giving?
+
+
+141
+00:04:01,100 --> 00:04:02,279
+Like, you know ...
+
+
+142
+00:04:02,279 --> 00:04:03,600
+That much power. Unlimited power.
+
+
+143
+00:04:03,600 --> 00:04:04,880
+Yah.
+
+
+144
+00:04:04,880 --> 00:04:06,740
+You know, to something we might not even comprehend.
+
+
+145
+00:04:06,740 --> 00:04:08,740
+And that's what I found so interesting about your point.
+
+
+146
+00:04:08,740 --> 00:04:09,960
+Okay.
+
+
+147
+00:04:09,960 --> 00:04:13,940
+Connecting this back to what AI can already do.
+
+
+148
+00:04:13,940 --> 00:04:15,240
+Yeah.
+
+
+149
+00:04:15,240 --> 00:04:17,200
+Like you mentioned research showing that AI
+
+
+150
+00:04:17,200 --> 00:04:18,739
+can now get this ...
+
+
+151
+00:04:18,739 --> 00:04:21,119
+Okay. ... decode what someone is seeing
+
+
+152
+00:04:21,679 --> 00:04:23,480
+just by analyzing their brain activity.
+
+
+153
+00:04:23,480 --> 00:04:24,700
+I know. It's wild.
+
+
+154
+00:04:24,700 --> 00:04:26,440
+It's like they use fMRI scans.
+
+
+155
+00:04:26,440 --> 00:04:27,679
+Yeah.
+
+
+156
+00:04:27,679 --> 00:04:31,940
+Feed that data into these like sophisticated neural networks
+
+
+157
+00:04:32,600 --> 00:04:34,980
+trained on these massive data sets of,
+
+
+158
+00:04:34,980 --> 00:04:36,239
+you know, ... Yeah.
+
+
+159
+00:04:36,239 --> 00:04:37,619
+... brain activity and corresponding images.
+
+
+160
+00:04:37,619 --> 00:04:38,980
+It's kind of incredible.
+
+
+161
+00:04:38,980 --> 00:04:41,760
+It really is. It's like something out of science fiction,
+
+
+162
+00:04:41,760 --> 00:04:42,980
+but it's real.
+
+
+163
+00:04:42,980 --> 00:04:44,239
+It's becoming real. Yeah.
+
+
+164
+00:04:44,239 --> 00:04:45,559
+It's happening now.
+
+
+165
+00:04:46,160 --> 00:04:49,899
+If AI can already do that, tap into our brains like that ...
+
+
+166
+00:04:49,899 --> 00:04:52,579
+Yeah. ... how can we control something
+
+
+167
+00:04:52,579 --> 00:04:55,320
+potentially thousands of times more intelligent?
+
+
+168
+00:04:55,320 --> 00:04:56,920
+It's a crucial point, and you know it circles
+
+
+169
+00:04:56,920 --> 00:05:01,320
+back to the part of like your concerns about the limitations.
+
+
+
+
+PART 2 
+1
+00:00:00,000 --> 00:00:03,340
+We now bring to you some of the facilitations
+
+
+2
+00:00:03,380 --> 00:00:04,780
+of our current approaches.
+
+
+3
+00:00:04,800 --> 00:00:05,620
+Like education.
+
+
+4
+00:00:05,640 --> 00:00:06,780
+Right. We talk about these things.
+
+
+5
+00:00:06,820 --> 00:00:07,680
+Certiainly.
+
+
+6
+00:00:07,720 --> 00:00:09,140
+Ignition reform, improving communication.
+
+
+7
+00:00:09,180 --> 00:00:10,020
+Right.
+
+
+8
+00:00:10,040 --> 00:00:13,180
+But the gap between AI's capabilities
+
+
+9
+00:00:13,220 --> 00:00:15,400
+and our understanding-
+
+
+10
+00:00:15,420 --> 00:00:16,360
+It's huge.
+
+
+11
+00:00:16,379 --> 00:00:18,660
+... is widening at an alarming pace.
+
+
+12
+00:00:19,020 --> 00:00:20,120
+It's only getting bigger.
+
+
+13
+00:00:20,160 --> 00:00:21,100
+How do we bridge that?
+
+
+14
+00:00:21,120 --> 00:00:25,000
+How do we even ensure that we're the ones in control?
+
+
+15
+00:00:26,440 --> 00:00:27,540
+We're steering the future
+
+
+16
+00:00:27,559 --> 00:00:29,959
+and not just passengers along for the ride.
+
+
+17
+00:00:30,680 --> 00:00:32,500
+So we talked about AI, right?
+
+
+18
+00:00:32,540 --> 00:00:36,299
+The potential, the risks, but your research,
+
+
+19
+00:00:36,639 --> 00:00:37,980
+it took this whole other turn.
+
+
+20
+00:00:38,000 --> 00:00:39,279
+Yeah.
+
+
+21
+00:00:39,320 --> 00:00:42,119
+Something that really honestly kind of baffled me,
+
+
+22
+00:00:42,639 --> 00:00:45,480
+but also, I got to say, intrigued me.
+
+
+23
+00:00:45,520 --> 00:00:46,480
+Interesting.
+
+
+24
+00:00:46,520 --> 00:00:47,680
+You started exploring
+
+
+25
+00:00:47,720 --> 00:00:51,320
+get this transhumanism as a potential solution.
+
+
+26
+00:00:51,360 --> 00:00:52,560
+Right.
+
+
+27
+00:00:52,599 --> 00:00:53,860
+I mean it sounds like are we even-
+
+
+28
+00:00:54,500 --> 00:00:55,400
+It's out there.
+
+
+29
+00:00:55,419 --> 00:00:56,419
+A whole other dimension.
+
+
+30
+00:00:56,459 --> 00:00:57,660
+It's under the boundaries, that's for sure.
+
+
+31
+00:00:57,700 --> 00:00:58,959
+Right.
+
+
+32
+00:00:59,020 --> 00:01:01,320
+We really follow the thread of your research.
+
+
+33
+00:01:02,759 --> 00:01:04,739
+That may be the biggest hurdle to all this,
+
+
+34
+00:01:04,760 --> 00:01:06,440
+to tackling climate change.
+
+
+35
+00:01:06,459 --> 00:01:07,559
+That might be us.
+
+
+36
+00:01:07,599 --> 00:01:10,239
+Our own limitations as humans.
+
+
+37
+00:01:10,260 --> 00:01:11,339
+Right.
+
+
+38
+00:01:11,360 --> 00:01:12,440
+Transhumanism, it-
+
+
+39
+00:01:12,480 --> 00:01:13,540
+It's a thought.
+
+
+40
+00:01:13,580 --> 00:01:16,279
+It starts to seem a little more possible.
+
+
+41
+00:01:16,300 --> 00:01:17,540
+Right.
+
+
+42
+00:01:17,580 --> 00:01:18,639
+Maybe not less radical,
+
+
+43
+00:01:18,680 --> 00:01:21,580
+but definitely a possible path forward.
+
+
+44
+00:01:22,379 --> 00:01:25,959
+Okay, so for those of us who haven't spent our time
+
+
+45
+00:01:25,980 --> 00:01:28,820
+in the transhumanism corner of the internet.
+
+
+46
+00:01:29,080 --> 00:01:30,459
+Right, right.
+
+
+47
+00:01:30,480 --> 00:01:32,019
+Let's unpack that a little bit.
+
+
+48
+00:01:32,059 --> 00:01:34,419
+I think when people hear transhumanism,
+
+
+49
+00:01:34,459 --> 00:01:38,919
+they probably picture dystopian futures.
+
+
+50
+00:01:38,959 --> 00:01:40,120
+Right, right.
+
+
+51
+00:01:40,160 --> 00:01:41,980
+Cyborgs and like-
+
+
+52
+00:01:42,019 --> 00:01:43,419
+You know-
+
+
+53
+00:01:43,459 --> 00:01:44,699
+Immortality Serums.
+
+
+54
+00:01:44,720 --> 00:01:46,300
+Yeah. Immortality Serums, exactly, that kind of thing.
+
+
+55
+00:01:46,320 --> 00:01:47,400
+It's easy to get caught up
+
+
+56
+00:01:47,419 --> 00:01:49,639
+in the sensationalized versions of it.
+
+
+57
+00:01:49,660 --> 00:01:50,860
+Right.
+
+
+58
+00:01:50,900 --> 00:01:52,239
+But, at its heart, transhumanism,
+
+
+59
+00:01:52,260 --> 00:01:53,940
+it's really about-
+
+
+60
+00:01:53,980 --> 00:01:55,099
+Yeah.
+
+
+61
+00:01:55,139 --> 00:01:56,800
+Using technology to enhance human capabilities.
+
+
+62
+00:01:56,839 --> 00:01:58,139
+Okay.
+
+
+63
+00:01:58,220 --> 00:02:00,400
+And in this case, we're not talking about-
+
+
+64
+00:02:00,440 --> 00:02:01,639
+Right.
+
+
+65
+00:02:01,660 --> 00:02:03,900
+You know, superhuman strength or telekinesis or anything.
+
+
+66
+00:02:03,940 --> 00:02:04,940
+Right.
+
+
+67
+00:02:04,959 --> 00:02:06,360
+We're talking about like enhancing our capacity
+
+
+68
+00:02:06,400 --> 00:02:07,839
+for thinking long term.
+
+
+69
+00:02:07,879 --> 00:02:09,039
+Okay.
+
+
+70
+00:02:09,080 --> 00:02:11,500
+For making good decisions based on complex information.
+
+
+71
+00:02:11,539 --> 00:02:12,740
+Yeah.
+
+
+72
+00:02:12,779 --> 00:02:16,039
+For understanding how all these global systems are connected.
+
+
+73
+00:02:16,080 --> 00:02:17,839
+So like overcoming our limitations.
+
+
+74
+00:02:17,880 --> 00:02:18,919
+Yes, exactly.
+
+
+75
+00:02:18,940 --> 00:02:20,240
+The cognitive biases.
+
+
+76
+00:02:20,279 --> 00:02:22,720
+Those cognitive biases that lead to these like-
+
+
+77
+00:02:22,759 --> 00:02:23,820
+Our short sighted choices.
+
+
+78
+00:02:23,860 --> 00:02:24,919
+Exactly. Yeah.
+
+
+79
+00:02:24,960 --> 00:02:26,119
+The short sighted choices.
+
+
+80
+00:02:26,600 --> 00:02:27,979
+If we could enhance those parts of ourselves.
+
+
+81
+00:02:28,000 --> 00:02:29,100
+Right.
+
+
+82
+00:02:29,139 --> 00:02:32,080
+Maybe even bridge that gap you were talking about before.
+
+
+83
+00:02:32,100 --> 00:02:33,380
+Yeah, yeah.
+
+
+84
+00:02:33,419 --> 00:02:35,619
+Between, you know, our brains and these rapidly evolving
+
+
+85
+00:02:35,639 --> 00:02:39,779
+AI brains, would that make us better equipped
+
+
+86
+00:02:39,820 --> 00:02:44,720
+to actually handle something as complex as climate change?
+
+
+87
+00:02:44,759 --> 00:02:45,979
+That's the question, right?
+
+
+88
+00:02:46,020 --> 00:02:47,160
+That's a big one.
+
+
+89
+00:02:47,179 --> 00:02:48,460
+It's a huge question.
+
+
+90
+00:02:48,500 --> 00:02:51,520
+And of course, it opens up like a whole Pandora's box
+
+
+91
+00:02:51,559 --> 00:02:52,619
+of considerations.
+
+
+92
+00:02:52,660 --> 00:02:54,000
+Right.
+
+
+93
+00:02:54,440 --> 00:02:57,639
+But I think the fact that we're even having this conversation,
+
+
+94
+00:02:57,679 --> 00:03:00,220
+that your research led us to this point,
+
+
+95
+00:03:00,240 --> 00:03:04,619
+it just speaks to the urgency of this whole climate crisis.
+
+
+96
+00:03:04,660 --> 00:03:05,660
+When.
+
+
+97
+00:03:05,679 --> 00:03:08,619
+We need to be open to considering
+
+
+98
+00:03:08,660 --> 00:03:10,919
+all these possibilities, even the ones that…
+
+
+99
+00:03:10,960 --> 00:03:13,100
+The ones that blow our minds a little bit.
+
+
+100
+00:03:13,119 --> 00:03:14,600
+Exactly, you know?
+
+
+101
+00:03:14,619 --> 00:03:17,139
+The ones that really challenge our understanding
+
+
+102
+00:03:17,160 --> 00:03:19,000
+of what it means to even be human.
+
+
+103
+00:03:19,039 --> 00:03:21,059
+And you know, it's funny because when
+
+
+104
+00:03:21,059 --> 00:03:23,539
+I saw that you had been looking into
+
+
+105
+00:03:23,559 --> 00:03:25,539
+like computers made of mushrooms.
+
+
+106
+00:03:25,559 --> 00:03:26,539
+Oh, right.
+
+
+107
+00:03:26,559 --> 00:03:28,339
+Biocomputing? Is that what they call it?
+
+
+108
+00:03:28,380 --> 00:03:29,940
+Yeah, biocomputing. That's right.
+
+
+109
+00:03:29,979 --> 00:03:31,440
+I gotta say, I laughed.
+
+
+110
+00:03:31,479 --> 00:03:32,479
+Right.
+
+
+111
+00:03:32,500 --> 00:03:34,000
+Because if you'd told me a year ago
+
+
+112
+00:03:34,039 --> 00:03:37,020
+that that's where this deep dive into climate change
+
+
+113
+00:03:37,039 --> 00:03:38,279
+was going to take us
+
+
+114
+00:03:38,320 --> 00:03:40,339
+I don't think I would have believed you.
+
+
+115
+00:03:40,380 --> 00:03:43,559
+But… but here we are, talking about,
+
+
+116
+00:03:43,580 --> 00:03:45,580
+you know, merging with machines.
+
+
+117
+00:03:45,619 --> 00:03:46,820
+It just goes to show you, right,
+
+
+118
+00:03:46,860 --> 00:03:49,919
+like, we are living in an era of this
+
+
+119
+00:03:50,059 --> 00:03:52,279
+wild technological advancement.
+
+
+120
+00:03:52,320 --> 00:03:53,479
+It's happening so fast.
+
+
+121
+00:03:53,520 --> 00:03:55,660
+And with that comes this responsibility,
+
+
+122
+00:03:55,699 --> 00:03:56,600
+I think
+
+
+123
+00:03:56,619 --> 00:03:57,619
+yeah.
+
+
+124
+00:03:57,660 --> 00:03:59,020
+to really ask the tough questions.
+
+
+125
+00:03:59,059 --> 00:04:00,059
+Yeah.
+
+
+126
+00:04:00,100 --> 00:04:01,100
+Right.
+
+
+127
+00:04:01,119 --> 00:04:02,139
+To consider all the pass, all the options.
+
+
+128
+00:04:02,160 --> 00:04:03,160
+Yeah. Right.
+
+
+129
+00:04:03,199 --> 00:04:04,460
+As wild as some of them may seem.
+
+
+130
+00:04:04,500 --> 00:04:06,039
+So where do we go from here?
+
+
+131
+00:04:06,059 --> 00:04:07,339
+That's the question.
+
+
+132
+00:04:07,360 --> 00:04:08,800
+I mean, I think this deep dive
+
+
+133
+00:04:08,839 --> 00:04:11,240
+has really like brought it home.
+
+
+134
+00:04:11,279 --> 00:04:12,279
+Yeah.
+
+
+135
+00:04:12,300 --> 00:04:14,080
+That there are no easy answers here.
+
+
+136
+00:04:14,119 --> 00:04:15,339
+No easy answers.
+
+
+137
+00:04:15,380 --> 00:04:17,820
+But you've brought up some ideas
+
+
+138
+00:04:17,839 --> 00:04:19,339
+that really make you think
+
+
+139
+00:04:19,339 --> 00:04:20,559
+and maybe that's the point.
+
+
+140
+00:04:20,600 --> 00:04:22,739
+And maybe that's the most important take away
+
+
+141
+00:04:22,779 --> 00:04:24,339
+for people listening.
+
+
+142
+00:04:24,380 --> 00:04:25,700
+Yeah.
+
+
+143
+00:04:25,739 --> 00:04:26,299
+You know from your research, from your questions.
+
+
+144
+00:04:26,339 --> 00:04:27,440
+Yeah.
+
+
+145
+00:04:27,480 --> 00:04:29,440
+It just highlights how much we need to be
+
+
+146
+00:04:29,480 --> 00:04:31,579
+like bolder in our thinking.
+
+
+147
+00:04:31,619 --> 00:04:32,820
+Be more creative.
+
+
+148
+00:04:32,839 --> 00:04:34,279
+More creative, more willing to challenge
+
+
+149
+00:04:34,320 --> 00:04:35,820
+our own assumptions.
+
+
+150
+00:04:35,859 --> 00:04:36,820
+About what's possible.
+
+
+151
+00:04:36,859 --> 00:04:38,420
+What's about possible. Exactly.
+
+
+152
+00:04:38,459 --> 00:04:39,980
+Because the future is unwritten.
+
+
+153
+00:04:40,019 --> 00:04:41,420
+The future is unwritten. Yeah.
+
+
+154
+00:04:41,459 --> 00:04:42,519
+And it's up to us.
+
+
+155
+00:04:42,559 --> 00:04:43,660
+It's up to us to decide.
+
+
+156
+00:04:43,700 --> 00:04:45,720
+What role we want technology
+
+
+157
+00:04:45,760 --> 00:04:48,359
+and even our own evolution
+
+
+158
+00:04:48,459 --> 00:04:49,579
+to play?
+
+
+159
+00:04:49,619 --> 00:04:50,779
+What role we want to play in shaping it all.
+
+
+160
+00:04:50,820 --> 00:04:51,880
+Exactly.
+
+
+161
+00:04:51,920 --> 00:04:53,019
+And maybe, just maybe,
+
+
+162
+00:04:53,059 --> 00:04:56,720
+like it's not about finding the perfect solution.
+
+
+163
+00:04:56,760 --> 00:04:59,100
+It's about asking the right questions.
+
+
+164
+00:04:59,119 --> 00:05:00,299
+Asking the right questions.
+
+
+165
+00:05:00,320 --> 00:05:01,339
+Like you've done here.
+
+
+166
+00:05:01,359 --> 00:05:02,839
+There you go.
+
+
+167
+00:05:02,859 --> 00:05:05,339
+If A.I can already basically read our minds
+
+
+168
+00:05:05,359 --> 00:05:07,940
+in these like crazy sophisticated ways
+
+
+169
+00:05:07,959 --> 00:05:09,000
+Yes pretty much.
+
+
+170
+00:05:09,040 --> 00:05:10,399
+what does that even mean for us?
+
+
+171
+00:05:10,440 --> 00:05:11,399
+For humans?
+
+
+172
+00:05:11,440 --> 00:05:12,279
+Right.
+
+
+173
+00:05:12,299 --> 00:05:13,779
+You know, for our agency,
+
+
+174
+00:05:13,799 --> 00:05:15,019
+our decision making?
+
+
+175
+00:05:15,040 --> 00:05:15,940
+Yeah.
+
+
+176
+00:05:15,980 --> 00:05:17,320
+Whether we're talking A.I governance
+
+
+177
+00:05:17,899 --> 00:05:20,739
+or transhumanism
+
+
+178
+00:05:20,779 --> 00:05:22,279
+or something we haven't
+
+
+179
+00:05:22,320 --> 00:05:23,079
+even thought of yet.
+
+
+180
+00:05:23,119 --> 00:05:24,079
+Exactly.
+
+
+181
+00:05:24,119 --> 00:05:25,920
+Who knows what the future holds.
+
+
+182
+00:05:25,959 --> 00:05:26,820
+But it's something to ponder.
+
+
+183
+00:05:26,859 --> 00:05:28,579
+Something to think about.
+
+
+184
+00:05:28,619 --> 00:05:29,820
+Until next time, everyone,
+
+
+185
+00:05:29,859 --> 00:05:31,760
+keep asking those big questions.
