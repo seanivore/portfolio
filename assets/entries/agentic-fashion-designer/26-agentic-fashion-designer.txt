@@ -1,0 +1,92 @@
+POSITION - 26 
+
+CONTENT TILE TITLE
+
+CONTENT TILE SUMMARY 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-tile-agentic-fashion-designer.webp
+
+CONTENT TILE PRIMARY TAGS 
+
+SEO META TITLE 
+
+SEO META SUMMARY 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-thumbnail-agentic-fashion-designer.webp
+
+PAGE TITLE
+
+PAGE HERO IMAGE - 1200px square 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-hero-agentic-fashion-designer.webp
+
+PAGE SECONDARY TAGS
+
+
+---
+
+Again, this post is meant to lean a bit into how Make is a great stepping stone — both to help others but also to prop myself up was having grown past it without having to specifically say that; its just implied by my / us speaking in this way. 
+
+We should mention that there is another post that thoroughly goes through about 75 photographs of the 100+ or so that both the 1st Edition Summer 2024 Lookbook and the 2nd Edition Winter 2024-2025 Lookbook each have, talking about the process from a more strategic standpoint regarding the narrative and how it played into building characters with moods, motives, needs, and thus inherently creating fashionable outfits to fit this character profile and their character arc must be relatable. Let's explain that all here as well in directing them to go check that one out. Particularly because, based on what these scenarios are doing, they should draw intrigue to learn more about the system used. 
+
+This post consists of all the various automations and AI that work together to create, compile, and present the massive amount of fashion information that each lookbook includes. It might be noted that, even with all the automations, it still takes me a month. This makes sense because normally producing something of such a high quality, so on trend, and — though frankly never even going to very deep into touching the human experience with our fashion design — is a something that takes a large team, a lot of money, and multiple months of work. 
+
+So this post will still be strategic, but in this case it is more about how the tools were leveraged to make this happen. It might also be worth noting that, even while I knew there were many other ways to create automations, that, perhaps because my early first decade of my career was in a non-profit, I really went all out in learning about and utilizing my resources. 
+
+And for added enjoyment, the scenarios, which if I don't get a chance to detail its operation in more than a few sentences per scenario, please get me started and tap me in for specifics — but they'll all be separated by fashionable photo prints of Femme Fatale women from the Film Noir art movement era. 
+
+Obviously please arrange the visuals around as you see best fit. 
+
+---
+
+[one image card in this row - Alt: Image says "Automated Photograph Preparations Cropped and resized using Vision Al. Stored in database with Generative Al produced keywords and descriptions."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-01-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Image says "Generative Website Content Production Vision Al reviews photoshoot and outfits. Generative copy prepared using parameters provided in database with imagery. Webpage content post constructed and published over API."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-02-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Turn Narrative into Fashion & Life Catalysts - Archetypes, historic art movements, and narratives that mark life milestones are combined by Al to identify relationships and patterns between identifiers. These patterns are then used to create avant-garde, on-trend fashion outfits that cater to the subject's needs, fostering personal growth and self-discovery."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-03-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Primary Narrative Composition - Generative Al creates relatable stories, often drawing inspiration from astrology. Subsequently, numerous Al reviewers analyze the stories, identifying character arcs, climaxes, conflicts, and resolutions. Character profiles are generated, enabling the categorization of archetypes and the prediction of moods based on the narrative. By combining these variables, we can select historical art, general aesthetics, and eventually, meticulously crafted outfits that push boundaries and create trends that are almost certain to resonate with audiences."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-04-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Final Outfit Productions - Generated profiles, storylines, and aesthetics are pulled from the database and sent to a series of Al who have been given carefully crafted system messages that allow them to produce descriptions of impressively detailed and hip outfits."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-05-agentic-fashion-designer.webp
+
+[one image card in this row - Alt:Automated Lookbook Production Pulling four photographs of looks for one outfit, in both 16:9 aspect ratio and a portrait 4:5 ratio, as well as a thumbnail image for the page, all are pushed to a Webflow CMS Collection Template page already designed. There were over 50 pages in this 1st edition Summer 2024 Lookbook."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-06-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Website Content Production - How narratives informed archetypes and emotions that allowed for unique fashion design."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-07-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Administrative Digital Media Management Tasks - Once time-consuming & tedious, now fully automated. Added bonus: Trained Al actually can seethe fashion, conceptualize the personality profile and mood, writing the perfect SEO Titles & Summaries."] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-08-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: Delegating Terribly Boring Digital Media Tasks - Each look book has at least a couple hundred published images. All must be cropped and sized for various digital purposes, then moved to other databases. Again the added bonus of Al being able to appreciate the nuances of the design to produce SEO Meta Text & Summary - Information for various publications. Literal DAYS of work saved.] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-09-agentic-fashion-designer.webp
+
+[one image card in this row - Alt: When your training for the Al is particularly perfected, you can roll out the more massive copywriting automations.] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-10-agentic-fashion-designer.webp
+
+[Prompt part 1 about producing the narrative; 1000x1099px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-11-agentic-fashion-designer.webp
+
+[Prompt part 2 about defining the characters; 1000x1291px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-12-agentic-fashion-designer.webp
+
+[Prompt part 3 about the vision, aesthetics, and the goal, for personal growth through attire; 1000x1027px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-13-agentic-fashion-designer.webp
+
+[Prompt part 4 — the above materials are now used with a reliably perfected prompt to produce the outfit descriptions that are later created in visual form; 1000x1130px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-14-agentic-fashion-designer.webp
+
+[The Archetypes in the most recent 2nd Edition Winter 2024-2025 Lookbook; 1000x868px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-15-agentic-fashion-designer.webp
+
+[Film Noir Femme Fatal image; 800x1000px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-16-agentic-fashion-designer.webp
+
+[Film Noir Femme Fatal image; 800x1000px] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-17-agentic-fashion-designer.webp
