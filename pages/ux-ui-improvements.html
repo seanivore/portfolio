@@ -7,10 +7,6 @@
     <meta name="description" content="Agency experience leading UX transformation through user-centered writing and strategic documentation, achieving 40% improvement in engagement through data-driven design solutions.">
     <meta property="og:image" content="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-thumbnail-ux-ui-improvements.webp">
     <link rel="stylesheet" href="../base.css">
-    
-    <!-- React Chart Requirements -->
-    <script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
-    <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
@@ -74,18 +70,16 @@
 
     <!-- Main Content -->
     <section class="section">
-        <!-- React Chart -->
         <div class="content-wrap">
-            <h2>Project Impact Overview</h2>
-            <div id="chart-container" data-chart="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-chart-1-ux-ui-improvements.tsx"></div>
-            <p class="card">
-                <div class="content">
-                    Visualization of key UX metrics over the project lifecycle, showing the cumulative impact of conversational design improvements, user-centered adjustments, and strategic documentation. The steady increase in both completion rates and user satisfaction demonstrates the effectiveness of our systematic approach to user experience enhancement.
-                </div>
-            </p>
+            <div class="card">
+                <div data-chart="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/new-clean-branch/assets/entries/ux-ui-improvments/img-chart-1-ux-ui-improvements.tsx" 
+                     data-type="line"
+                     data-title="UX Metrics Over Time"
+                     data-format="%"></div>
+            </div>            
         </div>
     </section>
-
+        
         <!-- Project Icon -->
     <section class="section">
         <div class="content-wrap-narrow">
@@ -339,6 +333,6 @@
     <!-- Scripts -->
     <script src="../assets/js/parallax.js" defer></script>
     <script src="../assets/js/related-projects.js"></script>
-    <script src="../assets/js/chart-loader.js"></script>
+    <script src="../assets/js/charts.js"></script>
 </body>
 </html>

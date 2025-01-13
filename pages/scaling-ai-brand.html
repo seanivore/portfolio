@@ -7,6 +7,8 @@
     <meta name="description" content="Pioneering implementation of AI-driven content automation, producing 89 weekly pieces through advanced systems. Case study of automated blog, video, and podcast production using cutting-edge AI technology.">
     <meta property="og:image" content="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-thumbnail-scaling-ai-content-production.webp">
     <link rel="stylesheet" href="../base.css">
+    
+    <!-- Chart Requirements -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
@@ -82,15 +84,13 @@
         </div>
 
         <div class="content-wrap-wide">
+            <h2>Apps Performance Overview</h2>
             <div class="card">
-                <div id="scaling_ai_brand_1" class="chart-container"></div>
-                <div class="caption">
-                    <p>Evolution of content system across phases</p>
-                </div>
+                <div id="performance-chart" data-chart="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scaling-ai-brand/img-chart-scaling-ai-brand.tsx"></div>
             </div>
         </div>
     </section>
-
+        
     <!-- Phase One Section -->
     <section class="section">
         <div class="content-wrap">
@@ -278,6 +278,6 @@
     <!-- Scripts -->
     <script src="../assets/js/parallax.js" defer></script>
     <script src="../assets/js/related-projects.js"></script>
-    <script src="../assets/js/chart-loader.js"></script>
+    <script src="../assets/js/mobile-charts.js"></script>
 </body>
 </html>
