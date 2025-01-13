@@ -1,0 +1,34 @@
+Position - 36
+
+CONTENT TILE TITLE
+
+CONTENT TILE SUMMARY 
+
+CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+
+CONTENT TILE PRIMARY TAGS 
+
+SEO META TITLE 
+
+SEO META SUMMARY 
+
+SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+
+PAGE TITLE
+
+PAGE HERO IMAGE - 1200px square 
+
+PAGE SECONDARY TAGS
+
+# Data Attributes (for related projects)
+data-position="21"
+data-categories="3,6,7" (for UI filters, just 1-3 options)
+data-primary-tags="ai strategy tech" (categories not actual tags) 
+data-secondary-tags="content-strategy automation system-integration media-production process-strategy implementation analytics innovation" (examples) 
+
+
+generative-art-lectures
+
+
+Large assets to be GIF'ed or clipped, etc. 
+'/Users/seanivore/Development/workspace/temp assets/x_assets for generative art lecture post'
