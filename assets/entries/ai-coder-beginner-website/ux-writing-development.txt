@@ -1,0 +1,52 @@
+
+
+PORTFOLIO DEVELOPMENT TOOLS AND WORKFLOW
+
+# Available Tools
+
+## File Operations
+- read_file: View contents of existing files
+- write_to_file: Create new files or completely overwrite existing ones
+- replace_in_file: Make targeted changes to existing files
+- list_files: Explore directory contents
+- search_files: Find specific content across files
+
+## Visual Testing
+- browser_action: Preview and test pages
+- launch: Open page in browser
+- click: Interact with elements
+- type: Input text
+- scroll_up/down: Navigate page
+- close: Close browser
+  Note: Must launch browser first, perform one action per message, and close when done
+  Note: User may do first review to expedite things and avoid sometimes costly browser token use
+
+## Git Operations
+- git tools for publishing changes to GitHub Pages
+
+# Project Structure
+/Users/seanivore/Projects/portfolio-clean/
+├── projects/          # HTML/CSS files for each entry
+├── assets/entries/    # Images and other media
+├── assets/tile image and thumbnails/    #Design Asset Images
+└── index.html         # Main portfolio page with project grid
+
+# Workflow Rules (These are for when creating a new project entry only) 
+1. Work from /Users/seanivore/Projects directory
+2. Edit new entries in portfolio-clean/projects/
+3. Maintain consistent styling with existing entries
+4. Pause between projects to check in
+5. Have user review instead of browser operation for initial reviews
+6. Push to GitHub when complete
+
+# File Naming 
+- HTML: [project-planned-slug].html
+- CSS: [project-planned-slug].css
+- Assets: portfolio-clean/assets/entries/[project-planned-slug]/
+
+# Best Practices
+1. Check existing entries for style consistency
+2. Use replace_in_file for small changes
+3. Use write_to_file for new files
+4. Test layout at multiple screen sizes
+5. Update index.html project grid in reverse chronological order
