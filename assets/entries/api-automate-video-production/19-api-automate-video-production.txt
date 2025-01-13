@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Transformed social media content production through API automation, achieving 10x reach with 1/100th production time by combining data-driven content optimization with automated cloud-based video generation.
 
 CONTENT TILE IMAGE
-[img-gif-25-api-automate-video-production.gif]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-tile-api-automate-video-production.webp
 
 CONTENT TILE PRIMARY TAGS
 AI Development, Process Strategy, Media Production
@@ -18,11 +18,14 @@ Automated Social Media Video Production: API-Driven Content Scaling | Portfolio
 SEO META SUMMARY
 Case study exploring how API automation and data-driven content optimization achieved 10x social media engagement while reducing production time by 99%, demonstrating innovative approaches to content scaling.
 
+SEO META SOCIAL SHARE THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-thumbnail-api-automate-video-production.webp
+
 PAGE TITLE
 Scaling Social Media Through API-Automated Video Production
 
 PAGE HERO IMAGE
-[img-1-api-automate-video-production.webp]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-hero-api-automate-video-production.webp
 
 PAGE SECONDARY TAGS
 content-strategy, automation, system-integration, analytics, innovation
@@ -33,31 +36,71 @@ This project represents "phase 2" of the overall Astrofluenced growth strategy, 
 
 We created two series meant to showcase the personality of various signs in relatable situations: "Falling in Love" and "Just Fired". In retrospect, it probably should have been "Just Laid-off" as it would have gotten more engagement. People share as a way to identify and brand themselves, and it's much more common for people to talk about being laid off than getting fired, which remains rather taboo and not something people outright share, no pun intended.
 
-[GIF Carousel: Zodiac Signs "In Love" Series]
-[img-gif-1-api-automate-video-production.gif through img-gif-12-api-automate-video-production.gif]
+[GIF Slide show — max width of image is only 400px and 711px height — do a two page style with a normal content width - Alt: Zodiac Signs "In Love" Series] 
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-1-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-2-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-3-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-4-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-5-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-6-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-7-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-8-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-9-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-10-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-11-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-11-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-12-api-automate-video-production.gif?raw=true
+CAPTION (or header) for entire slideshow: High-Performance Visual Content
 
-[GIF Carousel: Zodiac Signs "Just Fired" Series]
-[img-gif-13-api-automate-video-production.gif through img-gif-24-api-automate-video-production.gif]
+[GIF Slide show — max width of image is only 400px and 711px height — do a two page style with a normal content width - Alt: Zodiac Signs "Just Fired" Series] 
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-13-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-14-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-15-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-16-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-17-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-18-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-19-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-20-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-21-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-22-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-23-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-24-api-automate-video-production.gif?raw=true
+CAPTION (or header) for entire slideshow: High-Performance Visual Content
 
 These kinds of after-thoughts are what make creating viral social media content possible. When you're starting a brand and finding your audience, unless you're going to go super lowest common denominator and you don't have much pre-planned messaging to stick to, you're just going to have to experiment. But the key to experimentation isn't just the analytics - it's actually scheduling time every other day to review posts. Do a 'step-back' and write candid thoughts on each post - why it did well and why it didn't. This was where strategists spent a lot of their time back when I was creating viral content regularly for PETA, as detailed in our [viral campaign strategy breakdown](../viral-campaign-strategy).
 
 The reason step-backs and experimenting and analytics are so important is that you are very frequently surprised. Our next batch is a great example of that. These videos are beyond simple - something that takes seconds to put together compared to the story-telling images above. Where the above might get a few hundred views, these simpler versions got thousands of views every time.
 
-[GIF Showcase: High-Performance Visual Content]
-[img-gif-25-api-automate-video-production.gif, img-gif-26-api-automate-video-production.gif, img-gif-27-api-automate-video-production.gif]
+[GIF side by side, each have width only 400px and 711px height, use wide content width - Alt: High-Performance Visual Content] 
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-25-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-26-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-27-api-automate-video-production.gif?raw=true
+CAPTION (or header) for entire group: High-Performance Visual Content
 
 The reasoning, discovered in doing step-backs, was often obvious - these videos were mesmerizing and fun to watch. For where our audience was, for where our TikTok viewers' heads were at, this was the preferred content. It's honestly a great example of marketing today in general: If you want success, you have to follow the data. I've consulted with more than a few growing brands that, these days, you just don't get to always decide what your brand is about if you're looking for success. You follow the numbers. You have a little freedom - once you learn what works you get to build around that. But too often brands - especially large companies - stick to only posting their messaging.
 
+[GIF side by side, each have width only 400px and 711px height, use wide content width - Alt: Automation Produced Social Videos] 
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-28-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-29-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-30-api-automate-video-production.gif?raw=true
+CAPTION (or header) for entire group: Automation Produced Social Videos
+
 Because you can't argue with something that takes 1/10th as long to make AND reaches 10X the number of people. You need that - lots of that - on your page. Then intermix your messaging where you can. It's the marketing funnel at its core. It's also where automation started to become an obvious go-to. Imagine, the video that was taking 1/10th as long to make to reach 10X people, you can now make in 1/100th the time. That's a lot of crazy, exponential math I can't even wrap my head around.
+
+[GIF side by side, each have width only 400px and 711px height, use normal content width - Alt: Automation Produced Social Videos] 
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-31-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-32-api-automate-video-production.gif?raw=true
+CAPTION (or header) for entire group: Automation Produced Social Videos
 
 Once we discovered the style that performed best, we eventually found ways to work more of our messaging in, all while using an API service and images with copy already prepared by AI generative automations that filled up the database that fed the API service that edited together our videos in the cloud. Imagine getting videos that reach 10X at 100 times as fast, just sent to your Dropbox via a Webhook. Once you have the automations set up, you produce content without ever leaving your database - Notion was our go-to.
 
-[GIF Showcase: Automated Content Examples]
-[img-gif-28-api-automate-video-production.gif through img-gif-34-api-automate-video-production.gif]
+[GIF side by side, each have width only 400px and 711px height, use normal content width - Alt: Automation Produced Social Videos] 
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-33-api-automate-video-production.gif?raw=true
+https://github.com/seanivore/portfolio/blob/portfolio-seanivore/assets/entries/api-automate-video-production/img-gif-34-api-automate-video-production.gif?raw=true
+CAPTION (or header) for entire group: Automation Produced Social Videos
 
-[Technical Implementation Section]
+## Technical Implementation: System Architecture
 
-## System Architecture
 - Notion database integration for content management
 - Make automation workflows for process orchestration  
 - LLM API integration for content generation
@@ -67,22 +110,47 @@ Once we discovered the style that performed best, we eventually found ways to wo
 ## Content Categories and Performance
 
 ### Brand Art Integration
-Short-form video content optimized for social engagement:
+
+- Short-form video content 
+- Optimized for social engagement 
 - Horoscope readings for all 12 zodiac signs
 - Themed content (What to Wear, Love Readings, Money Readings)
 - Automated one-line generation per sign via LLM API
 
-[Slide show: Brand Integration Examples]
-[img-1-api-automate-video-production.webp through img-10-api-automate-video-production.webp]
+[Slide show - image max width is only 400px wide 711px tall so double page version - Alt: Brand Integration Examples]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-1-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-2-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-3-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-4-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-5-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-6-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-7-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-8-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-9-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-10-api-automate-video-production.webp
+CAPTION (or header) for entire group: Brand Integration Examples
 
 ### Interactive Content Evolution 
-Experimental formats combining high engagement with core messaging:
+
+- Experimental formats
+- Combining high engagement with core messaging
 - Interactive reading experiences
 - Visually mesmerizing presentations
 - Data-driven format optimization
 
-[Slide show: Interactive Content]
-[img-11-api-automate-video-production.webp through img-21-api-automate-video-production.webp]
+[Slide show - image max width is only 400px wide 711px tall so double page version - Alt: Brand Integration Examples]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-11-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-12-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-13-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-14-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-15-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-16-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-17-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-18-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-19-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-20-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-21-api-automate-video-production.webp
+CAPTION (or header) for entire group: Brand Integration Examples
 
 ### Cross-Category Expansion
 Strategic content targeting adjacent interests:
@@ -90,8 +158,17 @@ Strategic content targeting adjacent interests:
 - Comprehensive wellbeing resources
 - Multi-channel audience development
 
-[Slide show: Category Expansion]
-[img-34-api-automate-video-production.webp through img-42-api-automate-video-production.webp]
+[Slide show - image max width is only 400px wide 711px tall so double page version - Alt: Category Expansion]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-34-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-35-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-36-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-37-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-38-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-39-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-40-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-41-api-automate-video-production.webp
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-42-api-automate-video-production.webp
+CAPTION (or header) for entire group: Category Expansion
 
 ## Performance Metrics
 - 10X increase in average post reach
