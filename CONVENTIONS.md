@@ -510,16 +510,43 @@ Each project folder contains a numbered TXT file (e.g., "22-agentic-social-manag
 # Project Summary
 [2-3 sentence summary for project-summary section]
 
-# Tags
-Primary:
-- tag1 (tech/strategy/ai)
-- tag2
-- tag3
+# Project Hero Image
+1200px x 1200px square image to be placed as the hero image. 
+https://github-url-1.webp
 
-Secondary:
+# Project Tile Title
+Shortened Title Version for Ease of Reading on Homepage Content Tile
+
+# Project Tile Summary 
+Brief 1-sentence summary, for ease of reading on Content Tile on Homepage. Length example: "ArtMovementMuseum uses cutting edge technology to raise up time-tested traditional art aesthetics through modern design."
+
+# Project Tile Image 
+16:9 aspect image with 600px width used in the design of the homepage content tile. 
+https://github-url-1.webp
+
+# SEO META Title 
+Proper SEO formatted version of the title for the hidden meta data section. 
+
+# SEO META Summary 
+Proper SEO formatted version of the summary for the hidden meta data section. 
+
+# SEO META Social Share Image Thumbnail 
+1200px x 630px image placed in the hidden meta data section. 
+https://github-url-1.webp
+
+# Tags
+Primary (always 3, in three categories, if possible):
+- tag1 (tech related)
+- tag2 (strategy related)
+- tag3 (ai related) 
+
+Secondary (always 6):
 - tag1
 - tag2
 - tag3
+- tag4
+- tag5
+- tag6
 
 # Categories
 [Comma-separated list of category numbers]
