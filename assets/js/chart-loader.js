@@ -1,92 +1,63 @@
+// chart-loader.js
 document.addEventListener('DOMContentLoaded', () => {
-    const chartContainer = document.getElementById('chart-container');
-    if (!chartContainer) return;
+    // Find all chart containers
+    const chartContainers = document.querySelectorAll('.chart-container');
+    
+    chartContainers.forEach(container => {
+        const chartId = container.id;
+        
+        // Create canvas for Chart.js
+        const canvas = document.createElement('canvas');
+        container.appendChild(canvas);
+        
+        // Import the data file
+        const script = document.createElement('script');
+        script.src = `../assets/js/charts/${chartId}.js`;
+        script.onload = () => {
+            // Once data is loaded, create the chart
+            createChart(canvas, window[chartId + '_data']);
+        };
+        document.head.appendChild(script);
+    });
+});
 
-    // Campaign metrics data
-    const campaignData = [
-        {
-            name: 'Week 1',
-            reach: 12000,
-            engagement: 240,
-            costPerEngagement: 0.003
-        },
-        {
-            name: 'Week 2',
-            reach: 15000,
-            engagement: 350,
-            costPerEngagement: 0.003
-        },
-        {
-            name: 'Week 3',
-            reach: 18000,
-            engagement: 420,
-            costPerEngagement: 0.003
-        },
-        {
-            name: 'Week 4',
-            reach: 22000,
-            engagement: 510,
-            costPerEngagement: 0.003
-        }
-    ];
-
-    // Create canvas for Chart.js
-    const ctx = document.createElement('canvas');
-    chartContainer.appendChild(ctx);
-
-    // Configure chart
+function createChart(canvas, data) {
+    if (!data) return;
+    
     const config = {
-        type: 'bar',
+        type: 'line',
         data: {
-            labels: campaignData.map(d => d.name),
-            datasets: [
-                {
-                    label: 'Total Reach',
-                    data: campaignData.map(d => d.reach),
-                    backgroundColor: '#82ca9d',
-                    yAxisID: 'y-reach'
-                },
-                {
-                    label: 'Engagements',
-                    data: campaignData.map(d => d.engagement),
-                    backgroundColor: '#8884d8',
-                    yAxisID: 'y-engagement'
-                }
-            ]
+            labels: data.map(d => d.phase || d.stage || d.category),
+            datasets: Object.keys(data[0])
+                .filter(key => key !== 'phase' && key !== 'stage' && key !== 'category')
+                .map((key, index) => ({
+                    label: key.replace(/([A-Z])/g, ' $1').trim(),
+                    data: data.map(d => d[key]),
+                    borderColor: getChartColor(index),
+                    fill: false
+                }))
         },
         options: {
             responsive: true,
+            maintainAspectRatio: false,
             interaction: {
                 intersect: false,
                 mode: 'index'
-            },
-            scales: {
-                'y-reach': {
-                    type: 'linear',
-                    position: 'left',
-                    title: {
-                        display: true,
-                        text: 'Total Reach'
-                    }
-                },
-                'y-engagement': {
-                    type: 'linear',
-                    position: 'right',
-                    title: {
-                        display: true,
-                        text: 'Engagements'
-                    }
-                }
-            },
-            plugins: {
-                title: {
-                    display: true,
-                    text: 'Campaign Performance Overview'
-                }
             }
         }
     };
 
-    // Create the chart
-    new Chart(ctx, config);
-});
+    new Chart(canvas, config);
+}
+
+function getChartColor(index) {
+    const colors = [
+        '#1E2E46', // Deep Blue
+        '#54b0af', // Cyan
+        '#7a8b69', // Green
+        '#E85021', // Orange
+        '#408A8F', // Teal
+        '#5f5655', // Brown
+    ];
+    return colors[index % colors.length];
+}
