@@ -1,7 +1,7 @@
 POSITION - 38
 
 CONTENT TILE TITLE
-AI Art Curator: Embeddings-Based Visual Education System
+Embeddings-Based AI Art Curator
 
 CONTENT TILE SUMMARY
 Developed an AI-powered art education system using embeddings and vector search to curate massive image collections, demonstrated through an extensive glitch art gallery showcasing distinct technical approaches and artistic styles.
@@ -10,7 +10,7 @@ CONTENT TILE IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/embeddings-art-curation/img-tile-ai-curates-gallery.webp
 
 CONTENT TILE PRIMARY TAGS
-AI Development, Content Production, Innovation
+embeddings agentic-production art-history
 
 SEO META TITLE
 AI Art Curator: Embeddings-Based Visual Education System | Portfolio
@@ -32,8 +32,8 @@ machine-learning content-strategy education-systems data-analysis visual-systems
 
 # Data Attributes
 data-position=\"38\"
-data-categories=\"5,6,7\"
-data-primary-tags=\"ai-development content-production innovation\"
+data-categories=\"2,3,6\"
+data-primary-tags=\"embeddings agentic-production art-history\"
 data-secondary-tags=\"machine-learning content-strategy education-systems data-analysis visual-systems automation\"
 
 ---

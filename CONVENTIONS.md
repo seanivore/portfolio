@@ -406,14 +406,37 @@ Example of proper section and content-wrap nesting:
     <div class="content-wrap">
         <h2>Key Takeaways</h2>
     </div>
-    <!-- Conclusion text uses wide wrap -->
+    <!-- Main conclusion text in regular content-wrap -->
+    <div class="content-wrap">
+        <p>Main conclusion text and key points...</p>
+    </div>
+    <!-- Only the final, standalone sentence goes in .conclusion wrap -->
     <div class="content-wrap-wide">
         <div class="conclusion">
-            <p>Conclusion text here...</p>
+            <p>Final concluding sentence that can stand alone while still connecting to the text above.</p>
         </div>
     </div>
 </section>
 ```
+
+**Important Note About Conclusions:**
+- The `.conclusions` class should contain only one closing sentence
+- Place the rest of the conclusion content above the `.conclusions` wrap
+- The sentence in `.conclusions` must be able to stand alone while also working as part of the larger conclusion
+- Example structure:
+  ```html
+  <section class="section">
+      <div class="content-wrap">
+          <h2>Key Takeaways</h2>
+          <p>[Main conclusion content goes here...]</p>
+      </div>
+      <div class="content-wrap-wide">
+          <div class="conclusion">
+              <p>[Single, standalone closing sentence that also works with content above]</p>
+          </div>
+      </div>
+  </section>
+  ```
 
 ## Interactive Elements
 

@@ -1,7 +1,7 @@
 POSITION - 26
 
 CONTENT TILE TITLE
-AI-Driven Fashion Design: From Character to Couture
+Agentic Fashion Designer
 
 CONTENT TILE SUMMARY
 Developed an innovative AI system that transforms character narratives into trending fashion designs, combining generative storytelling, archetype analysis, and automated design workflows to create authentic, relatable collections.
@@ -32,8 +32,8 @@ automation process-strategy creative-direction innovation system-integration des
 
 # Data Attributes
 data-position=\"26\"
-data-categories=\"3,5,7\"
-data-primary-tags=\"ai-development generative-production industry-innovation\"
+data-categories=\"3,5,6\"
+data-primary-tags=\"agentic-automation generative-production systems-architect\"
 data-secondary-tags=\"automation process-strategy creative-direction innovation system-integration design-systems\"
 
 ---

@@ -1,7 +1,7 @@
 POSITION - 39
 
 CONTENT TILE TITLE
-Rapid MCP Integration: Building a Code Analysis System in Hours
+Development of Code Analysis MCP in Hours
 
 CONTENT TILE SUMMARY
 Developed a sophisticated code analysis system using Model Context Protocol (MCP) in under 6 hours, demonstrating how modern AI protocols enable rapid development of complex technical systems without sacrificing quality or extensibility.
@@ -10,7 +10,7 @@ CONTENT TILE IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-tile-code-analysis-mcp-build.webp
 
 CONTENT TILE PRIMARY TAGS
-Systems Architecture, AI Development, Innovation
+mcp-integration rapid-development code-analysis
 
 SEO META TITLE
 Building an AI-Powered Code Analysis System Using MCP | Portfolio
@@ -32,9 +32,9 @@ rapid-development protocol-integration system-design technical-architecture ai-i
 
 # Data Attributes
 data-position="39"
-data-categories="2,6,7"
-data-primary-tags="systems-architecture ai-development innovation"
-data-secondary-tags="rapid-development protocol-integration system-design technical-architecture ai-integration code-analysis"
+data-categories="7,8"
+data-primary-tags="mcp-integration rapid-development code-analysis"
+data-secondary-tags="mcp-development protocol-integration system-design technical-architecture ai-integration code-analysis"
 
 ---
 

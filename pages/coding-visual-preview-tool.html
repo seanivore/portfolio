@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developing a Visual Preview Tool for AI Code Review | Portfolio</title>
+    <meta name="description" content="How a one-hour, $3 development project gave Claude the ability to see and analyze web pages, showcasing rapid development of practical AI tools through Model Context Protocol integration.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-thumbnail-coding-visual-preview-tool.webp">
+    <link rel="stylesheet" href="../base.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-content">
+            <a href="../index.html" class="nav__back">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <div class="hero-overlay">
+            <div class="content-wrap">
+                <h1 class="hero-title">The $3 Solution: Giving Claude Visual Inspection Capabilities</h1>
+            </div>
+        </div>
+        <div class="hero-background" style="background-image: url('https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-hero-coding-visual-preview-tool.webp');"></div>
+    </div>
+
+    <!-- Project Summary Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <!-- Hidden project card for data attributes -->
+            <article class="project-card" 
+                     data-position="40"
+                     data-categories="3,7,8"
+                     data-primary-tags="mcp-development technical-innovation open-source"
+                     data-secondary-tags="rapid-development protocol-integration system-design mcp-development ai-augmentation claude-tools"
+                     style="display: none;">
+            </article>
+        </div>
+
+        <div class="content-wrap">
+            <p class="project-summary">
+                Created a Model Context Protocol server in under an hour that gives Claude the ability to visually inspect HTML files it helps create, demonstrating rapid development of practical AI-augmentation tools.
+            </p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="tags-section">
+                <div class="tag-group">
+                    <span class="tag tag--tech">MCP Development</span>
+                    <span class="tag tag--tech">Technical Innovation</span>
+                    <span class="tag tag--tech">Open Source</span>
+                </div>
+                <div class="tag-group">
+                    <span class="tag tag--secondary">Rapid Development</span>
+                    <span class="tag tag--secondary">Protocol Integration</span>
+                    <span class="tag tag--secondary">System Design</span>
+                    <span class="tag tag--secondary">MCP Development</span>
+                    <span class="tag tag--secondary">AI Augmentation</span>
+                    <span class="tag tag--secondary">Claude Tools</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Bridging AI's Visual Gap Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Bridging AI's Visual Gap</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>When building web interfaces with AI assistance, a critical limitation emerged: Claude could write HTML and CSS but couldn't actually see the results. This disconnect between code creation and visual verification meant extra work for developers who needed to manually check and describe the output back to the AI. The solution? A custom Model Context Protocol (MCP) server that would give Claude "eyes" to inspect web pages directly.</p>
+            <p>What started as a simple idea turned into a powerful demonstration of rapid tool development. In under an hour, and for just $3.03 in API costs, we created a system that fundamentally enhanced Claude's ability to assist with web development. This isn't just a story about building a preview tool – it's about how quickly we can augment AI capabilities when we identify specific, practical needs.</p>
+        </div>
+    </section>
+
+    <!-- Technical Architecture Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Technical Architecture</h2>
+        </div>
+
+        <div class="content-wrap">
+            <div class="mermaid">
+                graph TD
+                    A[Client Request] -->|HTML File Path| B[MCP Server]
+                    B --> C[File System Operations]
+                    B --> D[Puppeteer Controller]
+                    
+                    subgraph Preview Process
+                        D --> E[Load HTML]
+                        E --> F[Inject CSS]
+                        F --> G[Capture Screenshot]
+                        G --> H[Save Image]
+                    end
+                    
+                    subgraph Analysis
+                        C --> I[Read File]
+                        I --> J[Parse Structure]
+                        J --> K[Generate Report]
+                    end
+                    
+                    H --> L[Image Storage]
+                    K --> M[Analysis Results]
+                    
+                    L & M -->|MCP Response| N[Claude]
+            </div>
+        </div>
+
+        <div class="content-wrap">
+            <p>The system architecture prioritizes simplicity and efficiency while maintaining robust functionality. By leveraging Puppeteer for headless browser control and integrating it with the MCP SDK, we created a seamless bridge between Claude's code analysis capabilities and visual inspection needs.</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-01-coding-visual-preview-tool.webp" 
+                     alt="Watercolor painting with geometric shapes behind male figures">
+            </div>
+        </div>
+    </section>
+
+    <!-- Core Implementation Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Core Implementation</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>The heart of the system lies in its ability to handle local resources efficiently:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <div class="content">
+                    <pre><code>class PreviewServer {
+  private screenshotDir: string;
+  
+  constructor() {
+    this.screenshotDir = path.join(__dirname, 'screenshots');
+    this.ensureDirectoryExists();
+  }
+
+  async previewFile(filePath: string): Promise<PreviewResult> {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+    
+    // Handle local file loading with proper path resolution
+    const absolutePath = path.resolve(filePath);
+    await page.goto(`file://${absolutePath}`);
+    
+    // Ensure CSS is properly loaded
+    await this.injectStyles(page);
+    
+    // Capture and save screenshot
+    const screenshotPath = await this.captureScreenshot(page);
+    
+    await browser.close();
+    
+    return {
+      screenshot: screenshotPath,
+      analysis: await this.analyzeStructure(filePath)
+    };
+  }
+}</code></pre>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Technical Challenges Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Technical Challenges Overcome</h2>
+        </div>
+
+        <div class="content-wrap">
+            <h3>Local Resource Access</h3>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ol>
+                <li><strong>CSS Injection</strong>
+                    <ul>
+                        <li>Direct filesystem reading of stylesheets</li>
+                        <li>Programmatic style injection via Puppeteer</li>
+                        <li>Relative path resolution for resources</li>
+                    </ul>
+                </li>
+                <li><strong>Path Management</strong>
+                    <ul>
+                        <li>Absolute path handling implementation</li>
+                        <li>Dedicated screenshot directory creation</li>
+                        <li>Proper file system permissions setup</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+
+        <div class="content-wrap">
+            <h3>Environment Integration</h3>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <div class="content">
+                    <pre><code>const configureEnvironment = (): void => {
+  // Handle ES module path resolution
+  const __dirname = path.dirname(fileURLToPath(import.meta.url));
+  
+  // Set up screenshot directory
+  const screenshotDir = path.join(__dirname, 'screenshots');
+  fs.mkdirSync(screenshotDir, { recursive: true });
+  
+  // Configure MCP server settings
+  process.env.MCP_SERVER_PORT = '3000';
+};</code></pre>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-02-coding-visual-preview-tool.webp" 
+                     alt="Watercolor with geometric shapes behind the male figures">
+            </div>
+        </div>
+    </section>
+
+    <!-- Impact and Results Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Impact and Results</h2>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number">53m</div>
+                    <div class="stat-label">Development Time</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">$3</div>
+                    <div class="stat-label">Total Cost</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">287</div>
+                    <div class="stat-label">Lines of Code</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-wrap">
+            <h3>Capability Enhancements</h3>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ul>
+                <li>Full-page screenshot capture</li>
+                <li>CSS-styled preview generation</li>
+                <li>Detailed HTML structure analysis</li>
+                <li>Local file system integration</li>
+            </ul>
+        </div>
+
+        <div class="content-wrap">
+            <h3>Community Benefits</h3>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ul>
+                <li>Open source availability</li>
+                <li>MIT License for maximum flexibility</li>
+                <li>Clear contribution guidelines</li>
+                <li>Comprehensive documentation</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Open Source Release Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Open Source Release</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>The project is now available on GitHub, enabling others to:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ol>
+                <li><strong>Implementation Options</strong>
+                    <ul>
+                        <li>Claude OS configuration</li>
+                        <li>Cline VSCode extension setup</li>
+                        <li>Custom environment integration</li>
+                    </ul>
+                </li>
+                <li><strong>Project Structure</strong>
+                    <ul>
+                        <li>TypeScript implementation</li>
+                        <li>Full documentation</li>
+                        <li>Contributing guidelines</li>
+                        <li>Proper .gitignore setup</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-03-coding-visual-preview-tool.webp" 
+                     alt="Watercolor of men at a lake in the woods">
+            </div>
+        </div>
+    </section>
+
+    <!-- Future Development Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Future Development</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>The success of this rapid development project opens several exciting possibilities:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ol>
+                <li><strong>Enhanced Preview Features</strong>
+                    <ul>
+                        <li>Responsive design testing</li>
+                        <li>Interactive element inspection</li>
+                        <li>Animation preview support</li>
+                    </ul>
+                </li>
+                <li><strong>Extended Integration</strong>
+                    <ul>
+                        <li>CI/CD pipeline integration</li>
+                        <li>IDE plugin development</li>
+                        <li>Multi-file project support</li>
+                    </ul>
+                </li>
+                <li><strong>Community Expansion</strong>
+                    <ul>
+                        <li>Additional browser support</li>
+                        <li>Custom preview templates</li>
+                        <li>Enhanced analysis tools</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+    </section>
+
+    <!-- Conclusions Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Key Takeaways</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>This project demonstrates how specific, well-defined problems can be solved quickly and cost-effectively when approached with the right tools and focus. In less time than a typical meeting and for less than the cost of a coffee, we created a tool that fundamentally enhances AI-assisted web development.</p>
+            <p>The success of this rapid development approach, combined with the decision to open source the solution, shows how individual solutions can become community resources.</p>
+        </div>
+        
+        <div class="content-wrap-wide">
+            <div class="conclusion">
+                <p>Sometimes the most impactful tools aren't the ones that take months to build, but rather the focused solutions that address specific, immediate needs.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Related Projects Section -->
+    <section class="section related-projects">
+        <div class="content-wrap">
+            <h2>Related Projects</h2>
+        </div>
+        <div class="content-wrap">
+            <div class="related-grid">
+                <a href="code-analysis-mcp-build.html" class="related-card">
+                    <h3>Code Analysis MCP Development</h3>
+                    <p>Developed a sophisticated code analysis system using Model Context Protocol in under 6 hours.</p>
+                    <div class="related-tags">
+                        <span class="related-tag">MCP Integration</span>
+                        <span class="related-tag">Code Analysis</span>
+                    </div>
+                </a>
+                <a href="ai-mvp-development.html" class="related-card">
+                    <h3>Strategic MVP Development</h3>
+                    <p>An in-depth analysis of strategic MVP development methodology, focusing on project selection and prioritization.</p>
+                    <div class="related-tags">
+                        <span class="related-tag">Strategy</span>
+                        <span class="related-tag">Development</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="footer-copyright">&copy; 2025 Sean August Horvath. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Required Scripts -->
+    <script src="../assets/js/parallax.js" defer></script>
+    <script src="../assets/js/related-projects.js"></script>
+</body>
+</html>
