@@ -9,17 +9,23 @@ Created a Model Context Protocol server in under an hour that gives Claude the a
 CONTENT TILE PRIMARY TAGS
 Systems Integration, Technical Innovation, Open Source
 
+CONTENT TILE IMAGE 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-tile-coding-visual-preview-tool.webp
+
 SEO META TITLE
 Developing a Visual Preview Tool for AI Code Review | Portfolio
 
 SEO META SUMMARY
 How a one-hour, $3 development project gave Claude the ability to see and analyze web pages, showcasing rapid development of practical AI tools through Model Context Protocol integration.
 
+SEO META SOCIAL SHARE THUMBNAIL IMAGE 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-thumbnail-coding-visual-preview-tool.webp
+
 PAGE TITLE
 The $3 Solution: Giving Claude Visual Inspection Capabilities
 
 PAGE HERO IMAGE
-[Hero image showing split screen of code and preview]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-hero-coding-visual-preview-tool.webp
 
 PAGE SECONDARY TAGS
 rapid-development protocol-integration system-design mcp-development ai-augmentation open-source
@@ -66,6 +72,9 @@ graph TD
 ```
 
 The system architecture prioritizes simplicity and efficiency while maintaining robust functionality. By leveraging Puppeteer for headless browser control and integrating it with the MCP SDK, we created a seamless bridge between Claude's code analysis capabilities and visual inspection needs.
+
+[image, normal or narrow content wrap, Alt: Watercolor painting with geometric shapes behind male figures]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-01-coding-visual-preview-tool.webp
 
 ## Core Implementation
 
@@ -134,6 +143,8 @@ const configureEnvironment = (): void => {
   process.env.MCP_SERVER_PORT = '3000';
 };
 ```
+[image, narrow content width, Alt: Watercolor with geometric shapes behind the male figures] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-02-coding-visual-preview-tool.webp
 
 ## Impact and Results
 
@@ -188,6 +199,9 @@ The success of this rapid development project opens several exciting possibiliti
    - Additional browser support
    - Custom preview templates
    - Enhanced analysis tools
+
+[image, normal or narrow content wrap, Alt: Watercolor of men at a lake in the woods] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-03-coding-visual-preview-tool.webp
 
 ## Conclusion
 
