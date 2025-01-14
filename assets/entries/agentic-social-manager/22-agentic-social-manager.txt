@@ -54,17 +54,45 @@ The Astrofluenced brand showcased the versatility of our automation system throu
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-03-agentic-social-manager.webp
 CAPTION: With so many different pieces of content to keep track of on so many different source social platforms, an automation that prepared a tracked and shortened link with all the necessary details added directly to the same database that the promotions would publish from was essential. 
 
-[image - normal content width - Alt: Video screenshot that says Two important crystals to have hand for this week's astrology] ]
+[image - normal content width - Alt: Automated API Video Production Automation]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-12-scaling-ai-content-production.webp
+CAPTION: The automation that produced videos by pulling from AI prepared databases, sending the details over API, then instantly rendering the video in the cloud before sending it back in the name automation. 
+
+[image - normal content width - Alt: Video screenshot that says Two important crystals to have hand for this week's astrology]
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-08-agentic-social-manager.webp
-CAPTION: Sent to a service that sends back the rendered video via Webhook. 
+CAPTION: The automated API video productions were almost always in the top posts. 
 
-One of our most complex automations powered our crystal content videos [img-08-agentic-social-manager.webp]. The process began with astrology data entry, triggering an AI analysis that informed crystal selection. This data then fed into another AI system for copywriting and image generation. Finally, an API service automatically edited the video using a template, with cloud rendering taking mere seconds before automated distribution.
+One of our most complex automations powered our crystal content videos, the automation and top post pictured above. The process began with astrology data entry, triggering an AI analysis that informed crystal selection. This data then fed into another AI system for copywriting and image generation. Finally, an API service automatically edited the video using a template, with cloud rendering taking mere seconds before automated distribution.
 
-For our metaphysical content series [img-09-agentic-social-manager.webp], we created angelic-themed visuals using generative AI, with captions crafted by vision AI analysis of the completed images. This approach allowed us to maintain both visual consistency and engaging messaging across multiple platforms.
+[image - normal content width - Alt: Inspirational, sharable Facebook post]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-09-agentic-social-manager.webp
+CAPTION: Another witch series for our metaphysical, magic loving audience. 
 
-The Style Spectrum brand demonstrated sophisticated content curation [img-10-agentic-social-manager.webp], leveraging our tagged and embedded collection data to group thematically related prints. The AI generated staged presentations and crafted engaging captions – even making clever Harry Potter references that resonated with our audience.
+For our metaphysical content series, consistently in the top posts, the best of which is posted above, we created angelic-themed visuals using generative AI, with captions crafted by vision AI analysis of the completed images. This approach allowed us to maintain both visual consistency and engaging messaging across multiple platforms. Even the captions were crafted, by training of the AI, to be short and sharable for these posts. 
 
-Perhaps most impressively, our celebrity content tracking automation [img-11-agentic-social-manager.webp] showed its sophistication when it identified and repurposed a Beyoncé post, with the AI making an insightful connection between the image's alien aesthetic and Aquarius energy, creating timely astrological content that capitalized on current trends.
+[image - normal content width - Alt: Collection of art prints in a Facebook post]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-10-agentic-social-manager.webp
+CAPTION: Style Spectrum's top image post of all time. 
+
+The Style Spectrum brand demonstrated sophisticated content curation, like the top post of all time above, leveraging our tagged and embedded collection data to group thematically related prints. The AI generated staged presentations and crafted engaging captions – even making clever Harry Potter references that resonated with our audience.
+
+[image - normal content width - Alt: Thumbnail & SEO Text Weekly Update Posting Link Shares with Different M]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-04-agentic-social-manager.webp
+CAPTION: An essential if you want to be able to promote a page continuously for days and even weeks. 
+
+[first of two images in one row with content wrap set to wide, Alt: Influencer tracking automations.] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-06-agentic-social-manager.webp
+CAPTION: Automatically downloads the image of their post, which is then analyzed by visual AI, so a perfect caption can be produced. 
+
+[second of two images in one row with content wrap set to wide, Alt: Influencer tracking automations.] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-05-agentic-social-manager.webp
+CAPTION: The AI would notice things in the image we'd never have know — style of art the post is inspired by, or location the image took place. 
+
+Perhaps most impressively, our celebrity content tracking automation showed its sophistication when it identified and repurposed a Beyoncé post, with the AI making an insightful connection between the image's alien aesthetic and Aquarius energy, creating timely astrological content that capitalized on current trends.
+
+[image - normal content wrap width - Alt: Beyonce Album Art]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-11-agentic-social-manager.webp
+CAPTION: She does look like the epitome of Aquarius. Pluto in Aquarius especially. 
 
 ## Technical Implementation
 
