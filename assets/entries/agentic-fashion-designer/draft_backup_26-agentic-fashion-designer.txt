@@ -7,21 +7,23 @@ CONTENT TILE SUMMARY
 CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-tile-agentic-fashion-designer.webp
 
-CONTENT TILE PRIMARY TAGS 
+CONTENT TILE PRIMARY TAGS (3)
 
 SEO META TITLE 
 
 SEO META SUMMARY 
 
-SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+SEO META SOCIAL SHARE THUMBNAIL 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-thumbnail-agentic-fashion-designer.webp
 
 PAGE TITLE
 
-PAGE HERO IMAGE - 1200px square 
+PAGE HERO IMAGE 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-hero-agentic-fashion-designer.webp
 
-PAGE SECONDARY TAGS
+PAGE SECONDARY TAGS (6)
+
+DATA-CATEGORIES 
 
 
 ---
@@ -41,16 +43,51 @@ And for added enjoyment, the scenarios, which if I don't get a chance to detail 
 
 Obviously please arrange the visuals around as you see best fit. 
 
+---Rather than a caption with these, maybe we just use it as text---
+
+Narrative written, Archetype and variables identified for crafting character and style, 
+
 ---
 
-[one image card in this row - Alt: Image says "Automated Photograph Preparations Cropped and resized using Vision Al. Stored in database with Generative Al produced keywords and descriptions."] 
+
+[image, regular content wrap — Alt: Automation with many AI writing and reviewing a short story
+
+] 
+Complex Narrative is Produced, Reviewed, Edited, and then Sorted based on needsb y m any ai
+Primary Narrative Composition
+Generative Al creates relatable stories, often drawing inspiration from astrology.
+Subsequently, numerous Al reviewers analyze the stories, identifying character arcs, climaxes, conflicts, and resolutions. Character profiles are generated, enabling the categorization of archetypes and the prediction of moods based on the narrative. By combining these variables, we can select historical art, general aesthetics, and eventually, meticulously crafted outfits that push boundaries and create trends that are almost certain to resonate with audiences.
+
+
+
+[image, regular content wrap — Alt: Agentic Image Management] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-01-agentic-fashion-designer.webp
 
-[one image card in this row - Alt: Image says "Generative Website Content Production Vision Al reviews photoshoot and outfits. Generative copy prepared using parameters provided in database with imagery. Webpage content post constructed and published over API."] 
+--> A flow that reviews images with Vision AI and then manages the media according to what is needed. The flow has multiple AI check-points where captions, descriptions, titles, and other text needed for the content being produced is composed. It also automatically makes all necessary edits of the image by cropping and resizing a proper thumbnail share image, hero image, as well as landscape and portrait versions, saving each in both .JPG and .WEBP formats. Lastly, the automation categorizes and tags the image if needed, saving it to embeddings to be easily found by AI to produce content using brand art or fashion photos in future content production with accuracy. 
+
+
+[image, regular content wrap — Alt: Web Content Production Automation]
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-02-agentic-fashion-designer.webp
 
-[one image card in this row - Alt: Turn Narrative into Fashion & Life Catalysts - Archetypes, historic art movements, and narratives that mark life milestones are combined by Al to identify relationships and patterns between identifiers. These patterns are then used to create avant-garde, on-trend fashion outfits that cater to the subject's needs, fostering personal growth and self-discovery."] 
+--> Having prepared generative copy and organized it in the database with appropriate photoshoot images, this automation simply locates those assets and applies them to a webpage template design in your CMS system using API. 
+
+
+[image, regular content wrap — Alt: Narrative Reviewed Life Milestones]
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-03-agentic-fashion-designer.webp
+
+--> Archetypes, historic art movements, and narratives that mark life milestones are combined by Al to identify relationships and patterns between identifiers. These patterns are then used to create avant-garde, on-trend fashion outfits that cater to the subject's needs, fostering personal growth and self-discovery. 
+
+A good deal of written content is reviewed at the start — the overall narrative containing all the various archetypes situated in their story arcs. Then a line of up to ten AI review the narrative to identify and produce the needed content for each archetypes so that fashion photographs can be produced. These are sent directly to the appropriate section of the database for each archetype. 
+
+
+
+
+
+
+
+[one image card in this row - Alt: Image says "Generative Website Content Production Vision Al reviews photoshoot and outfits. Generative copy prepared using parameters provided in database with imagery. Webpage content post constructed and published over API."] 
+
+[one image card in this row - Alt: Turn Narrative into Fashion & Life Catalysts - Archetypes, historic art movements, and narratives that mark life milestones are combined by Al to identify relationships and patterns between identifiers. These patterns are then used to create avant-garde, on-trend fashion outfits that cater to the subject's needs, fostering personal growth and self-discovery."] 
 
 [one image card in this row - Alt: Primary Narrative Composition - Generative Al creates relatable stories, often drawing inspiration from astrology. Subsequently, numerous Al reviewers analyze the stories, identifying character arcs, climaxes, conflicts, and resolutions. Character profiles are generated, enabling the categorization of archetypes and the prediction of moods based on the narrative. By combining these variables, we can select historical art, general aesthetics, and eventually, meticulously crafted outfits that push boundaries and create trends that are almost certain to resonate with audiences."] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-fashion-designer/img-04-agentic-fashion-designer.webp
