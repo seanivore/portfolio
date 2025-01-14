@@ -34,59 +34,53 @@ content-strategy, automation, creative-direction, project-management, innovation
 
 This project, initiated in June 2024, marked a pivotal moment in my understanding of AI's potential for creative project management. What began as an ambitious attempt to create "Apartment Therapy"-style content around art history aesthetics turned into a revelation about AI's capability to handle complex, multi-faceted creative projects – months before dedicated AI project management tools even existed.
 
-The scope was intentionally challenging: create an Art Deco-themed virtual photoshoot, produce a video, and develop blog content, all while maintaining a cohesive narrative thread. Truly, I had never even considered the possibility of directing a virtual photoshoot before this project – it seemed like something far outside my capabilities. But as the AI began organizing the shoot, planning the angles, and suggesting compositions, what initially felt overwhelming quickly transformed into a masterclass in AI-driven project management, as GPT Assistant simultaneously handled photoshoot planning, video scripting, and content strategy with remarkable efficiency.
+The scope was intentionally challenging: create an Art Deco-themed virtual photoshoot, produce a video, and develop blog content, all while maintaining a cohesive narrative thread. Truly, I had never even considered the possibility of directing a virtual photoshoot before this project – it seemed like something far outside my capabilities. The AI's approach to the photoshoot itself was fascinating – it created detailed prompts for each shot, considering composition, lighting, and architectural details that would authentically represent Art Deco style while maintaining modern livability. As the AI began organizing the shoot, planning the angles, and suggesting compositions, what initially felt overwhelming quickly transformed into a masterclass in AI-driven project management.
 
 Our protagonist's story evolved organically through collaboration with the AI. Meet Alexa, a Leo with a love for glamour and Art Deco style, who had just landed a major promotion at her advertising agency. A creative director with impeccable taste and a keen eye for blending modern and vintage styles, she brought her professional expertise home to her DTLA penthouse loft. Her space needed to reflect both her vibrant personality – complete with tasteful sleeve tattoos and a love for lace – and her sophisticated professional life, where she was known for crafting campaigns as bold and memorable as her living space.
 
 [one image - set to normal content width - Alt: Art Deco Living Area Contemporary] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-01-ai-virtual-photoshoot-design.webp
-CAPTION: Wide shot of Alexa's primary living area, a contemporary art deco room with a high rise floor to ceiling window. 
+CAPTION: The heart of Alexa's penthouse showcases quintessential Art Deco grandeur reimagined for modern living. Dramatic floor-to-ceiling windows flood the space with natural light, while geometric patterns and metallic accents create a sophisticated dialogue between 1920s glamour and contemporary design. The thoughtful balance of luxe materials and clean lines perfectly reflects both the Art Deco movement's love of opulence and today's preference for livable luxury.
 
 The creative direction process, particularly in image selection, demonstrated the importance of professional judgment in AI collaboration. Our primary selections centered on spaces that balanced luxury with believability:
 
 [one image - set to normal content width - Alt: Art Deco Bedroom Contemporary] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-02-ai-virtual-photoshoot-design.webp
-CAPTION: Hip, contemporary tropical-core Art Deco master bedroom finished with green painted woodwork and lace. 
+CAPTION: The master bedroom exemplifies Alexa's bold style choices, where emerald green painted woodwork creates a dramatic backdrop for Art Deco's signature geometric patterns. The space masterfully incorporates her love of lace through modern textiles, while maintaining the clean lines and luxurious materials characteristic of the era. A perfect marriage of period glamour and contemporary comfort.
 
 The bedroom perfectly captured our refined Art Deco vision, with its sophisticated green paneling and geometric headboard creating a space that felt both aspirational and attainable. Similar balance was achieved in the transformed apothecary table area:
 
 [one image - set to normal content width - Alt: Contemporary Art Deco Bar Area] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-03-ai-virtual-photoshoot-design.webp
-CAPTION: Antique collection of decor and liquor bottles all of fine crystal on a trendy apothecary table style small in-home bar space. 
-
-This space exemplifies how we worked with unexpected AI outputs – while we had initially envisioned an apothecary table (a playful nod to Friends), the AI produced this stunning bar area. Rather than forcing our original concept, we embraced this more sophisticated interpretation.
+CAPTION: What began as a playful nod to Friends evolved into this sophisticated vignette – an artfully curated bar display featuring vintage-inspired crystal decanters and geometric glassware. The arrangement honors Art Deco's fascination with luxury materials while serving a thoroughly modern purpose as an entertainment focal point, perfect for a successful creative director's lifestyle.
 
 [one image - set to normal content width - Alt: Contemporary Art Deco Workspace] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-04-ai-virtual-photoshoot-design.webp
-CAPTION: Truly on-trend painted blue and intricate gold wall ornaments creating a large but cozy space to work from home. 
-
-The workspace represents another successful adaptation, where contemporary functionality meets Art Deco glamour without sacrificing believability.
+CAPTION: Alexa's home office seamlessly blends functionality with Art Deco splendor. The rich blue walls with intricate gold detailing create an inspiring backdrop for creative work, while contemporary office furnishings ensure practicality. The space perfectly represents the intersection of historical glamour and modern necessity – essential for a high-level creative who often brings work home.
 
 Our secondary selections focused on contemporary realistic spaces that grounded the narrative:
 
 [one image - set to normal content width - Alt: Contemporary Art Deco Secondary Bedroom Space] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-05-ai-virtual-photoshoot-design.webp
-CAPTION: Green painted walls, vaulted ceiling, and more lace on this guest bedroom with large penthouse windows showing Downtown Los Angeles. 
+CAPTION: The guest bedroom continues the home's Art Deco narrative while maintaining its own identity. The vaulted ceiling and signature green walls echo the master suite, while delicate lace accents add softness to the geometric Art Deco patterns. Generous windows frame Downtown Los Angeles views, grounding the space in its contemporary urban setting.
 
 [one image - set to normal content width - Alt: Contemporary Art Deco Secondary Living Space] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-06-ai-virtual-photoshoot-design.webp
-CAPTION: Very contemporary primary living room space with classic DTLA loft cement walls as well as classic Art Deco wall decorations, with more natural light, of course. 
-
-These spaces helped balance the more opulent primary selections, creating a cohesive story of luxury that remained within the realm of possibility for a successful advertising executive's DTLA penthouse.
+CAPTION: This additional living space brilliantly integrates industrial loft elements – exposed concrete walls and soaring ceilings – with classic Art Deco decorative elements. The abundant natural light emphasizes the careful balance between historical opulence and contemporary urban sophistication, creating an inviting space for both relaxation and entertainment.
 
 The project required careful navigation of various AI-generated options. While some spaces were stunningly opulent:
 
 [one image - set to normal content width - Alt: Contemporary Art Deco Opulent Room] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-10-ai-virtual-photoshoot-design.webp
-CAPTION: Wide shot of a living area that was a bit too much for Alexa's space, but opulent and gorgeous nonetheless. 
+CAPTION: Though architecturally breathtaking with its grand proportions and exquisite Art Deco detailing, this space ultimately proved too palatial for our narrative. Its scale, while impressive, would have stretched the boundaries of even a luxury DTLA penthouse.
 
 [one image - set to normal content width - Alt: Contemporary Art Deco Opulent Room] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-11-ai-virtual-photoshoot-design.webp
-CAPTION: Focus on another gigantic room, too large for Alexa's space, but displaying the stunning lighting figures that are as classic to the era as they are trendy. 
+CAPTION: The dramatic lighting fixtures in this space epitomize Art Deco's celebration of form and light. While the scale proved too grand for our final narrative, these elements perfectly capture the era's dedication to transforming functional items into artistic statements.
 
 [one image - set to normal content width - Alt: Contemporary Art Deco Opulent Room] 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-12-ai-virtual-photoshoot-design.webp
-CAPTION: Overhead view of a very large dining area; Alex'a opted for an additional living room instead of a dining room, though it was a hard choice. 
+CAPTION: This expansive dining area, while stunning in its Art Deco grandeur, ultimately gave way to Alexa's preference for an additional living space – a choice that better reflected modern urban lifestyle priorities while maintaining the style's emphasis on sophisticated entertainment spaces.
 
 We had to make strategic decisions about which spaces to include. Multiple grand living rooms would have stretched the narrative's credibility, even for a penthouse setting. This selective curation process demonstrated how human creative direction can shape AI outputs into cohesive storytelling.
 
