@@ -1,13 +1,13 @@
 POSITION - 40
 
 CONTENT TILE TITLE
-Building Claude's Eyes: A $3 Visual Preview Tool
+$3 Eyes for Claude to Review Web Design
 
 CONTENT TILE SUMMARY
 Created a Model Context Protocol server in under an hour that gives Claude the ability to visually inspect HTML files it helps create, demonstrating rapid development of practical AI-augmentation tools.
 
 CONTENT TILE PRIMARY TAGS
-Systems Integration, Technical Innovation, Open Source
+MCP Development, Technical Innovation, Open Source
 
 CONTENT TILE IMAGE 
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-tile-coding-visual-preview-tool.webp
@@ -32,9 +32,9 @@ rapid-development protocol-integration system-design mcp-development ai-augmenta
 
 # Data Attributes
 data-position="40"
-data-categories="2,6,7"
-data-primary-tags="systems-integration technical-innovation open-source"
-data-secondary-tags="rapid-development protocol-integration system-design mcp-development ai-augmentation open-source"
+data-categories="3,7,8"
+data-primary-tags="mcp-development technical-innovation open-source"
+data-secondary-tags="rapid-development protocol-integration system-design mcp-development ai-augmentation claude-tools"
 
 ---
 

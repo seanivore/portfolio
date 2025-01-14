@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building an AI-Powered Code Analysis System Using MCP | Portfolio</title>
+    <meta name="description" content="Explore how Model Context Protocol enabled the rapid development of a sophisticated code analysis system, demonstrating the power of modern AI integration in technical development workflows.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-thumbnail-code-analysis-mcp-build.webp">
+    <link rel="stylesheet" href="../base.css">
+    <!-- Include mermaid for diagrams -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-content">
+            <a href="../index.html" class="nav__back">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15l-3-3 3-3M21 12H3"/>
+                </svg>
+                Back to Portfolio
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <div class="hero-overlay">
+            <div class="content-wrap">
+                <h1 class="hero-title">From Concept to Production: Building an AI-Powered Code Analyzer</h1>
+            </div>
+        </div>
+        <div class="hero-background" style="background-image: url('https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-hero-code-analysis-mcp-build.webp');"></div>
+    </div>
+
+    <!-- Project Summary Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <!-- Hidden project card for data attributes -->
+            <article class="project-card" 
+                     data-position="39"
+                     data-categories="7,8"
+                     data-primary-tags="mcp-integration rapid-development code-analysis"
+                     data-secondary-tags="mcp-development protocol-integration system-design technical-architecture ai-integration code-analysis"
+                     style="display: none;">
+            </article>
+        </div>
+
+        <div class="content-wrap">
+            <p class="project-summary">
+                Developed a sophisticated code analysis system using Model Context Protocol (MCP) in under 6 hours, demonstrating how modern AI protocols enable rapid development of complex technical systems without sacrificing quality or extensibility.
+            </p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="tags-section">
+                <div class="tag-group">
+                    <span class="tag tag--tech">MCP Integration</span>
+                    <span class="tag tag--tech">Rapid Development</span>
+                    <span class="tag tag--tech">Code Analysis</span>
+                </div>
+                <div class="tag-group">
+                    <span class="tag tag--secondary">MCP Development</span>
+                    <span class="tag tag--secondary">Protocol Integration</span>
+                    <span class="tag tag--secondary">System Design</span>
+                    <span class="tag tag--secondary">Technical Architecture</span>
+                    <span class="tag tag--secondary">AI Integration</span>
+                    <span class="tag tag--secondary">Code Analysis</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Challenge Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>The Challenge: Speed Without Sacrifice</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>In the realm of technical development, there's often a perceived trade-off between speed and quality. The faster you build, conventional wisdom suggests, the more corners you have to cut. This project challenged that assumption by leveraging the Model Context Protocol (MCP) to create a sophisticated code analysis system in under six hours - without compromising on architecture, extensibility, or code quality.</p>
+            <p>The goal wasn't just to create a working prototype, but to develop a production-ready system that could analyze code structure, assess complexity, and provide meaningful insights. The challenge was threefold: implement complex analysis features, maintain clean architecture, and ensure future extensibility - all while working within a tight timeframe.</p>
+        </div>
+    </section>
+
+    <!-- Technical Implementation Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Technical Implementation: Building with Purpose</h2>
+        </div>
+
+        <div class="content-wrap">
+            <div class="card">
+                <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-01-code-analysis-mcp-build.webp" 
+                     alt="Email placement showing completed implementation">
+            </div>
+        </div>
+
+        <div class="content-wrap">
+            <p>Our approach centered on leveraging MCP's structured tool integration capabilities to create a modular, extensible system. Rather than rushing to implement features, we first established a solid architectural foundation that would support rapid development without creating technical debt.</p>
+        </div>
+
+        <div class="content-wrap">
+            <h3>Core Architecture</h3>
+        </div>
+
+        <div class="content-wrap">
+            <div class="card">
+                <div class="mermaid">
+                    flowchart TD
+                        A[Client Request] -->|MCP Protocol| B[Tool Manager]
+                        
+                        subgraph Analysis Engine
+                            B --> C[Code Parser]
+                            C --> D[Structure Analysis]
+                            C --> E[Complexity Analysis]
+                            C --> F[Dependency Analysis]
+                            
+                            D --> G[Function/Class Detection]
+                            D --> H[Method Analysis]
+                            
+                            E --> I[Cyclomatic Complexity]
+                            E --> J[Decision Points]
+                            
+                            F --> K[Import Analysis]
+                            F --> L[Module Dependencies]
+                        end
+                        
+                        subgraph Integration Layer
+                            M[File System Operations]
+                            N[Git Integration]
+                            O[Memory Management]
+                        end
+                        
+                        B --> M
+                        B --> N
+                        B --> O
+                        
+                        G & H & I & J & K & L --> P[Result Aggregator]
+                        M & N & O --> P
+                        
+                        P -->|MCP Response| Q[Client]
+                </div>
+            </div>
+        </div>
+
+        <div class="content-wrap">
+            <p>The system's architecture prioritizes modularity and clean separation of concerns. The Analysis Engine handles core code parsing and evaluation, while the Integration Layer manages external connections and resource handling. This separation allows each component to evolve independently while maintaining clear interfaces.</p>
+        </div>
+    </section>
+
+    <!-- Key Components Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Key Technical Components</h2>
+        </div>
+
+        <div class="content-wrap">
+            <div class="card">
+                <img src="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-02-code-analysis-mcp-build.webp" 
+                     alt="Skills matrix showing technical implementation">
+            </div>
+        </div>
+
+        <div class="content-wrap">
+            <p>The implementation leverages both Node.js and Python, creating a powerful hybrid system. The Node.js component handles tool management and client communication:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <div class="content">
+                    <pre><code>class MCPToolManager {
+  private tools: Map<string, Tool>;
+
+  registerTool(tool: Tool): void {
+    this.validateTool(tool);
+    this.tools.set(tool.name, tool);
+  }
+
+  async executeTool(name: string, params: any): Promise<any> {
+    const tool = this.tools.get(name);
+    if (!tool) throw new Error(`Tool ${name} not found`);
+    return await tool.handler(params);
+  }
+}</code></pre>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-wrap">
+            <p>While Python powers the analysis engine through a sophisticated bridge:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <div class="content">
+                    <pre><code>#!/usr/bin/env python
+
+class CodeAnalyzer:
+    def __init__(self):
+        self.handlers = {}
+        self.register_core_handlers()
+
+    def analyze_structure(self, code: str) -> Dict:
+        tree = ast.parse(code)
+        analyzer = StructureVisitor()
+        analyzer.visit(tree)
+        return analyzer.get_results()
+
+    def analyze_complexity(self, code: str) -> Dict:
+        tree = ast.parse(code)
+        analyzer = ComplexityVisitor()
+        analyzer.visit(tree)
+        return analyzer.get_metrics()</code></pre>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Intelligent Integration Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Intelligent Integration</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>The power of the system comes from how it combines multiple forms of analysis:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ol>
+                <li><strong>Structure Analysis</strong>
+                    <ul>
+                        <li>Function and class detection</li>
+                        <li>Method complexity assessment</li>
+                        <li>Code organization evaluation</li>
+                    </ul>
+                </li>
+                <li><strong>Complexity Metrics</strong>
+                    <ul>
+                        <li>Cyclomatic complexity calculation</li>
+                        <li>Decision point mapping</li>
+                        <li>Cognitive load assessment</li>
+                    </ul>
+                </li>
+                <li><strong>Dependency Management</strong>
+                    <ul>
+                        <li>Import chain analysis</li>
+                        <li>Module dependency mapping</li>
+                        <li>External package tracking</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+    </section>
+
+    <!-- Results Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Results and Impact</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>The project demonstrated that rapid development doesn't have to mean sacrificing quality or maintainability. Key achievements include:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number">6h</div>
+                    <div class="stat-label">Development Time</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">100%</div>
+                    <div class="stat-label">Test Coverage</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">3x</div>
+                    <div class="stat-label">Performance Gain</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-wrap">
+            <h3>System Capabilities</h3>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ul>
+                <li>Deep code structure analysis</li>
+                <li>Complexity assessment</li>
+                <li>Dependency tracking</li>
+                <li>Real-time processing</li>
+            </ul>
+        </div>
+
+        <div class="content-wrap">
+            <h3>Long-term Benefits</h3>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ul>
+                <li>Extensible architecture for future growth</li>
+                <li>Clear upgrade paths for new features</li>
+                <li>Strong foundation for additional tools</li>
+                <li>Minimal technical debt</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Future Development Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Looking Forward</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>The success of this project opens up several exciting possibilities for future development:</p>
+        </div>
+
+        <div class="content-wrap-narrow">
+            <ol>
+                <li><strong>Enhanced Analysis</strong>
+                    <ul>
+                        <li>Machine learning integration</li>
+                        <li>Pattern recognition</li>
+                        <li>Code optimization suggestions</li>
+                    </ul>
+                </li>
+                <li><strong>Extended Integration</strong>
+                    <ul>
+                        <li>Additional version control systems</li>
+                        <li>CI/CD pipeline integration</li>
+                        <li>IDE plugin development</li>
+                    </ul>
+                </li>
+                <li><strong>Advanced Features</strong>
+                    <ul>
+                        <li>Real-time collaboration</li>
+                        <li>Historical trend analysis</li>
+                        <li>Team performance metrics</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+    </section>
+
+    <!-- Conclusions Section -->
+    <section class="section">
+        <div class="content-wrap">
+            <h2>Key Takeaways</h2>
+        </div>
+
+        <div class="content-wrap">
+            <p>This project demonstrates the transformative potential of modern AI protocols in technical development. By leveraging MCP's structured approach to tool integration, we were able to create a sophisticated system that defies the traditional speed-versus-quality trade-off.</p>
+        </div>
+        
+        <div class="content-wrap-wide">
+            <div class="conclusion">
+                <p>The result isn't just a working tool, but a testament to how thoughtful architecture and modern protocols can enable rapid development without compromising on quality or future potential.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Related Projects Section -->
+    <section class="section related-projects">
+        <div class="content-wrap">
+            <h2>Related Projects</h2>
+        </div>
+        <div class="content-wrap">
+            <div class="related-grid">
+                <a href="coding-visual-preview-tool.html" class="related-card">
+                    <h3>Visual Preview Tool for AI Code Review</h3>
+                    <p>Created a Model Context Protocol server that gives Claude the ability to visually inspect HTML files it helps create.</p>
+                    <div class="related-tags">
+                        <span class="related-tag">MCP Development</span>
+                        <span class="related-tag">Technical Innovation</span>
+                    </div>
+                </a>
+                <a href="ai-mvp-development.html" class="related-card">
+                    <h3>Strategic MVP Development</h3>
+                    <p>An in-depth analysis of strategic MVP development methodology, focusing on project selection and prioritization.</p>
+                    <div class="related-tags">
+                        <span class="related-tag">Strategy</span>
+                        <span class="related-tag">Development</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="footer-copyright">&copy; 2025 Sean August Horvath. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Required Scripts -->
+    <script src="../assets/js/parallax.js" defer></script>
+    <script src="../assets/js/related-projects.js"></script>
+</body>
+</html>

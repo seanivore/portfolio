@@ -1,7 +1,7 @@
 POSITION - 32
 
 CONTENT TILE TITLE
-AI-Driven News Network: Scalable Automated Content Production
+Scalable AI-Driven News Producer Network
 
 CONTENT TILE SUMMARY
 Built a comprehensive AI-powered content production system that combines automated research, generative content creation, and multi-platform distribution, achieving 70% reduction in production time while maintaining editorial quality across 16 niche categories.
@@ -10,7 +10,7 @@ CONTENT TILE IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/scalable-augmented-generative-podcasts/img-tile-scalable-augmented-generative-podcasts.webp
 
 CONTENT TILE PRIMARY TAGS
-AI Development, Systems Architecture, Content Production
+System-design, scalable-production, automated-research
 
 SEO META TITLE
 AI-Powered Content Network: Automated Research & Production System | Portfolio
@@ -32,8 +32,8 @@ automation system-integration analytics innovation process-strategy implementati
 
 # Data Attributes
 data-position="32"
-data-categories="3,6,7"
-data-primary-tags="ai-development systems-architecture content-production"
+data-categories="3,5,6"
+data-primary-tags="system-design scalable-production automated-research"
 data-secondary-tags="automation system-integration analytics innovation process-strategy implementation"
 
 ---

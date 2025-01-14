@@ -1,7 +1,7 @@
 POSITION - 37
 
 CONTENT TILE TITLE
-Building AI-Augmented Learning Systems: A RAG Development Journey
+Developing RAG System Replacing Anthropic Projects
 
 CONTENT TILE SUMMARY
 Evolved a simple messenger interface into a sophisticated AI-augmented learning system, exploring how humans and AI can learn together while developing practical solutions for knowledge management and retrieval.
@@ -10,7 +10,7 @@ CONTENT TILE IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-tile-ai-augmented-learning.webp
 
 CONTENT TILE PRIMARY TAGS
-Systems Architecture, AI Development, Research Methods
+creative-solutions programming knowledge-systems
 
 SEO META TITLE
 AI-Augmented Learning: RAG Development Case Study | Portfolio
@@ -32,9 +32,9 @@ rag-development knowledge-systems system-architecture ai-integration learning-sy
 
 # Data Attributes
 data-position="37"
-data-categories="2,6,7"
-data-primary-tags="systems-architecture ai-development research-methods"
-data-secondary-tags="rag-development knowledge-systems system-architecture ai-integration learning-systems case-study"
+data-categories="2,4,7"
+data-primary-tags="creative-solutions programming knowledge-systems"
+data-secondary-tags="rag-development research-strategy system-architecture ai-integration learning-systems case-study"
 
 ---
 
