@@ -1,230 +1,114 @@
-POSITION - 39 
+POSITION - 39
 
 CONTENT TILE TITLE
-MCP Code Analysis Tool Development
+Rapid MCP Integration: Building a Code Analysis System in Hours
 
-CONTENT TILE SUMMARY 
-Rapid development of a sophisticated code analysis system using Anthropic's Model Context Protocol, completed in under 6 hours and featured in mcpai.app's official collection.
+CONTENT TILE SUMMARY
+Developed a sophisticated code analysis system using Model Context Protocol (MCP) in under 6 hours, demonstrating how modern AI protocols enable rapid development of complex technical systems without sacrificing quality or extensibility.
 
-CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+CONTENT TILE IMAGE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-tile-code-analysis-mcp-build.webp
 
+CONTENT TILE PRIMARY TAGS
+Systems Architecture, AI Development, Innovation
 
-CONTENT TILE PRIMARY TAGS 
-Development
-Architecture
-Integration
+SEO META TITLE
+Building an AI-Powered Code Analysis System Using MCP | Portfolio
 
-SEO META TITLE 
-MCP Development | Code Analysis Tool Implementation
+SEO META SUMMARY
+Explore how Model Context Protocol enabled the rapid development of a sophisticated code analysis system, demonstrating the power of modern AI integration in technical development workflows.
 
-SEO META SUMMARY 
-Case study of rapid development and implementation of a sophisticated code analysis tool using Anthropic's Model Context Protocol (MCP). Showcases rapid prototyping capabilities, technical architecture design, and successful community adoption through inclusion in mcpai.app's official collection.
-
-SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
-
+SEO META THUMBNAIL SOCIAL SHARE THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-thumbnail-code-analysis-mcp-build.webp
 
 PAGE TITLE
-Rapid MCP Tool Integration: Building Advanced Code Analysis in Hours
+From Concept to Production: Building an AI-Powered Code Analyzer
 
-PAGE HERO IMAGE - 1200px square 
+PAGE HERO IMAGE
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-hero-code-analysis-mcp-build.webp
 
 PAGE SECONDARY TAGS
-Code Analysis
-MCP Integration
-Rapid Prototyping
-System Architecture
-Tool Development
-Community Recognition
+rapid-development protocol-integration system-design technical-architecture ai-integration code-analysis
 
+# Data Attributes
+data-position="39"
+data-categories="2,6,7"
+data-primary-tags="systems-architecture ai-development innovation"
+data-secondary-tags="rapid-development protocol-integration system-design technical-architecture ai-integration code-analysis"
 
 ---
 
-# Rapid MCP Tool Integration: Building Advanced Code Analysis in Hours
+## The Challenge: Speed Without Sacrifice
 
-## Overview
-Rapidly implemented a suite of integrated tools using Anthropic's Model Context Protocol (MCP), focusing on advanced code analysis capabilities. The project demonstrates the ability to quickly adopt and implement new technologies while delivering practical, production-ready solutions.
+In the realm of technical development, there's often a perceived trade-off between speed and quality. The faster you build, conventional wisdom suggests, the more corners you have to cut. This project challenged that assumption by leveraging the Model Context Protocol (MCP) to create a sophisticated code analysis system in under six hours - without compromising on architecture, extensibility, or code quality.
 
-## Technical Implementation
+The goal wasn't just to create a working prototype, but to develop a production-ready system that could analyze code structure, assess complexity, and provide meaningful insights. The challenge was threefold: implement complex analysis features, maintain clean architecture, and ensure future extensibility - all while working within a tight timeframe.
 
-In an intensive development sprint, I created a sophisticated code analysis tool using Anthropic's Model Context Protocol (MCP) in under 6 hours. The project showcases rapid prototyping capabilities while maintaining production-quality standards. The tool has since been recognized by the MCP community and included in mcpai.app's official collection of MCP tools.
+## Technical Implementation: Building with Purpose
+
+[image, regular content wrap; alt: Email placement showing completed implementation]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-01-code-analysis-mcp-build.webp
+
+Our approach centered on leveraging MCP's structured tool integration capabilities to create a modular, extensible system. Rather than rushing to implement features, we first established a solid architectural foundation that would support rapid development without creating technical debt.
 
 ### Core Architecture
-The system was built around three main components. 
 
-1. **Analysis Engine**
-	- Deep code parsing and understanding
-	- Structure analysis (functions, classes, methods)
-	- Complexity analysis (cyclomatic complexity, decision points)
-	- Dependency tracking
-
-2. **Integration Layer
-	- MCP protocol implementation
-	- Supporting Tools
-	- Web Search Integration
-	- GitHub Repository Access
-	- File System Operations
-	- Memory Management
-
-
-3. **Tool Manager**
-   ```typescript
-   class MCPToolManager {
-     private tools: Map<string, Tool>;
-
-     registerTool(tool: Tool): void {
-       this.validateTool(tool);
-       this.tools.set(tool.name, tool);
-     }
-
-     async executeTool(name: string, params: any): Promise<any> {
-       const tool = this.tools.get(name);
-       if (!tool) throw new Error(`Tool ${name} not found`);
-       return await tool.handler(params);
-     }
-   }
-   ```
-
-### Key Features
-
-1. **Code Structure Analysis**
-   - Function and class detection
-   - Method analysis
-   - Scope understanding
-
-2. **Complexity Assessment**
-   - Cyclomatic complexity calculation
-   - Decision point analysis
-   - Code metrics generation
-
-3. **Dependency Management**
-   - Import tracking
-   - Module dependency analysis
-   - Library usage assessment
-
-
-[Architecture Diagram - Shows the complete system design - mermaid file]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/code-analysis-mcp-build/mcp-architecture.mermaid
-
-
-
-
-## Development Process
-
-### Timeline
-- Day 1 (Hours 1-2): Initial MCP setup and tool integration
-- Day 1 (Hours 3-4): Code analysis implementation
-- Day 1 (Hours 5-6): Testing and refinement
-
-### Technical Decisions
-1. **Protocol Choice**
-   - Selected MCP for standardization and future-proofing
-   - Leverages Anthropic's ecosystem
-   - Enables seamless tool integration
-
-2. **Architecture**
-   - Clean separation of concerns
-   - Modular tool implementation
-   - Extensible design for future additions
-
-## Technical Highlights
-
-### Tool Implementation
-```typescript
-// Example of tool registration
-{
-  name: "code_analyzer",
-  description: "Advanced code analysis and understanding",
-  inputSchema: {
-    type: "object",
-    properties: {
-      code: { type: "string" },
-      analysis_type: {
-        type: "string",
-        enum: ["structure", "quality", "security"]
-      }
-    }
-  }
-}
-```
-
-### Integration Architecture
+[mermaid diagram showing system architecture; regular content wrap]
 ```mermaid
-graph TD
+flowchart TD
     A[Client Request] -->|MCP Protocol| B[Tool Manager]
-    B --> C[Code Analysis]
-    B --> D[Web Search]
-    B --> E[GitHub Access]
-    C --> F[Analysis Results]
-    D --> F
-    E --> F
-    F -->|MCP Response| G[Client]
+    
+    subgraph Analysis Engine
+        B --> C[Code Parser]
+        C --> D[Structure Analysis]
+        C --> E[Complexity Analysis]
+        C --> F[Dependency Analysis]
+        
+        D --> G[Function/Class Detection]
+        D --> H[Method Analysis]
+        
+        E --> I[Cyclomatic Complexity]
+        E --> J[Decision Points]
+        
+        F --> K[Import Analysis]
+        F --> L[Module Dependencies]
+    end
+    
+    subgraph Integration Layer
+        M[File System Operations]
+        N[Git Integration]
+        O[Memory Management]
+    end
+    
+    B --> M
+    B --> N
+    B --> O
+    
+    G & H & I & J & K & L --> P[Result Aggregator]
+    M & N & O --> P
+    
+    P -->|MCP Response| Q[Client]
 ```
 
-## Results and Impact
+The system's architecture prioritizes modularity and clean separation of concerns. The Analysis Engine handles core code parsing and evaluation, while the Integration Layer manages external connections and resource handling. This separation allows each component to evolve independently while maintaining clear interfaces.
 
-### Performance Metrics
-- Implementation completed in under 6 hours
-- Handles complex code analysis tasks
-- Seamlessly integrates multiple data sources
-- Production-ready implementation
+### Key Technical Components
 
-### Key Achievements
-1. Rapid adoption of new technology (MCP)
-2. Creation of production-quality code analysis
-3. Clean, maintainable implementation
-4. Extensible architecture for future growth
+[image, regular content wrap; alt: Skills matrix showing technical implementation]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-02-code-analysis-mcp-build.webp
 
-## Technical Skills Demonstrated
+The implementation leverages both Node.js and Python, creating a powerful hybrid system. The Node.js component handles tool management and client communication:
 
-### Languages & Technologies
-- TypeScript/JavaScript
-- Python
-- MCP Protocol
-- Git/GitHub
-
-### Concepts & Patterns
-- Protocol Implementation
-- Tool Integration
-- Code Analysis
-- API Design
-
-## Future Enhancements
-1. Additional analysis capabilities
-2. Enhanced GitHub integration
-3. Project management features
-4. Extended memory capabilities
-
-## Code Samples
-
-### Tool Registration
-```typescript
-const codeAnalysisTool = {
-  name: "code_analyzer",
-  description: "Analyze code structure and quality",
-  handler: async (params) => {
-    // Implementation details
-    const analysis = await analyzeCode(params.code);
-    return {
-      structure: analysis.structure,
-      recommendations: analysis.recommendations
-    };
-  }
-};
-```
-
-### Integration Example
 ```typescript
 class MCPToolManager {
-  constructor() {
-    this.tools = new Map();
-  }
+  private tools: Map<string, Tool>;
 
-  registerTool(tool) {
+  registerTool(tool: Tool): void {
     this.validateTool(tool);
     this.tools.set(tool.name, tool);
   }
 
-  async executeTool(name, params) {
+  async executeTool(name: string, params: any): Promise<any> {
     const tool = this.tools.get(name);
     if (!tool) throw new Error(`Tool ${name} not found`);
     return await tool.handler(params);
@@ -232,124 +116,91 @@ class MCPToolManager {
 }
 ```
 
-## Learning Outcomes
-1. Rapid adoption of new protocols
-2. Effective tool integration
-3. Clean architecture implementation
-4. Production-ready development
+While Python powers the analysis engine through a sophisticated bridge:
 
-## Conclusion
-This project demonstrates the ability to quickly adopt new technologies while maintaining high code quality and creating practical solutions. The implementation showcases both technical expertise and efficient development practices.
+```python
+#!/usr/bin/env python
 
+class CodeAnalyzer:
+    def __init__(self):
+        self.handlers = {}
+        self.register_core_handlers()
 
+    def analyze_structure(self, code: str) -> Dict:
+        tree = ast.parse(code)
+        analyzer = StructureVisitor()
+        analyzer.visit(tree)
+        return analyzer.get_results()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Project Overview
-
-
-## Technical Implementation
-
-
-### Development Timeline
-The entire project was completed in approximately 5 hours:
-- Hours 1-2: Initial MCP setup and protocol integration
-- Hours 2-3: Core analysis engine implementation
-- Hours 3-5: Testing, refinement, and documentation
-
-[Skills Matrix Image - Shows comprehensive tool capabilities - this is an 800px wide image but we should make an interactive version]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/code-analysis-mcp-build/4%20-%20skills%20matrix%20work%20in%20progress%20example.webp
-
-
-## Configuration Example
-```json
-{
-  "mcpServers": {
-    "code-analyzer": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-code-analyzer",
-        "/path/to/project"
-      ]
-    }
-  }
-}
+    def analyze_complexity(self, code: str) -> Dict:
+        tree = ast.parse(code)
+        analyzer = ComplexityVisitor()
+        analyzer.visit(tree)
+        return analyzer.get_metrics()
 ```
 
-## Community Recognition
+## Intelligent Integration
 
-The tool has been accepted into mcpai.app's official collection of MCP tools, validating its utility and implementation quality. Since its inclusion, it has received significant engagement from the community:
+The power of the system comes from how it combines multiple forms of analysis:
 
-[Email confirmation image of mcpai.app inclusion - 600 px wide]
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/master/assets/entries/code-analysis-mcp-build/email-placement-code-analysis-mcp-build.webp
+1. **Structure Analysis**
+   - Function and class detection
+   - Method complexity assessment
+   - Code organization evaluation
 
-The tool can be found at: [mcpai.app/en/collections/mcp-code-analyzer](https://mcpai.app/en/collections/mcp-code-analyzer)
+2. **Complexity Metrics**
+   - Cyclomatic complexity calculation
+   - Decision point mapping
+   - Cognitive load assessment
 
-## Technical Achievements
+3. **Dependency Management**
+   - Import chain analysis
+   - Module dependency mapping
+   - External package tracking
 
-1. **Rapid Protocol Adoption**
-   - Quick mastery of MCP integration
-   - Clean implementation of protocol standards
-   - Effective error handling
+## Results and Impact
 
-2. **Architecture Design**
-   - Modular component structure
-   - Clear separation of concerns
-   - Future-proof extensibility
+The project demonstrated that rapid development doesn't have to mean sacrificing quality or maintainability. Key achievements include:
 
-3. **Performance Optimization**
-   - Efficient code parsing
-   - Minimal memory footprint
-   - Fast analysis execution
+### Technical Metrics
+- Complete implementation in under 6 hours
+- Production-ready code quality
+- Comprehensive test coverage
+- Clean, maintainable architecture
 
-## Lessons Learned
+### System Capabilities
+- Deep code structure analysis
+- Complexity assessment
+- Dependency tracking
+- Real-time processing
 
-The project provided valuable insights into:
-- Balancing speed and quality in rapid development
-- Effective protocol implementation strategies
-- Building for community adoption
-- Maintaining extensibility in time-constrained projects
+### Long-term Benefits
+- Extensible architecture for future growth
+- Clear upgrade paths for new features
+- Strong foundation for additional tools
+- Minimal technical debt
 
-## Future Development
+## Looking Forward
 
-The modular design allows for several planned enhancements:
+The success of this project opens up several exciting possibilities for future development:
+
 1. **Enhanced Analysis**
-   - Advanced pattern detection
-   - Custom rule implementation
-   - Performance profiling
+   - Machine learning integration
+   - Pattern recognition
+   - Code optimization suggestions
 
-2. **Integration Expansion**
+2. **Extended Integration**
    - Additional version control systems
    - CI/CD pipeline integration
    - IDE plugin development
 
-3. **Community Features**
-   - Custom rule sharing
-   - Analysis template library
-   - Community contribution framework
+3. **Advanced Features**
+   - Real-time collaboration
+   - Historical trend analysis
+   - Team performance metrics
 
 ## Conclusion
 
-This project demonstrates the ability to rapidly develop production-quality tools while maintaining high standards of code quality and architecture. The successful inclusion in mcpai.app's collection validates both the technical implementation and its utility to the broader developer community.
+This project demonstrates the transformative potential of modern AI protocols in technical development. By leveraging MCP's structured approach to tool integration, we were able to create a sophisticated system that defies the traditional speed-versus-quality trade-off. 
 
----
-*Note: This tool is available in the mcpai.app collection and continues to be enhanced based on community feedback and usage patterns.*
-
-
-
----
-
+[only this part in .conclusions] The result isn't just a working tool, but a testament to how thoughtful architecture and modern protocols can enable rapid development without compromising on quality or future potential.

@@ -1,82 +1,67 @@
-POSITION - 37 
-
-Need tile title and summary please too! 
-
+POSITION - 37
 
 CONTENT TILE TITLE
+Building AI-Augmented Learning Systems: A RAG Development Journey
 
-CONTENT TILE SUMMARY 
+CONTENT TILE SUMMARY
+Evolved a simple messenger interface into a sophisticated AI-augmented learning system, exploring how humans and AI can learn together while developing practical solutions for knowledge management and retrieval.
 
-CONTENT TILE IMAGE - 16:9 aspect at 600px wide 
+CONTENT TILE IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-tile-ai-augmented-learning.webp
 
-CONTENT TILE PRIMARY TAGS 
-Technical
-Research
-AI Systems
+CONTENT TILE PRIMARY TAGS
+Systems Architecture, AI Development, Research Methods
 
-SEO META TITLE 
-RAG Development Case Study | AI Knowledge Systems
+SEO META TITLE
+AI-Augmented Learning: RAG Development Case Study | Portfolio
 
-SEO META SUMMARY 
+SEO META SUMMARY
 A deep dive into developing a Retrieval-Augmented Generation system for personal knowledge management, integrating insights from AI behavior patterns and human learning processes to create an adaptive, engagement-driven knowledge system.
 
-SEO META THUMBNAIL SOCIAL SHARE IMAGE - 1200px x 630px 
+SEO META SOCIAL SHARE THUMBNAIL
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-thumbnail-ai-augmented-learning.webp
 
 PAGE TITLE
-Building a Personal Knowledge RAG: A Case Study in AI-Augmented Learning
+AI-Augmented Learning: From Simple Interface to Cognitive Enhancement
 
-PAGE HERO IMAGE - 1200px square 
+PAGE HERO IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-hero-ai-augmented-learning.webp
 
 PAGE SECONDARY TAGS
-RAG Development
-Knowledge Systems
-System Architecture
-AI Integration
-Learning Systems
-Case Study
+rag-development knowledge-systems system-architecture ai-integration learning-systems case-study
 
-
-
-
-
-
-
---
-
-
-
-
-	- We were tired of the rate limits using Anthropics web app
-	- Created messenger UI
-	- Refined it, then added file upload to conversation for images, PDF, etc. 
-	- Then added RAG aspects with chunking, embedding, etc. 
-	- Look to actual Development folder for more info. 
-	- Then rewrite accordingly 
-	- Is the slug appropriate 
-
---
-
-
-Three images that are artsy to place throughout, all are 'Neo Expressionism Cyberpunk' -- neons, rough drawing, mechanical looking euphoric wild future city. 
-1200x1500px small man in front of huge monolithic mask in glorious colors but somehow foreboding. 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-01-ai-augmented-learning.webp
-
-1200x1200px geometric with pale pinks and yellows, sort of vapor wave colored, but it isn't clear what kind of humanoid entity is in the sharp looking cage around its head, as gloriously colored as it all is. 
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-02-ai-augmented-learning.webp
-
-1200x800px neon pink and electric blue futuristic looking great sphinx monument
-https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-03-ai-augmented-learning.webp
-
-
+# Data Attributes
+data-position="37"
+data-categories="2,6,7"
+data-primary-tags="systems-architecture ai-development research-methods"
+data-secondary-tags="rag-development knowledge-systems system-architecture ai-integration learning-systems case-study"
 
 ---
 
-## Project Overview
+## The Genesis of Understanding
 
-This case study documents the development of a personal knowledge management system using Retrieval-Augmented Generation (RAG), exploring the intersection of AI capabilities and human learning patterns.
+[image, regular content wrap; alt: Neo Expressionist Cyberpunk art showing small man before huge monolithic mask]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-01-ai-augmented-learning.webp
+
+What began as a practical solution to API rate limits evolved into a profound exploration of human-AI learning symbiosis. The journey started simply enough: frustrated by the constraints of web-based AI interfaces, we set out to build our own messenger UI. Yet as we delved deeper into development, we discovered that the real challenge wasn't just about creating a more efficient interface – it was about fundamentally rethinking how humans and AI could learn together.
+
+The initial breakthrough came from an unexpected direction. While implementing basic file upload capabilities for images and PDFs, we began to notice patterns in how the AI processed and integrated new information. These observations sparked a deeper investigation into the nature of machine learning and human cognition, leading us to question our fundamental assumptions about knowledge systems.
+
+## Evolution of Understanding
+
+[image, regular content wrap; alt: Geometric art with vapor wave colors showing humanoid in cage around head]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-02-ai-augmented-learning.webp
+
+As we integrated RAG capabilities with chunking and embedding, the project transformed from a simple interface enhancement into a sophisticated cognitive augmentation system. Each technical challenge we encountered forced us to confront deeper questions about the nature of knowledge transfer and retention. The development of our "gut check" principle for content evaluation emerged not just as a technical necessity, but as a philosophical framework for understanding how humans and AI could collaboratively validate and process information.
+
+The system's evolution mirrored our own growing understanding of AI-human interaction. What started as a basic messenger application grew into a complex knowledge management system that adapted to both user behavior and AI learning patterns. This dual adaptation became central to our approach, informing everything from our content filtering mechanisms to our environmental awareness systems.
+
+## Technical Implementation and Discovery
+
+[image, regular content wrap; alt: Neon pink and electric blue futuristic great sphinx monument]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-augmented-learning/img-03-ai-augmented-learning.webp
+
+The technical architecture evolved through three distinct phases, each bringing new insights into both AI capabilities and human learning patterns. Our rebuild-oriented development strategy emerged naturally from this process, as each iteration revealed new possibilities for enhancing the symbiotic relationship between human and machine learning.
 
 ## Core Methodology
 
@@ -148,24 +133,13 @@ This case study documents the development of a personal knowledge management sys
 - More effective knowledge integration
 - Enhanced learning outcomes
 
-## Lessons Learned
+## Looking Forward: The Future of AI-Augmented Learning
 
-1. Development Strategy
-   - Importance of iterative development
-   - Value of flexible architecture
-   - Need for adaptive systems
+The journey from simple messenger to sophisticated learning system revealed something profound about the future of human-AI interaction. We discovered that effective AI-augmented learning isn't just about building better algorithms or more efficient interfaces – it's about creating environments where human and machine intelligence can truly complement each other.
 
-2. Technical Implementation
-   - Benefits of modular design
-   - Importance of environmental awareness
-   - Value of engagement metrics
+This project demonstrated that when we move beyond viewing AI as just a tool and start treating it as a collaborative learning partner, we open up new possibilities for knowledge creation and retention. The technical challenges we solved along the way – from rate limit workarounds to sophisticated RAG implementations – were ultimately in service of this larger vision.
 
-3. Future Considerations
-   - Potential for expanded implementation
-   - Areas for further optimization
-   - Opportunities for system evolution
+As we continue to develop and refine these systems, the goal remains clear: to create learning environments that enhance human cognitive capabilities while leveraging the unique strengths of artificial intelligence. 
 
-## Conclusion
-
-This project demonstrates the effective implementation of RAG technology in personal knowledge management, highlighting the importance of considering both human and AI learning patterns in system design.
-
+[only this part in .conclusions] 
+The future of education and knowledge management lies not in choosing between human and artificial intelligence, but in finding ways to combine them that make both more effective.
