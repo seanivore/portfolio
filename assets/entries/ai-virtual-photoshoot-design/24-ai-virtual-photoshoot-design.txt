@@ -7,7 +7,7 @@ CONTENT TILE SUMMARY
 Discovered the true potential of AI project management while orchestrating a complex virtual photoshoot, video production, and content strategy for an Art Deco-themed luxury living space, months before dedicated AI project tools existed.
 
 CONTENT TILE IMAGE
-[1 - Primary Focus 1 - Wide Shot of the Living Area.webp]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-tile-ai-virtual-photoshoot-design.webp
 
 CONTENT TILE PRIMARY TAGS
 AI Development, Process Strategy, Content Production
@@ -18,20 +18,19 @@ AI-Directed Virtual Interior Design: Art Deco Project Case Study | Portfolio
 SEO META SUMMARY
 Explore how AI transformed a complex multi-media project, managing everything from virtual photoshoot direction to content strategy, demonstrating the future of creative project management.
 
+SEO META SOCIAL SHARE THUMBNAIL
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-thumbnail-ai-virtual-photoshoot-design.webp
+
 PAGE TITLE
 AI-Directed Interior Design: Art Deco Luxury Living
 
 PAGE HERO IMAGE
-[1 - Primary Focus 1 - Wide Shot of the Living Area.webp]
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-hero-ai-virtual-photoshoot-design.webp
 
 PAGE SECONDARY TAGS
 content-strategy, automation, creative-direction, project-management, innovation
 
 ----
-
-
-1 - Primary Focus 1 - Wide Shot of the Living Area.webp1 - Primary Focus 2 - Wide Shot of the Bedroom.webp1 - Primary Focus 3 - Close-Up of the Apothecary Table Turned Bar.webp1 - Primary Focus 4 - Corner Shot of Workspace.webp2 -Secondary Contemporary Realistic 2 - Wide Shot of the Bedroom.webp2 -Secondary Contemporary Realistic 9 - Focal Point on a Signature Art Piece in the.webp3 - Focal in HUGE Living Room 5 - Focal Point on a Signature Art Piece in the.webp4 - Meh bedding for article 4 - Close-Up of Luxurious Bedding Details 1.webp4 - Meh bedding for article 4 - Close-Up of Luxurious Bedding Details 2.webp5 - Stunning Opulent 01 - Wide Shot of the Living Area.webp5 - Stunning Opulent 5 - Close-Up of Art Deco Lighting Fixtures.webp5 - Stunning Opulent 8 - Overhead View of the Dining Area.webp6 - Artsy 3 - Close-Up of the Apothecary Table Turned Bar.webp6 - Artsy 8 - Overhead View of the Dining Area.webp6 - Artsy 10 - Focal Point of Architectural Details 1.webp6 - Artsy 10 - Focal Point of Architectural Details 2.webp7 - Cheap 6 - Corner Shot Highlighting the Living Space a.webp7 - Cheap 7 - Corner Shot of Bedroom Workspace.webp8 - Unrealistic 5 - Close-Up of Art Deco Lighting Fixtures.webp8 - Unrealistic 6 - Corner Shot Highlighting the Living Space a.webp
-
 
 This project, initiated in June 2024, marked a pivotal moment in my understanding of AI's potential for creative project management. What began as an ambitious attempt to create "Apartment Therapy"-style content around art history aesthetics turned into a revelation about AI's capability to handle complex, multi-faceted creative projects – months before dedicated AI project management tools even existed.
 
@@ -39,40 +38,55 @@ The scope was intentionally challenging: create an Art Deco-themed virtual photo
 
 Our protagonist's story evolved organically through collaboration with the AI. Meet Alexa, a Leo with a love for glamour and Art Deco style, who had just landed a major promotion at her advertising agency. A creative director with impeccable taste and a keen eye for blending modern and vintage styles, she brought her professional expertise home to her DTLA penthouse loft. Her space needed to reflect both her vibrant personality – complete with tasteful sleeve tattoos and a love for lace – and her sophisticated professional life, where she was known for crafting campaigns as bold and memorable as her living space.
 
-[Primary Focus Living Area Image]
-[1 - Primary Focus 1 - Wide Shot of the Living Area.webp]
+[one image - set to normal content width - Alt: Art Deco Living Area Contemporary] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-01-ai-virtual-photoshoot-design.webp
+CAPTION: Wide shot of Alexa's primary living area, a contemporary art deco room with a high rise floor to ceiling window. 
 
 The creative direction process, particularly in image selection, demonstrated the importance of professional judgment in AI collaboration. Our primary selections centered on spaces that balanced luxury with believability:
 
-[Primary Bedroom Image]
-[1 - Primary Focus 2 - Wide Shot of the Bedroom.webp]
+[one image - set to normal content width - Alt: Art Deco Bedroom Contemporary] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-02-ai-virtual-photoshoot-design.webp
+CAPTION: Hip, contemporary tropical-core Art Deco master bedroom finished with green painted woodwork and lace. 
 
 The bedroom perfectly captured our refined Art Deco vision, with its sophisticated green paneling and geometric headboard creating a space that felt both aspirational and attainable. Similar balance was achieved in the transformed apothecary table area:
 
-[Bar Area Image]
-[1 - Primary Focus 3 - Close-Up of the Apothecary Table Turned Bar.webp]
+[one image - set to normal content width - Alt: Contemporary Art Deco Bar Area] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-03-ai-virtual-photoshoot-design.webp
+CAPTION: Antique collection of decor and liquor bottles all of fine crystal on a trendy apothecary table style small in-home bar space. 
 
 This space exemplifies how we worked with unexpected AI outputs – while we had initially envisioned an apothecary table (a playful nod to Friends), the AI produced this stunning bar area. Rather than forcing our original concept, we embraced this more sophisticated interpretation.
 
-[Workspace Image]
-[1 - Primary Focus 4 - Corner Shot of Workspace.webp]
+[one image - set to normal content width - Alt: Contemporary Art Deco Workspace] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-04-ai-virtual-photoshoot-design.webp
+CAPTION: Truly on-trend painted blue and intricate gold wall ornaments creating a large but cozy space to work from home. 
 
 The workspace represents another successful adaptation, where contemporary functionality meets Art Deco glamour without sacrificing believability.
 
 Our secondary selections focused on contemporary realistic spaces that grounded the narrative:
 
-[Secondary Living Space Images]
-[2 -Secondary Contemporary Realistic 2 - Wide Shot of the Bedroom.webp]
-[2 -Secondary Contemporary Realistic 9 - Focal Point on a Signature Art Piece in the.webp]
+[one image - set to normal content width - Alt: Contemporary Art Deco Secondary Bedroom Space] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-05-ai-virtual-photoshoot-design.webp
+CAPTION: Green painted walls, vaulted ceiling, and more lace on this guest bedroom with large penthouse windows showing Downtown Los Angeles. 
+
+[one image - set to normal content width - Alt: Contemporary Art Deco Secondary Living Space] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-06-ai-virtual-photoshoot-design.webp
+CAPTION: Very contemporary primary living room space with classic DTLA loft cement walls as well as classic Art Deco wall decorations, with more natural light, of course. 
 
 These spaces helped balance the more opulent primary selections, creating a cohesive story of luxury that remained within the realm of possibility for a successful advertising executive's DTLA penthouse.
 
 The project required careful navigation of various AI-generated options. While some spaces were stunningly opulent:
 
-[Opulent Room Examples]
-[5 - Stunning Opulent 01 - Wide Shot of the Living Area.webp]
-[5 - Stunning Opulent 5 - Close-Up of Art Deco Lighting Fixtures.webp]
-[5 - Stunning Opulent 8 - Overhead View of the Dining Area.webp]
+[one image - set to normal content width - Alt: Contemporary Art Deco Opulent Room] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-10-ai-virtual-photoshoot-design.webp
+CAPTION: Wide shot of a living area that was a bit too much for Alexa's space, but opulent and gorgeous nonetheless. 
+
+[one image - set to normal content width - Alt: Contemporary Art Deco Opulent Room] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-11-ai-virtual-photoshoot-design.webp
+CAPTION: Focus on another gigantic room, too large for Alexa's space, but displaying the stunning lighting figures that are as classic to the era as they are trendy. 
+
+[one image - set to normal content width - Alt: Contemporary Art Deco Opulent Room] 
+https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-12-ai-virtual-photoshoot-design.webp
+CAPTION: Overhead view of a very large dining area; Alex'a opted for an additional living room instead of a dining room, though it was a hard choice. 
 
 We had to make strategic decisions about which spaces to include. Multiple grand living rooms would have stretched the narrative's credibility, even for a penthouse setting. This selective curation process demonstrated how human creative direction can shape AI outputs into cohesive storytelling.
 
