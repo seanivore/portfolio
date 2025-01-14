@@ -1,7 +1,7 @@
 POSITION - 24
 
 CONTENT TILE TITLE
-AI-Directed Virtual Photoshoot: Art Deco Luxury Living
+Art Deco Luxury AI-Directed Virtual Photoshoot
 
 CONTENT TILE SUMMARY
 Discovered the true potential of AI project management while orchestrating a complex virtual photoshoot, video production, and content strategy for an Art Deco-themed luxury living space, months before dedicated AI project tools existed.
@@ -28,7 +28,7 @@ PAGE HERO IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/ai-virtual-photoshoot-design/img-hero-ai-virtual-photoshoot-design.webp
 
 PAGE SECONDARY TAGS
-content-strategy, automation, creative-direction, project-management, innovation
+content-strategy automation creative-direction project-management innovation agentic
 
 ----
 

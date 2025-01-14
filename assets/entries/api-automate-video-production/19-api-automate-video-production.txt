@@ -1,7 +1,7 @@
 POSITION - 19
 
 CONTENT TILE TITLE
-API-Driven Video Production: Scaling Social Content 10x
+API Video Scales Production 10X
 
 CONTENT TILE SUMMARY
 Transformed social media content production through API automation, achieving 10x reach with 1/100th production time by combining data-driven content optimization with automated cloud-based video generation.
@@ -28,7 +28,7 @@ PAGE HERO IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/api-automate-video-production/img-hero-api-automate-video-production.webp
 
 PAGE SECONDARY TAGS
-content-strategy, automation, system-integration, analytics, innovation
+content-strategy automation system-integration analytics innovation agentic
 
 ----
 

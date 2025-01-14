@@ -1,7 +1,7 @@
 POSITION - 22
 
 CONTENT TILE TITLE
-Agentic Social Manager: AI-Driven Social Media Automation
+Agentic Social Media Manager
 
 CONTENT TILE SUMMARY
 Developed a comprehensive social media automation system that combined AI vision analysis, generative content creation, and automated workflows to manage multiple brand accounts with enhanced engagement and consistency.
@@ -28,7 +28,7 @@ PAGE HERO IMAGE
 https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/agentic-social-manager/img-hero-agentic-social-manager.webp
 
 PAGE SECONDARY TAGS
-content-strategy, automation, system-integration, analytics, innovation
+content-strategy automation system-integration analytics innovation generative
 
 ----
 

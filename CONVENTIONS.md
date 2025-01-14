@@ -29,6 +29,29 @@ This guide outlines the modular system for creating new portfolio project pages.
 6. Related Projects
 7. Footer
 
+### Project Summary Best Practices
+The project summary section should effectively combine summary and introduction:
+- Use vivid imagery and narrative to introduce concepts
+- Make it flow naturally into the first content section
+- Ensure it serves both as an overview and engaging introduction
+- Consider combining with introduction when the content naturally flows together
+
+Example:
+```html
+<section class="section">
+    <div class="content-wrap">
+        <p class="project-summary">
+            [Engaging narrative introduction that also summarizes key points]
+        </p>
+    </div>
+    
+    <!-- First content section continues the narrative -->
+    <div class="content-wrap">
+        <p>[Expanding on the introduced concepts]</p>
+    </div>
+</section>
+```
+
 ### Basic HTML Template
 ```html
 <!DOCTYPE html>
@@ -40,6 +63,8 @@ This guide outlines the modular system for creating new portfolio project pages.
     <meta name="description" content="Project description">
     <meta property="og:image" content="thumbnail-url">
     <link rel="stylesheet" href="../base.css">
+    <!-- Include Chart.js if needed -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <!-- Navigation -->
@@ -56,7 +81,14 @@ This guide outlines the modular system for creating new portfolio project pages.
 
     <!-- Conclusion -->
     <section class="section">
-        <div class="conclusion">...</div>
+        <div class="content-wrap">
+            <h2>Key Takeaways</h2>
+        </div>
+        <div class="content-wrap-wide">
+            <div class="conclusion">
+                <p>Conclusion text...</p>
+            </div>
+        </div>
     </section>
 
     <!-- Related Projects -->
@@ -68,6 +100,8 @@ This guide outlines the modular system for creating new portfolio project pages.
     <!-- Required Scripts -->
     <script src="../assets/js/parallax.js" defer></script>
     <script src="../assets/js/related-projects.js"></script>
+    <!-- Include charts.js if using charts -->
+    <script src="../assets/js/charts.js"></script>
 </body>
 </html>
 ```
@@ -88,20 +122,67 @@ All content within sections must use one of these three predefined width classes
 <div class="content-wrap">
     <!-- Use for standard content blocks -->
     <!-- Good for: regular text, single images, basic cards -->
+    <!-- IMPORTANT: All headers (h2, h3) must be in their own content-wrap -->
 </div>
 
 <!-- Narrow Width (600px) -->
 <div class="content-wrap-narrow">
     <!-- Use for focused content that benefits from tighter width -->
     <!-- Good for: stats displays, text-heavy content, single column lists -->
+    <!-- IMPORTANT: Use for bullet point lists that follow a header -->
+    <!-- Good for: portrait/vertical images -->
 </div>
 
 <!-- Wide Width (up to section max-width) -->
 <div class="content-wrap-wide">
     <!-- Use for content that needs more horizontal space -->
     <!-- Good for: image grids, wide charts, multi-column layouts -->
+    <!-- IMPORTANT: For three-item grids, cards should be back-to-back -->
+    <!-- Use for 16:9 ratio images when they fit the page flow -->
 </div>
 ```
+
+#### Content Width Best Practices
+1. Headers must always be in their own content-wrap:
+```html
+<section class="section">
+    <div class="content-wrap">
+        <h2>Section Title</h2>
+    </div>
+    <!-- Content follows in appropriate wrap -->
+</section>
+```
+
+2. Bullet point lists following headers should use narrow wrap:
+```html
+<section class="section">
+    <div class="content-wrap">
+        <h2>Section Title</h2>
+    </div>
+    <div class="content-wrap-narrow">
+        <ul>
+            <li>List item one</li>
+            <li>List item two</li>
+        </ul>
+    </div>
+</section>
+```
+
+3. Three-item grids should use content-wrap-wide with back-to-back cards:
+```html
+<div class="content-wrap-wide">
+    <div class="card-grid">
+        <div class="card">First item</div>
+        <div class="card">Second item</div>
+        <div class="card">Third item</div>
+    </div>
+</div>
+```
+
+4. Image width guidelines:
+- Use content-wrap-wide for 16:9 ratio images when they fit the page flow
+- Use content-wrap-narrow for portrait/vertical images
+- Use content-wrap for standard images that don't need emphasis
 
 Example of proper section and content-wrap nesting:
 ```html
@@ -129,6 +210,100 @@ Example of proper section and content-wrap nesting:
 ```
 
 ## Common Layout Patterns
+
+### Layout Best Practices
+
+1. **Three-Item Grid Layout**
+   - When displaying three items in a row, use `content-wrap-wide`
+   - Place cards back-to-back to utilize full page width
+   - Example:
+   ```html
+   <section class="section">
+       <div class="content-wrap">
+           <h2>Section Title</h2>
+       </div>
+       <div class="content-wrap-wide">
+           <div class="card-grid">
+               <div class="card"><!-- First item --></div>
+               <div class="card"><!-- Second item --></div>
+               <div class="card"><!-- Third item --></div>
+           </div>
+       </div>
+   </section>
+   ```
+
+2. **Headers and Section Titles**
+   - Always place headers in their own `content-wrap`
+   - This ensures proper spacing and alignment
+   - Example:
+   ```html
+   <section class="section">
+       <div class="content-wrap">
+           <h2>Section Title</h2>
+       </div>
+       <!-- Content follows in separate content-wrap -->
+   </section>
+   ```
+
+3. **Bullet Point Lists**
+   - Place introductory text in normal `content-wrap`
+   - Use `content-wrap-narrow` for the bullet point list itself
+   - Example:
+   ```html
+   <section class="section">
+       <div class="content-wrap">
+           <p>Introduction or context for the list...</p>
+       </div>
+       <div class="content-wrap-narrow">
+           <ul>
+               <li>First point</li>
+               <li>Second point</li>
+           </ul>
+       </div>
+   </section>
+   ```
+
+4. **Wide Images**
+   - Only use `content-wrap-wide` for 16:9 ratio images when appropriate for page flow
+   - Not all 16:9 images need to be wide - consider the content context
+   - Example from portfolio-system-design.html shows strategic use of wide images
+
+5. **Narrow Images**
+   - Consider using `content-wrap-narrow` for focused visual content
+   - Particularly effective for portrait orientation or detail shots
+   - Example from ai-mvp-development.html demonstrates effective narrow image use
+
+6. **Conclusions Section**
+   - Place conclusion header in normal `content-wrap`
+   - Use `content-wrap-wide` for the conclusions content
+   - Example:
+   ```html
+   <section class="section">
+       <div class="content-wrap">
+           <h2>Key Takeaways</h2>
+       </div>
+       <div class="content-wrap-wide">
+           <div class="conclusion">
+               <p>Conclusion content...</p>
+           </div>
+       </div>
+   </section>
+   ```
+
+7. **Chart Integration**
+   ```html
+   <!-- In head section -->
+   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+   <!-- Before end of body -->
+   <script src="../assets/js/charts.js"></script>
+   ```
+
+8. **Summary and Introduction**
+   - When both are short, consider combining them for better flow
+   - Example from ethics-logic-thought-experiment.html shows effective combination
+
+### Individual Component Patterns
 
 ### 1. Single Image with Caption
 ```html
@@ -224,13 +399,29 @@ Example of proper section and content-wrap nesting:
 </div>
 ```
 
+### 6. Conclusion Section
+```html
+<section class="section">
+    <!-- Conclusion header must be in its own content-wrap -->
+    <div class="content-wrap">
+        <h2>Key Takeaways</h2>
+    </div>
+    <!-- Conclusion text uses wide wrap -->
+    <div class="content-wrap-wide">
+        <div class="conclusion">
+            <p>Conclusion text here...</p>
+        </div>
+    </div>
+</section>
+```
+
 ## Interactive Elements
 
 ### 1. Data Visualization
-For displaying charts and data visualizations, we use Chart.js with React components. Our system supports two types of visualizations:
+For displaying charts and data visualizations, we use Chart.js. Our system supports two types of visualizations:
 
 #### Charts
-Use Chart.js for trend visualization and complex relationships. Charts are implemented as React components using our artifact system.
+Use Chart.js for trend visualization and complex relationships.
 
 Setup requirements:
 ```html
@@ -241,42 +432,9 @@ Setup requirements:
 <section class="section">
     <div id="chart-container"></div>
 </section>
-```
 
-Example React Component:
-```jsx
-import React, { useEffect, useRef } from 'react';
-
-const ChartComponent = () => {
-  const chartRef = useRef(null);
-
-  useEffect(() => {
-    const ctx = chartRef.current.getContext('2d');
-    
-    // Initialize chart using window.Chart
-    if (typeof window.Chart !== 'undefined') {
-      new window.Chart(ctx, {
-        type: 'bar',  // or 'line', 'pie', etc.
-        data: {
-          // Chart data configuration
-        },
-        options: {
-          // Chart options configuration
-        }
-      });
-    }
-  }, []);
-
-  return (
-    <div className="content-wrap mb-12">
-      <div className="h-96">
-        <canvas ref={chartRef} />
-      </div>
-    </div>
-  );
-};
-
-export default ChartComponent;
+<!-- Before end of body -->
+<script src="../assets/js/charts.js"></script>
 ```
 
 Chart Design Guidelines:
@@ -337,4 +495,69 @@ Table Design Guidelines:
   - Feature comparisons
   - When exact values are important
 
-[The rest of the original CONVENTIONS.md content would continue here...]
+### Slideshow Patterns
+
+#### 1. Side-by-Side Two-Page Slideshow
+Best for presenting content that benefits from comparison or sequential viewing:
+```html
+<section class="section">
+    <div class="content-wrap">
+        <h2>Section Title</h2>
+    </div>
+    <div class="content-wrap">
+        <div class="slideshow-container book-style">
+            <div class="slides">
+                <img src="path/to/image1.webp" alt="Slide 1">
+                <img src="path/to/image2.webp" alt="Slide 2">
+                <!-- Additional slides -->
+            </div>
+            <button class="prev">❮</button>
+            <button class="next">❯</button>
+            <div class="slide-counter">1 / [total]</div>
+        </div>
+    </div>
+</section>
+```
+Example usage in product-marketing-branding.html
+
+#### 2. Presentation Style with Thumbnails
+Ideal for larger collections where navigation preview is helpful:
+```html
+<section class="section">
+    <div class="content-wrap">
+        <h2>Section Title</h2>
+    </div>
+    <div class="content-wrap-wide">
+        <div class="slideshow-container presentation-style">
+            <div class="slides">
+                <img src="path/to/image1.webp" alt="Slide 1">
+                <img src="path/to/image2.webp" alt="Slide 2">
+                <!-- Additional slides -->
+            </div>
+            <button class="prev">❮</button>
+            <button class="next">❯</button>
+            <div class="slide-counter">1 / [total]</div>
+            <div class="slide-thumbnails">
+                <!-- Thumbnails populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+</section>
+```
+Example usage in influencer-growth-strategy.html
+
+#### 3. Large Slideshows (30+ Images)
+For very large slideshows (like fashion lookbooks):
+- Break implementation into manageable chunks
+- Create slideshow structure first with a few images
+- Add remaining images in subsequent updates
+- Example in ai-fashion-strategy.html shows successful handling of 30+ images
+
+Required Scripts for Slideshows:
+```html
+<!-- For presentation style with thumbnails -->
+<script src="../assets/js/presentation-slideshow.js"></script>
+
+<!-- For basic slideshows -->
+<script src="../assets/js/slideshow.js"></script>
+```
