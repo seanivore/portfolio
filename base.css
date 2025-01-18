@@ -121,6 +121,18 @@ nav {
     box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
+.project-card {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.tag-ui {
+    cursor: pointer;
+}
+
+.tag-ui.selected {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
 .tag--tech { background-color: var(--tag-tech); }
 .tag--strategy { background-color: var(--tag-strategy); }
 .tag--ai { background-color: var(--tag-ai); }
@@ -685,6 +697,16 @@ nav {
 .masthead .tag-group {
     max-width: 1100px;
     margin: 0 auto 1rem;
+}
+
+/* Card Counter - Home Page Only */
+.count-wrapper {
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+#card-count {
+    color: var(--accent-color);
 }
 
 /* New Tag UI System - Home Page Only */
