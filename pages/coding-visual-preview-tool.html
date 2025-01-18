@@ -7,6 +7,7 @@
     <meta name="description" content="How a one-hour, $3 development project gave Claude the ability to see and analyze web pages, showcasing rapid development of practical AI tools through Model Context Protocol integration.">
     <meta property="og:image" content="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/coding-visual-preview-tool/img-thumbnail-coding-visual-preview-tool.webp">
     <link rel="stylesheet" href="../base.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" />
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
@@ -138,39 +139,41 @@
                      alt="Watercolor painting with geometric shapes behind male figures">
             </div>
         </div>
-        <div class="content-wrap-narrow">
-            <div class="card">
-                <div class="content">
-                    <pre><code>class PreviewServer {
-  private screenshotDir: string;
-  
-  constructor() {
-    this.screenshotDir = path.join(__dirname, 'screenshots');
-    this.ensureDirectoryExists();
-  }
+            <div class="content-wrap">
+                <div class="code-card">
+                    <pre class="language-javascript">
+                    <code>
+                    class PreviewServer {
+                    private screenshotDir: string;
+                    
+                    constructor() {
+                        this.screenshotDir = path.join(__dirname, 'screenshots');
+                        this.ensureDirectoryExists();
+                    }
 
-  async previewFile(filePath: string): Promise<PreviewResult> {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    
-    // Handle local file loading with proper path resolution
-    const absolutePath = path.resolve(filePath);
-    await page.goto(`file://${absolutePath}`);
-    
-    // Ensure CSS is properly loaded
-    await this.injectStyles(page);
-    
-    // Capture and save screenshot
-    const screenshotPath = await this.captureScreenshot(page);
-    
-    await browser.close();
-    
-    return {
-      screenshot: screenshotPath,
-      analysis: await this.analyzeStructure(filePath)
-    };
-  }
-}</code></pre>
+                    async previewFile(filePath: string): Promise<PreviewResult> {
+                        const browser = await puppeteer.launch();
+                        const page = await browser.newPage();
+                        
+                        // Handle local file loading with proper path resolution
+                        const absolutePath = path.resolve(filePath);
+                        await page.goto(`file://${absolutePath}`);
+                        
+                        // Ensure CSS is properly loaded
+                        await this.injectStyles(page);
+                        
+                        // Capture and save screenshot
+                        const screenshotPath = await this.captureScreenshot(page);
+                        
+                        await browser.close();
+                        
+                        return {
+                        screenshot: screenshotPath,
+                        analysis: await this.analyzeStructure(filePath)
+                        };
+                    }
+                    </code>
+                    </pre>
                 </div>
             </div>
         </div>
@@ -220,21 +223,23 @@
                      alt="Watercolor with geometric shapes behind the male figures">
             </div>
         </div>
-        <div class="content-wrap-narrow">
-            <div class="card">
-                <div class="content">
-                    <pre><code>const configureEnvironment = (): void => {
-  // Handle ES module path resolution
-  const __dirname = path.dirname(fileURLToPath(import.meta.url));
-  
-  // Set up screenshot directory
-  const screenshotDir = path.join(__dirname, 'screenshots');
-  fs.mkdirSync(screenshotDir, { recursive: true });
-  
-  // Configure MCP server settings
-  process.env.MCP_SERVER_PORT = '3000';
-};</code></pre>
-                </div>
+            <div class="content-wrap">
+                <div class="code-card">
+                    <pre class="language-javascript">
+                    <code>
+                    const configureEnvironment = (): void => {
+                    // Handle ES module path resolution
+                    const __dirname = path.dirname(fileURLToPath(import.meta.url));
+                    
+                    // Set up screenshot directory
+                    const screenshotDir = path.join(__dirname, 'screenshots');
+                    fs.mkdirSync(screenshotDir, { recursive: true });
+                    
+                    // Configure MCP server settings
+                    process.env.MCP_SERVER_PORT = '3000';
+                };
+                    </code>
+                </pre>
             </div>
         </div>
     </section>
@@ -394,31 +399,6 @@
     </section>
 
     <!-- Related Projects Section -->
-    <section class="section related-projects">
-        <div class="content-wrap">
-            <h2>Related Projects</h2>
-        </div>
-        <div class="content-wrap">
-            <div class="related-grid">
-                <a href="code-analysis-mcp-build.html" class="related-card">
-                    <h3>Code Analysis MCP Development</h3>
-                    <p>Developed a sophisticated code analysis system using Model Context Protocol in under 6 hours.</p>
-                    <div class="related-tags">
-                        <span class="related-tag">MCP Integration</span>
-                        <span class="related-tag">Code Analysis</span>
-                    </div>
-                </a>
-                <a href="ai-mvp-development.html" class="related-card">
-                    <h3>Strategic MVP Development</h3>
-                    <p>An in-depth analysis of strategic MVP development methodology, focusing on project selection and prioritization.</p>
-                    <div class="related-tags">
-                        <span class="related-tag">Strategy</span>
-                        <span class="related-tag">Development</span>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </section>
 
     <!-- Footer -->
     <footer class="footer">
@@ -430,5 +410,7 @@
     <!-- Required Scripts -->
     <script src="../assets/js/parallax.js" defer></script>
     <script src="../assets/js/related-projects.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
 </body>
 </html>

@@ -7,8 +7,6 @@
     <meta name="description" content="Explore how Model Context Protocol enabled the rapid development of a sophisticated code analysis system, demonstrating the power of modern AI integration in technical development workflows.">
     <meta property="og:image" content="https://raw.githubusercontent.com/seanivore/portfolio/refs/heads/portfolio-seanivore/assets/entries/code-analysis-mcp-build/img-thumbnail-code-analysis-mcp-build.webp">
     <link rel="stylesheet" href="../base.css">
-    <!-- Include prism for code snippets -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" />
     <!-- Include mermaid for diagrams -->
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script>
@@ -172,26 +170,24 @@
             <p>The implementation leverages both Node.js and Python, creating a powerful hybrid system. The Node.js component handles tool management and client communication:</p>
         </div>
 
-        <div class="content-wrap">
-            <div class="code-card">
-                <pre class="language-javascript">
-                <code>
-                class MCPToolManager {
-                    private tools: Map;
-                
-                    registerTool(tool: Tool): void {
-                    this.validateTool(tool);
-                    this.tools.set(tool.name, tool);
-                    }
-                
-                    async executeTool(name: string, params: any): Promise {
-                    const tool = this.tools.get(name);
-                    if (!tool) throw new Error(\`Tool \${name} not found\`);
-                    return await tool.handler(params);
-                    }
-                }
-                </code>
-                </pre>
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <div class="content">
+                    <pre><code>class MCPToolManager {
+    private tools: Map<string, Tool>;
+
+    registerTool(tool: Tool): void {
+        this.validateTool(tool);
+        this.tools.set(tool.name, tool);
+    }
+
+    async executeTool(name: string, params: any): Promise<any> {
+        const tool = this.tools.get(name);
+        if (!tool) throw new Error(`Tool ${name} not found`);
+        return await tool.handler(params);
+    }
+    }</code></pre>
+                </div>
             </div>
         </div>
 
@@ -199,30 +195,28 @@
             <p>While Python powers the analysis engine through a sophisticated bridge:</p>
         </div>
 
-        <div class="content-wrap">
-            <div class="code-card">
-                <pre class="language-javascript">
-                    <code>
-                    #!/usr/bin/env python
+        <div class="content-wrap-narrow">
+            <div class="card">
+                <div class="content">
+                    <pre><code>#!/usr/bin/env python
 
-                    class CodeAnalyzer:
-                        def __init__(self):
-                            self.handlers = {}
-                            self.register_core_handlers()
+class CodeAnalyzer:
+    def __init__(self):
+        self.handlers = {}
+        self.register_core_handlers()
 
-                        def analyze_structure(self, code: str) -> Dict:
-                            tree = ast.parse(code)
-                            analyzer = StructureVisitor()
-                            analyzer.visit(tree)
-                            return analyzer.get_results()
+    def analyze_structure(self, code: str) -> Dict:
+        tree = ast.parse(code)
+        analyzer = StructureVisitor()
+        analyzer.visit(tree)
+        return analyzer.get_results()
 
-                        def analyze_complexity(self, code: str) -> Dict:
-                            tree = ast.parse(code)
-                            analyzer = ComplexityVisitor()
-                            analyzer.visit(tree)
-                            return analyzer.get_metrics()
-                    </code>
-                </pre>
+    def analyze_complexity(self, code: str) -> Dict:
+        tree = ast.parse(code)
+        analyzer = ComplexityVisitor()
+        analyzer.visit(tree)
+        return analyzer.get_metrics()</code></pre>
+                </div>
             </div>
         </div>
     </section>
@@ -383,6 +377,31 @@
     </section>
 
     <!-- Related Projects Section -->
+    <section class="section related-projects">
+        <div class="content-wrap">
+            <h2>Related Projects</h2>
+        </div>
+        <div class="content-wrap">
+            <div class="related-grid">
+                <a href="coding-visual-preview-tool.html" class="related-card">
+                    <h3>Visual Preview Tool for AI Code Review</h3>
+                    <p>Created a Model Context Protocol server that gives Claude the ability to visually inspect HTML files it helps create.</p>
+                    <div class="related-tags">
+                        <span class="related-tag">MCP Development</span>
+                        <span class="related-tag">Technical Innovation</span>
+                    </div>
+                </a>
+                <a href="ai-mvp-development.html" class="related-card">
+                    <h3>Strategic MVP Development</h3>
+                    <p>An in-depth analysis of strategic MVP development methodology, focusing on project selection and prioritization.</p>
+                    <div class="related-tags">
+                        <span class="related-tag">Strategy</span>
+                        <span class="related-tag">Development</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
 
     <!-- Footer -->
     <footer class="footer">
@@ -394,8 +413,5 @@
     <!-- Required Scripts -->
     <script src="../assets/js/parallax.js" defer></script>
     <script src="../assets/js/related-projects.js"></script>
-    <!-- Include prism scripts for code snippets -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>  
 </body>
 </html>
