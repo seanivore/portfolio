@@ -20,6 +20,7 @@
     --element-spacing: 3rem;
     --content-width: 800px;
     --section-width: 1200px;
+    --spacing: 
 }
 
 /* Base Layout */
@@ -472,6 +473,7 @@ nav {
     text-decoration: none;
     color: var(--text-color);
     transition: color 0.3s ease;
+    align-content: end
 }
 
 .nav-links a:hover {
@@ -1012,6 +1014,20 @@ main {
     .tag-group {
         padding: 0 1rem;
     }
+
+    .tag-ui:hover {
+        transform: none; /* Prevent scaling or transformation */ 
+        filter: none;
+        background-color: rgba(0, 0, 0, 0.35);
+    }
+
+    .tag-ui.selected {
+        background-color: #e9ab0e73;
+    }
+
+    nav {
+        box-shadow: 0 2px 8px rgb(0 0 0 / 17%);
+    }
     
     .nav__home {
         flex-direction: column;
@@ -1029,6 +1045,14 @@ main {
         text-align: center;
     }
 
+    .masthead {
+        padding: 0.5rem;
+    }
+
+    .masthead-background {
+        background-size: auto;
+    }
+
     .masthead h1 {
         font-size: 2rem;
     }
@@ -1043,16 +1067,35 @@ main {
     }
 
     .nav-links {
-        margin-top: 1rem;
+        margin-top: 0.5rem;
+        flex-direction: row;
+        text-align: center;
+        justify-content: center;
     }
 
-    .project-grid,
+    .project-grid {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
+    }
+
+    .about {
+        padding: 1rem;
+    }
+
     .skills {
         grid-template-columns: 1fr;
+        padding-left: 2rem;
+    }
+
+    .skill-category li {
+        margin-bottom: 0;
     }
 
     .social-links {
-        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .footer p {
+        padding-left: 1rem;
     }
 
 }
