@@ -1,0 +1,37 @@
+flowchart TD
+    A[Client Request] --> B[MCP Protocol] --> C[Code Parser] 
+
+    subgraph Tool Manager
+        D[File System Operation]
+        E[Git Integration]
+        F[Memory Management]
+    end 
+
+    subgraph Structure Analysis 
+        G[Function/Class Detection]
+        H[Method Analysis]
+    end 
+
+    subgraph Compmlexity Analysis 
+        I[Cyclomatic Complexity] 
+        J[Dependency Analysis] 
+    end 
+
+    subgraph Dependency Analysis 
+        K[Import Analysis]
+        L[Module Dependencies]
+    end 
+
+    B --> D 
+    D --> E 
+    E --> F 
+    C --> G 
+    G --> H 
+    C --> I 
+    I --> J 
+    C --> K 
+    K --> L 
+
+    F & H & J & L --> M[Result Aggregator]    
+
+    M -->|MCP Response| N[Client]
