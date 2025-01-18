@@ -1044,16 +1044,28 @@ main {
         gap: 1rem;
     }
 
+    .logo {
+        flex-direction: row;
+        text-align: center;
+        justify-content: center;    
+    }
+
+    .nav-content {
+        flex-direction: column;
+        margin: 0 1rem;
+    }
+
+    .nav-links {
+        margin-top: 0.5rem;
+        flex-direction: row;
+        text-align: center;
+        justify-content: center;
+    }
+
     .related-grid {
         grid-template-columns: 1fr;
     }
     
-    .footer-content {
-        flex-direction: column;
-        gap: 1rem;
-        text-align: center;
-    }
-
     .masthead {
         padding: 0.5rem;
     }
@@ -1068,19 +1080,6 @@ main {
 
     .masthead p {
         font-size: 1.1rem;
-    }
-
-    .nav-content {
-        flex-direction: column;
-        justify-content: left;
-        margin: 0 1rem;
-    }
-
-    .nav-links {
-        margin-top: 0.5rem;
-        flex-direction: row;
-        text-align: center;
-        justify-content: center;
     }
 
     .project-card { 
@@ -1126,6 +1125,12 @@ main {
 
     .footer {
         padding: 1rem;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
     }
 
 }
