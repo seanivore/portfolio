@@ -344,6 +344,28 @@ nav {
     color: var(--text-color);
 }
 
+/* Code Viewer */
+.code-snippet {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #000000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+
+  pre {
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 15px;
+    font-size: 0.9rem;
+    overflow-x: auto;
+  }
+
+  code {
+    font-family: "Courier New", Courier, monospace;
+  }
+
 /* Related Projects Section */
 .section.related-projects {
     margin-top: 16rem;
@@ -411,9 +433,12 @@ nav {
 
 /* Footer */
 .footer {
-    border-top: 1px solid #eeeeee;
+    text-align: center;
     padding: 2rem;
-    margin-top: var(--section-spacing);
+    color: var(--text-color);
+    border-top: 1px solid #eee;
+    margin-top: 4rem;
+    font-size: .77rem;
 }
 
 .footer-content {
@@ -772,16 +797,6 @@ main {
 .social-link:hover {
     color: var(--accent-color);
     border-color: var(--accent-color);
-}
-
-/* Footer */
-.footer {
-    text-align: center;
-    padding: 2rem;
-    color: var(--text-color);
-    border-top: 1px solid #eee;
-    margin-top: 4rem;
-    font-size: .77rem;
 }
 
 /* Slideshow Base */
