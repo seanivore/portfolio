@@ -433,9 +433,12 @@ nav {
 
 /* Footer */
 .footer {
-    border-top: 1px solid #eeeeee;
+    text-align: center;
     padding: 2rem;
-    margin-top: var(--section-spacing);
+    color: var(--text-color);
+    border-top: 1px solid #eee;
+    margin-top: 4rem;
+    font-size: .77rem;
 }
 
 .footer-content {
@@ -794,16 +797,6 @@ main {
 .social-link:hover {
     color: var(--accent-color);
     border-color: var(--accent-color);
-}
-
-/* Footer */
-.footer {
-    text-align: center;
-    padding: 2rem;
-    color: var(--text-color);
-    border-top: 1px solid #eee;
-    margin-top: 4rem;
-    font-size: .77rem;
 }
 
 /* Slideshow Base */
