@@ -106,6 +106,36 @@ Example:
 </html>
 ```
 
+```markdown
+
+## Content Writing Guidelines
+
+### Audience Context
+Portfolio entries should effectively communicate to three key audiences:
+
+1. Recruiters New to Tech
+- Need complex tech achievements explained without jargon
+- Looking for clear indicators of high-value talent
+
+2. Non-Technical Decision Makers
+- Focus on business impact and ROI
+- Need technical concepts presented in business terms
+
+3. Industry Veterans
+- Expect technical accuracy and depth
+- Value innovative yet practical approaches
+
+### Writing Strategy
+- Lead with business impact and scale
+- Include technical depth while explaining significance
+- Use analogies for complex concepts
+- Provide concrete metrics and results
+- Make achievements tangible and relatable
+- Emphasize timeline context
+- Enable non-technical stakeholders to assess capabilities confidently
+
+See examples in deployed portfolio entries for effective implementation of these guidelines.
+
 ## Visual Spacing System
 
 ### Section Usage
@@ -440,21 +470,45 @@ Example of proper section and content-wrap nesting:
 
 ## Interactive Elements
 
-### 1. Data Visualization
-For displaying charts and data visualizations, we use Chart.js. Our system supports two types of visualizations:
+### 1. Data Display Components
 
-#### Charts
-Use Chart.js for trend visualization and complex relationships.
+#### Data Tables
+For structured data presentation with consistent styling and responsive layouts:
+
+```html
+<div class="content-wrap-narrow">
+    <div class="card">
+        <table class="w-full">
+            <thead>
+                <tr>
+                    <th class="p-4 text-left">Header</th>
+                    <th class="p-4 text-center">Header</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="h-12">
+                    <td class="p-4">Content</td>
+                    <td class="p-4 text-center">Content</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+```
+
+Best Practices:
+- Use `content-wrap-narrow` for better readability
+- Wrap tables in a card component
+- Use consistent padding and height
+- Ensure responsive behavior with overflow handling
+
+#### Statistical Charts
+For trend visualization and data relationships, we use Chart.js:
 
 Setup requirements:
 ```html
 <!-- In head section -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<!-- In body where chart should appear -->
-<section class="section">
-    <div id="chart-container"></div>
-</section>
 
 <!-- Before end of body -->
 <script src="../assets/js/charts.js"></script>
@@ -469,58 +523,115 @@ Chart Design Guidelines:
     ai: '#7a8b69'        // Green
   };
   ```
-- Maintain responsive design using Tailwind's core utility classes
-- Set fixed height using h-96 class for consistent sizing
-- Use clear, readable fonts and adequate spacing
-- Include proper tooltips and labels for accessibility
+- Set fixed height for consistent sizing
+- Include proper tooltips and labels
+- Consider mobile responsiveness
 
-#### Tables
-Use HTML tables for clear, comparative data presentation:
-
-```html
-<div class="content-wrap">
-    <div class="overflow-x-auto">
-        <table class="w-full border-collapse">
-            <thead>
-                <tr>
-                    <th class="p-2 border text-left">Header 1</th>
-                    <th class="p-2 border text-left">Header 2</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td class="p-2 border">Data 1</td>
-                    <td class="p-2 border">Data 2</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</div>
-```
-
-Table Design Guidelines:
-- Use consistent padding (p-2)
-- Include borders for clarity
-- Ensure responsive behavior with overflow-x-auto
-- Left-align text for readability
-- Use appropriate content-wrap class based on table width
-
-#### When to Use Each:
-- Use Charts for:
-  - Trend visualization
-  - Complex relationships
-  - Comparative analysis over time
-  - Data patterns and distributions
-
-- Use Tables for:
+When to Use Each:
+- Tables for:
   - Precise numerical comparisons
   - Structured data presentation
   - Feature comparisons
   - When exact values are important
 
-### Slideshow Patterns
+- Charts for:
+  - Trend visualization
+  - Complex relationships
+  - Comparative analysis over time
+  - Data patterns and distributions
 
-#### 1. Side-by-Side Two-Page Slideshow
+### 2. Code Snippets
+For displaying formatted code examples, we use Prism.js:
+
+Setup requirements:
+```html
+<!-- In head section -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" />
+
+<!-- Before end of body -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
+```
+
+Usage:
+```html
+<div class="content-wrap">
+    <div class="code-card">
+        <pre class="language-javascript">
+            <code>
+                // Your code here
+                function example() {
+                    return "Hello World";
+                }
+            </code>
+        </pre>
+    </div>
+</div>
+```
+
+See implementation examples:
+- code-analysis-mcp-build.html
+- coding-visual-preview-tool.html
+
+### 3. Mermaid Diagrams
+For creating dynamic flowcharts and diagrams, we use Mermaid.js:
+
+Setup requirements:
+```html
+<!-- In head section -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>
+    mermaid.initialize({ startOnLoad: true });
+</script>
+```
+
+Usage:
+```html
+<div class="content-wrap">
+    <div class="card">
+        <div class="mermaid">
+            graph TD
+                A[Start] --> B[Process]
+                B --> C[End]
+        </div>
+    </div>
+</div>
+```
+
+Best Practices:
+- Wrap Mermaid diagrams in .content-wrap or .content-wrap-narrow based on complexity
+- Use the card component for consistent styling
+- Add explanatory text after complex diagrams
+- For large diagrams, consider using .content-wrap-narrow to improve readability
+
+Example with Context:
+```html
+<section class="section">
+    <div class="content-wrap">
+        <h2>Technical Architecture</h2>
+    </div>
+    
+    <div class="content-wrap-narrow">
+        <div class="mermaid">
+            graph TD
+                A[Client] --> B[Server]
+                B --> C[Process]
+        </div>
+    </div>
+
+    <div class="content-wrap">
+        <p>Explanatory text about the diagram...</p>
+    </div>
+</section>
+```
+
+See implementation examples:
+- code-analysis-mcp-build.html (complex flowchart)
+- coding-visual-preview-tool.html (with explanatory text)
+
+### 4. Slideshow Components
+
+#### Side-by-Side Two-Page Slideshow
 Best for presenting content that benefits from comparison or sequential viewing:
 ```html
 <section class="section">
@@ -543,7 +654,7 @@ Best for presenting content that benefits from comparison or sequential viewing:
 ```
 Example usage in product-marketing-branding.html
 
-#### 2. Presentation Style with Thumbnails
+#### Presentation Style with Thumbnails
 Ideal for larger collections where navigation preview is helpful:
 ```html
 <section class="section">
@@ -569,7 +680,7 @@ Ideal for larger collections where navigation preview is helpful:
 ```
 Example usage in influencer-growth-strategy.html
 
-#### 3. Large Slideshows (30+ Images)
+#### Large Slideshows (30+ Images)
 For very large slideshows (like fashion lookbooks):
 - Break implementation into manageable chunks
 - Create slideshow structure first with a few images
