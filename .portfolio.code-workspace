@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.enabled": false,
+		"files.exclude": {
+			"*/": false,          // Show all subdirectories
+			"*/.git": true        // Hide .git folders in projects
+		},
+		"files.associations": {
+			"template.*": "plaintext",
+			"reference.*": "plaintext",
+			".cheatsheet": "plaintext"
+		}
+	}
+}
