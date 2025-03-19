@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../Dropbox/Workspaces/portfolio-entries"
 		}
 	],
 	"settings": {
