@@ -7,17 +7,6 @@ This guide outlines the modular system for creating new portfolio project pages.
 - No need for custom CSS or new classes
 - All styling is pre-defined in base.css
 
-## Quick Start
-1. Copy `template.html` as your starting point
-2. Reference example pages:
-   - `pages/content-strategy-framework.html`
-   - `pages/realtime-social-system.html`
-3. Follow your project's TXT asset guide for:
-   - Image URLs (pre-formatted for GitHub)
-   - Content sections
-   - Element widths
-   - Tags and categories
-
 ## Page Structure
 
 ### Required Sections (in order)
