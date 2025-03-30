@@ -1,12 +1,9 @@
 {
 	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../Dropbox/Workspaces/portfolio-entries"
-		}
-	],
+        {
+            "path": "."
+        }
+    ],
 	"settings": {
 		"git.enabled": false,
 		"files.exclude": {
