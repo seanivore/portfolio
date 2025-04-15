@@ -1,7 +1,15 @@
 {
 	"folders": [
         {
+            "name": "ai-dev-docs",
+            "path": "../_resources/ai-dev-docs"
+        },
+        {
+            "name": "portfolio-seanivore",
             "path": "."
+        },
+        {
+            "path": "../job-hunt"
         }
     ],
 	"settings": {

@@ -2,7 +2,7 @@ permalink: /:basename/
 title: Sean August Horvath Portfolio
 description: Personal portfolio showcasing work in AI, policy analysis, and technology innovation
 baseurl: ""
-url: "https://portfolio.august.style"
+url: "https://developer-technologist.august.style/"
 collections:
   pages:
     output: true
